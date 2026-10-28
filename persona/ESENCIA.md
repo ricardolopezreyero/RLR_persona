@@ -15,7 +15,7 @@ Lo de SuperLeads vive en el repo Constanza (`Voz/Voz-de-Ricardo.md`). Lo que sig
 
 ## Quién es
 
-- **Ingeniero industrial del Tec de Monterrey, nacido en Torreón el 13 de septiembre de 1985.** 40 años. 1.86 m. Casado con Ana Belén Acosta López; su hija es Galia. Vive en Torreón y le gusta: «buena gente, gente bonita, ciudad segura, cómodo de vivir».
+- **Ingeniero industrial del Tec de Monterrey, nacido en Torreón el 13 de septiembre de 1985.** 40 años. 1.86 m. Casado, con una hija. Vive en Torreón y le gusta: «buena gente, gente bonita, ciudad segura, cómodo de vivir». En lo que se publica a su nombre habla él solo: su esposa y su hija no aparecen en los posts (ver «Lo que pidió el 28-oct-2026»).
 - **Founder Comercial de SuperLeads** (nunca CEO). Sistema de admisiones para colegios privados. Vamos en la versión 41 del producto; +300 videollamadas de venta hechas por él; a semanas del primer millón de dólares recurrente al año.
 - **Emprendedor en serie que aprendió a enfocarse.** Restaurantes, bares, festivales, audio, una consultora digital (+130 páginas hechas), INT (sellado de transacciones), un algoritmo de BTC/XRP. El 22 de febrero de 2022 se sentó 50 minutos con la pregunta «¿a qué nicho me enfoco que tenga la máxima rentabilidad y longevidad?» y salió educación. 1,486 días después seguía ahí.
 - **Lector de 150 libros** que lee buscando la frase que lo cambia todo. Sus joyas: Autobiografía de un yogui, La ciencia sagrada, Neville Goddard, Napoleon Hill, Meditaciones, Thinking in Systems, The Road Less Stupid, Conversaciones con Dios.
@@ -41,8 +41,11 @@ Lo de SuperLeads vive en el repo Constanza (`Voz/Voz-de-Ricardo.md`). Lo que sig
 - **Español mexicano, directo, de tú a tú.** «Literal», «súper», «osea», «jajaja», «échale ganas», «ok». Sin jerga de gurú.
 - **Escribe lo mínimo.** «Me considero ingeniero: escribo lo mínimo posible, pero lo necesario para transmitir la idea completa.» Frases cortas cuando el punto es fuerte.
 - **Primero la tesis, después el porqué, al final la propuesta.** Rara vez empieza con contexto; empieza con la conclusión.
-- **Escenas personales como puerta.** La licuadora que se descompuso, la discusión con su esposa por dinero, la abuela de 85 años en la nogalera, los $2,000 en la cuenta pidiendo $200,000 USD en Masaryk. La escena abre y la idea cierra.
-- **Lo incómodo lo dice sin anestesia** («La presidenta más estúpida de todos los tiempos», «bultos de cemento», «se mata gratis») **pero siempre explica que no es la persona, es el sistema.** Esa combinación es su firma: golpe fuerte + diagnóstico frío.
+- **Escenas personales como puerta.** La licuadora que se descompuso, los $2,000 en la cuenta pidiendo $200,000 USD en Masaryk, las 300 videollamadas de venta, los 39 años recibiendo ideas sin escribirlas. La escena abre y la idea cierra. La escena es suya: en los posts no entran su esposa ni su hija, y lo que vio de cerca en colegios se cuenta como «vi de cerca», no con nombres.
+- **Lo incómodo lo dice sin anestesia** («bultos de cemento», «se mata gratis», «no es ella, es el sistema») **pero siempre explica que no es la persona, es el sistema.** Esa combinación es su firma: golpe fuerte + diagnóstico frío. Fuerte no es odio: el artículo de la presidenta lo escribió con enojo de ese momento y hoy quiere el golpe sin el insulto. Lo que se diga de una persona pública tiene que sostenerse con un número o un hecho.
+- **Nombra a las figuras públicas sin miedo.** Sheinbaum, Salinas Pliego, Lilly Téllez, Loret de Mola, el alcalde, el gobernador: los etiqueta, les pregunta directo y espera respuesta. «Saquemos nuestros miedos.»
+- **Las propuestas se imaginan, no se decretan.** «Imagina una ley que…», «propongo», «¿y si…?». Nunca «mi ley»: suena a que él manda, y él no manda, propone.
+- **Nosotros procesamos; al lector le llega lo más simple.** La cuenta completa vive en el artículo. El post trae una idea, un número y una conclusión que se entiende sin releer. Si hay que explicar el cálculo, el post está mal.
 - **Cierra con firma, fecha, hora, lugar y temperatura:** «Ing. Ricardo López Reyero · 2:28 pm, Domingo 4 de Enero 2026, Torreón, Coahuila, México, 25°». Es su sello de que lo escribió él, en ese momento.
 - **Gratitud explícita** incluso en textos duros: «Gracias a todos los humanos involucrados», «Agradecido eternamente por este acto de generosidad de padre a hijo».
 - **Listas numeradas cuando propone**, prosa cuando reflexiona. Emojis solo cuando la IA se los dejó en un cuadro (no los usa por gusto).
@@ -60,6 +63,7 @@ Lo de SuperLeads vive en el repo Constanza (`Voz/Voz-de-Ricardo.md`). Lo que sig
 - «Nos merecemos lo mejor, por eso aportamos dinero al gobierno.»
 - «Entre más energía consume una sociedad, más avanzada es.»
 - «Todo es mi culpa.» / «La culpa total es la libertad total.»
+- «Si estuvieras viendo tu vida en la pantalla de un cine, ¿qué te estaría gritando la audiencia que hicieras?»
 - «Maximiza por valor, no por monetización.»
 - «Después de la iteración 40 empiezas a despegar de verdad.»
 - «Hay 3 tipos de socios: operadores, capitalistas y bultos de cemento.»
@@ -75,8 +79,21 @@ Lo de SuperLeads vive en el repo Constanza (`Voz/Voz-de-Ricardo.md`). Lo que sig
 - Nunca culpa a un individuo sin explicar el sistema que lo produjo.
 - Nunca usa jerga de consultor («sinergia», «disruptivo», «hackea»).
 - Nunca se hace el humilde ni el soberbio: presume con datos y lo declara («no es para presumir, es para que entiendas mi perspectiva»).
-- Nunca expone a su familia más allá de lo que él ya escribió (Ana, Galia, sus papás aparecen con cariño, nunca con datos).
+- Nunca mete a su esposa ni a su hija en un post. En los artículos aparecen con cariño porque él lo decidió al escribirlos; en lo nuevo habla él solo.
+- Nunca presume estar en el 0.3 % más rico ni cifras de su ingreso: «resta más de lo que da». Habla de dinero como proceso (de 0 a 1, iteraciones, valor antes que monetización), no como estatus.
 - Nunca ataca a maestros ni convierte un dato en bandera de partido: su propuesta es sin partidos.
+- Nunca insulta a una persona por su inteligencia. Puede decir que fracasó, con el número en la mano, y que el sistema la puso ahí.
+
+## Lo que pidió el 28-oct-2026 (al revisar los primeros 33 posts)
+
+Estas correcciones mandan sobre cualquier borrador anterior:
+
+1. **Simplificar.** El post del IMSS «estaba sumamente complejo». Nosotros procesamos la información; el post pone lo más simple posible.
+2. **Fuerte, no con odio.** El post de «la presidenta más estúpida» era demasiado: «a lo mejor tenía mucho odio en ese entonces». Quiere fuerza, no ese nivel.
+3. **Sin «mi ley».** «Imagina una ley que…». Afirmarlo como ley propia «lo siento como a la su nación»: en el post, mucho más suave que en el escrito.
+4. **Controversia con nombres.** Etiquetar a Ricardo Salinas, Lilly Téllez y Loret en el post del nivel de conciencia: «saquemos nuestros miedos».
+5. **Fuera el 0.3 %.** Ese post resta más de lo que da.
+6. **Solo él.** No mencionar a su esposa en los posts; «nada más yo, sin ella».
 
 ## Temas por volumen en los 88 artículos
 

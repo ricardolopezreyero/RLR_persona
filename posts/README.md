@@ -1,8 +1,8 @@
 # Los 33 posts de X
 
-PDF de revisión: el archivo `Posts X · 33 posts de RLR · v1 · …pdf` de esta carpeta. Datos: [posts.json](posts.json). Visuales: [visuales/](visuales/). Ids de los artículos publicados en X: [publicados_x.json](publicados_x.json).
+PDF de revisión: el archivo `Posts X · 33 posts de RLR · v2 · …pdf` de esta carpeta. Datos: [posts.json](posts.json). Visuales: [visuales/](visuales/). Ids de los artículos publicados en X: [publicados_x.json](publicados_x.json). Retirados: [posts_retirados.json](posts_retirados.json).
 
-Estado al 28-oct-2026: los posts 1 al 9 están en Borradores de X sin fecha (pausados por Ricardo); los 10 al 33 son propuesta, no existen en X. Nada programado.
+Estado al 28-oct-2026: los posts 1-3 y 5-9 están en Borradores de X sin fecha (pausados por Ricardo; el 3 tiene ahí el texto viejo). El 4 nuevo y los 10-33 son propuesta, no existen en X. Nada programado. v2 aplica la retro de Ricardo: 3 más simple, 10 fuerte sin odio, 13 sin «mi ley», 14 con @RicardoBSalinas @LillyTellez @CarlosLoret, 26 sin su esposa, el 0.3 % retirado.
 
 ## Post 1 · 0 redes sociales por 1,171 días (gif)
 
@@ -34,28 +34,31 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548252467981
 
 ## Post 3 · El error de 1943, Reforma sistema de salud México (imagen)
 
-«El IMSS no tiene dinero.» «Se lo roban.»  
-Las dos conclusiones están mal.  
+El IMSS no está quebrado.  
   
-Hice la cuenta con Torreón: aportamos unos $5 mil millones al año. Unos $500 millones no compran ni una consulta ni una medicina: pagan pensiones del régimen de 1966.  
+Torreón le aporta unos $5 mil millones al año. Dividido entre camas, el IMSS tiene casi el mismo dinero por cama que el mejor hospital privado de la región.  
   
-No es el piso. Es la arquitectura. @Tu_IMSS  
+Entonces, ¿por qué uno se siente de primer mundo y el otro de guerra?  
+  
+Porque parte de tu cuota no compra consultas ni medicinas: paga pensiones de un régimen de 1966.  
+  
+No es falta de dinero. Es cómo está armado. @Tu_IMSS  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482438692393225
 
 ![Post 6 · IMSS el error de 1943 · v1 · 2026-10-27 23h25.png](visuales/Post 6 · IMSS el error de 1943 · v1 · 2026-10-27 23h25.png)
 
-## Post 4 · Estar en el 1% más rico en México no es como esperas (imagen)
+## Post 4 · ¿Qué te estaría gritando la audiencia si te vieras en una película? (texto)
 
-Mi esposa y yo llevábamos días discutiendo por dinero. Le pregunté a la IA en qué lugar estamos si ganamos $250,000 al mes.  
+Si estuvieras viendo tu vida en la pantalla de un cine, ¿qué te estaría gritando la audiencia que hicieras?  
   
-Respuesta: en el 0.3% más alto de México.  
+No vayas al sótano. Dale el beso. Aplica a ese trabajo. Escribe el libro. Márcale a esa persona.  
   
-Me quedé helado. Llegar costó muchísimo trabajo y mucha suerte. Si así se siente el 0.3%, el problema no es la gente: es el ritmo del país.  
+Esa voz que grita desde las butacas eres tú mismo, viendo con claridad lo que ya sabes que tienes que hacer.  
   
-Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482499606340087
-
-![Post 8 · El 0.3 por ciento · v1 · 2026-10-27 23h25.png](visuales/Post 8 · El 0.3 por ciento · v1 · 2026-10-27 23h25.png)
+Yo la escuché a los 39 y empecé a escribir. ¿Qué te está gritando a ti?  
+  
+Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480562878009429
 
 ## Post 5 · Cobranza de impuestos 2.0 (imagen)
 
@@ -130,11 +133,13 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548018768502
 
 ## Post 10 · La presidenta más estúpida de todos los tiempos en México (imagen)
 
-Lo titulé así en mi blog: «La presidenta más estúpida de todos los tiempos en México».  
+Claudia Sheinbaum tiene todo lo que su movimiento pidió durante 20 años: mayoría absoluta, el Congreso, los estados.  
   
-No es un insulto, es un cálculo. Tiene TODO el poder que su movimiento pidió durante 20 años. Resultado: +0.8 % de PIB en 2025, cientos de muertos al día y hospitales sin medicina.  
+Resultado hasta hoy: +0.8 % de PIB en 2025 y los mismos muertos de siempre.  
   
-Mujer, ingeniera, mayoría absoluta. Tenía todo para ser la mejor iteración. ¿Entonces? El filtro que la puso ahí no busca al mejor: busca al más leal.  
+No es que sea mala persona. Es que el filtro que la puso ahí no busca al mejor para gobernar: busca al más leal a quien lo eligió.  
+  
+Con todo el poder y estos resultados, ya no es ella: es el sistema.  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482481340100803
 
@@ -174,9 +179,9 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548142708926
 
 Rayar una pared ajena no es arte. Es un insulto a quien la pagó.  
   
-Mi ley: 5 años de servicio comunitario pintando TODO lo vandalizado de la ciudad. Si te gusta pintar, pinta para todos.  
+Imagina una ley así: 5 años de servicio comunitario pintando todo lo vandalizado de la ciudad. Si te gusta pintar, pinta para todos.  
   
-Así quiero las paredes de Torreón: con un mensaje que valga la pena leer.  
+Así me imagino las paredes de Torreón: con un mensaje que valga la pena leer.  
   
 «Eres mucho más listo de lo que crees, confía.»  
   
@@ -190,13 +195,13 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548072992879
 
 Nadie quiere decir esto:  
   
-México está como está por el nivel de conciencia promedio de quien vota.  
-  
-Una población que piensa desde la escasez elige líderes que gobiernan desde la escasez. Y luego nos sorprende el resultado.  
+México está como está por el nivel de conciencia promedio de quien vota. Una población que piensa desde la escasez elige líderes que gobiernan desde la escasez.  
   
 No es culpa del ciudadano ni del político. Es el sistema de selección, que premia hablar bonito en vez de dar resultados.  
   
-Los recursos están. El talento está. La geografía está. Falta poner a las personas correctas en los puestos correctos. Así de simple y así de complejo.  
+Los recursos están. El talento está. La geografía está. Falta poner a las personas correctas en los puestos correctos.  
+  
+@RicardoBSalinas, @LillyTellez, @CarlosLoret: ustedes también lo ven. ¿Qué proponen para cambiar el sistema, no solo a quien lo ocupa?  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480499938357731
 
@@ -373,11 +378,11 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548189966560
 
 ## Post 26 · Crédito productivo para el Colegios Universidades (texto)
 
-Mi esposa recorrió 15 bancos buscando crédito para crecer su colegio. Ninguno le prestó.  
+Vi de cerca a un colegio recorrer 15 bancos buscando crédito para crecer. Ninguno le prestó.  
   
 Los bancos no le prestan a colegios: si no pagan, embargar una escuela con toda su comunidad se ve mal. Y el mercado les parece chico.  
   
-Hoy ese grupo pasó de 300 a 3,300 alumnos. Sin ellos.  
+Ese grupo pasó de 300 a 3,300 alumnos. Sin ellos.  
   
 La SEP no apoya a la escuela privada, el banco no presta y el gobierno cobra. Y aun así esa gente forma a los líderes del México que viene.  
   

@@ -8,8 +8,8 @@ Cada post nace de uno de sus artículos ([articulos/](../articulos/)). El artíc
 
 ## Anatomía de un post que sí suena a él
 
-1. **Primera línea = golpe.** La conclusión o la cifra, nunca el contexto. «Política 100 % vivos.» «Todo es mi culpa.» «México tiene más de 60 impuestos.»
-2. **Dos a cuatro párrafos cortos** con el porqué: la cuenta, la escena o el contraste. Renglón en blanco entre párrafos.
+1. **Primera línea = golpe.** La conclusión o la cifra, nunca el contexto. «Política 100 % vivos.» «Todo es mi culpa.» «El IMSS no está quebrado.»
+2. **Dos a cuatro párrafos cortos** con el porqué: una idea, un número, una conclusión. Renglón en blanco entre párrafos. La cuenta completa se queda en el artículo; si el post necesita que el lector haga la cuenta, está mal (el IMSS de la primera versión «estaba sumamente complejo»).
 3. **El giro de sistema:** «no es la persona, es el filtro», «no es el piso, es la arquitectura».
 4. **Cierre con pregunta que el lector se hace en voz alta, o con una frase de una línea.** «¿Prefieres la ilusión de igualdad o un gobierno alineado con quien lo paga?» «Un bulto pesa.»
 5. **Última línea fija:** `Lo escribí completo aquí: https://x.com/ricardolopezrey/status/<id>` (los ids están en [posts/publicados_x.json](../posts/publicados_x.json)).
@@ -19,13 +19,15 @@ Largo que ha funcionado: 350 a 600 caracteres con la liga (la cuenta tiene posts
 ## Lo que lo hace controversial sin volverlo tóxico
 
 - Dice lo que nadie quiere decir y lo sostiene con una cuenta o con una propuesta concreta. La provocación sin propuesta no es él.
-- Los golpes van al sistema, al proceso o al rol («la presidenta», «el SAT», «los bancos»), y cuando van a una persona, siempre sigue «no es culpa de ella, es el filtro».
+- Los golpes van al sistema, al proceso o al rol («la presidenta», «el SAT», «los bancos»), y cuando van a una persona, siempre sigue «no es culpa de ella, es el filtro». Fuerte sí; insulto no («estúpida» se queda en el artículo, no en el post).
+- Nombra y etiqueta a figuras públicas sin miedo (Sheinbaum, Salinas Pliego, Lilly Téllez, Loret) y les hace una pregunta directa. Nunca a particulares.
+- Las propuestas se imaginan: «imagina una ley que…», «propongo», «¿y si…?». Nunca «mi ley».
 - Nunca insulta a un lector, a un maestro, a un trabajador. Puede llamar «bulto de cemento» a un socio porque es una categoría, no un nombre.
-- Habla de su propio dinero, sus errores y su familia con naturalidad: eso le da permiso para ser duro con lo demás.
+- Habla de sus errores y de su proceso con naturalidad (las 300 videollamadas, los 39 años sin escribir): eso le da permiso para ser duro con lo demás. No habla de su esposa ni de su hija en los posts, ni de en qué percentil de ingreso está.
 
 ## Etiquetas (@)
 
-Solo cuentas reales y verificadas a mano antes de usarlas (el 28-oct-2026 @SHCP_mx resultó parodia). Las que ya se usaron y son correctas: @Claudiashein, @Tu_IMSS, @SATMX, @SSPCMexico, @INEMexico, @mrikelme (alcalde de Torreón), @manolojim (gobernador de Coahuila), @elonmusk, @X, @GobiernoMX. Una etiqueta por post, al final, con una pregunta directa. Nunca etiquetar a particulares.
+Solo cuentas reales y verificadas a mano antes de usarlas (el 28-oct-2026 @SHCP_mx resultó parodia). Las que ya se usaron y son correctas: @Claudiashein, @Tu_IMSS, @SATMX, @SSPCMexico, @INEMexico, @mrikelme (alcalde de Torreón), @manolojim (gobernador de Coahuila), @elonmusk, @X, @GobiernoMX, @RicardoBSalinas, @LillyTellez, @CarlosLoret. Normalmente una etiqueta por post, al final, con una pregunta directa; varias cuando el post es una pregunta a un grupo (como el de nivel de conciencia). Nunca etiquetar a particulares.
 
 ## Visuales
 
