@@ -48,6 +48,7 @@ body {{ font-family: 'Avenir Next', 'Helvetica Neue', Arial, sans-serif; color: 
 .post .meta b {{ color: #0D0D0D; }}
 .etq {{ display: inline-block; font-size: 8.5pt; font-weight: 700; padding: 1mm 2.5mm; border-radius: 2mm; background: #0D0D0D; color: #FFC72C; margin-left: 2mm; }}
 .etq.texto {{ background: #eee; color: #333; }}
+.etq.cuando {{ background: #FFC72C; color: #0D0D0D; }}
 .cuerpo {{ display: flex; gap: 6mm; }}
 .texto {{ flex: 1; font-size: 11.5pt; line-height: 1.45; white-space: pre-wrap; }}
 .visual {{ width: 88mm; flex: none; }}
@@ -63,14 +64,15 @@ body {{ font-family: 'Avenir Next', 'Helvetica Neue', Arial, sans-serif; color: 
 <p>9 ya hechos (en borradores de X, pausados) + 24 nuevos propuestos. Ninguno programado.</p>
 <p>Cada post cierra con la liga a su artículo completo en X. {len([p for p in posts if p['formato']=='texto'])} solo texto · {len([p for p in posts if p['formato']=='imagen'])} con imagen · {len([p for p in posts if p['formato']=='gif'])} con GIF.</p>
 <p>v1 · {SELLO}</p></div>
-<div class="indice"><h2>Índice</h2><table><tr><th>#</th><th>Artículo de origen</th><th>Formato</th><th>Primera línea</th></tr>"""]
+<div class="indice"><h2>Calendario</h2><table><tr><th>Cuándo (Torreón)</th><th>#</th><th>Artículo de origen</th><th>Formato</th><th>Primera línea</th></tr>"""]
     for p in posts:
-        partes.append(f"<tr><td>{p['orden']}</td><td>{html.escape(p['titulo'])}</td><td>{etiqueta[p['formato']]}</td><td>{html.escape(p['texto'].split(chr(10))[0][:90])}</td></tr>")
+        partes.append(f"<tr><td>{html.escape(p.get('cuando_texto') or '')}</td><td>{p['orden']}</td><td>{html.escape(p['titulo'])}</td><td>{etiqueta[p['formato']]}</td><td>{html.escape(p['texto'].split(chr(10))[0][:80])}</td></tr>")
     partes.append('</table></div>')
     for p in posts:
         img = vista(p.get('visual'))
         vis = f'<div class="visual"><img src="{img}"><div class="pie">{html.escape(p["visual"])}{" · se muestra el último cuadro" if p["formato"]=="gif" else ""}</div></div>' if img else ''
-        partes.append(f"""<div class="post"><div class="cab"><div><span class="num">Post {p['orden']}</span><span class="etq {p['formato']}">{etiqueta[p['formato']]}</span></div>
+        cuando = f'<span class="etq cuando">{html.escape(p["cuando_texto"])}</span>' if p.get('cuando_texto') else ''
+        partes.append(f"""<div class="post"><div class="cab"><div><span class="num">Post {p['orden']}</span><span class="etq {p['formato']}">{etiqueta[p['formato']]}</span>{cuando}</div>
 <div class="meta">Artículo {p['articulo']:02d} · <b>{html.escape(p['titulo'])}</b></div></div>
 <div class="cuerpo"><div class="texto">{html.escape(p['texto'])}</div>{vis}</div>
 <div class="liga">Cierra con: <b>Lo escribí completo aquí:</b> <a href="{p['liga']}">{p['liga']}</a> · {len(p['texto_x'])} caracteres con la liga</div>
