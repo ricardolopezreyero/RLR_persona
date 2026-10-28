@@ -49,6 +49,10 @@ El código que los genera está en [posts/hacer_visuales.py](../posts/hacer_visu
 6. Guardar en [posts/posts.json](../posts/posts.json) con orden, artículo, formato, texto, liga, visual y estado.
 7. Ricardo revisa. Nada se publica ni se programa sin su visto bueno. Las fechas las decide él.
 
+## Cadencia (desde el 28-oct-2026)
+
+Ricardo pidió intensidad: «más intenso de lo que yo lo haría». Quedó en 3 posts al día, 8:00, 13:30 y 20:30 hora de Torreón (mañana, comida y noche, los tres picos de lectura en México), sin descansar fines de semana. Los 33 primeros salen del jue 29-oct al dom 8-nov-2026. El orden alterna política / negocio / vida, abre con lo más personal (1,171 días; 88 artículos 0 % IA) y reparte los GIF uno por día como máximo. La siguiente tanda se prepara antes de que termine la anterior para que el perfil nunca tenga un día vacío.
+
 ## Lo aprendido operando X (28-oct-2026)
 
 - Publicar borradores o artículos por API dispara el error 226 («parece automatizado»): todo se crea desde el editor de X. No se evade.
@@ -56,3 +60,5 @@ El código que los genera está en [posts/hacer_visuales.py](../posts/hacer_visu
 - Para pausar programados: abrir el post → Schedule post → Clear → cerrar → Save. Quedan en Borradores sin fecha.
 - Las menciones abren un menú de sugerencias que se come el Enter; cerrar el menú antes de seguir.
 - Un artículo publicado en X crea un post en el perfil; el id de ese post es la liga que usamos.
+- Programar 33 posts desde el editor toma ~15 s por post con los helpers de BrowserOS (escribirPost, ponerMedia, programarPost). Al reabrir un borrador viejo hay que esperar a que cargue su texto antes de borrarlo, si no el texto nuevo se pega encima del viejo.
+- Etiquetas que resultaron parodia o inexistentes: @SHCP_mx (parodia), @Buen_GobiernoMX y @TorreonGob (no existen). Reales y verificadas: @OHarfuch, @SRE_mx, @CFEmx, @STPS_mx, @SEP_mx, @Mx_Diputados, @AnthropicAI, @OpenAI.
