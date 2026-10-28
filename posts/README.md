@@ -1,8 +1,8 @@
 # Los 33 posts de X
 
-PDF de revisión: el archivo `Posts X · 33 posts de RLR · v2 · …pdf` de esta carpeta. Datos: [posts.json](posts.json). Visuales: [visuales/](visuales/). Ids de los artículos publicados en X: [publicados_x.json](publicados_x.json). Retirados: [posts_retirados.json](posts_retirados.json).
+PDF de revisión: el archivo `Posts X · 33 posts de RLR · v3 · …pdf` de esta carpeta. Datos: [posts.json](posts.json). Visuales: [visuales/](visuales/) (estilo v2: tipografía gigante, tachados en rojo, sellos; código en [hacer_visuales_3.py](hacer_visuales_3.py)). Ids de los artículos publicados en X: [publicados_x.json](publicados_x.json). Retirados: [posts_retirados.json](posts_retirados.json).
 
-Estado al 28-oct-2026: los posts 1-3 y 5-9 están en Borradores de X sin fecha (pausados por Ricardo; el 3 tiene ahí el texto viejo). El 4 nuevo y los 10-33 son propuesta, no existen en X. Nada programado. v2 aplica la retro de Ricardo: 3 más simple, 10 fuerte sin odio, 13 sin «mi ley», 14 con @RicardoBSalinas @LillyTellez @CarlosLoret, 26 sin su esposa, el 0.3 % retirado.
+Estado al 28-oct-2026: los posts 1-3 y 5-9 están en Borradores de X sin fecha (pausados por Ricardo; en X tienen el texto y visual viejos). El 4 nuevo y los 10-33 son propuesta, no existen en X. Nada programado.
 
 ## Post 1 · 0 redes sociales por 1,171 días (gif)
 
@@ -46,7 +46,7 @@ No es falta de dinero. Es cómo está armado. @Tu_IMSS
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482438692393225
 
-![Post 6 · IMSS el error de 1943 · v1 · 2026-10-27 23h25.png](visuales/Post 6 · IMSS el error de 1943 · v1 · 2026-10-27 23h25.png)
+![Post 3 · IMSS no esta quebrado · v2 · 2026-10-28 16h48.png](visuales/Post 3 · IMSS no esta quebrado · v2 · 2026-10-28 16h48.png)
 
 ## Post 4 · ¿Qué te estaría gritando la audiencia si te vieras en una película? (texto)
 
@@ -72,7 +72,7 @@ Gracias a esas aportaciones existe la calle por la que pasaste hoy.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482024383303743
 
-![Post 4 · Impuestos son aportaciones · v1 · 2026-10-27 23h25.png](visuales/Post 4 · Impuestos son aportaciones · v1 · 2026-10-27 23h25.png)
+![Post 5 · Impuestos tachado aportaciones · v2 · 2026-10-28 16h48.png](visuales/Post 5 · Impuestos tachado aportaciones · v2 · 2026-10-28 16h48.png)
 
 ## Post 6 · Presos y cárceles 2.0 (imagen)
 
@@ -87,7 +87,7 @@ Presos 2.0. @SSPCMexico
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481629724488068
 
-![Post 5 · Carceles con bibliotecas · v1 · 2026-10-27 23h25.png](visuales/Post 5 · Carceles con bibliotecas · v1 · 2026-10-27 23h25.png)
+![Post 6 · Biblioteca en la carcel · v2 · 2026-10-28 16h48.png](visuales/Post 6 · Biblioteca en la carcel · v2 · 2026-10-28 16h48.png)
 
 ## Post 7 · El pavimento ideal para las calles Formula V1 (imagen)
 
@@ -115,7 +115,7 @@ Candidatos a presidente = los 6 gobernadores que más subieron el ingreso por pe
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482186123981045
 
-![Post 2 · Presidentes seleccionados · v1 · 2026-10-27 23h25.png](visuales/Post 2 · Presidentes seleccionados · v1 · 2026-10-27 23h25.png)
+![Post 8 · Se acaban las campanas · v2 · 2026-10-28 16h48.png](visuales/Post 8 · Se acaban las campanas · v2 · 2026-10-28 16h48.png)
 
 ## Post 9 · Gobiernos sueldos super competitivos (imagen)
 
@@ -129,7 +129,7 @@ Gobierno barato = gobierno lento.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480187685027929
 
-![Post 3 · Sueldos competitivos en gobierno · v1 · 2026-10-27 23h25.png](visuales/Post 3 · Sueldos competitivos en gobierno · v1 · 2026-10-27 23h25.png)
+![Post 9 · Gobierno barato gobierno lento · v2 · 2026-10-28 16h48.png](visuales/Post 9 · Gobierno barato gobierno lento · v2 · 2026-10-28 16h48.png)
 
 ## Post 10 · La presidenta más estúpida de todos los tiempos en México (imagen)
 
@@ -143,7 +143,7 @@ Con todo el poder y estos resultados, ya no es ella: es el sistema.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115482481340100803
 
-![Post 10 · La presidenta y el filtro · v1 · 2026-10-28 16h16.png](visuales/Post 10 · La presidenta y el filtro · v1 · 2026-10-28 16h16.png)
+![Post 10 · Todo el poder 0 8 por ciento · v2 · 2026-10-28 16h48.png](visuales/Post 10 · Todo el poder 0 8 por ciento · v2 · 2026-10-28 16h48.png)
 
 ## Post 11 · Ciudadanos con voto (imagen)
 
@@ -159,9 +159,9 @@ Sigue siendo democracia, todos votan. Lo que cambia es que ya nadie puede compra
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481607205208477
 
-![Post 11 · Boleta 2 0 voto por aportacion · v1 · 2026-10-28 16h16.png](visuales/Post 11 · Boleta 2 0 voto por aportacion · v1 · 2026-10-28 16h16.png)
+![Post 11 · Boleta 2 0 propuesta incomoda · v2 · 2026-10-28 16h48.png](visuales/Post 11 · Boleta 2 0 propuesta incomoda · v2 · 2026-10-28 16h48.png)
 
-## Post 12 · Pólitica 100% vivos (texto)
+## Post 12 · Pólitica 100% vivos (imagen)
 
 Política 100 % vivos.  
   
@@ -174,6 +174,8 @@ Simple. Sin matices. Sin «contexto».
 Hoy en México se mata gratis. Se acaba el día que deje de serlo.  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481427089265105
+
+![Post 12 · Cero muertos · v2 · 2026-10-28 16h48.png](visuales/Post 12 · Cero muertos · v2 · 2026-10-28 16h48.png)
 
 ## Post 13 · Ley: Pared Limpia (imagen)
 
@@ -189,9 +191,9 @@ Esa es la diferencia entre rayar y aportar.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480729928790455
 
-![Post 13 · Pared con mensaje · v1 · 2026-10-28 16h16.png](visuales/Post 13 · Pared con mensaje · v1 · 2026-10-28 16h16.png)
+![Post 13 · Pared con mensaje · v2 · 2026-10-28 16h48.png](visuales/Post 13 · Pared con mensaje · v2 · 2026-10-28 16h48.png)
 
-## Post 14 · México sin dirección (texto)
+## Post 14 · México sin dirección (imagen)
 
 Nadie quiere decir esto:  
   
@@ -204,6 +206,8 @@ Los recursos están. El talento está. La geografía está. Falta poner a las pe
 @RicardoBSalinas, @LillyTellez, @CarlosLoret: ustedes también lo ven. ¿Qué proponen para cambiar el sistema, no solo a quien lo ocupa?  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480499938357731
+
+![Post 14 · Mexico esta como esta por quien vota · v2 · 2026-10-28 16h48.png](visuales/Post 14 · Mexico esta como esta por quien vota · v2 · 2026-10-28 16h48.png)
 
 ## Post 15 · Cobranza express de impuestos (gif)
 
@@ -221,7 +225,7 @@ Lo escribí completo aquí: https://x.com/ricardolopezrey/status/211548070414214
 
 ![Post 15 · 60 impuestos a 1 · v1 · 2026-10-28 16h16.gif](visuales/Post 15 · 60 impuestos a 1 · v1 · 2026-10-28 16h16.gif)
 
-## Post 16 · La corrupción se acaba al sistematizar (texto)
+## Post 16 · La corrupción se acaba al sistematizar (imagen)
 
 No acabes con la corrupción. Sistematízala.  
   
@@ -234,6 +238,8 @@ Trámites en el celular, con cita o a domicilio. El día que lo correcto sea lo 
 Es más fácil mejorar procesos que corregir personas.  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480376051146897
+
+![Post 16 · Sistematiza la corrupcion · v2 · 2026-10-28 16h48.png](visuales/Post 16 · Sistematiza la corrupcion · v2 · 2026-10-28 16h48.png)
 
 ## Post 17 · Organigrama Gobierno 2.0 (imagen)
 
@@ -252,7 +258,7 @@ Seis años, tres indicadores. ¿Quién no podría evaluar eso?
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480406589890796
 
-![Post 17 · Presidente 3 indicadores · v1 · 2026-10-28 16h16.png](visuales/Post 17 · Presidente 3 indicadores · v1 · 2026-10-28 16h16.png)
+![Post 17 · Presidente 3 numeros · v2 · 2026-10-28 16h48.png](visuales/Post 17 · Presidente 3 numeros · v2 · 2026-10-28 16h48.png)
 
 ## Post 18 · Constitución simplificada en valores (imagen)
 
@@ -266,7 +272,7 @@ Si no cabe en 2 hojas, no es un pacto. Es un laberinto.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481525688910134
 
-![Post 18 · Escribiendo la constitucion de 2 hojas · v1 · 2026-10-28 16h16.png](visuales/Post 18 · Escribiendo la constitucion de 2 hojas · v1 · 2026-10-28 16h16.png)
+![Post 18 · Constitucion de 2 hojas · v2 · 2026-10-28 16h48.png](visuales/Post 18 · Constitucion de 2 hojas · v2 · 2026-10-28 16h48.png)
 
 ## Post 19 · Evolución en la selección de funcionarios (imagen)
 
@@ -281,9 +287,9 @@ Hay gente que habla espectacular y sus acciones no la siguen. Está bien que exi
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480154667368521
 
-![Post 19 · Por resultados no por palabras · v1 · 2026-10-28 16h16.png](visuales/Post 19 · Por resultados no por palabras · v1 · 2026-10-28 16h16.png)
+![Post 19 · Palabras tachado resultados · v2 · 2026-10-28 16h48.png](visuales/Post 19 · Palabras tachado resultados · v2 · 2026-10-28 16h48.png)
 
-## Post 20 · Cómo México Podría Unir a Todo el Continente Bajo un Solo Nombre — América (texto)
+## Post 20 · Cómo México Podría Unir a Todo el Continente Bajo un Solo Nombre — América (imagen)
 
 Ejercicio de estrategia, no de política:  
   
@@ -296,6 +302,8 @@ Luego Centroamérica, que ya depende de nosotros y no tiene formalidad. Cada pa�
 Lo escribí fase por fase, hasta el año 40.  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480359806615638
+
+![Post 20 · America un solo nombre · v2 · 2026-10-28 16h48.png](visuales/Post 20 · America un solo nombre · v2 · 2026-10-28 16h48.png)
 
 ## Post 21 · Toma de protesta México Año Desconocido (gif)
 
@@ -328,7 +336,7 @@ Entre más energía uses, más apalancado estás. Úsala bien.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480763537707519
 
-![Post 22 · kWh por ciudadano · v1 · 2026-10-28 16h16.png](visuales/Post 22 · kWh por ciudadano · v1 · 2026-10-28 16h16.png)
+![Post 22 · Ahorrar tachado usar mas · v2 · 2026-10-28 16h48.png](visuales/Post 22 · Ahorrar tachado usar mas · v2 · 2026-10-28 16h48.png)
 
 ## Post 23 · La sincronización de semafóros (imagen)
 
@@ -346,7 +354,7 @@ Es la obra más barata y de mayor retorno que tiene una ciudad.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480834102759541
 
-![Post 23 · Semaforos sincronizados · v1 · 2026-10-28 16h16.png](visuales/Post 23 · Semaforos sincronizados · v1 · 2026-10-28 16h16.png)
+![Post 23 · Semaforos 1666 dias · v2 · 2026-10-28 16h48.png](visuales/Post 23 · Semaforos 1666 dias · v2 · 2026-10-28 16h48.png)
 
 ## Post 24 · Miles de árboles nuevos en la ciudad Torreon (imagen)
 
@@ -360,7 +368,7 @@ Cada árbol sembrado mejora la ciudad el mismo día. El gobierno hace su parte, 
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481705981104602
 
-![Post 24 · Avenida con miles de arboles · v1 · 2026-10-28 16h16.png](visuales/Post 24 · Avenida con miles de arboles · v1 · 2026-10-28 16h16.png)
+![Post 24 · Semaforo mas arbol · v2 · 2026-10-28 16h48.png](visuales/Post 24 · Semaforo mas arbol · v2 · 2026-10-28 16h48.png)
 
 ## Post 25 · Crédito al Trabajo Formal (imagen)
 
@@ -374,9 +382,9 @@ Un solo indicador: ingreso disponible del 40 % más pobre. Si sube, funcionó. S
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115481899665600734
 
-![Post 25 · Credito al trabajo formal 54 8 · v1 · 2026-10-28 16h16.png](visuales/Post 25 · Credito al trabajo formal 54 8 · v1 · 2026-10-28 16h16.png)
+![Post 25 · 54 8 informal · v2 · 2026-10-28 16h48.png](visuales/Post 25 · 54 8 informal · v2 · 2026-10-28 16h48.png)
 
-## Post 26 · Crédito productivo para el Colegios Universidades (texto)
+## Post 26 · Crédito productivo para el Colegios Universidades (imagen)
 
 Vi de cerca a un colegio recorrer 15 bancos buscando crédito para crecer. Ninguno le prestó.  
   
@@ -389,6 +397,8 @@ La SEP no apoya a la escuela privada, el banco no presta y el gobierno cobra. Y 
 El dinero debería fluir hacia quien construye el futuro, no alejarse de él.  
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480276071846102
+
+![Post 26 · 15 bancos 0 prestamos · v2 · 2026-10-28 16h48.png](visuales/Post 26 · 15 bancos 0 prestamos · v2 · 2026-10-28 16h48.png)
 
 ## Post 27 · Hay 3 tipos de socios en una sociedad (imagen)
 
@@ -404,7 +414,7 @@ Primero intenta activarlos. Si no, eliminación activa. Un bulto pesa.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115479856318198216
 
-![Post 27 · Tres tipos de socios · v1 · 2026-10-28 16h16.png](visuales/Post 27 · Tres tipos de socios · v1 · 2026-10-28 16h16.png)
+![Post 27 · Bultos de cemento · v2 · 2026-10-28 16h48.png](visuales/Post 27 · Bultos de cemento · v2 · 2026-10-28 16h48.png)
 
 ## Post 28 · Primero la pasión, luego la monetización (texto)
 
@@ -466,7 +476,7 @@ Hay una página esperándote hoy con la frase exacta que necesitas. Abre el libr
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480311752528055
 
-![Post 31 · 150 libros una frase · v1 · 2026-10-28 16h16.png](visuales/Post 31 · 150 libros una frase · v1 · 2026-10-28 16h16.png)
+![Post 31 · 150 libros una frase · v2 · 2026-10-28 16h48.png](visuales/Post 31 · 150 libros una frase · v2 · 2026-10-28 16h48.png)
 
 ## Post 32 · Los SuperPoderes que da la IA (gif)
 
@@ -498,5 +508,5 @@ Si algo te sirve, agárralo. Si no, continúa.
   
 Lo escribí completo aquí: https://x.com/ricardolopezrey/status/2115480626010767757
 
-![Post 33 · Donde escribo · v1 · 2026-10-28 16h16.png](visuales/Post 33 · Donde escribo · v1 · 2026-10-28 16h16.png)
+![Post 33 · Donde escribo · v2 · 2026-10-28 16h48.png](visuales/Post 33 · Donde escribo · v2 · 2026-10-28 16h48.png)
 
