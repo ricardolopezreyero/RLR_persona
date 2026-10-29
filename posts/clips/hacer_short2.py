@@ -11,7 +11,7 @@ CONT_XY, CONT_W = (40, 470), 1000
 CAM_W = 800
 
 
-def main(vid, tr, salida, portada=None):
+def main(vid, tr, salida, portada=None, solo_portada=False):
     carpeta = os.path.join(AQUI, 'v', vid)
     enc = json.load(open(os.path.join(carpeta, 'encuadre.json')))
     INI, FIN = tr['ini'], tr['fin']
@@ -119,30 +119,46 @@ def main(vid, tr, salida, portada=None):
     cmd = ['ffmpeg', '-y', '-v', 'error'] + inputs + ['-filter_complex', ';'.join(fc), '-map', '[v]', '-map', '0:a',
            '-c:v', 'libx264', '-preset', 'slow', '-crf', '18', '-r', '30', '-c:a', 'aac', '-b:a', '192k',
            '-af', f'afade=t=in:st=0:d=0.2,afade=t=out:st={dur - 0.6}:d=0.6', '-movflags', '+faststart', salida]
-    subprocess.run(cmd, check=True)
+    if not solo_portada: subprocess.run(cmd, check=True)
 
     # portada vertical (gancho + cara)
     if portada:
         raw = os.path.join(carpeta, f'cara_{tag}.png')
         subprocess.run(['ffmpeg', '-v', 'error', '-ss', str(tr.get('cara', INI + 3)), '-i', os.path.join(carpeta, 'video.mp4'), '-frames:v', '1', '-vf', f'crop={kw}:{kh}:{kx}:{ky}', '-y', raw], check=True)
         cara = Image.open(raw).convert('RGB')
-        if not solo:
+        P = Image.new('RGB', (W, H), NAVY_DEEP)
+        dp = ImageDraw.Draw(P)
+        n = len(tr['gancho'])
+        if circ or (not solo and kw < 400):
+            # cámara chica o circular: cara en un círculo grande con aro verde, sin estirar de más
+            lado = min(cara.width, cara.height); cara = cara.crop(((cara.width - lado) // 2, 0, (cara.width - lado) // 2 + lado, lado))
+            D = 820; cara = cara.resize((D, D), Image.LANCZOS)
+            from PIL import ImageFilter
+            cara = cara.filter(ImageFilter.UnsharpMask(radius=3, percent=90, threshold=2))
+            m = Image.new('L', (D, D), 0); ImageDraw.Draw(m).ellipse((0, 0, D - 1, D - 1), fill=255)
+            cx0, cy0 = (W - D) // 2, 760
+            dp.ellipse((cx0 - 10, cy0 - 10, cx0 + D + 10, cy0 + D + 10), fill=VERDE)
+            P.paste(cara, (cx0, cy0), m)
+            y_g = 170
+        else:
             cw0 = round(cara.width * 0.68); cx0 = (cara.width - cw0) // 2 + 20
             cara = cara.crop((cx0, 0, cx0 + cw0, cara.height))
-        cara = cara.resize((W, round(cara.height * W / cara.width)), Image.LANCZOS)
-        if solo: cara = cara.crop((0, 0, W, H))
-        P = Image.new('RGB', (W, H), NAVY_DEEP)
-        P.paste(cara, (0, H - cara.height - 140) if not solo else (0, 0))
-        grad = Image.new('L', (1, 400))
-        for yy in range(400): grad.putpixel((0, yy), int(255 * (1 - yy / 400) ** 1.4))
-        top = (H - cara.height - 140) if not solo else 0
-        P.paste(Image.new('RGB', (W, 400), NAVY_DEEP), (0, top), grad.resize((W, 400)))
+            cara = cara.resize((W, round(cara.height * W / cara.width)), Image.LANCZOS)
+            if solo: cara = cara.crop((0, 0, W, H))
+            elif cara.height > 1180:
+                y0 = int((cara.height - 1180) * 0.4); cara = cara.crop((0, y0, W, y0 + 1180))
+            top = (H - cara.height - 140) if not solo else 0
+            P.paste(cara, (0, top))
+            grad = Image.new('L', (1, 400))
+            for yy in range(400): grad.putpixel((0, yy), int(255 * (1 - yy / 400) ** 1.4))
+            P.paste(Image.new('RGB', (W, 400), NAVY_DEEP), (0, top), grad.resize((W, 400)))
+            y_g = 190
         dp = ImageDraw.Draw(P)
         dp.rectangle((0, H - 140, W, H), fill=NAVY_DEEP)
         lg = Image.open(os.path.join(AQUI, 'marca', 'logo_blanco.png')).convert('RGBA'); lg = lg.resize((260, round(lg.height * 260 / lg.width)), Image.LANCZOS)
         P.paste(lg, (60, H - 70 - lg.height // 2), lg)
         dp.text((W - 60, H - 70), 'Ing. Ricardo López Reyero', font=fuente('Medium', 32), fill=SUB, anchor='rm')
-        y = 190
+        y = y_g
         for i, linea in enumerate(tr['gancho']):
             tam = 118; fu = fuente('ExtraBold', tam)
             while dp.textlength(linea, font=fu) > W - 120 and tam > 70: tam -= 4; fu = fuente('ExtraBold', tam)

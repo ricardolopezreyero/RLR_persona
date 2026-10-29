@@ -57,8 +57,18 @@ def render_cands():
                 print('ERROR', vid, k, e, flush=True)
 
 
+def portadas():
+    sel = json.load(open('seleccion33.json'))
+    for n, (vid, k) in enumerate(sel, 1):
+        tr = json.load(open(f'v/{vid}/tramos.json'))['tramos'][k]
+        hacer_short2.main(vid, tr, f'out33/{n:02d}.mp4', f'out33/{n:02d}_portada.png', solo_portada=True)
+        print(n, vid, k, flush=True)
+
+
 if __name__ == '__main__':
-    if sys.argv[1] == 'cands':
+    if sys.argv[1] == 'portadas':
+        portadas()
+    elif sys.argv[1] == 'cands':
         render_cands()
     elif sys.argv[1] == 'candidatos':
         candidatos()
