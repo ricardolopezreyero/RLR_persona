@@ -1,0 +1,632 @@
+{
+ "id": "aubL-8BMU8I",
+ "tramos": [
+  {
+   "ini": 2451.25,
+   "fin": 2499.14,
+   "gancho": [
+    "Te llegan 100,",
+    "inscribes 5.",
+    "¿Y si fueran 10?"
+   ],
+   "enfasis": [
+    "100 prospectos",
+    "inscribes 5",
+    "10 alumnos",
+    "crece exponencialmente",
+    "valor",
+    "el doble de inscritos",
+    "espiral positiva"
+   ],
+   "trozos": [
+    {
+     "ini": 2451.5,
+     "fin": 2452.43,
+     "texto": "Si a ti te llegan"
+    },
+    {
+     "ini": 2452.43,
+     "fin": 2454.16,
+     "texto": "100 prospectos"
+    },
+    {
+     "ini": 2454.16,
+     "fin": 2458.48,
+     "texto": "y hoy inscribes 5,"
+    },
+    {
+     "ini": 2458.48,
+     "fin": 2460.47,
+     "texto": "es válido, está correcto."
+    },
+    {
+     "ini": 2460.47,
+     "fin": 2461.08,
+     "texto": "¿Qué pasaría"
+    },
+    {
+     "ini": 2461.08,
+     "fin": 2463.11,
+     "texto": "si inscribes 10 alumnos"
+    },
+    {
+     "ini": 2463.11,
+     "fin": 2463.69,
+     "texto": "en vez de 5"
+    },
+    {
+     "ini": 2463.69,
+     "fin": 2464.62,
+     "texto": "con esos mismos"
+    },
+    {
+     "ini": 2464.62,
+     "fin": 2466.02,
+     "texto": "100 prospectos?"
+    },
+    {
+     "ini": 2466.02,
+     "fin": 2469.24,
+     "texto": "Tu rentabilidad"
+    },
+    {
+     "ini": 2469.24,
+     "fin": 2471.07,
+     "texto": "crece exponencialmente,"
+    },
+    {
+     "ini": 2471.07,
+     "fin": 2472.13,
+     "texto": "porque es el valor"
+    },
+    {
+     "ini": 2472.13,
+     "fin": 2473.28,
+     "texto": "de vida del alumno"
+    },
+    {
+     "ini": 2473.28,
+     "fin": 2475.25,
+     "texto": "lo que está en juego,"
+    },
+    {
+     "ini": 2475.25,
+     "fin": 2476.44,
+     "texto": "porque ese ingreso futuro"
+    },
+    {
+     "ini": 2476.44,
+     "fin": 2477.53,
+     "texto": "que no se está dando"
+    },
+    {
+     "ini": 2477.53,
+     "fin": 2479.89,
+     "texto": "porque no estaba ecualizado."
+    },
+    {
+     "ini": 2479.89,
+     "fin": 2480.82,
+     "texto": "Y un sistema"
+    },
+    {
+     "ini": 2480.82,
+     "fin": 2482.4,
+     "texto": "de inscripciones"
+    },
+    {
+     "ini": 2482.4,
+     "fin": 2484.11,
+     "texto": "bien ecualizado"
+    },
+    {
+     "ini": 2484.11,
+     "fin": 2485.08,
+     "texto": "te puede dar,"
+    },
+    {
+     "ini": 2485.08,
+     "fin": 2486.7,
+     "texto": "por decir un número,"
+    },
+    {
+     "ini": 2486.7,
+     "fin": 2487.73,
+     "texto": "hasta el doble de inscritos."
+    },
+    {
+     "ini": 2487.73,
+     "fin": 2488.76,
+     "texto": "Puede ser un porcentaje,"
+    },
+    {
+     "ini": 2488.76,
+     "fin": 2489.96,
+     "texto": "puede ser el doble,"
+    },
+    {
+     "ini": 2489.96,
+     "fin": 2490.7,
+     "texto": "puede ser mucho más."
+    },
+    {
+     "ini": 2490.7,
+     "fin": 2491.64,
+     "texto": "Y esto te hace"
+    },
+    {
+     "ini": 2491.64,
+     "fin": 2492.73,
+     "texto": "que tengas más dinero"
+    },
+    {
+     "ini": 2492.73,
+     "fin": 2494.2,
+     "texto": "para tener más leads,"
+    },
+    {
+     "ini": 2494.2,
+     "fin": 2495.62,
+     "texto": "para tener más alcance."
+    },
+    {
+     "ini": 2495.62,
+     "fin": 2497.24,
+     "texto": "Automáticamente entras"
+    },
+    {
+     "ini": 2497.24,
+     "fin": 2499.14,
+     "texto": "en una espiral positiva."
+    }
+   ],
+   "frase": "Mismos 100 prospectos: de 5 a 10 inscritos cambia todo",
+   "descripcion": "Con los mismos 100 prospectos, pasar de 5 a 10 inscritos no suma: multiplica, porque lo que está en juego es el valor de vida del alumno.\nUn sistema de inscripciones bien ecualizado te mete en una espiral positiva: más inscritos, más presupuesto, más alcance.\n#Admisiones #ColegiosPrivados #TasaDeConversion",
+   "cara": 2492,
+   "tema": "tasa de conversión",
+   "por_que": "Arranca con un dato concreto (100 → 5 vs 10), explica por qué la conversión es exponencial y remata con una frase memorable: espiral positiva."
+  },
+  {
+   "ini": 966.13,
+   "fin": 1035.94,
+   "gancho": [
+    "ERP y CRM genérico",
+    "son para dirección",
+    "no para admisiones"
+   ],
+   "enfasis": [
+    "ultra carísimos",
+    "dirección de operación",
+    "menor cantidad",
+    "2,000 acciones",
+    "diferentes ritmos",
+    "directivos",
+    "PowerPoint",
+    "contador"
+   ],
+   "trozos": [
+    {
+     "ini": 966.38,
+     "fin": 968.09,
+     "texto": "Los ERP tipo SAP"
+    },
+    {
+     "ini": 968.09,
+     "fin": 970.95,
+     "texto": "son ultra carísimos,"
+    },
+    {
+     "ini": 970.95,
+     "fin": 971.96,
+     "texto": "increíblemente"
+    },
+    {
+     "ini": 971.96,
+     "fin": 974.67,
+     "texto": "tienes todos los dashboards,"
+    },
+    {
+     "ini": 974.67,
+     "fin": 975.58,
+     "texto": "todo, y está padre"
+    },
+    {
+     "ini": 975.58,
+     "fin": 976.56,
+     "texto": "para la dirección,"
+    },
+    {
+     "ini": 976.56,
+     "fin": 979.46,
+     "texto": "pero hay que separar"
+    },
+    {
+     "ini": 979.46,
+     "fin": 981.68,
+     "texto": "dirección de operación."
+    },
+    {
+     "ini": 981.68,
+     "fin": 983.64,
+     "texto": "Acá está gente operativa"
+    },
+    {
+     "ini": 983.64,
+     "fin": 985.4,
+     "texto": "trabajando con los prospectos"
+    },
+    {
+     "ini": 985.4,
+     "fin": 986.53,
+     "texto": "que necesita acceso"
+    },
+    {
+     "ini": 986.53,
+     "fin": 987.46,
+     "texto": "a los prospectos"
+    },
+    {
+     "ini": 987.46,
+     "fin": 988.79,
+     "texto": "en la menor cantidad"
+    },
+    {
+     "ini": 988.79,
+     "fin": 989.11,
+     "texto": "de clics."
+    },
+    {
+     "ini": 989.11,
+     "fin": 990.08,
+     "texto": "El tema académico"
+    },
+    {
+     "ini": 990.08,
+     "fin": 991.84,
+     "texto": "necesita acceso a los alumnos,"
+    },
+    {
+     "ini": 991.84,
+     "fin": 993.85,
+     "texto": "pero en forma de grupos"
+    },
+    {
+     "ini": 993.85,
+     "fin": 996.12,
+     "texto": "y en forma más esporádica."
+    },
+    {
+     "ini": 996.12,
+     "fin": 997.04,
+     "texto": "La gente de admisiones"
+    },
+    {
+     "ini": 997.04,
+     "fin": 998.55,
+     "texto": "tiene que ir directo"
+    },
+    {
+     "ini": 998.55,
+     "fin": 999.91,
+     "texto": "al prospecto, rapidísimo,"
+    },
+    {
+     "ini": 999.91,
+     "fin": 1001.3,
+     "texto": "a escribir, a contestar,"
+    },
+    {
+     "ini": 1001.3,
+     "fin": 1002.83,
+     "texto": "a decirle, a convencerlo"
+    },
+    {
+     "ini": 1002.83,
+     "fin": 1003.93,
+     "texto": "y a hacer"
+    },
+    {
+     "ini": 1003.93,
+     "fin": 1005.02,
+     "texto": "las 2,000 acciones"
+    },
+    {
+     "ini": 1005.02,
+     "fin": 1007.84,
+     "texto": "que se tienen que hacer"
+    },
+    {
+     "ini": 1007.84,
+     "fin": 1009.08,
+     "texto": "para convertir un alumno."
+    },
+    {
+     "ini": 1009.08,
+     "fin": 1010.24,
+     "texto": "Entonces se mueven"
+    },
+    {
+     "ini": 1010.24,
+     "fin": 1012.29,
+     "texto": "a diferentes ritmos."
+    },
+    {
+     "ini": 1012.29,
+     "fin": 1013.99,
+     "texto": "El ERP, hay unos buenísimos"
+    },
+    {
+     "ini": 1013.99,
+     "fin": 1014.72,
+     "texto": "y es válido,"
+    },
+    {
+     "ini": 1014.72,
+     "fin": 1016.58,
+     "texto": "y si tardan en instalar"
+    },
+    {
+     "ini": 1016.58,
+     "fin": 1018.2,
+     "texto": "los millones de dólares"
+    },
+    {
+     "ini": 1018.2,
+     "fin": 1019.6,
+     "texto": "y de pesos, es válido,"
+    },
+    {
+     "ini": 1019.6,
+     "fin": 1021.86,
+     "texto": "pero son para los directivos,"
+    },
+    {
+     "ini": 1021.86,
+     "fin": 1023.13,
+     "texto": "no para los operativos"
+    },
+    {
+     "ini": 1023.13,
+     "fin": 1024.19,
+     "texto": "que tienen que estar"
+    },
+    {
+     "ini": 1024.19,
+     "fin": 1025.34,
+     "texto": "en el día a día."
+    },
+    {
+     "ini": 1025.34,
+     "fin": 1026.57,
+     "texto": "Y bueno, darle"
+    },
+    {
+     "ini": 1026.57,
+     "fin": 1028.13,
+     "texto": "un Salesforce,"
+    },
+    {
+     "ini": 1028.13,
+     "fin": 1029.03,
+     "texto": "un HubSpot,"
+    },
+    {
+     "ini": 1029.03,
+     "fin": 1030.3,
+     "texto": "un sistema genérico"
+    },
+    {
+     "ini": 1030.3,
+     "fin": 1032.35,
+     "texto": "al departamento de admisiones"
+    },
+    {
+     "ini": 1032.35,
+     "fin": 1033.57,
+     "texto": "es como darle un PowerPoint"
+    },
+    {
+     "ini": 1033.57,
+     "fin": 1034.17,
+     "texto": "a tu contador"
+    },
+    {
+     "ini": 1034.17,
+     "fin": 1035.94,
+     "texto": "para que presente impuestos."
+    }
+   ],
+   "frase": "CRM genérico en admisiones: PowerPoint para tu contador",
+   "descripcion": "El ERP y los dashboards son para la dirección; admisiones necesita llegar al prospecto en la menor cantidad de clics.\nDarle un Salesforce o un HubSpot al departamento de admisiones es como darle un PowerPoint a tu contador para presentar impuestos.\n#Admisiones #ColegiosPrivados #CRMEducativo",
+   "cara": 1026,
+   "tema": "software genérico",
+   "por_que": "Contraste claro dirección vs operación, con cifra (2,000 acciones) y una analogía que un director repite: PowerPoint al contador."
+  },
+  {
+   "ini": 3140.87,
+   "fin": 3184.74,
+   "gancho": [
+    "Te quieren",
+    "recomendar y no",
+    "les dices cómo"
+   ],
+   "enfasis": [
+    "140 videollamadas",
+    "patrones",
+    "recomendaciones",
+    "quiere recomendarlos",
+    "herramientas",
+    "sueltos",
+    "amó tu colegio"
+   ],
+   "trozos": [
+    {
+     "ini": 3141.12,
+     "fin": 3142.55,
+     "texto": "Hice en un tiempo"
+    },
+    {
+     "ini": 3142.55,
+     "fin": 3144.89,
+     "texto": "140 videollamadas"
+    },
+    {
+     "ini": 3144.89,
+     "fin": 3146.8,
+     "texto": "con puros dueños de colegio"
+    },
+    {
+     "ini": 3146.8,
+     "fin": 3148.22,
+     "texto": "y me di cuenta"
+    },
+    {
+     "ini": 3148.22,
+     "fin": 3149.14,
+     "texto": "de patrones."
+    },
+    {
+     "ini": 3149.14,
+     "fin": 3150.44,
+     "texto": "Uno de los patrones"
+    },
+    {
+     "ini": 3150.44,
+     "fin": 3151.82,
+     "texto": "era que no le toman"
+    },
+    {
+     "ini": 3151.82,
+     "fin": 3153.48,
+     "texto": "suficiente interés"
+    },
+    {
+     "ini": 3153.48,
+     "fin": 3155.2,
+     "texto": "a las recomendaciones."
+    },
+    {
+     "ini": 3155.2,
+     "fin": 3156.75,
+     "texto": "Y en el tema educativo,"
+    },
+    {
+     "ini": 3156.75,
+     "fin": 3157.96,
+     "texto": "a diferencia de otros nichos,"
+    },
+    {
+     "ini": 3157.96,
+     "fin": 3159.31,
+     "texto": "en el tema educativo"
+    },
+    {
+     "ini": 3159.31,
+     "fin": 3161.4,
+     "texto": "la gente quiere recomendarlos"
+    },
+    {
+     "ini": 3161.4,
+     "fin": 3162.76,
+     "texto": "y no les das"
+    },
+    {
+     "ini": 3162.76,
+     "fin": 3163.61,
+     "texto": "las herramientas,"
+    },
+    {
+     "ini": 3163.61,
+     "fin": 3164.5,
+     "texto": "no les dices cómo,"
+    },
+    {
+     "ini": 3164.5,
+     "fin": 3166.16,
+     "texto": "nada, los tienes ahí sueltos."
+    },
+    {
+     "ini": 3166.16,
+     "fin": 3166.97,
+     "texto": "Y la gente"
+    },
+    {
+     "ini": 3166.97,
+     "fin": 3168.33,
+     "texto": "te quiere recomendar"
+    },
+    {
+     "ini": 3168.33,
+     "fin": 3169.6,
+     "texto": "porque amó tu colegio,"
+    },
+    {
+     "ini": 3169.6,
+     "fin": 3170.24,
+     "texto": "porque amó"
+    },
+    {
+     "ini": 3170.24,
+     "fin": 3171.44,
+     "texto": "lo que le enseñaste,"
+    },
+    {
+     "ini": 3171.44,
+     "fin": 3173.58,
+     "texto": "porque hizo un vínculo"
+    },
+    {
+     "ini": 3173.58,
+     "fin": 3174.86,
+     "texto": "con el profesor"
+    },
+    {
+     "ini": 3174.86,
+     "fin": 3176.16,
+     "texto": "y está contento,"
+    },
+    {
+     "ini": 3176.16,
+     "fin": 3177.26,
+     "texto": "tiene amigos,"
+    },
+    {
+     "ini": 3177.26,
+     "fin": 3178.66,
+     "texto": "y es una etapa"
+    },
+    {
+     "ini": 3178.66,
+     "fin": 3179.69,
+     "texto": "muy padre"
+    },
+    {
+     "ini": 3179.69,
+     "fin": 3180.92,
+     "texto": "donde todo está contento"
+    },
+    {
+     "ini": 3180.92,
+     "fin": 3182.28,
+     "texto": "y es válido,"
+    },
+    {
+     "ini": 3182.28,
+     "fin": 3184.09,
+     "texto": "y quieren recomendarte"
+    },
+    {
+     "ini": 3184.09,
+     "fin": 3184.74,
+     "texto": "y no lo ponen."
+    }
+   ],
+   "frase": "Tus familias quieren recomendarte y nadie les dice cómo",
+   "descripcion": "Después de 140 videollamadas con dueños de colegio, un patrón se repite: casi nadie le pone interés a las recomendaciones.\nEn educación la gente quiere recomendarte porque amó tu colegio; solo falta darle las herramientas y decirle cómo.\n#Admisiones #ColegiosPrivados #Referidos",
+   "cara": 3175,
+   "tema": "referidos",
+   "por_que": "Dato propio (140 videollamadas) más un patrón que todo director reconoce; emocional y accionable, sin venta."
+  }
+ ],
+ "sin_tramos_por": null
+}

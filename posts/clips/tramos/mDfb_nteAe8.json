@@ -1,0 +1,461 @@
+{
+ "id": "mDfb_nteAe8",
+ "tramos": [
+  {
+   "ini": 941.39,
+   "fin": 984.94,
+   "gancho": [
+    "Cada prospecto",
+    "es tu siguiente",
+    "mención honorífica"
+   ],
+   "enfasis": [
+    "hola",
+    "responsabilidad",
+    "cada prospecto",
+    "mejor alumno",
+    "mención honorífica",
+    "impecablemente"
+   ],
+   "frase": "Trata a cada prospecto como tu mejor alumno",
+   "descripcion": "La persona vio tu publicidad y te escribió «hola»: desde ese momento tienes una responsabilidad con ella.\nTrata a cada prospecto como tu siguiente mención honorífica, porque no sabes cuál de ellos lo será.\n#Admisiones #ColegiosPrivados #Prospectos",
+   "cara": 955,
+   "tema": "trato al prospecto",
+   "por_que": "Idea completa y memorable para un director: la responsabilidad empieza con el «hola» y cierra con una frase que se queda (cada prospecto es tu siguiente mención honorífica).",
+   "trozos": [
+    {
+     "ini": 941.64,
+     "fin": 944.28,
+     "texto": "Tú hiciste publicidad,"
+    },
+    {
+     "ini": 944.28,
+     "fin": 945.92,
+     "texto": "ruido o lo que sea,"
+    },
+    {
+     "ini": 945.92,
+     "fin": 947.2,
+     "texto": "y la persona"
+    },
+    {
+     "ini": 947.2,
+     "fin": 948.52,
+     "texto": "te puso un hola"
+    },
+    {
+     "ini": 948.52,
+     "fin": 949.96,
+     "texto": "o te puso un info"
+    },
+    {
+     "ini": 949.96,
+     "fin": 950.8,
+     "texto": "o te puso:"
+    },
+    {
+     "ini": 950.8,
+     "fin": 952.36,
+     "texto": "quiero más información."
+    },
+    {
+     "ini": 952.36,
+     "fin": 953.92,
+     "texto": "Entonces, tú tienes,"
+    },
+    {
+     "ini": 953.92,
+     "fin": 954.84,
+     "texto": "por mi forma de ver,"
+    },
+    {
+     "ini": 954.84,
+     "fin": 957.2,
+     "texto": "tenemos una responsabilidad"
+    },
+    {
+     "ini": 957.2,
+     "fin": 958.56,
+     "texto": "con esa persona"
+    },
+    {
+     "ini": 958.56,
+     "fin": 960.04,
+     "texto": "porque preguntó"
+    },
+    {
+     "ini": 960.04,
+     "fin": 962.16,
+     "texto": "y quiere saber más información"
+    },
+    {
+     "ini": 962.16,
+     "fin": 964.24,
+     "texto": "y posiblemente se quiere inscribir."
+    },
+    {
+     "ini": 964.24,
+     "fin": 966.52,
+     "texto": "Entonces, tienes que tratar"
+    },
+    {
+     "ini": 966.52,
+     "fin": 967.92,
+     "texto": "a cada prospecto"
+    },
+    {
+     "ini": 967.92,
+     "fin": 968.92,
+     "texto": "como si fuera"
+    },
+    {
+     "ini": 968.92,
+     "fin": 971.2,
+     "texto": "tu siguiente mejor alumno"
+    },
+    {
+     "ini": 971.2,
+     "fin": 973.08,
+     "texto": "con mención honorífica,"
+    },
+    {
+     "ini": 973.08,
+     "fin": 974.36,
+     "texto": "porque no sabes"
+    },
+    {
+     "ini": 974.36,
+     "fin": 976.24,
+     "texto": "cuál de ellos es cierto."
+    },
+    {
+     "ini": 976.24,
+     "fin": 977.12,
+     "texto": "Entonces, tienes que tratarlos"
+    },
+    {
+     "ini": 977.12,
+     "fin": 980.4,
+     "texto": "a todos impecablemente perfecto,"
+    },
+    {
+     "ini": 980.4,
+     "fin": 982.08,
+     "texto": "porque alguno de ellos"
+    },
+    {
+     "ini": 982.08,
+     "fin": 984.04,
+     "texto": "va a ser mención honorífica"
+    },
+    {
+     "ini": 984.04,
+     "fin": 984.94,
+     "texto": "eventualmente."
+    }
+   ]
+  },
+  {
+   "ini": 558.83,
+   "fin": 619.12,
+   "gancho": [
+    "De cita a inscrito",
+    "40 % no basta",
+    "Sano: más de 50 %"
+   ],
+   "enfasis": [
+    "40 %",
+    "50 %",
+    "60 %",
+    "zona de selección",
+    "lista de espera",
+    "suavízalo",
+    "quita procesos",
+    "creces más rápido"
+   ],
+   "frase": "Sin lista de espera, quita pasos a tu admisión",
+   "descripcion": "De las familias que asisten, ¿cuántas se inscriben? Hay colegios en 40 %; lo sano es arriba de 50 % y 60 % es excelente.\nSi no tienes lista de espera o estás en expansión, suaviza la zona de selección: quita procesos, crece y luego los vuelves a poner.\n#Admisiones #ColegiosPrivados #Inscripciones",
+   "cara": 565,
+   "tema": "zona de selección",
+   "por_que": "Tres cifras de referencia (40, 50, 60 %) que cualquier director puede comparar con las suyas, más un consejo contraintuitivo y accionable: quitar pasos para crecer.",
+   "trozos": [
+    {
+     "ini": 559.08,
+     "fin": 560.92,
+     "texto": "Hay colegios que tienen"
+    },
+    {
+     "ini": 560.92,
+     "fin": 565.64,
+     "texto": "40 % de asistencias a inscritos,"
+    },
+    {
+     "ini": 565.64,
+     "fin": 566.68,
+     "texto": "hay colegios que menos,"
+    },
+    {
+     "ini": 566.68,
+     "fin": 568.12,
+     "texto": "hay colegios que más."
+    },
+    {
+     "ini": 568.12,
+     "fin": 568.64,
+     "texto": "A mí algo"
+    },
+    {
+     "ini": 568.64,
+     "fin": 571.68,
+     "texto": "que me hace sano"
+    },
+    {
+     "ini": 571.68,
+     "fin": 572.28,
+     "texto": "y veo yo"
+    },
+    {
+     "ini": 572.28,
+     "fin": 572.92,
+     "texto": "que está correcto"
+    },
+    {
+     "ini": 572.92,
+     "fin": 575.48,
+     "texto": "es arriba de 50 % siempre"
+    },
+    {
+     "ini": 575.48,
+     "fin": 577.32,
+     "texto": "y un 60 %"
+    },
+    {
+     "ini": 577.32,
+     "fin": 579.12,
+     "texto": "se me hace que es"
+    },
+    {
+     "ini": 579.12,
+     "fin": 581.2,
+     "texto": "algo sumamente sano,"
+    },
+    {
+     "ini": 581.2,
+     "fin": 582.64,
+     "texto": "pero esta parte"
+    },
+    {
+     "ini": 582.64,
+     "fin": 584.16,
+     "texto": "de zona de selección,"
+    },
+    {
+     "ini": 584.16,
+     "fin": 587.48,
+     "texto": "entre más"
+    },
+    {
+     "ini": 587.48,
+     "fin": 591.72,
+     "texto": "en crecimiento rápido estés,"
+    },
+    {
+     "ini": 591.72,
+     "fin": 593.92,
+     "texto": "más suave o menos pasos"
+    },
+    {
+     "ini": 593.92,
+     "fin": 596.92,
+     "texto": "debería de tener esta parte."
+    },
+    {
+     "ini": 596.92,
+     "fin": 599.0,
+     "texto": "Si eres clase alta selectiva"
+    },
+    {
+     "ini": 599.0,
+     "fin": 600.8,
+     "texto": "o clase media selectiva,"
+    },
+    {
+     "ini": 600.8,
+     "fin": 604.08,
+     "texto": "puedes irlo complicando"
+    },
+    {
+     "ini": 604.08,
+     "fin": 605.2,
+     "texto": "un poco más,"
+    },
+    {
+     "ini": 605.2,
+     "fin": 606.64,
+     "texto": "pero si no tienes"
+    },
+    {
+     "ini": 606.64,
+     "fin": 607.68,
+     "texto": "lista de espera"
+    },
+    {
+     "ini": 607.68,
+     "fin": 609.48,
+     "texto": "o si estás en expansión,"
+    },
+    {
+     "ini": 609.48,
+     "fin": 610.48,
+     "texto": "suavízalo,"
+    },
+    {
+     "ini": 610.48,
+     "fin": 612.56,
+     "texto": "quita procesos"
+    },
+    {
+     "ini": 612.56,
+     "fin": 613.32,
+     "texto": "y luego los vuelves"
+    },
+    {
+     "ini": 613.32,
+     "fin": 615.16,
+     "texto": "a poner, pero quita procesos,"
+    },
+    {
+     "ini": 615.16,
+     "fin": 616.32,
+     "texto": "creces más rápido"
+    },
+    {
+     "ini": 616.32,
+     "fin": 617.12,
+     "texto": "y luego les vuelves"
+    },
+    {
+     "ini": 617.12,
+     "fin": 617.92,
+     "texto": "a agregar los procesos"
+    },
+    {
+     "ini": 617.92,
+     "fin": 619.12,
+     "texto": "y es totalmente válido."
+    }
+   ]
+  },
+  {
+   "ini": 435.99,
+   "fin": 461.12,
+   "gancho": [
+    "No es marketing,",
+    "no es admisiones.",
+    "Es el proceso"
+   ],
+   "enfasis": [
+    "Duele",
+    "inscribirse contigo",
+    "competencia",
+    "marketing",
+    "admisiones",
+    "nadie",
+    "proceso"
+   ],
+   "frase": "No es culpa de nadie: es culpa del proceso",
+   "descripcion": "La familia quería inscribirse contigo, llegó lejos y la perdiste por algo complicado en el camino.\nNo es culpa de la competencia, ni de marketing, ni de admisiones: es culpa del proceso, y el proceso se arregla.\n#Admisiones #ColegiosPrivados #Proceso",
+   "cara": 445,
+   "tema": "culpa del proceso",
+   "por_que": "Arranca con emoción (duele), quita la culpa a las personas y la pone en el proceso: una frase que un director repite en su siguiente junta.",
+   "trozos": [
+    {
+     "ini": 436.24,
+     "fin": 437.56,
+     "texto": "Duele porque la persona"
+    },
+    {
+     "ini": 437.56,
+     "fin": 439.2,
+     "texto": "quería inscribirse contigo"
+    },
+    {
+     "ini": 439.2,
+     "fin": 441.08,
+     "texto": "y deseó inscribirse contigo"
+    },
+    {
+     "ini": 441.08,
+     "fin": 442.72,
+     "texto": "y fíjate hasta qué parte"
+    },
+    {
+     "ini": 442.72,
+     "fin": 444.56,
+     "texto": "del proceso ha llegado"
+    },
+    {
+     "ini": 444.56,
+     "fin": 445.76,
+     "texto": "y de repente"
+    },
+    {
+     "ini": 445.76,
+     "fin": 447.44,
+     "texto": "hay cosas bien complicadas"
+    },
+    {
+     "ini": 447.44,
+     "fin": 448.68,
+     "texto": "que pierden el prospecto"
+    },
+    {
+     "ini": 448.68,
+     "fin": 449.28,
+     "texto": "y yo digo:"
+    },
+    {
+     "ini": 449.28,
+     "fin": 449.72,
+     "texto": "no es culpa"
+    },
+    {
+     "ini": 449.72,
+     "fin": 451.16,
+     "texto": "ni de competencia,"
+    },
+    {
+     "ini": 451.16,
+     "fin": 453.08,
+     "texto": "no es culpa de marketing,"
+    },
+    {
+     "ini": 453.08,
+     "fin": 456.52,
+     "texto": "no es culpa de admisiones,"
+    },
+    {
+     "ini": 456.52,
+     "fin": 457.32,
+     "texto": "no es culpa de nadie,"
+    },
+    {
+     "ini": 457.32,
+     "fin": 458.64,
+     "texto": "es culpa del proceso."
+    },
+    {
+     "ini": 458.64,
+     "fin": 460.2,
+     "texto": "Entonces, hay que arreglar"
+    },
+    {
+     "ini": 460.2,
+     "fin": 461.12,
+     "texto": "ese proceso."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

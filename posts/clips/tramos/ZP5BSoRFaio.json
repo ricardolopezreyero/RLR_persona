@@ -1,0 +1,700 @@
+{
+ "id": "ZP5BSoRFaio",
+ "tramos": [
+  {
+   "ini": 167.95,
+   "fin": 224.26,
+   "trozos": [
+    {
+     "ini": 168.2,
+     "fin": 169.04,
+     "texto": "¿Y cuánto vale"
+    },
+    {
+     "ini": 169.04,
+     "fin": 169.48,
+     "texto": "un alumno"
+    },
+    {
+     "ini": 169.48,
+     "fin": 170.2,
+     "texto": "que no inscribiste?"
+    },
+    {
+     "ini": 170.2,
+     "fin": 171.32,
+     "texto": "Porque muchas veces"
+    },
+    {
+     "ini": 171.32,
+     "fin": 173.2,
+     "texto": "minimizamos los problemas."
+    },
+    {
+     "ini": 173.2,
+     "fin": 175.28,
+     "texto": "Lo que parece costar"
+    },
+    {
+     "ini": 175.28,
+     "fin": 176.0,
+     "texto": "un alumno"
+    },
+    {
+     "ini": 176.0,
+     "fin": 177.48,
+     "texto": "en realidad son"
+    },
+    {
+     "ini": 177.48,
+     "fin": 179.76,
+     "texto": "60 meses de ingresos"
+    },
+    {
+     "ini": 179.76,
+     "fin": 181.48,
+     "texto": "si estás en primaria,"
+    },
+    {
+     "ini": 181.48,
+     "fin": 183.76,
+     "texto": "48 si estás"
+    },
+    {
+     "ini": 183.76,
+     "fin": 185.04,
+     "texto": "en universidad,"
+    },
+    {
+     "ini": 185.04,
+     "fin": 186.72,
+     "texto": "y 30 si estás"
+    },
+    {
+     "ini": 186.72,
+     "fin": 188.44,
+     "texto": "en prepas, dependiendo,"
+    },
+    {
+     "ini": 188.44,
+     "fin": 189.36,
+     "texto": "pero 60"
+    },
+    {
+     "ini": 189.36,
+     "fin": 191.12,
+     "texto": "si estás en primaria."
+    },
+    {
+     "ini": 191.12,
+     "fin": 192.44,
+     "texto": "Pero no es todo,"
+    },
+    {
+     "ini": 192.44,
+     "fin": 193.12,
+     "texto": "ese es el dolor"
+    },
+    {
+     "ini": 193.12,
+     "fin": 193.92,
+     "texto": "más grande:"
+    },
+    {
+     "ini": 193.92,
+     "fin": 195.04,
+     "texto": "si en algún punto"
+    },
+    {
+     "ini": 195.04,
+     "fin": 196.6,
+     "texto": "deseas vender,"
+    },
+    {
+     "ini": 196.6,
+     "fin": 198.04,
+     "texto": "normalmente eso es"
+    },
+    {
+     "ini": 198.04,
+     "fin": 199.24,
+     "texto": "por 7 años,"
+    },
+    {
+     "ini": 199.24,
+     "fin": 202.76,
+     "texto": "es 7 años de valor"
+    },
+    {
+     "ini": 202.76,
+     "fin": 203.92,
+     "texto": "por cada alumno."
+    },
+    {
+     "ini": 203.92,
+     "fin": 204.68,
+     "texto": "Entonces pierdes"
+    },
+    {
+     "ini": 204.68,
+     "fin": 207.52,
+     "texto": "84 meses de valor"
+    },
+    {
+     "ini": 207.52,
+     "fin": 208.04,
+     "texto": "en el momento"
+    },
+    {
+     "ini": 208.04,
+     "fin": 209.04,
+     "texto": "que quieras vender."
+    },
+    {
+     "ini": 209.04,
+     "fin": 211.04,
+     "texto": "Entonces, en ingresos pierdes"
+    },
+    {
+     "ini": 211.04,
+     "fin": 212.4,
+     "texto": "y en valor pierdes."
+    },
+    {
+     "ini": 212.4,
+     "fin": 213.96,
+     "texto": "Un alumno"
+    },
+    {
+     "ini": 213.96,
+     "fin": 215.6,
+     "texto": "en el tema educativo"
+    },
+    {
+     "ini": 215.6,
+     "fin": 217.04,
+     "texto": "es valiosísimo"
+    },
+    {
+     "ini": 217.04,
+     "fin": 218.76,
+     "texto": "y tienes que hacer"
+    },
+    {
+     "ini": 218.76,
+     "fin": 220.32,
+     "texto": "todo lo posible"
+    },
+    {
+     "ini": 220.32,
+     "fin": 221.52,
+     "texto": "para que se inscriba"
+    },
+    {
+     "ini": 221.52,
+     "fin": 222.6,
+     "texto": "una vez que la persona"
+    },
+    {
+     "ini": 222.6,
+     "fin": 224.26,
+     "texto": "ya dijo que quiere inscribirse."
+    }
+   ],
+   "gancho": [
+    "Un alumno perdido",
+    "no cuesta uno:",
+    "cuesta 60 meses"
+   ],
+   "enfasis": [
+    "60 meses",
+    "48",
+    "30",
+    "7 años",
+    "84 meses",
+    "valiosísimo"
+   ],
+   "frase": "Cuánto vale un alumno que no inscribiste",
+   "descripcion": "Un alumno que no inscribes son 60 meses de ingresos en primaria, 48 en universidad, 30 en prepa.\nY si algún día vendes el colegio, son 84 meses de valor que ya no están.\n#Admisiones #ColegiosPrivados #ValorDelAlumno",
+   "cara": 190,
+   "tema": "valor del alumno",
+   "por_que": "Pone cifras a lo que un director minimiza: cada alumno perdido vale 60 meses de ingresos y 84 de valor; cierra con remate claro."
+  },
+  {
+   "ini": 63.75,
+   "fin": 116.88,
+   "trozos": [
+    {
+     "ini": 64.0,
+     "fin": 64.96,
+     "texto": "Cada ciclo escolar"
+    },
+    {
+     "ini": 64.96,
+     "fin": 66.52,
+     "texto": "pasa lo mismo."
+    },
+    {
+     "ini": 66.52,
+     "fin": 67.52,
+     "texto": "En enero:"
+    },
+    {
+     "ini": 67.52,
+     "fin": 69.64,
+     "texto": "¿cuántos prospectos tenemos?"
+    },
+    {
+     "ini": 69.64,
+     "fin": 70.92,
+     "texto": "Luego febrero:"
+    },
+    {
+     "ini": 70.92,
+     "fin": 71.96,
+     "texto": "equipo saturado,"
+    },
+    {
+     "ini": 71.96,
+     "fin": 73.28,
+     "texto": "todo mundo apurado,"
+    },
+    {
+     "ini": 73.28,
+     "fin": 73.92,
+     "texto": "ven las caras"
+    },
+    {
+     "ini": 73.92,
+     "fin": 74.6,
+     "texto": "de todo mundo"
+    },
+    {
+     "ini": 74.6,
+     "fin": 76.28,
+     "texto": "así de que ah,"
+    },
+    {
+     "ini": 76.28,
+     "fin": 77.76,
+     "texto": "gritando un poquito,"
+    },
+    {
+     "ini": 77.76,
+     "fin": 79.48,
+     "texto": "seguimiento perdido"
+    },
+    {
+     "ini": 79.48,
+     "fin": 80.2,
+     "texto": "y luego ahí es"
+    },
+    {
+     "ini": 80.2,
+     "fin": 80.96,
+     "texto": "cuando preguntan"
+    },
+    {
+     "ini": 80.96,
+     "fin": 81.88,
+     "texto": "el cómo vamos"
+    },
+    {
+     "ini": 81.88,
+     "fin": 82.72,
+     "texto": "y nadie tiene idea"
+    },
+    {
+     "ini": 82.72,
+     "fin": 84.2,
+     "texto": "realmente de cómo van."
+    },
+    {
+     "ini": 84.2,
+     "fin": 85.84,
+     "texto": "Marzo: familias"
+    },
+    {
+     "ini": 85.84,
+     "fin": 87.0,
+     "texto": "que se enfrían solas."
+    },
+    {
+     "ini": 87.0,
+     "fin": 88.36,
+     "texto": "Agosto: salones"
+    },
+    {
+     "ini": 88.36,
+     "fin": 89.6,
+     "texto": "con lugares vacíos,"
+    },
+    {
+     "ini": 89.6,
+     "fin": 90.88,
+     "texto": "con sillas vacías."
+    },
+    {
+     "ini": 90.88,
+     "fin": 91.96,
+     "texto": "Ver una silla vacía"
+    },
+    {
+     "ini": 91.96,
+     "fin": 93.76,
+     "texto": "es espantoso,"
+    },
+    {
+     "ini": 93.76,
+     "fin": 94.88,
+     "texto": "porque significa"
+    },
+    {
+     "ini": 94.88,
+     "fin": 95.72,
+     "texto": "que se fue"
+    },
+    {
+     "ini": 95.72,
+     "fin": 97.0,
+     "texto": "a la competencia."
+    },
+    {
+     "ini": 97.0,
+     "fin": 102.04,
+     "texto": "O sea, ver una silla vacía"
+    },
+    {
+     "ini": 102.04,
+     "fin": 105.12,
+     "texto": "no está bonito, la verdad."
+    },
+    {
+     "ini": 105.12,
+     "fin": 106.0,
+     "texto": "Y septiembre:"
+    },
+    {
+     "ini": 106.0,
+     "fin": 106.88,
+     "texto": "el año que viene"
+    },
+    {
+     "ini": 106.88,
+     "fin": 107.48,
+     "texto": "le vamos a meter"
+    },
+    {
+     "ini": 107.48,
+     "fin": 108.24,
+     "texto": "más publicidad"
+    },
+    {
+     "ini": 108.24,
+     "fin": 109.0,
+     "texto": "y el año que viene"
+    },
+    {
+     "ini": 109.0,
+     "fin": 110.28,
+     "texto": "sí vamos a llenar."
+    },
+    {
+     "ini": 110.28,
+     "fin": 111.08,
+     "texto": "Y se vuelve a repetir"
+    },
+    {
+     "ini": 111.08,
+     "fin": 112.24,
+     "texto": "el mismo ciclo."
+    },
+    {
+     "ini": 112.24,
+     "fin": 113.4,
+     "texto": "La rueda gira,"
+    },
+    {
+     "ini": 113.4,
+     "fin": 114.6,
+     "texto": "el tiempo avanza,"
+    },
+    {
+     "ini": 114.6,
+     "fin": 116.16,
+     "texto": "o sea, la rueda gira,"
+    },
+    {
+     "ini": 116.16,
+     "fin": 116.88,
+     "texto": "pero no avanza."
+    }
+   ],
+   "gancho": [
+    "Cada ciclo escolar",
+    "pasa lo mismo:",
+    "la rueda no avanza"
+   ],
+   "enfasis": [
+    "saturado",
+    "enfrían",
+    "silla vacía",
+    "competencia",
+    "más publicidad",
+    "mismo ciclo",
+    "no avanza"
+   ],
+   "frase": "El ciclo que se repite cada año en tu colegio",
+   "descripcion": "Enero sin saber cuántos prospectos hay, febrero con el equipo saturado, marzo con familias que se enfrían y agosto con sillas vacías.\nSeptiembre: «el año que viene le metemos más publicidad». Y la rueda gira, pero no avanza.\n#Admisiones #ColegiosPrivados #CicloEscolar",
+   "cara": 110,
+   "tema": "ciclo escolar",
+   "por_que": "Historia mes a mes que cualquier director reconoce como suya, con remate memorable: la rueda gira pero no avanza."
+  },
+  {
+   "ini": 465.95,
+   "fin": 533.82,
+   "trozos": [
+    {
+     "ini": 466.2,
+     "fin": 467.92,
+     "texto": "Son tres componentes"
+    },
+    {
+     "ini": 467.92,
+     "fin": 468.92,
+     "texto": "que si quitas uno,"
+    },
+    {
+     "ini": 468.92,
+     "fin": 470.2,
+     "texto": "todo colapsa."
+    },
+    {
+     "ini": 470.2,
+     "fin": 471.56,
+     "texto": "Primero es la tecnología:"
+    },
+    {
+     "ini": 471.56,
+     "fin": 471.96,
+     "texto": "tiene que ser"
+    },
+    {
+     "ini": 471.96,
+     "fin": 473.16,
+     "texto": "la tecnología correcta,"
+    },
+    {
+     "ini": 473.16,
+     "fin": 473.76,
+     "texto": "con un CRM"
+    },
+    {
+     "ini": 473.76,
+     "fin": 476.28,
+     "texto": "especializado en educación."
+    },
+    {
+     "ini": 476.28,
+     "fin": 477.0,
+     "texto": "Pero la tecnología"
+    },
+    {
+     "ini": 477.0,
+     "fin": 478.08,
+     "texto": "es la base nada más;"
+    },
+    {
+     "ini": 478.08,
+     "fin": 478.56,
+     "texto": "luego sigue"
+    },
+    {
+     "ini": 478.56,
+     "fin": 480.36,
+     "texto": "la metodología."
+    },
+    {
+     "ini": 480.36,
+     "fin": 482.8,
+     "texto": "Si tú automatizas"
+    },
+    {
+     "ini": 482.8,
+     "fin": 485.44,
+     "texto": "los procesos"
+    },
+    {
+     "ini": 485.44,
+     "fin": 487.24,
+     "texto": "que hoy está haciendo"
+    },
+    {
+     "ini": 487.24,
+     "fin": 489.92,
+     "texto": "la gente de admisiones,"
+    },
+    {
+     "ini": 489.92,
+     "fin": 491.72,
+     "texto": "posiblemente vas"
+    },
+    {
+     "ini": 491.72,
+     "fin": 493.76,
+     "texto": "a automatizar desorden."
+    },
+    {
+     "ini": 493.76,
+     "fin": 497.16,
+     "texto": "Entonces, automatizado"
+    },
+    {
+     "ini": 497.16,
+     "fin": 498.32,
+     "texto": "pero desorden,"
+    },
+    {
+     "ini": 498.32,
+     "fin": 499.72,
+     "texto": "entonces no ayuda,"
+    },
+    {
+     "ini": 499.72,
+     "fin": 501.56,
+     "texto": "porque no es lo correcto."
+    },
+    {
+     "ini": 501.56,
+     "fin": 503.28,
+     "texto": "Lo correcto es"
+    },
+    {
+     "ini": 503.28,
+     "fin": 504.52,
+     "texto": "que tengas automatizada"
+    },
+    {
+     "ini": 504.52,
+     "fin": 505.6,
+     "texto": "una metodología,"
+    },
+    {
+     "ini": 505.6,
+     "fin": 506.88,
+     "texto": "es diferente."
+    },
+    {
+     "ini": 506.88,
+     "fin": 508.08,
+     "texto": "Entonces es tecnología"
+    },
+    {
+     "ini": 508.08,
+     "fin": 509.04,
+     "texto": "más metodología,"
+    },
+    {
+     "ini": 509.04,
+     "fin": 510.8,
+     "texto": "que es: tuvimos que desarrollar"
+    },
+    {
+     "ini": 510.8,
+     "fin": 511.96,
+     "texto": "un método comercial"
+    },
+    {
+     "ini": 511.96,
+     "fin": 514.96,
+     "texto": "probado con colegios reales,"
+    },
+    {
+     "ini": 514.96,
+     "fin": 516.2,
+     "texto": "con datos reales,"
+    },
+    {
+     "ini": 516.2,
+     "fin": 517.32,
+     "texto": "con estadísticas reales,"
+    },
+    {
+     "ini": 517.32,
+     "fin": 518.36,
+     "texto": "para que funcione."
+    },
+    {
+     "ini": 518.36,
+     "fin": 520.0,
+     "texto": "Pero aparte, soporte."
+    },
+    {
+     "ini": 520.0,
+     "fin": 521.32,
+     "texto": "Porque los sistemas se caen,"
+    },
+    {
+     "ini": 521.32,
+     "fin": 522.56,
+     "texto": "los sistemas se mueven,"
+    },
+    {
+     "ini": 522.56,
+     "fin": 525.2,
+     "texto": "la tecnología evoluciona;"
+    },
+    {
+     "ini": 525.2,
+     "fin": 525.76,
+     "texto": "entonces tienes que"
+    },
+    {
+     "ini": 525.76,
+     "fin": 527.04,
+     "texto": "meterle soporte."
+    },
+    {
+     "ini": 527.04,
+     "fin": 528.6,
+     "texto": "Y estas tres cosas"
+    },
+    {
+     "ini": 528.6,
+     "fin": 531.12,
+     "texto": "juntas hacen un sistema"
+    },
+    {
+     "ini": 531.12,
+     "fin": 532.32,
+     "texto": "que es inscripciones"
+    },
+    {
+     "ini": 532.32,
+     "fin": 533.82,
+     "texto": "predecibles y controlables."
+    }
+   ],
+   "gancho": [
+    "Un CRM solo",
+    "automatiza",
+    "el desorden"
+   ],
+   "enfasis": [
+    "tres componentes",
+    "todo colapsa",
+    "CRM",
+    "metodología",
+    "automatizar desorden",
+    "soporte",
+    "predecibles"
+   ],
+   "frase": "Tecnología, metodología y soporte: quita uno y colapsa",
+   "descripcion": "Un CRM solo es la base. Si automatizas lo que hoy hace tu equipo de admisiones, automatizas desorden.\nTecnología, metodología probada y soporte: tres piezas que juntas hacen inscripciones predecibles.\n#Admisiones #ColegiosPrivados #Metodología",
+   "cara": 495,
+   "tema": "metodología",
+   "por_que": "La idea de «automatizar desorden» es la que un director recuerda; tres piezas con cierre en inscripciones predecibles."
+  }
+ ],
+ "sin_tramos_por": null
+}

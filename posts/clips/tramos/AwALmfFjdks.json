@@ -1,0 +1,663 @@
+{
+ "id": "AwALmfFjdks",
+ "tramos": [
+  {
+   "ini": 432.35,
+   "fin": 491.7,
+   "trozos": [
+    {
+     "ini": 432.6,
+     "fin": 433.8,
+     "texto": "El dueño de un colegio"
+    },
+    {
+     "ini": 433.8,
+     "fin": 435.49,
+     "texto": "quiere pagarle muy bien"
+    },
+    {
+     "ini": 435.49,
+     "fin": 436.51,
+     "texto": "a su gente,"
+    },
+    {
+     "ini": 436.51,
+     "fin": 438.14,
+     "texto": "porque es talento."
+    },
+    {
+     "ini": 438.14,
+     "fin": 439.73,
+     "texto": "Pero muchas veces"
+    },
+    {
+     "ini": 439.73,
+     "fin": 441.0,
+     "texto": "no tiene el recurso,"
+    },
+    {
+     "ini": 441.0,
+     "fin": 442.74,
+     "texto": "porque le faltan alumnos,"
+    },
+    {
+     "ini": 442.74,
+     "fin": 443.67,
+     "texto": "porque le falta"
+    },
+    {
+     "ini": 443.67,
+     "fin": 445.89,
+     "texto": "un proceso de inscripciones."
+    },
+    {
+     "ini": 445.89,
+     "fin": 446.67,
+     "texto": "Claro. Entonces"
+    },
+    {
+     "ini": 446.67,
+     "fin": 448.73,
+     "texto": "no es que no quieran,"
+    },
+    {
+     "ini": 448.73,
+     "fin": 449.44,
+     "texto": "es que no pueden."
+    },
+    {
+     "ini": 449.44,
+     "fin": 451.83,
+     "texto": "Entonces es bien importante"
+    },
+    {
+     "ini": 451.83,
+     "fin": 453.84,
+     "texto": "ser conscientes de que"
+    },
+    {
+     "ini": 453.84,
+     "fin": 455.8,
+     "texto": "a mayor ocupación,"
+    },
+    {
+     "ini": 455.8,
+     "fin": 458.75,
+     "texto": "mayor dinero para todos,"
+    },
+    {
+     "ini": 458.75,
+     "fin": 460.08,
+     "texto": "para todos."
+    },
+    {
+     "ini": 460.08,
+     "fin": 461.95,
+     "texto": "Y los papás quieren"
+    },
+    {
+     "ini": 461.95,
+     "fin": 462.85,
+     "texto": "que al colegio"
+    },
+    {
+     "ini": 462.85,
+     "fin": 463.94,
+     "texto": "le vaya bien."
+    },
+    {
+     "ini": 463.94,
+     "fin": 466.24,
+     "texto": "El papá y el alumno"
+    },
+    {
+     "ini": 466.24,
+     "fin": 468.31,
+     "texto": "es el más interesado"
+    },
+    {
+     "ini": 468.31,
+     "fin": 469.96,
+     "texto": "de todos"
+    },
+    {
+     "ini": 469.96,
+     "fin": 470.82,
+     "texto": "que al colegio"
+    },
+    {
+     "ini": 470.82,
+     "fin": 471.46,
+     "texto": "le vaya bien,"
+    },
+    {
+     "ini": 471.46,
+     "fin": 472.44,
+     "texto": "porque si al colegio"
+    },
+    {
+     "ini": 472.44,
+     "fin": 472.92,
+     "texto": "le va bien,"
+    },
+    {
+     "ini": 472.92,
+     "fin": 474.04,
+     "texto": "sus instalaciones"
+    },
+    {
+     "ini": 474.04,
+     "fin": 474.8,
+     "texto": "van a estar padres,"
+    },
+    {
+     "ini": 474.8,
+     "fin": 475.55,
+     "texto": "van a estar"
+    },
+    {
+     "ini": 475.55,
+     "fin": 477.23,
+     "texto": "con buen mantenimiento."
+    },
+    {
+     "ini": 477.23,
+     "fin": 479.84,
+     "texto": "Todo mundo queremos"
+    },
+    {
+     "ini": 479.84,
+     "fin": 480.75,
+     "texto": "que a un colegio"
+    },
+    {
+     "ini": 480.75,
+     "fin": 482.68,
+     "texto": "le vaya increíblemente bien."
+    },
+    {
+     "ini": 482.68,
+     "fin": 483.71,
+     "texto": "Porque no estás"
+    },
+    {
+     "ini": 483.71,
+     "fin": 484.51,
+     "texto": "en el colegio"
+    },
+    {
+     "ini": 484.51,
+     "fin": 486.75,
+     "texto": "nada más por el dinero,"
+    },
+    {
+     "ini": 486.75,
+     "fin": 488.0,
+     "texto": "estás por la actividad"
+    },
+    {
+     "ini": 488.0,
+     "fin": 488.87,
+     "texto": "de enseñar,"
+    },
+    {
+     "ini": 488.87,
+     "fin": 489.96,
+     "texto": "por la actividad"
+    },
+    {
+     "ini": 489.96,
+     "fin": 491.7,
+     "texto": "de transformar vidas."
+    }
+   ],
+   "gancho": [
+    "Quiere pagar bien",
+    "y no puede",
+    "le faltan alumnos"
+   ],
+   "enfasis": [
+    "talento",
+    "no pueden",
+    "mayor ocupación",
+    "mayor dinero",
+    "más interesado",
+    "transformar vidas"
+   ],
+   "frase": "Quiere pagarle bien a su gente, pero le faltan alumnos",
+   "descripcion": "El dueño de un colegio quiere pagarle bien a su gente y muchas veces no puede.\nA mayor ocupación, más dinero para todos: maestros, papás y alumnos.\n#Admisiones #ColegiosPrivados #Ocupacion",
+   "cara": 480,
+   "tema": "ocupación y sueldos",
+   "por_que": "Tensión completa (quiere pagar bien y no puede), causa concreta (alumnos y proceso) y remate que todo director comparte: transformar vidas."
+  },
+  {
+   "ini": 600.86,
+   "fin": 651.91,
+   "trozos": [
+    {
+     "ini": 601.11,
+     "fin": 603.19,
+     "texto": "Hay dos tipos de negocio:"
+    },
+    {
+     "ini": 603.19,
+     "fin": 604.19,
+     "texto": "los de soft cost"
+    },
+    {
+     "ini": 604.19,
+     "fin": 605.52,
+     "texto": "y los de hard cost."
+    },
+    {
+     "ini": 605.52,
+     "fin": 607.37,
+     "texto": "Los de soft cost"
+    },
+    {
+     "ini": 607.37,
+     "fin": 608.68,
+     "texto": "son los que"
+    },
+    {
+     "ini": 608.68,
+     "fin": 610.07,
+     "texto": "no tienes inventario,"
+    },
+    {
+     "ini": 610.07,
+     "fin": 611.32,
+     "texto": "que no tienes maquinaria:"
+    },
+    {
+     "ini": 611.32,
+     "fin": 612.68,
+     "texto": "empresas de software,"
+    },
+    {
+     "ini": 612.68,
+     "fin": 614.41,
+     "texto": "empresas tipo SuperLeads."
+    },
+    {
+     "ini": 614.41,
+     "fin": 616.06,
+     "texto": "Y las de hard cost"
+    },
+    {
+     "ini": 616.06,
+     "fin": 617.6,
+     "texto": "que son hospitales,"
+    },
+    {
+     "ini": 617.6,
+     "fin": 618.84,
+     "texto": "colegios, hoteles."
+    },
+    {
+     "ini": 618.84,
+     "fin": 620.81,
+     "texto": "Entonces el hard cost"
+    },
+    {
+     "ini": 620.81,
+     "fin": 622.86,
+     "texto": "necesita más todavía"
+    },
+    {
+     "ini": 622.86,
+     "fin": 623.68,
+     "texto": "el dinero,"
+    },
+    {
+     "ini": 623.68,
+     "fin": 625.92,
+     "texto": "porque le cuesta comprar"
+    },
+    {
+     "ini": 625.92,
+     "fin": 627.36,
+     "texto": "todos los activos"
+    },
+    {
+     "ini": 627.36,
+     "fin": 628.42,
+     "texto": "que necesita"
+    },
+    {
+     "ini": 628.42,
+     "fin": 629.76,
+     "texto": "para poderle dar"
+    },
+    {
+     "ini": 629.76,
+     "fin": 630.88,
+     "texto": "a sus alumnos,"
+    },
+    {
+     "ini": 630.88,
+     "fin": 631.9,
+     "texto": "y eso cuesta."
+    },
+    {
+     "ini": 631.9,
+     "fin": 633.61,
+     "texto": "Entonces es bien importante"
+    },
+    {
+     "ini": 633.61,
+     "fin": 634.71,
+     "texto": "buscar la máxima"
+    },
+    {
+     "ini": 634.71,
+     "fin": 636.24,
+     "texto": "rentabilidad posible"
+    },
+    {
+     "ini": 636.24,
+     "fin": 638.11,
+     "texto": "para que lo puedas adquirir,"
+    },
+    {
+     "ini": 638.11,
+     "fin": 639.25,
+     "texto": "todo eso que está"
+    },
+    {
+     "ini": 639.25,
+     "fin": 640.07,
+     "texto": "en proyecto,"
+    },
+    {
+     "ini": 640.07,
+     "fin": 641.04,
+     "texto": "para que se los"
+    },
+    {
+     "ini": 641.04,
+     "fin": 642.41,
+     "texto": "pueda dar a tus alumnos."
+    },
+    {
+     "ini": 642.41,
+     "fin": 643.39,
+     "texto": "Y luego más alumnos"
+    },
+    {
+     "ini": 643.39,
+     "fin": 644.0,
+     "texto": "van a querer"
+    },
+    {
+     "ini": 644.0,
+     "fin": 644.92,
+     "texto": "estudiar contigo,"
+    },
+    {
+     "ini": 644.92,
+     "fin": 645.99,
+     "texto": "y luego te vuelven"
+    },
+    {
+     "ini": 645.99,
+     "fin": 646.54,
+     "texto": "más rentable,"
+    },
+    {
+     "ini": 646.54,
+     "fin": 647.51,
+     "texto": "y luego puedes comprar"
+    },
+    {
+     "ini": 647.51,
+     "fin": 647.93,
+     "texto": "más cosas,"
+    },
+    {
+     "ini": 647.93,
+     "fin": 648.8,
+     "texto": "y luego más alumnos"
+    },
+    {
+     "ini": 648.8,
+     "fin": 650.25,
+     "texto": "quieren entrar contigo."
+    },
+    {
+     "ini": 650.25,
+     "fin": 650.74,
+     "texto": "Entonces es"
+    },
+    {
+     "ini": 650.74,
+     "fin": 651.91,
+     "texto": "un círculo virtuoso."
+    }
+   ],
+   "gancho": [
+    "Tu colegio",
+    "es un negocio",
+    "de hard cost"
+   ],
+   "enfasis": [
+    "soft cost",
+    "hard cost",
+    "activos",
+    "rentabilidad posible",
+    "más rentable",
+    "círculo virtuoso"
+   ],
+   "frase": "Tu colegio es hard cost: por eso necesita más rentabilidad",
+   "descripcion": "Software es soft cost; hospitales, hoteles y colegios son hard cost.\nPor eso un colegio necesita la máxima rentabilidad para reinvertir en sus alumnos.\n#Admisiones #ColegiosPrivados #Rentabilidad",
+   "cara": 645,
+   "tema": "rentabilidad hard cost",
+   "por_que": "Concepto nuevo y memorable (soft cost vs hard cost) explicado completo, con ejemplos concretos y cierre en círculo virtuoso."
+  },
+  {
+   "ini": 508.39,
+   "fin": 558.22,
+   "trozos": [
+    {
+     "ini": 508.64,
+     "fin": 509.52,
+     "texto": "Si el colegio"
+    },
+    {
+     "ini": 509.52,
+     "fin": 510.4,
+     "texto": "es de abajo"
+    },
+    {
+     "ini": 510.4,
+     "fin": 511.72,
+     "texto": "de 900 alumnos"
+    },
+    {
+     "ini": 511.72,
+     "fin": 513.73,
+     "texto": "o abajo de 800 alumnos,"
+    },
+    {
+     "ini": 513.73,
+     "fin": 515.16,
+     "texto": "en mi forma de pensar"
+    },
+    {
+     "ini": 515.16,
+     "fin": 516.24,
+     "texto": "no debería existir"
+    },
+    {
+     "ini": 516.24,
+     "fin": 517.85,
+     "texto": "un solo pretexto,"
+    },
+    {
+     "ini": 517.85,
+     "fin": 518.79,
+     "texto": "pero literal uno,"
+    },
+    {
+     "ini": 518.79,
+     "fin": 519.73,
+     "texto": "para que no tenga"
+    },
+    {
+     "ini": 519.73,
+     "fin": 520.68,
+     "texto": "lista de espera"
+    },
+    {
+     "ini": 520.68,
+     "fin": 521.69,
+     "texto": "en un país"
+    },
+    {
+     "ini": 521.69,
+     "fin": 523.4,
+     "texto": "al menos como México,"
+    },
+    {
+     "ini": 523.4,
+     "fin": 524.77,
+     "texto": "que, qué barbaridad,"
+    },
+    {
+     "ini": 524.77,
+     "fin": 526.4,
+     "texto": "la educación pública."
+    },
+    {
+     "ini": 526.4,
+     "fin": 528.71,
+     "texto": "Entonces, literal,"
+    },
+    {
+     "ini": 528.71,
+     "fin": 530.47,
+     "texto": "los colegios privados"
+    },
+    {
+     "ini": 530.47,
+     "fin": 531.92,
+     "texto": "son ángeles caídos"
+    },
+    {
+     "ini": 531.92,
+     "fin": 534.19,
+     "texto": "haciendo una labor increíble"
+    },
+    {
+     "ini": 534.19,
+     "fin": 535.78,
+     "texto": "y educando gente"
+    },
+    {
+     "ini": 535.78,
+     "fin": 537.68,
+     "texto": "con instalaciones"
+    },
+    {
+     "ini": 537.68,
+     "fin": 539.24,
+     "texto": "con lo mejor que pueden,"
+    },
+    {
+     "ini": 539.24,
+     "fin": 541.13,
+     "texto": "con maestros, con sonrisas,"
+    },
+    {
+     "ini": 541.13,
+     "fin": 541.97,
+     "texto": "con procesos"
+    },
+    {
+     "ini": 541.97,
+     "fin": 543.79,
+     "texto": "lo más eficientes posible."
+    },
+    {
+     "ini": 543.79,
+     "fin": 544.81,
+     "texto": "La gente"
+    },
+    {
+     "ini": 544.81,
+     "fin": 545.7,
+     "texto": "que está en"
+    },
+    {
+     "ini": 545.7,
+     "fin": 547.01,
+     "texto": "la educación privada,"
+    },
+    {
+     "ini": 547.01,
+     "fin": 547.81,
+     "texto": "y los dueños"
+    },
+    {
+     "ini": 547.81,
+     "fin": 549.07,
+     "texto": "y los directores"
+    },
+    {
+     "ini": 549.07,
+     "fin": 550.04,
+     "texto": "de los colegios"
+    },
+    {
+     "ini": 550.04,
+     "fin": 550.82,
+     "texto": "e instituciones"
+    },
+    {
+     "ini": 550.82,
+     "fin": 551.78,
+     "texto": "de educación privada"
+    },
+    {
+     "ini": 551.78,
+     "fin": 553.42,
+     "texto": "son ángeles, literal,"
+    },
+    {
+     "ini": 553.42,
+     "fin": 554.94,
+     "texto": "en un país"
+    },
+    {
+     "ini": 554.94,
+     "fin": 556.49,
+     "texto": "que los necesita"
+    },
+    {
+     "ini": 556.49,
+     "fin": 558.22,
+     "texto": "y súper agradece."
+    }
+   ],
+   "gancho": [
+    "Abajo de 900",
+    "alumnos no hay",
+    "un solo pretexto"
+   ],
+   "enfasis": [
+    "900 alumnos",
+    "un solo pretexto",
+    "lista de espera",
+    "México",
+    "ángeles",
+    "necesita"
+   ],
+   "frase": "Con menos de 900 alumnos, lista de espera sin pretextos",
+   "descripcion": "Un colegio con menos de 900 alumnos debería tener lista de espera, sin pretextos.\nLos colegios privados hacen una labor que México necesita y agradece.\n#Admisiones #ColegiosPrivados #ListaDeEspera",
+   "cara": 552,
+   "tema": "lista de espera",
+   "por_que": "Cifra y afirmación fuerte desde el primer segundo, mercado que la respalda y cierre que reconoce al director sin vender nada."
+  }
+ ],
+ "sin_tramos_por": null
+}

@@ -1,0 +1,676 @@
+{
+ "id": "aZggkBKgqrg",
+ "tramos": [
+  {
+   "ini": 594.75,
+   "fin": 642.1,
+   "gancho": [
+    "Hay papás que",
+    "se inscriben",
+    "por la graduación."
+   ],
+   "enfasis": [
+    "monetizar",
+    "pequeña mejora",
+    "mejor graduación",
+    "se inscriban",
+    "158 años",
+    "1,164",
+    "deleitas"
+   ],
+   "frase": "Cada año, la mejor graduación de la historia",
+   "descripcion": "La graduación muchos la dejan fuera. Si cada año la mejoras un poco, llega el día en que hay papás que se inscriben por ella.\nMi cliente más antiguo tiene 158 años: todo lo que haces lo vas a hacer muchos años.\n#Admisiones #ColegiosPrivados #Graduación",
+   "cara": 625,
+   "tema": "graduación",
+   "por_que": "Idea completa con dos cifras que se recuerdan (158 y 1,164 años), un contraste (lo que dejan fuera vs. lo que inscribe) y un remate sobre deleitar a largo plazo; sin venta ni índice.",
+   "trozos": [
+    {
+     "ini": 595.0,
+     "fin": 595.8,
+     "texto": "La graduación,"
+    },
+    {
+     "ini": 595.8,
+     "fin": 596.52,
+     "texto": "muchas veces"
+    },
+    {
+     "ini": 596.52,
+     "fin": 597.6,
+     "texto": "la dejan por fuera"
+    },
+    {
+     "ini": 597.6,
+     "fin": 598.08,
+     "texto": "y dicen: yo no"
+    },
+    {
+     "ini": 598.08,
+     "fin": 599.12,
+     "texto": "me encargo de eso."
+    },
+    {
+     "ini": 599.12,
+     "fin": 600.2,
+     "texto": "Válido, válido,"
+    },
+    {
+     "ini": 600.2,
+     "fin": 601.92,
+     "texto": "pero puedes monetizar"
+    },
+    {
+     "ini": 601.92,
+     "fin": 603.4,
+     "texto": "y aparte,"
+    },
+    {
+     "ini": 603.4,
+     "fin": 604.8,
+     "texto": "como todos los años"
+    },
+    {
+     "ini": 604.8,
+     "fin": 606.52,
+     "texto": "es lo mismo,"
+    },
+    {
+     "ini": 606.52,
+     "fin": 607.4,
+     "texto": "todos los años"
+    },
+    {
+     "ini": 607.4,
+     "fin": 607.88,
+     "texto": "puedes hacer"
+    },
+    {
+     "ini": 607.88,
+     "fin": 609.12,
+     "texto": "una pequeña mejora"
+    },
+    {
+     "ini": 609.12,
+     "fin": 610.28,
+     "texto": "y el siguiente,"
+    },
+    {
+     "ini": 610.28,
+     "fin": 611.08,
+     "texto": "y siempre vas a tener"
+    },
+    {
+     "ini": 611.08,
+     "fin": 612.0,
+     "texto": "la mejor graduación"
+    },
+    {
+     "ini": 612.0,
+     "fin": 613.0,
+     "texto": "de la historia."
+    },
+    {
+     "ini": 613.0,
+     "fin": 613.48,
+     "texto": "Y va a llegar"
+    },
+    {
+     "ini": 613.48,
+     "fin": 615.08,
+     "texto": "un punto en que"
+    },
+    {
+     "ini": 615.08,
+     "fin": 615.76,
+     "texto": "va a haber papás"
+    },
+    {
+     "ini": 615.76,
+     "fin": 616.32,
+     "texto": "que se inscriban"
+    },
+    {
+     "ini": 616.32,
+     "fin": 616.84,
+     "texto": "en el colegio"
+    },
+    {
+     "ini": 616.84,
+     "fin": 617.96,
+     "texto": "porque quieren llegar,"
+    },
+    {
+     "ini": 617.96,
+     "fin": 618.6,
+     "texto": "porque quieren ir"
+    },
+    {
+     "ini": 618.6,
+     "fin": 619.24,
+     "texto": "a esa graduación,"
+    },
+    {
+     "ini": 619.24,
+     "fin": 620.88,
+     "texto": "porque es un gran evento."
+    },
+    {
+     "ini": 620.88,
+     "fin": 623.6,
+     "texto": "Entonces, como es cíclico,"
+    },
+    {
+     "ini": 623.6,
+     "fin": 624.2,
+     "texto": "yo siempre digo:"
+    },
+    {
+     "ini": 624.2,
+     "fin": 625.16,
+     "texto": "mi cliente más antiguo"
+    },
+    {
+     "ini": 625.16,
+     "fin": 626.96,
+     "texto": "tiene 158 años"
+    },
+    {
+     "ini": 626.96,
+     "fin": 627.88,
+     "texto": "y la universidad"
+    },
+    {
+     "ini": 627.88,
+     "fin": 628.92,
+     "texto": "más antigua del mundo"
+    },
+    {
+     "ini": 628.92,
+     "fin": 630.6,
+     "texto": "tiene 1,164."
+    },
+    {
+     "ini": 630.6,
+     "fin": 632.76,
+     "texto": "Entonces, tú piensa"
+    },
+    {
+     "ini": 632.76,
+     "fin": 633.32,
+     "texto": "en que todo"
+    },
+    {
+     "ini": 633.32,
+     "fin": 633.84,
+     "texto": "lo que haces"
+    },
+    {
+     "ini": 633.84,
+     "fin": 634.88,
+     "texto": "lo vas a hacer"
+    },
+    {
+     "ini": 634.88,
+     "fin": 635.72,
+     "texto": "muchos años,"
+    },
+    {
+     "ini": 635.72,
+     "fin": 637.08,
+     "texto": "entonces hay que pensar"
+    },
+    {
+     "ini": 637.08,
+     "fin": 639.12,
+     "texto": "en cómo deleitas"
+    },
+    {
+     "ini": 639.12,
+     "fin": 640.44,
+     "texto": "a la persona"
+    },
+    {
+     "ini": 640.44,
+     "fin": 641.12,
+     "texto": "y a los padres"
+    },
+    {
+     "ini": 641.12,
+     "fin": 642.1,
+     "texto": "de familia."
+    }
+   ]
+  },
+  {
+   "ini": 193.39,
+   "fin": 236.66,
+   "gancho": [
+    "Un colegio cobra",
+    "8,000 al mes",
+    "solo transporte."
+   ],
+   "enfasis": [
+    "empresa de servicios",
+    "500 alumnos",
+    "8,000 pesos",
+    "al mes",
+    "solamente el transporte",
+    "es un servicio",
+    "más capas de servicio"
+   ],
+   "frase": "El colegio es un servicio: agrega más capas",
+   "descripcion": "Un colegio en Ciudad de México con 500 alumnos cobra 8,000 pesos al mes solo de transporte, porque el carro no puede llegar.\nEl colegio es una empresa de servicios y cada capa de servicio se puede cobrar.\n#Admisiones #ColegiosPrivados #Transporte",
+   "cara": 196,
+   "tema": "transporte",
+   "por_que": "Arranca con una afirmación fuerte (el colegio es una empresa de servicios), trae un caso real con cifras (500 alumnos, 8,000 pesos al mes) y cierra con la lección de las capas de servicio.",
+   "trozos": [
+    {
+     "ini": 193.64,
+     "fin": 194.88,
+     "texto": "Los colegios son"
+    },
+    {
+     "ini": 194.88,
+     "fin": 196.04,
+     "texto": "una empresa de servicios,"
+    },
+    {
+     "ini": 196.04,
+     "fin": 197.4,
+     "texto": "entonces, muchas veces,"
+    },
+    {
+     "ini": 197.4,
+     "fin": 198.48,
+     "texto": "dependiendo de la ubicación,"
+    },
+    {
+     "ini": 198.48,
+     "fin": 199.24,
+     "texto": "me tocó un colegio"
+    },
+    {
+     "ini": 199.24,
+     "fin": 201.16,
+     "texto": "en Ciudad de México,"
+    },
+    {
+     "ini": 201.16,
+     "fin": 203.16,
+     "texto": "creo que eran"
+    },
+    {
+     "ini": 203.16,
+     "fin": 204.52,
+     "texto": "como 500 alumnos"
+    },
+    {
+     "ini": 204.52,
+     "fin": 206.08,
+     "texto": "y todos, por la ubicación"
+    },
+    {
+     "ini": 206.08,
+     "fin": 207.44,
+     "texto": "en la que tenían,"
+    },
+    {
+     "ini": 207.44,
+     "fin": 208.52,
+     "texto": "que tener transporte"
+    },
+    {
+     "ini": 208.52,
+     "fin": 209.24,
+     "texto": "porque el carro"
+    },
+    {
+     "ini": 209.24,
+     "fin": 209.96,
+     "texto": "no puede llegar,"
+    },
+    {
+     "ini": 209.96,
+     "fin": 211.4,
+     "texto": "por alguna forma"
+    },
+    {
+     "ini": 211.4,
+     "fin": 212.16,
+     "texto": "de la configuración"
+    },
+    {
+     "ini": 212.16,
+     "fin": 212.84,
+     "texto": "del colegio"
+    },
+    {
+     "ini": 212.84,
+     "fin": 213.48,
+     "texto": "no podía llegar"
+    },
+    {
+     "ini": 213.48,
+     "fin": 214.56,
+     "texto": "el transporte"
+    },
+    {
+     "ini": 214.56,
+     "fin": 215.52,
+     "texto": "de ningún papá,"
+    },
+    {
+     "ini": 215.52,
+     "fin": 216.48,
+     "texto": "entonces tenían que"
+    },
+    {
+     "ini": 216.48,
+     "fin": 218.0,
+     "texto": "estar obligados"
+    },
+    {
+     "ini": 218.0,
+     "fin": 220.16,
+     "texto": "a cobrar el transporte"
+    },
+    {
+     "ini": 220.16,
+     "fin": 221.0,
+     "texto": "y lo cobraban"
+    },
+    {
+     "ini": 221.0,
+     "fin": 223.12,
+     "texto": "en 8,000 pesos"
+    },
+    {
+     "ini": 223.12,
+     "fin": 224.28,
+     "texto": "al mes,"
+    },
+    {
+     "ini": 224.28,
+     "fin": 225.36,
+     "texto": "solamente el transporte."
+    },
+    {
+     "ini": 225.36,
+     "fin": 225.96,
+     "texto": "Te digo esto"
+    },
+    {
+     "ini": 225.96,
+     "fin": 226.88,
+     "texto": "porque hay de ahí"
+    },
+    {
+     "ini": 226.88,
+     "fin": 227.32,
+     "texto": "para abajo"
+    },
+    {
+     "ini": 227.32,
+     "fin": 227.92,
+     "texto": "y de ahí para arriba"
+    },
+    {
+     "ini": 227.92,
+     "fin": 228.72,
+     "texto": "y hay mucho movimiento,"
+    },
+    {
+     "ini": 228.72,
+     "fin": 231.64,
+     "texto": "pero el colegio"
+    },
+    {
+     "ini": 231.64,
+     "fin": 232.64,
+     "texto": "es un servicio"
+    },
+    {
+     "ini": 232.64,
+     "fin": 233.6,
+     "texto": "y como servicio"
+    },
+    {
+     "ini": 233.6,
+     "fin": 234.96,
+     "texto": "puedes agregar"
+    },
+    {
+     "ini": 234.96,
+     "fin": 236.66,
+     "texto": "más capas de servicio."
+    }
+   ]
+  },
+  {
+   "ini": 518.03,
+   "fin": 570.76,
+   "gancho": [
+    "En el evento",
+    "de tu hijo:",
+    "toma mi dinero."
+   ],
+   "enfasis": [
+    "supermonetizable",
+    "toma mi dinero",
+    "atiéndeme bien",
+    "momentos emocionales",
+    "servicios",
+    "rentabilidad",
+    "mejoraste el evento"
+   ],
+   "frase": "Un colegio logra momentos emocionales: mejóralos",
+   "descripcion": "En el evento deportivo de su hijo, el papá está en un momento emocional y quiere pagar bien por un buen servicio.\nUn colegio logra momentos emocionales; mejorarlos con servicios mejora el momento, la rentabilidad y las ganas de volver.\n#Admisiones #ColegiosPrivados #Eventos",
+   "cara": 530,
+   "tema": "eventos deportivos",
+   "por_que": "Escena que cualquier papá reconoce (toma mi dinero, pero atiéndeme bien), una frase que un director recuerda (un colegio logra momentos emocionales) y remate con los tres que ganan.",
+   "trozos": [
+    {
+     "ini": 518.28,
+     "fin": 519.32,
+     "texto": "Tu colegio,"
+    },
+    {
+     "ini": 519.32,
+     "fin": 520.48,
+     "texto": "si tienes instalaciones"
+    },
+    {
+     "ini": 520.48,
+     "fin": 523.56,
+     "texto": "y hay algo deportivo, supermonetizable,"
+    },
+    {
+     "ini": 523.56,
+     "fin": 524.92,
+     "texto": "y el papá quiere."
+    },
+    {
+     "ini": 524.92,
+     "fin": 526.2,
+     "texto": "Los papás,"
+    },
+    {
+     "ini": 526.2,
+     "fin": 526.96,
+     "texto": "imagínate que vas a ir"
+    },
+    {
+     "ini": 526.96,
+     "fin": 529.4,
+     "texto": "al evento de tu hijo"
+    },
+    {
+     "ini": 529.4,
+     "fin": 531.48,
+     "texto": "y la cafetería tiene"
+    },
+    {
+     "ini": 531.48,
+     "fin": 533.2,
+     "texto": "bebidas preparadas riquísimas"
+    },
+    {
+     "ini": 533.2,
+     "fin": 534.12,
+     "texto": "para los papás"
+    },
+    {
+     "ini": 534.12,
+     "fin": 535.32,
+     "texto": "y con un servicio"
+    },
+    {
+     "ini": 535.32,
+     "fin": 536.56,
+     "texto": "espectacular, rápido,"
+    },
+    {
+     "ini": 536.56,
+     "fin": 537.96,
+     "texto": "que pagues rápido,"
+    },
+    {
+     "ini": 537.96,
+     "fin": 539.24,
+     "texto": "toma mi dinero,"
+    },
+    {
+     "ini": 539.24,
+     "fin": 539.84,
+     "texto": "toma mi dinero,"
+    },
+    {
+     "ini": 539.84,
+     "fin": 541.6,
+     "texto": "pero atiéndeme bien,"
+    },
+    {
+     "ini": 541.6,
+     "fin": 542.92,
+     "texto": "atiéndeme bien"
+    },
+    {
+     "ini": 542.92,
+     "fin": 544.48,
+     "texto": "en el evento deportivo"
+    },
+    {
+     "ini": 544.48,
+     "fin": 544.84,
+     "texto": "que voy a ir"
+    },
+    {
+     "ini": 544.84,
+     "fin": 545.84,
+     "texto": "a ver a mi hijo,"
+    },
+    {
+     "ini": 545.84,
+     "fin": 546.44,
+     "texto": "que para mí"
+    },
+    {
+     "ini": 546.44,
+     "fin": 547.92,
+     "texto": "es mi ángel"
+    },
+    {
+     "ini": 547.92,
+     "fin": 549.52,
+     "texto": "y lo más querido."
+    },
+    {
+     "ini": 549.52,
+     "fin": 550.68,
+     "texto": "Y claro, claro,"
+    },
+    {
+     "ini": 550.68,
+     "fin": 553.16,
+     "texto": "estás en un momento emocional,"
+    },
+    {
+     "ini": 553.16,
+     "fin": 554.36,
+     "texto": "entonces tienes que entender"
+    },
+    {
+     "ini": 554.36,
+     "fin": 555.16,
+     "texto": "que un colegio"
+    },
+    {
+     "ini": 555.16,
+     "fin": 556.84,
+     "texto": "logra momentos emocionales"
+    },
+    {
+     "ini": 556.84,
+     "fin": 558.36,
+     "texto": "y esos momentos emocionales"
+    },
+    {
+     "ini": 558.36,
+     "fin": 560.36,
+     "texto": "los puede mejorar mucho"
+    },
+    {
+     "ini": 560.36,
+     "fin": 561.52,
+     "texto": "y la forma de mejorarlo"
+    },
+    {
+     "ini": 561.52,
+     "fin": 562.88,
+     "texto": "es con servicios"
+    },
+    {
+     "ini": 562.88,
+     "fin": 564.08,
+     "texto": "y automáticamente el papá"
+    },
+    {
+     "ini": 564.08,
+     "fin": 565.08,
+     "texto": "mejora el momento"
+    },
+    {
+     "ini": 565.08,
+     "fin": 565.68,
+     "texto": "y el colegio"
+    },
+    {
+     "ini": 565.68,
+     "fin": 567.16,
+     "texto": "mejora la rentabilidad"
+    },
+    {
+     "ini": 567.16,
+     "fin": 568.2,
+     "texto": "y el hijo logra"
+    },
+    {
+     "ini": 568.2,
+     "fin": 568.6,
+     "texto": "que el papá"
+    },
+    {
+     "ini": 568.6,
+     "fin": 569.2,
+     "texto": "quiera ir más"
+    },
+    {
+     "ini": 569.2,
+     "fin": 570.76,
+     "texto": "porque mejoraste el evento."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

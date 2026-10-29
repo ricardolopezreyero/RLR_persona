@@ -1,0 +1,603 @@
+{
+ "id": "XTzLtKUPTvQ",
+ "tramos": [
+  {
+   "ini": 998.07,
+   "fin": 1039.84,
+   "gancho": [
+    "una silla vacía",
+    "meses sin ingresos",
+    "es lo más costoso"
+   ],
+   "enfasis": [
+    "silla vacía",
+    "más costoso",
+    "meses y meses",
+    "pura rentabilidad",
+    "comprar alumnos",
+    "marketing"
+   ],
+   "trozos": [
+    {
+     "ini": 998.32,
+     "fin": 999.23,
+     "texto": "Lo más costoso"
+    },
+    {
+     "ini": 999.23,
+     "fin": 1000.97,
+     "texto": "es tener una silla vacía,"
+    },
+    {
+     "ini": 1000.97,
+     "fin": 1002.71,
+     "texto": "y a mí esta frase"
+    },
+    {
+     "ini": 1002.71,
+     "fin": 1004.84,
+     "texto": "se me hace espectacular."
+    },
+    {
+     "ini": 1004.84,
+     "fin": 1006.96,
+     "texto": "No existe algo más costoso"
+    },
+    {
+     "ini": 1006.96,
+     "fin": 1008.4,
+     "texto": "que una silla vacía."
+    },
+    {
+     "ini": 1008.4,
+     "fin": 1008.85,
+     "texto": "Y cada vez"
+    },
+    {
+     "ini": 1008.85,
+     "fin": 1009.35,
+     "texto": "que lo digo"
+    },
+    {
+     "ini": 1009.35,
+     "fin": 1010.64,
+     "texto": "le digo: te reto,"
+    },
+    {
+     "ini": 1010.64,
+     "fin": 1011.44,
+     "texto": "que me digas"
+    },
+    {
+     "ini": 1011.44,
+     "fin": 1012.58,
+     "texto": "algo más costoso."
+    },
+    {
+     "ini": 1012.58,
+     "fin": 1014.44,
+     "texto": "Dime algo más costoso"
+    },
+    {
+     "ini": 1014.44,
+     "fin": 1015.35,
+     "texto": "que eso. No se puede,"
+    },
+    {
+     "ini": 1015.35,
+     "fin": 1016.69,
+     "texto": "porque una silla vacía"
+    },
+    {
+     "ini": 1016.69,
+     "fin": 1017.71,
+     "texto": "son meses y meses"
+    },
+    {
+     "ini": 1017.71,
+     "fin": 1019.18,
+     "texto": "y meses y meses"
+    },
+    {
+     "ini": 1019.18,
+     "fin": 1020.23,
+     "texto": "de ingresos"
+    },
+    {
+     "ini": 1020.23,
+     "fin": 1022.31,
+     "texto": "que no están llegando."
+    },
+    {
+     "ini": 1022.31,
+     "fin": 1023.12,
+     "texto": "Y el pago"
+    },
+    {
+     "ini": 1023.12,
+     "fin": 1024.8,
+     "texto": "del costo de las instalaciones"
+    },
+    {
+     "ini": 1024.8,
+     "fin": 1026.2,
+     "texto": "lo haces,"
+    },
+    {
+     "ini": 1026.2,
+     "fin": 1027.46,
+     "texto": "y el costo"
+    },
+    {
+     "ini": 1027.46,
+     "fin": 1028.83,
+     "texto": "de los maestros,"
+    },
+    {
+     "ini": 1028.83,
+     "fin": 1029.62,
+     "texto": "o sea, será"
+    },
+    {
+     "ini": 1029.62,
+     "fin": 1031.48,
+     "texto": "casi pura rentabilidad."
+    },
+    {
+     "ini": 1031.48,
+     "fin": 1032.2,
+     "texto": "Entonces hay que"
+    },
+    {
+     "ini": 1032.2,
+     "fin": 1032.98,
+     "texto": "hacer la paz"
+    },
+    {
+     "ini": 1032.98,
+     "fin": 1033.99,
+     "texto": "con comprar alumnos"
+    },
+    {
+     "ini": 1033.99,
+     "fin": 1034.5,
+     "texto": "en redes sociales"
+    },
+    {
+     "ini": 1034.5,
+     "fin": 1035.83,
+     "texto": "o con meterle"
+    },
+    {
+     "ini": 1035.83,
+     "fin": 1037.35,
+     "texto": "dinero a marketing"
+    },
+    {
+     "ini": 1037.35,
+     "fin": 1039.84,
+     "texto": "para que logren más alumnos."
+    }
+   ],
+   "frase": "No hay nada más costoso que una silla vacía",
+   "descripcion": "Una silla vacía son meses de colegiatura que nunca llegan, con instalaciones y maestros ya pagados.\nPor eso invertir en atraer alumnos no es gasto: es rentabilidad.\n#Admisiones #ColegiosPrivados #Marketing",
+   "cara": 1014.6,
+   "tema": "silla vacía",
+   "por_que": "Frase que un director recuerda, con el reto directo a cámara y el remate de hacer la paz con invertir en marketing."
+  },
+  {
+   "ini": 1310.01,
+   "fin": 1370.38,
+   "gancho": [
+    "40 o 50 % cierran",
+    "en el recorrido",
+    "ya están all in"
+   ],
+   "enfasis": [
+    "40, 50 %",
+    "all in",
+    "hicieron clic",
+    "llegaron a tu colegio",
+    "le sonría",
+    "hasta lograrlo"
+   ],
+   "trozos": [
+    {
+     "ini": 1310.26,
+     "fin": 1311.12,
+     "texto": "Cuando ya estás"
+    },
+    {
+     "ini": 1311.12,
+     "fin": 1311.5,
+     "texto": "en el tema"
+    },
+    {
+     "ini": 1311.5,
+     "fin": 1312.91,
+     "texto": "de los recorridos,"
+    },
+    {
+     "ini": 1312.91,
+     "fin": 1314.22,
+     "texto": "a veces veo tasas"
+    },
+    {
+     "ini": 1314.22,
+     "fin": 1315.34,
+     "texto": "de conversión"
+    },
+    {
+     "ini": 1315.34,
+     "fin": 1317.96,
+     "texto": "del 40, 50 %"
+    },
+    {
+     "ini": 1317.96,
+     "fin": 1319.7,
+     "texto": "en los recorridos."
+    },
+    {
+     "ini": 1319.7,
+     "fin": 1321.23,
+     "texto": "Cuando ya estás"
+    },
+    {
+     "ini": 1321.23,
+     "fin": 1322.35,
+     "texto": "en el recorrido"
+    },
+    {
+     "ini": 1322.35,
+     "fin": 1323.58,
+     "texto": "es all in, all in."
+    },
+    {
+     "ini": 1323.58,
+     "fin": 1325.36,
+     "texto": "Ya está ahí la persona."
+    },
+    {
+     "ini": 1325.36,
+     "fin": 1326.74,
+     "texto": "O sea, de unos ojos"
+    },
+    {
+     "ini": 1326.74,
+     "fin": 1328.27,
+     "texto": "que hicieron clic,"
+    },
+    {
+     "ini": 1328.27,
+     "fin": 1330.2,
+     "texto": "que dejaron sus datos,"
+    },
+    {
+     "ini": 1330.2,
+     "fin": 1331.8,
+     "texto": "que agendaron cita,"
+    },
+    {
+     "ini": 1331.8,
+     "fin": 1332.79,
+     "texto": "que fueron,"
+    },
+    {
+     "ini": 1332.79,
+     "fin": 1334.44,
+     "texto": "que agarraron un carro,"
+    },
+    {
+     "ini": 1334.44,
+     "fin": 1336.04,
+     "texto": "hicieron espacio en su agenda,"
+    },
+    {
+     "ini": 1336.04,
+     "fin": 1337.4,
+     "texto": "llegaron a tu colegio."
+    },
+    {
+     "ini": 1337.4,
+     "fin": 1338.12,
+     "texto": "Si ya están"
+    },
+    {
+     "ini": 1338.12,
+     "fin": 1338.68,
+     "texto": "en el colegio"
+    },
+    {
+     "ini": 1338.68,
+     "fin": 1339.75,
+     "texto": "es all in."
+    },
+    {
+     "ini": 1339.75,
+     "fin": 1341.44,
+     "texto": "O sea, todo lo que"
+    },
+    {
+     "ini": 1341.44,
+     "fin": 1343.23,
+     "texto": "tuvo que haber pasado"
+    },
+    {
+     "ini": 1343.23,
+     "fin": 1345.08,
+     "texto": "para que llegara ese momento."
+    },
+    {
+     "ini": 1345.08,
+     "fin": 1347.28,
+     "texto": "Un tip,"
+    },
+    {
+     "ini": 1347.28,
+     "fin": 1348.99,
+     "texto": "hay más,"
+    },
+    {
+     "ini": 1348.99,
+     "fin": 1350.8,
+     "texto": "pero un tip es"
+    },
+    {
+     "ini": 1350.8,
+     "fin": 1352.18,
+     "texto": "ponerse una bolsa de colores,"
+    },
+    {
+     "ini": 1352.18,
+     "fin": 1355.07,
+     "texto": "por ejemplo, para identificarlos,"
+    },
+    {
+     "ini": 1355.07,
+     "fin": 1355.73,
+     "texto": "o un pin"
+    },
+    {
+     "ini": 1355.73,
+     "fin": 1356.91,
+     "texto": "con su nombre"
+    },
+    {
+     "ini": 1356.91,
+     "fin": 1358.55,
+     "texto": "o algo para identificarlos,"
+    },
+    {
+     "ini": 1358.55,
+     "fin": 1359.83,
+     "texto": "que todo el mundo"
+    },
+    {
+     "ini": 1359.83,
+     "fin": 1360.45,
+     "texto": "le sonría,"
+    },
+    {
+     "ini": 1360.45,
+     "fin": 1361.52,
+     "texto": "que todo el mundo"
+    },
+    {
+     "ini": 1361.52,
+     "fin": 1362.89,
+     "texto": "los trate increíble."
+    },
+    {
+     "ini": 1362.89,
+     "fin": 1365.96,
+     "texto": "Y busca en los recorridos"
+    },
+    {
+     "ini": 1365.96,
+     "fin": 1366.92,
+     "texto": "avanzar lo más"
+    },
+    {
+     "ini": 1366.92,
+     "fin": 1367.82,
+     "texto": "que se pueda"
+    },
+    {
+     "ini": 1367.82,
+     "fin": 1369.19,
+     "texto": "en el proceso de inscripciones"
+    },
+    {
+     "ini": 1369.19,
+     "fin": 1370.38,
+     "texto": "hasta lograrlo."
+    }
+   ],
+   "frase": "En el recorrido la familia ya está all in: ciérralo",
+   "descripcion": "Una familia que agendó, manejó y llegó a tu colegio ya hizo todo el esfuerzo: por eso el recorrido convierte 40 o 50 %.\nIdentifícalos, que todos les sonrían y avanza la inscripción ahí mismo.\n#Admisiones #ColegiosPrivados #Recorridos",
+   "cara": 1346.0,
+   "tema": "recorridos",
+   "por_que": "Dato concreto de conversión, la lista de pasos que la familia ya dio y un consejo práctico que se aplica mañana."
+  },
+  {
+   "ini": 1652.24,
+   "fin": 1703.72,
+   "gancho": [
+    "10 % de beca",
+    "en primaria",
+    "son 48 mil pesos"
+   ],
+   "enfasis": [
+    "8 mil pesos",
+    "10 %",
+    "60 meses",
+    "48 mil pesos",
+    "más rentable",
+    "eres el malo"
+   ],
+   "trozos": [
+    {
+     "ini": 1652.49,
+     "fin": 1654.54,
+     "texto": "Una colegiatura"
+    },
+    {
+     "ini": 1654.54,
+     "fin": 1656.41,
+     "texto": "de 8 mil pesos"
+    },
+    {
+     "ini": 1656.41,
+     "fin": 1660.48,
+     "texto": "por punto uno de descuento,"
+    },
+    {
+     "ini": 1660.48,
+     "fin": 1663.43,
+     "texto": "o sea, 10 %"
+    },
+    {
+     "ini": 1663.43,
+     "fin": 1667.64,
+     "texto": "de descuento de beca"
+    },
+    {
+     "ini": 1667.64,
+     "fin": 1670.09,
+     "texto": "por no tener herramientas,"
+    },
+    {
+     "ini": 1670.09,
+     "fin": 1671.71,
+     "texto": "por 60 meses"
+    },
+    {
+     "ini": 1671.71,
+     "fin": 1672.64,
+     "texto": "que quedan en la primaria,"
+    },
+    {
+     "ini": 1672.64,
+     "fin": 1674.7,
+     "texto": "son 48 mil pesos."
+    },
+    {
+     "ini": 1674.7,
+     "fin": 1676.0,
+     "texto": "Lo que sea que hagas"
+    },
+    {
+     "ini": 1676.0,
+     "fin": 1677.2,
+     "texto": "que salga abajo"
+    },
+    {
+     "ini": 1677.2,
+     "fin": 1678.55,
+     "texto": "de 48 mil pesos"
+    },
+    {
+     "ini": 1678.55,
+     "fin": 1679.62,
+     "texto": "es más rentable."
+    },
+    {
+     "ini": 1679.62,
+     "fin": 1681.18,
+     "texto": "Más rentable darle"
+    },
+    {
+     "ini": 1681.18,
+     "fin": 1683.24,
+     "texto": "un paquete de dinero"
+    },
+    {
+     "ini": 1683.24,
+     "fin": 1687.2,
+     "texto": "que darle el 10 %."
+    },
+    {
+     "ini": 1687.2,
+     "fin": 1688.33,
+     "texto": "Es mejor darle"
+    },
+    {
+     "ini": 1688.33,
+     "fin": 1689.61,
+     "texto": "el primer mes gratis..."
+    },
+    {
+     "ini": 1689.61,
+     "fin": 1691.3,
+     "texto": "no va por ahí,"
+    },
+    {
+     "ini": 1691.3,
+     "fin": 1692.48,
+     "texto": "a lo que voy es:"
+    },
+    {
+     "ini": 1692.48,
+     "fin": 1693.2,
+     "texto": "cualquier cosa es mejor"
+    },
+    {
+     "ini": 1693.2,
+     "fin": 1694.48,
+     "texto": "que este 10 %,"
+    },
+    {
+     "ini": 1694.48,
+     "fin": 1695.82,
+     "texto": "porque a lo largo"
+    },
+    {
+     "ini": 1695.82,
+     "fin": 1696.82,
+     "texto": "del periodo"
+    },
+    {
+     "ini": 1696.82,
+     "fin": 1698.65,
+     "texto": "la persona ya lo toma"
+    },
+    {
+     "ini": 1698.65,
+     "fin": 1699.61,
+     "texto": "como: así fue"
+    },
+    {
+     "ini": 1699.61,
+     "fin": 1700.22,
+     "texto": "y así es,"
+    },
+    {
+     "ini": 1700.22,
+     "fin": 1701.08,
+     "texto": "y luego ya no"
+    },
+    {
+     "ini": 1701.08,
+     "fin": 1702.24,
+     "texto": "se lo puedes quitar,"
+    },
+    {
+     "ini": 1702.24,
+     "fin": 1703.02,
+     "texto": "porque si se lo quitas"
+    },
+    {
+     "ini": 1703.02,
+     "fin": 1703.72,
+     "texto": "eres el malo."
+    }
+   ],
+   "frase": "Esa beca del 10 % te cuesta 48 mil pesos",
+   "descripcion": "10 % de beca sobre 8 mil pesos, por los 60 meses de primaria, son 48 mil pesos que nadie vuelve a agradecer.\nCualquier herramienta que cueste menos que eso es más rentable que la beca.\n#Admisiones #ColegiosPrivados #Becas",
+   "cara": 1699.5,
+   "tema": "becas",
+   "por_que": "Cuenta sencilla con cifras que un director puede repetir, y remate memorable: si se la quitas, eres el malo."
+  }
+ ],
+ "sin_tramos_por": null
+}

@@ -1,0 +1,625 @@
+{
+ "id": "pZsrUsHIRmw",
+ "tramos": [
+  {
+   "ini": 1125.39,
+   "fin": 1183.48,
+   "gancho": [
+    "Tienes los alumnos",
+    "que admisiones",
+    "te puede dar"
+   ],
+   "enfasis": [
+    "medio",
+    "estresada",
+    "no tengo alumnos",
+    "ciclo",
+    "con tiempo",
+    "preparado para darte"
+   ],
+   "trozos": [
+    {
+     "ini": 1125.64,
+     "fin": 1127.16,
+     "texto": "En muchos colegios,"
+    },
+    {
+     "ini": 1127.16,
+     "fin": 1128.36,
+     "texto": "la directora hace"
+    },
+    {
+     "ini": 1128.36,
+     "fin": 1130.68,
+     "texto": "medio departamento de admisiones,"
+    },
+    {
+     "ini": 1130.68,
+     "fin": 1132.0,
+     "texto": "la asistente hace"
+    },
+    {
+     "ini": 1132.0,
+     "fin": 1134.24,
+     "texto": "medio departamento de admisiones,"
+    },
+    {
+     "ini": 1134.24,
+     "fin": 1134.83,
+     "texto": "y juro que"
+    },
+    {
+     "ini": 1134.83,
+     "fin": 1136.2,
+     "texto": "siempre están apurados"
+    },
+    {
+     "ini": 1136.2,
+     "fin": 1137.12,
+     "texto": "porque no saben"
+    },
+    {
+     "ini": 1137.12,
+     "fin": 1137.86,
+     "texto": "si van a lograr"
+    },
+    {
+     "ini": 1137.86,
+     "fin": 1139.03,
+     "texto": "la meta de inscripciones."
+    },
+    {
+     "ini": 1139.03,
+     "fin": 1139.59,
+     "texto": "Y son gente"
+    },
+    {
+     "ini": 1139.59,
+     "fin": 1140.71,
+     "texto": "que vive estresada,"
+    },
+    {
+     "ini": 1140.71,
+     "fin": 1142.22,
+     "texto": "porque medio hacen el trabajo,"
+    },
+    {
+     "ini": 1142.22,
+     "fin": 1143.24,
+     "texto": "pero no lo hacen bien,"
+    },
+    {
+     "ini": 1143.24,
+     "fin": 1143.96,
+     "texto": "y luego lo otro"
+    },
+    {
+     "ini": 1143.96,
+     "fin": 1145.03,
+     "texto": "tampoco lo hacen bien,"
+    },
+    {
+     "ini": 1145.03,
+     "fin": 1145.96,
+     "texto": "y luego no tienen"
+    },
+    {
+     "ini": 1145.96,
+     "fin": 1147.26,
+     "texto": "un chorro... no tienen alumnos."
+    },
+    {
+     "ini": 1147.26,
+     "fin": 1148.0,
+     "texto": "Entonces dicen:"
+    },
+    {
+     "ini": 1148.0,
+     "fin": 1148.91,
+     "texto": "no puedo contratar"
+    },
+    {
+     "ini": 1148.91,
+     "fin": 1150.24,
+     "texto": "a la persona de admisiones"
+    },
+    {
+     "ini": 1150.24,
+     "fin": 1151.05,
+     "texto": "porque no tengo alumnos."
+    },
+    {
+     "ini": 1151.05,
+     "fin": 1151.7,
+     "texto": "Y no tienes alumnos"
+    },
+    {
+     "ini": 1151.7,
+     "fin": 1152.28,
+     "texto": "porque no tienes"
+    },
+    {
+     "ini": 1152.28,
+     "fin": 1153.26,
+     "texto": "a la persona de admisiones."
+    },
+    {
+     "ini": 1153.26,
+     "fin": 1154.97,
+     "texto": "Entonces entras en un ciclo."
+    },
+    {
+     "ini": 1154.97,
+     "fin": 1158.98,
+     "texto": "Desde ahorita lo digo:"
+    },
+    {
+     "ini": 1158.98,
+     "fin": 1161.95,
+     "texto": "el departamento tiene que estar,"
+    },
+    {
+     "ini": 1161.95,
+     "fin": 1162.94,
+     "texto": "y si no está,"
+    },
+    {
+     "ini": 1162.94,
+     "fin": 1165.47,
+     "texto": "lo estás pagando con tiempo"
+    },
+    {
+     "ini": 1165.47,
+     "fin": 1167.54,
+     "texto": "y no estás sacando"
+    },
+    {
+     "ini": 1167.54,
+     "fin": 1169.35,
+     "texto": "el máximo provecho"
+    },
+    {
+     "ini": 1169.35,
+     "fin": 1171.68,
+     "texto": "de tus instalaciones."
+    },
+    {
+     "ini": 1171.68,
+     "fin": 1177.28,
+     "texto": "Creo que una reflexión es:"
+    },
+    {
+     "ini": 1177.28,
+     "fin": 1178.6,
+     "texto": "tú tienes la cantidad"
+    },
+    {
+     "ini": 1178.6,
+     "fin": 1179.26,
+     "texto": "de alumnos que"
+    },
+    {
+     "ini": 1179.26,
+     "fin": 1180.98,
+     "texto": "tu departamento de admisiones"
+    },
+    {
+     "ini": 1180.98,
+     "fin": 1183.48,
+     "texto": "está preparado para darte."
+    }
+   ],
+   "frase": "Tienes los alumnos que tu admisiones puede darte",
+   "descripcion": "La directora hace medio admisiones, la asistente el otro medio, y nadie contrata porque «no hay alumnos».\nEl ciclo que frena a muchos colegios y la reflexión que lo rompe.\n#Admisiones #ColegiosPrivados #EquipoDeAdmisiones",
+   "cara": 1172,
+   "tema": "estructura de admisiones",
+   "por_que": "Historia reconocible (directora + asistente a medias), el ciclo «no contrato porque no hay alumnos» y un remate que un director recuerda."
+  },
+  {
+   "ini": 421.96,
+   "fin": 460.3,
+   "gancho": [
+    "Duró 12 meses",
+    "en vez de 36",
+    "culpa: admisiones"
+   ],
+   "enfasis": [
+    "máxima",
+    "no se decepcione",
+    "12 meses",
+    "36",
+    "la culpa",
+    "expectativas",
+    "nunca se cumplieron"
+   ],
+   "trozos": [
+    {
+     "ini": 422.21,
+     "fin": 424.07,
+     "texto": "El asesor tiene que cuidar"
+    },
+    {
+     "ini": 424.07,
+     "fin": 425.72,
+     "texto": "las palabras y la forma"
+    },
+    {
+     "ini": 425.72,
+     "fin": 426.69,
+     "texto": "y lo que dice"
+    },
+    {
+     "ini": 426.69,
+     "fin": 427.59,
+     "texto": "del colegio"
+    },
+    {
+     "ini": 427.59,
+     "fin": 429.27,
+     "texto": "para lograr la máxima"
+    },
+    {
+     "ini": 429.27,
+     "fin": 430.7,
+     "texto": "tasa de conversión,"
+    },
+    {
+     "ini": 430.7,
+     "fin": 432.92,
+     "texto": "pero buscando que el alumno"
+    },
+    {
+     "ini": 432.92,
+     "fin": 434.09,
+     "texto": "no se decepcione,"
+    },
+    {
+     "ini": 434.09,
+     "fin": 434.76,
+     "texto": "para que dure"
+    },
+    {
+     "ini": 434.76,
+     "fin": 435.87,
+     "texto": "la mayor cantidad"
+    },
+    {
+     "ini": 435.87,
+     "fin": 436.98,
+     "texto": "de tiempo posible."
+    },
+    {
+     "ini": 436.98,
+     "fin": 438.84,
+     "texto": "Fíjense lo importante"
+    },
+    {
+     "ini": 438.84,
+     "fin": 440.39,
+     "texto": "de lo que estoy diciendo,"
+    },
+    {
+     "ini": 440.39,
+     "fin": 441.48,
+     "texto": "porque hay veces"
+    },
+    {
+     "ini": 441.48,
+     "fin": 442.63,
+     "texto": "que un alumno dura"
+    },
+    {
+     "ini": 442.63,
+     "fin": 443.87,
+     "texto": "12 meses"
+    },
+    {
+     "ini": 443.87,
+     "fin": 444.63,
+     "texto": "en vez de"
+    },
+    {
+     "ini": 444.63,
+     "fin": 446.64,
+     "texto": "haber durado 36,"
+    },
+    {
+     "ini": 446.64,
+     "fin": 448.16,
+     "texto": "y le echan la culpa"
+    },
+    {
+     "ini": 448.16,
+     "fin": 450.1,
+     "texto": "a la forma de entrega,"
+    },
+    {
+     "ini": 450.1,
+     "fin": 451.69,
+     "texto": "a lo académico"
+    },
+    {
+     "ini": 451.69,
+     "fin": 453.29,
+     "texto": "o a lo administrativo,"
+    },
+    {
+     "ini": 453.29,
+     "fin": 454.95,
+     "texto": "y realmente la culpa fue"
+    },
+    {
+     "ini": 454.95,
+     "fin": 456.84,
+     "texto": "de la persona de admisiones"
+    },
+    {
+     "ini": 456.84,
+     "fin": 458.0,
+     "texto": "que elevó demasiado"
+    },
+    {
+     "ini": 458.0,
+     "fin": 459.12,
+     "texto": "las expectativas"
+    },
+    {
+     "ini": 459.12,
+     "fin": 460.3,
+     "texto": "y nunca se cumplieron."
+    }
+   ],
+   "frase": "El alumno que duró 12 meses en vez de 36",
+   "descripcion": "Cuando un alumno se va antes de tiempo, la culpa suele caer en lo académico o lo administrativo.\nMuchas veces nació en admisiones: una expectativa que nunca se cumplió.\n#Admisiones #ColegiosPrivados #Retencion",
+   "cara": 437,
+   "tema": "expectativas y retención",
+   "por_que": "Contraste con cifras (12 vs 36 meses), una culpa mal asignada y la idea completa en 38 segundos."
+  },
+  {
+   "ini": 286.79,
+   "fin": 345.44,
+   "gancho": [
+    "Crecer 10 alumnos",
+    "es multiplicar",
+    "es matemático"
+   ],
+   "enfasis": [
+    "costo de adquisición",
+    "10 alumnos",
+    "matemático",
+    "100 alumnos",
+    "50 alumnos",
+    "5000 alumnos",
+    "este número"
+   ],
+   "trozos": [
+    {
+     "ini": 287.04,
+     "fin": 288.47,
+     "texto": "Este costo de adquisición"
+    },
+    {
+     "ini": 288.47,
+     "fin": 289.05,
+     "texto": "por alumno"
+    },
+    {
+     "ini": 289.05,
+     "fin": 290.41,
+     "texto": "es una cosa espectacular"
+    },
+    {
+     "ini": 290.41,
+     "fin": 292.16,
+     "texto": "saber ese número,"
+    },
+    {
+     "ini": 292.16,
+     "fin": 292.98,
+     "texto": "porque tal cual es"
+    },
+    {
+     "ini": 292.98,
+     "fin": 294.18,
+     "texto": "lo que te cuesta"
+    },
+    {
+     "ini": 294.18,
+     "fin": 296.62,
+     "texto": "conseguir un nuevo alumno."
+    },
+    {
+     "ini": 296.62,
+     "fin": 298.26,
+     "texto": "Entonces, si tú quieres crecer"
+    },
+    {
+     "ini": 298.26,
+     "fin": 299.1,
+     "texto": "10 alumnos,"
+    },
+    {
+     "ini": 299.1,
+     "fin": 300.64,
+     "texto": "nada más multiplicas"
+    },
+    {
+     "ini": 300.64,
+     "fin": 302.07,
+     "texto": "el costo de adquisición"
+    },
+    {
+     "ini": 302.07,
+     "fin": 303.54,
+     "texto": "por alumno por 10,"
+    },
+    {
+     "ini": 303.54,
+     "fin": 304.92,
+     "texto": "le das eso a marketing,"
+    },
+    {
+     "ini": 304.92,
+     "fin": 306.23,
+     "texto": "al que produce leads,"
+    },
+    {
+     "ini": 306.23,
+     "fin": 307.61,
+     "texto": "y tienes esos alumnos,"
+    },
+    {
+     "ini": 307.61,
+     "fin": 309.1,
+     "texto": "porque es matemático."
+    },
+    {
+     "ini": 309.1,
+     "fin": 310.41,
+     "texto": "Esto se vuelve algo"
+    },
+    {
+     "ini": 310.41,
+     "fin": 311.66,
+     "texto": "súper matemático"
+    },
+    {
+     "ini": 311.66,
+     "fin": 312.69,
+     "texto": "en este punto"
+    },
+    {
+     "ini": 312.69,
+     "fin": 313.13,
+     "texto": "en el que"
+    },
+    {
+     "ini": 313.13,
+     "fin": 314.82,
+     "texto": "lo estamos platicando."
+    },
+    {
+     "ini": 314.82,
+     "fin": 316.06,
+     "texto": "Y luego quieres crecer"
+    },
+    {
+     "ini": 316.06,
+     "fin": 316.92,
+     "texto": "100 alumnos,"
+    },
+    {
+     "ini": 316.92,
+     "fin": 318.0,
+     "texto": "multiplicas el costo"
+    },
+    {
+     "ini": 318.0,
+     "fin": 319.32,
+     "texto": "de adquisición por alumno"
+    },
+    {
+     "ini": 319.32,
+     "fin": 320.12,
+     "texto": "por 100."
+    },
+    {
+     "ini": 320.12,
+     "fin": 322.14,
+     "texto": "Y 1000, 1000."
+    },
+    {
+     "ini": 322.14,
+     "fin": 323.18,
+     "texto": "Y yo lo digo aquí,"
+    },
+    {
+     "ini": 323.18,
+     "fin": 324.46,
+     "texto": "quiero un cambio"
+    },
+    {
+     "ini": 324.46,
+     "fin": 325.7,
+     "texto": "en perspectiva:"
+    },
+    {
+     "ini": 325.7,
+     "fin": 326.84,
+     "texto": "tengo clientes que"
+    },
+    {
+     "ini": 326.84,
+     "fin": 329.35,
+     "texto": "inscriben 50 alumnos al año,"
+    },
+    {
+     "ini": 329.35,
+     "fin": 330.23,
+     "texto": "súper válido,"
+    },
+    {
+     "ini": 330.23,
+     "fin": 331.64,
+     "texto": "y tengo clientes que"
+    },
+    {
+     "ini": 331.64,
+     "fin": 334.44,
+     "texto": "inscriben 5000 alumnos al año,"
+    },
+    {
+     "ini": 334.44,
+     "fin": 335.55,
+     "texto": "súper válido."
+    },
+    {
+     "ini": 335.55,
+     "fin": 335.98,
+     "texto": "Es lo que"
+    },
+    {
+     "ini": 335.98,
+     "fin": 337.18,
+     "texto": "tú quieras hacer,"
+    },
+    {
+     "ini": 337.18,
+     "fin": 338.04,
+     "texto": "es correcto,"
+    },
+    {
+     "ini": 338.04,
+     "fin": 340.46,
+     "texto": "pero entendiendo la matemática:"
+    },
+    {
+     "ini": 340.46,
+     "fin": 341.93,
+     "texto": "hay que saber este número,"
+    },
+    {
+     "ini": 341.93,
+     "fin": 343.28,
+     "texto": "porque automáticamente"
+    },
+    {
+     "ini": 343.28,
+     "fin": 344.43,
+     "texto": "le metes más dinero ahí"
+    },
+    {
+     "ini": 344.43,
+     "fin": 345.44,
+     "texto": "y tienes más alumnos."
+    }
+   ],
+   "frase": "Crecer 10 alumnos es una multiplicación",
+   "descripcion": "Si sabes lo que te cuesta conseguir un alumno, crecer 10, 100 o 1000 deja de ser un deseo y se vuelve una cuenta.\n50 o 5000 alumnos al año: lo que tú quieras, pero con la matemática clara.\n#Admisiones #ColegiosPrivados #CostoDeAdquisicion",
+   "cara": 322,
+   "tema": "costo de adquisición",
+   "por_que": "Dato duro y accionable (costo por alumno x alumnos deseados), contraste 50 vs 5000 y cierre claro."
+  }
+ ],
+ "sin_tramos_por": null
+}

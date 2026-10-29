@@ -1,0 +1,314 @@
+{
+ "id": "gn6sYcM85eI",
+ "tramos": [
+  {
+   "ini": 95.59,
+   "fin": 140.43,
+   "gancho": [
+    "A la media hora",
+    "ya estás frito:",
+    "5 minutos o nada"
+   ],
+   "enfasis": [
+    "5 minutos",
+    "media hora",
+    "frito",
+    "15 mil",
+    "10 veces",
+    "24 horas"
+   ],
+   "frase": "Si tardas más de 5 minutos en contestar, ya perdiste",
+   "descripcion": "Más de la mitad de 15 mil prospectos contestó en menos de 5 minutos; a los 10 minutos la probabilidad cae 10 veces.\nY las empresas tardan en promedio 24 horas en responder.\n#Admisiones #ColegiosPrivados #TiempoDeRespuesta",
+   "cara": 134,
+   "tema": "tiempo de respuesta",
+   "por_que": "Es la tesis del video con cifras y un contraste brutal (5 minutos vs 24 horas), cerrado en remate.",
+   "trozos": [
+    {
+     "ini": 95.84,
+     "fin": 98.16,
+     "texto": "O atiendes a tu cliente"
+    },
+    {
+     "ini": 98.16,
+     "fin": 100.12,
+     "texto": "en los primeros 5 minutos,"
+    },
+    {
+     "ini": 100.12,
+     "fin": 102.56,
+     "texto": "o tu probabilidad"
+    },
+    {
+     "ini": 102.56,
+     "fin": 103.85,
+     "texto": "de vender y de contactarlo"
+    },
+    {
+     "ini": 103.85,
+     "fin": 105.79,
+     "texto": "baja exponencialmente."
+    },
+    {
+     "ini": 105.79,
+     "fin": 107.0,
+     "texto": "A la media hora"
+    },
+    {
+     "ini": 107.0,
+     "fin": 108.31,
+     "texto": "ya estás frito."
+    },
+    {
+     "ini": 108.31,
+     "fin": 109.59,
+     "texto": "Tienes que contactarlo"
+    },
+    {
+     "ini": 109.59,
+     "fin": 111.68,
+     "texto": "en los primeros 5 minutos."
+    },
+    {
+     "ini": 111.68,
+     "fin": 113.98,
+     "texto": "Todo el sistema de SuperLeads"
+    },
+    {
+     "ini": 113.98,
+     "fin": 115.67,
+     "texto": "lo hicimos basado"
+    },
+    {
+     "ini": 115.67,
+     "fin": 116.48,
+     "texto": "en esta gráfica en particular,"
+    },
+    {
+     "ini": 116.48,
+     "fin": 117.75,
+     "texto": "entonces le voy a tomar"
+    },
+    {
+     "ini": 117.75,
+     "fin": 119.55,
+     "texto": "un poquito más de cuidado."
+    },
+    {
+     "ini": 119.55,
+     "fin": 121.67,
+     "texto": "De 15 mil prospectos,"
+    },
+    {
+     "ini": 121.67,
+     "fin": 123.56,
+     "texto": "la mayoría contestó"
+    },
+    {
+     "ini": 123.56,
+     "fin": 126.06,
+     "texto": "en menos de 5 minutos;"
+    },
+    {
+     "ini": 126.06,
+     "fin": 127.31,
+     "texto": "más de la mitad"
+    },
+    {
+     "ini": 127.31,
+     "fin": 128.57,
+     "texto": "contestaron en menos de 5 minutos."
+    },
+    {
+     "ini": 128.57,
+     "fin": 130.45,
+     "texto": "Después de 10 minutos"
+    },
+    {
+     "ini": 130.45,
+     "fin": 132.45,
+     "texto": "bajó hasta 10 veces"
+    },
+    {
+     "ini": 132.45,
+     "fin": 134.0,
+     "texto": "la probabilidad"
+    },
+    {
+     "ini": 134.0,
+     "fin": 134.88,
+     "texto": "de que te contestaran."
+    },
+    {
+     "ini": 134.88,
+     "fin": 136.93,
+     "texto": "Y el problema de esto es"
+    },
+    {
+     "ini": 136.93,
+     "fin": 137.91,
+     "texto": "que las empresas a veces"
+    },
+    {
+     "ini": 137.91,
+     "fin": 138.92,
+     "texto": "se tardan en promedio"
+    },
+    {
+     "ini": 138.92,
+     "fin": 140.43,
+     "texto": "24 horas en contestar."
+    }
+   ]
+  },
+  {
+   "ini": 29.67,
+   "fin": 74.14,
+   "gancho": [
+    "15 mil prospectos",
+    "miércoles y jueves",
+    "a las 8 o de 4 a 5"
+   ],
+   "enfasis": [
+    "15 mil",
+    "10 mil",
+    "miércoles y jueves",
+    "8 de la mañana",
+    "4 a 5",
+    "gran diferencia"
+   ],
+   "frase": "El mejor día y la mejor hora para llamar a un prospecto",
+   "descripcion": "Tres años de datos y 15 mil prospectos dicen cuándo contestan mejor: miércoles y jueves, a las 8 o de 4 a 5.\nUn dato simple que cambia tu agenda de llamadas.\n#Admisiones #ColegiosPrivados #HorarioDeContacto",
+   "cara": 60,
+   "tema": "horario de contacto",
+   "por_que": "Dato concreto y accionable (día y hora) con la muestra que lo respalda; autocontenido y termina en conclusión.",
+   "trozos": [
+    {
+     "ini": 29.92,
+     "fin": 31.52,
+     "texto": "3 años de datos,"
+    },
+    {
+     "ini": 31.52,
+     "fin": 34.17,
+     "texto": "15 mil prospectos únicos"
+    },
+    {
+     "ini": 34.17,
+     "fin": 36.31,
+     "texto": "y 10 mil intentos de llamada."
+    },
+    {
+     "ini": 36.31,
+     "fin": 37.41,
+     "texto": "Y esto lo que hace es"
+    },
+    {
+     "ini": 37.41,
+     "fin": 39.54,
+     "texto": "te da el resumen"
+    },
+    {
+     "ini": 39.54,
+     "fin": 40.97,
+     "texto": "de las mejores prácticas"
+    },
+    {
+     "ini": 40.97,
+     "fin": 42.17,
+     "texto": "que tienes que poner"
+    },
+    {
+     "ini": 42.17,
+     "fin": 42.95,
+     "texto": "en tu empresa"
+    },
+    {
+     "ini": 42.95,
+     "fin": 44.76,
+     "texto": "para incrementar las ventas."
+    },
+    {
+     "ini": 44.76,
+     "fin": 46.45,
+     "texto": "La primera parte es:"
+    },
+    {
+     "ini": 46.45,
+     "fin": 47.31,
+     "texto": "el mejor día"
+    },
+    {
+     "ini": 47.31,
+     "fin": 48.87,
+     "texto": "para contactar"
+    },
+    {
+     "ini": 48.87,
+     "fin": 52.0,
+     "texto": "es miércoles y jueves."
+    },
+    {
+     "ini": 52.0,
+     "fin": 54.5,
+     "texto": "Por alguna extraña razón,"
+    },
+    {
+     "ini": 54.5,
+     "fin": 55.25,
+     "texto": "esos días son"
+    },
+    {
+     "ini": 55.25,
+     "fin": 56.32,
+     "texto": "donde más cómodos"
+    },
+    {
+     "ini": 56.32,
+     "fin": 58.13,
+     "texto": "se sienten los prospectos"
+    },
+    {
+     "ini": 58.13,
+     "fin": 59.6,
+     "texto": "en que los contactes."
+    },
+    {
+     "ini": 59.6,
+     "fin": 61.22,
+     "texto": "El mejor tiempo"
+    },
+    {
+     "ini": 61.22,
+     "fin": 63.22,
+     "texto": "para contactarlos:"
+    },
+    {
+     "ini": 63.22,
+     "fin": 65.33,
+     "texto": "a las 8 de la mañana"
+    },
+    {
+     "ini": 65.33,
+     "fin": 66.56,
+     "texto": "y de 4 a 5"
+    },
+    {
+     "ini": 66.56,
+     "fin": 67.6,
+     "texto": "de la tarde."
+    },
+    {
+     "ini": 67.6,
+     "fin": 72.7,
+     "texto": "Hay una gran diferencia"
+    },
+    {
+     "ini": 72.7,
+     "fin": 74.14,
+     "texto": "con estos horarios."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

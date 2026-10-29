@@ -1,0 +1,494 @@
+{
+ "id": "oqLweG2S0Bk",
+ "tramos": [
+  {
+   "ini": 1421.83,
+   "fin": 1460.04,
+   "gancho": [
+    "Publicidad",
+    "compra interés.",
+    "Proceso convierte."
+   ],
+   "enfasis": [
+    "más barato",
+    "dejar de perder",
+    "publicidad",
+    "interés",
+    "proceso",
+    "convierte",
+    "40 familias",
+    "5 minutos"
+   ],
+   "trozos": [
+    {
+     "ini": 1422.08,
+     "fin": 1423.6,
+     "texto": "El crecimiento más barato"
+    },
+    {
+     "ini": 1423.6,
+     "fin": 1424.44,
+     "texto": "del colegio"
+    },
+    {
+     "ini": 1424.44,
+     "fin": 1425.36,
+     "texto": "no está en conseguir"
+    },
+    {
+     "ini": 1425.36,
+     "fin": 1426.56,
+     "texto": "más mensajes,"
+    },
+    {
+     "ini": 1426.56,
+     "fin": 1427.56,
+     "texto": "está en dejar de perder"
+    },
+    {
+     "ini": 1427.56,
+     "fin": 1428.8,
+     "texto": "los que ya llegan."
+    },
+    {
+     "ini": 1428.8,
+     "fin": 1429.72,
+     "texto": "La publicidad"
+    },
+    {
+     "ini": 1429.72,
+     "fin": 1431.24,
+     "texto": "compra interés,"
+    },
+    {
+     "ini": 1431.24,
+     "fin": 1432.28,
+     "texto": "solo el proceso"
+    },
+    {
+     "ini": 1432.28,
+     "fin": 1433.44,
+     "texto": "lo convierte."
+    },
+    {
+     "ini": 1433.44,
+     "fin": 1434.28,
+     "texto": "Y a diferencia"
+    },
+    {
+     "ini": 1434.28,
+     "fin": 1435.6,
+     "texto": "de la publicidad,"
+    },
+    {
+     "ini": 1435.6,
+     "fin": 1436.24,
+     "texto": "el proceso"
+    },
+    {
+     "ini": 1436.24,
+     "fin": 1437.2,
+     "texto": "se paga una vez"
+    },
+    {
+     "ini": 1437.2,
+     "fin": 1437.96,
+     "texto": "y se convierte"
+    },
+    {
+     "ini": 1437.96,
+     "fin": 1439.12,
+     "texto": "todas las temporadas,"
+    },
+    {
+     "ini": 1439.12,
+     "fin": 1442.8,
+     "texto": "todas las temporadas."
+    },
+    {
+     "ini": 1442.8,
+     "fin": 1443.8,
+     "texto": "Antes de invertir"
+    },
+    {
+     "ini": 1443.8,
+     "fin": 1444.56,
+     "texto": "un peso más"
+    },
+    {
+     "ini": 1444.56,
+     "fin": 1445.2,
+     "texto": "en anuncios"
+    },
+    {
+     "ini": 1445.2,
+     "fin": 1446.96,
+     "texto": "vale responder"
+    },
+    {
+     "ini": 1446.96,
+     "fin": 1447.92,
+     "texto": "una pregunta:"
+    },
+    {
+     "ini": 1447.92,
+     "fin": 1448.68,
+     "texto": "de las últimas"
+    },
+    {
+     "ini": 1448.68,
+     "fin": 1449.56,
+     "texto": "40 familias"
+    },
+    {
+     "ini": 1449.56,
+     "fin": 1450.8,
+     "texto": "que inscribieron,"
+    },
+    {
+     "ini": 1450.8,
+     "fin": 1453.48,
+     "texto": "¿cuántas recibieron respuesta"
+    },
+    {
+     "ini": 1453.48,
+     "fin": 1455.08,
+     "texto": "en menos de 5 minutos?"
+    },
+    {
+     "ini": 1455.08,
+     "fin": 1455.8,
+     "texto": "Si no conoce"
+    },
+    {
+     "ini": 1455.8,
+     "fin": 1457.08,
+     "texto": "el dato,"
+    },
+    {
+     "ini": 1457.08,
+     "fin": 1458.48,
+     "texto": "pues ya"
+    },
+    {
+     "ini": 1458.48,
+     "fin": 1460.04,
+     "texto": "conocemos un problema, ¿verdad?"
+    }
+   ],
+   "frase": "La publicidad compra interés; solo el proceso lo convierte",
+   "descripcion": "El crecimiento más barato de un colegio no está en conseguir más mensajes: está en dejar de perder los que ya llegan.\nAntes de invertir un peso más en anuncios: de tus últimas 40 familias inscritas, ¿cuántas recibieron respuesta en menos de 5 minutos?\n#Admisiones #ColegiosPrivados #Publicidad",
+   "cara": 1428,
+   "tema": "proceso vs publicidad",
+   "por_que": "Frase que un director recuerda (publicidad compra interés, el proceso convierte), contraste proceso-anuncios y remate con una pregunta concreta que incomoda; sin venta ni titubeos."
+  },
+  {
+   "ini": 1627.59,
+   "fin": 1664.2,
+   "gancho": [
+    "El recorrido",
+    "no es el final:",
+    "es el penúltimo."
+   ],
+   "enfasis": [
+    "la misma",
+    "teléfono",
+    "caja",
+    "se evapora",
+    "7 días siguientes",
+    "nadie la llama",
+    "otro colegio sí",
+    "penúltimo paso"
+   ],
+   "trozos": [
+    {
+     "ini": 1627.84,
+     "fin": 1628.36,
+     "texto": "En la mayoría"
+    },
+    {
+     "ini": 1628.36,
+     "fin": 1629.16,
+     "texto": "de los colegios,"
+    },
+    {
+     "ini": 1629.16,
+     "fin": 1630.52,
+     "texto": "la persona que da"
+    },
+    {
+     "ini": 1630.52,
+     "fin": 1631.56,
+     "texto": "el recorrido"
+    },
+    {
+     "ini": 1631.56,
+     "fin": 1632.44,
+     "texto": "es la misma que"
+    },
+    {
+     "ini": 1632.44,
+     "fin": 1633.96,
+     "texto": "contesta el teléfono,"
+    },
+    {
+     "ini": 1633.96,
+     "fin": 1635.2,
+     "texto": "organiza el festival"
+    },
+    {
+     "ini": 1635.2,
+     "fin": 1637.12,
+     "texto": "y apoya en caja."
+    },
+    {
+     "ini": 1637.12,
+     "fin": 1638.64,
+     "texto": "Sin agenda y seguimiento,"
+    },
+    {
+     "ini": 1638.64,
+     "fin": 1639.84,
+     "texto": "sin registro de qué"
+    },
+    {
+     "ini": 1639.84,
+     "fin": 1641.28,
+     "texto": "familia visitó"
+    },
+    {
+     "ini": 1641.28,
+     "fin": 1642.68,
+     "texto": "y qué le preocupaba,"
+    },
+    {
+     "ini": 1642.68,
+     "fin": 1644.72,
+     "texto": "el recorrido más cálido"
+    },
+    {
+     "ini": 1644.72,
+     "fin": 1645.68,
+     "texto": "se evapora"
+    },
+    {
+     "ini": 1645.68,
+     "fin": 1647.16,
+     "texto": "en la operación diaria."
+    },
+    {
+     "ini": 1647.16,
+     "fin": 1648.36,
+     "texto": "La familia no se pierde"
+    },
+    {
+     "ini": 1648.36,
+     "fin": 1649.28,
+     "texto": "en la visita,"
+    },
+    {
+     "ini": 1649.28,
+     "fin": 1650.16,
+     "texto": "se pierde en"
+    },
+    {
+     "ini": 1650.16,
+     "fin": 1651.96,
+     "texto": "los 7 días siguientes,"
+    },
+    {
+     "ini": 1651.96,
+     "fin": 1653.36,
+     "texto": "cuando nadie la llama"
+    },
+    {
+     "ini": 1653.36,
+     "fin": 1657.84,
+     "texto": "y el otro colegio sí."
+    },
+    {
+     "ini": 1657.84,
+     "fin": 1658.8,
+     "texto": "El recorrido"
+    },
+    {
+     "ini": 1658.8,
+     "fin": 1661.08,
+     "texto": "no es el final"
+    },
+    {
+     "ini": 1661.08,
+     "fin": 1662.48,
+     "texto": "del embudo,"
+    },
+    {
+     "ini": 1662.48,
+     "fin": 1664.2,
+     "texto": "es el penúltimo paso."
+    }
+   ],
+   "frase": "La familia no se pierde en la visita: en los 7 días después",
+   "descripcion": "Quien da el recorrido también contesta el teléfono, organiza el festival y apoya en caja: sin agenda ni registro, el recorrido más cálido se evapora.\nLa familia no se pierde en la visita, se pierde en los 7 días siguientes, cuando nadie la llama y el otro colegio sí.\n#Admisiones #ColegiosPrivados #Seguimiento",
+   "cara": 1649,
+   "tema": "seguimiento post recorrido",
+   "por_que": "Escena real de cualquier colegio (la misma persona hace todo), diagnóstico claro (se pierde en los 7 días siguientes) y remate memorable: el recorrido es el penúltimo paso."
+  },
+  {
+   "ini": 889.39,
+   "fin": 919.78,
+   "gancho": [
+    "Una queja",
+    "bien respondida",
+    "vale más que 10."
+   ],
+   "enfasis": [
+    "88 %",
+    "responde",
+    "89 %",
+    "100 familias",
+    "tres años",
+    "bien respondida",
+    "10 reseñas",
+    "sin contestar"
+   ],
+   "trozos": [
+    {
+     "ini": 889.64,
+     "fin": 891.0,
+     "texto": "El primero: 88 %"
+    },
+    {
+     "ini": 891.0,
+     "fin": 891.84,
+     "texto": "de los consumidores"
+    },
+    {
+     "ini": 891.84,
+     "fin": 893.2,
+     "texto": "es más propenso"
+    },
+    {
+     "ini": 893.2,
+     "fin": 895.08,
+     "texto": "a elegir un negocio"
+    },
+    {
+     "ini": 895.08,
+     "fin": 895.56,
+     "texto": "que responde"
+    },
+    {
+     "ini": 895.56,
+     "fin": 897.92,
+     "texto": "a todas sus reseñas."
+    },
+    {
+     "ini": 897.92,
+     "fin": 899.12,
+     "texto": "Muy buen dato."
+    },
+    {
+     "ini": 899.12,
+     "fin": 900.44,
+     "texto": "Y 89 %"
+    },
+    {
+     "ini": 900.44,
+     "fin": 902.04,
+     "texto": "espera que le respondan"
+    },
+    {
+     "ini": 902.04,
+     "fin": 903.04,
+     "texto": "tanto a las positivas"
+    },
+    {
+     "ini": 903.04,
+     "fin": 904.52,
+     "texto": "como a las negativas."
+    },
+    {
+     "ini": 904.52,
+     "fin": 905.56,
+     "texto": "La respuesta"
+    },
+    {
+     "ini": 905.56,
+     "fin": 906.4,
+     "texto": "del colegio"
+    },
+    {
+     "ini": 906.4,
+     "fin": 907.6,
+     "texto": "a una queja"
+    },
+    {
+     "ini": 907.6,
+     "fin": 908.68,
+     "texto": "no es para el papá"
+    },
+    {
+     "ini": 908.68,
+     "fin": 909.72,
+     "texto": "que se quejó,"
+    },
+    {
+     "ini": 909.72,
+     "fin": 910.32,
+     "texto": "es para las"
+    },
+    {
+     "ini": 910.32,
+     "fin": 911.0,
+     "texto": "100 familias"
+    },
+    {
+     "ini": 911.0,
+     "fin": 911.44,
+     "texto": "que van a leer"
+    },
+    {
+     "ini": 911.44,
+     "fin": 912.24,
+     "texto": "ese intercambio"
+    },
+    {
+     "ini": 912.24,
+     "fin": 914.48,
+     "texto": "durante los próximos tres años."
+    },
+    {
+     "ini": 914.48,
+     "fin": 915.92,
+     "texto": "Una queja bien respondida"
+    },
+    {
+     "ini": 915.92,
+     "fin": 917.04,
+     "texto": "vale más que"
+    },
+    {
+     "ini": 917.04,
+     "fin": 918.0,
+     "texto": "10 reseñas de"
+    },
+    {
+     "ini": 918.0,
+     "fin": 918.76,
+     "texto": "cinco estrellas"
+    },
+    {
+     "ini": 918.76,
+     "fin": 919.78,
+     "texto": "sin contestar."
+    }
+   ],
+   "frase": "Una queja bien respondida vale más que 10 de cinco estrellas",
+   "descripcion": "88 % de las personas prefiere un negocio que responde todas sus reseñas y 89 % espera respuesta a las positivas y a las negativas.\nLa respuesta a una queja no es para quien se quejó: es para las 100 familias que la leerán los próximos tres años.\n#Admisiones #ColegiosPrivados #Reseñas",
+   "cara": 904,
+   "tema": "reseñas",
+   "por_que": "Dos cifras duras (88 % y 89 %), un reencuadre que cambia la manera de ver la queja (es para las 100 familias que la leerán) y una frase remate que se recuerda."
+  }
+ ],
+ "sin_tramos_por": null
+}

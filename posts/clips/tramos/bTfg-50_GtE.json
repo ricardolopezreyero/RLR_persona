@@ -1,0 +1,608 @@
+{
+ "id": "bTfg-50_GtE",
+ "tramos": [
+  {
+   "ini": 990.36,
+   "fin": 1042.76,
+   "gancho": [
+    "Un CRM no arregla",
+    "un proceso roto.",
+    "Es la herramienta."
+   ],
+   "enfasis": [
+    "herramienta",
+    "proceso",
+    "sobrino",
+    "roto",
+    "ningún software",
+    "nadie abre",
+    "nadie lee",
+    "reportitis"
+   ],
+   "frase": "El CRM no es el sistema: es la herramienta del sistema",
+   "descripcion": "Comprar un CRM no es comprar un sistema de admisiones. Si el proceso está roto, ningún software lo arregla.\nY un CRM genérico te deja pagando módulos que nadie abre y reportes que nadie lee.\n#Admisiones #ColegiosPrivados #CRMEducativo",
+   "cara": 1000,
+   "tema": "CRM vs sistema",
+   "por_que": "Es la tesis del video completa en 52 s: afirmación fuerte de entrada, el sobrino y el sistemita como contraste, y remate con la reportitis.",
+   "trozos": [
+    {
+     "ini": 990.61,
+     "fin": 992.03,
+     "texto": "Muchos dueños y directores"
+    },
+    {
+     "ini": 992.03,
+     "fin": 992.65,
+     "texto": "de colegios"
+    },
+    {
+     "ini": 992.65,
+     "fin": 994.15,
+     "texto": "creen que comprar un CRM"
+    },
+    {
+     "ini": 994.15,
+     "fin": 995.87,
+     "texto": "es comprar un sistema"
+    },
+    {
+     "ini": 995.87,
+     "fin": 997.49,
+     "texto": "completo de admisiones."
+    },
+    {
+     "ini": 997.49,
+     "fin": 998.16,
+     "texto": "No es así."
+    },
+    {
+     "ini": 998.16,
+     "fin": 998.82,
+     "texto": "El CRM es"
+    },
+    {
+     "ini": 998.82,
+     "fin": 1000.56,
+     "texto": "solo la herramienta;"
+    },
+    {
+     "ini": 1000.56,
+     "fin": 1002.18,
+     "texto": "el sistema es el proceso"
+    },
+    {
+     "ini": 1002.18,
+     "fin": 1003.2,
+     "texto": "que ya tienes,"
+    },
+    {
+     "ini": 1003.2,
+     "fin": 1003.91,
+     "texto": "bueno o malo."
+    },
+    {
+     "ini": 1003.91,
+     "fin": 1004.65,
+     "texto": "Si tú dejas"
+    },
+    {
+     "ini": 1004.65,
+     "fin": 1005.56,
+     "texto": "que el sobrino"
+    },
+    {
+     "ini": 1005.56,
+     "fin": 1006.92,
+     "texto": "te haga el sistema,"
+    },
+    {
+     "ini": 1006.92,
+     "fin": 1008.3,
+     "texto": "o dejas que un empleado"
+    },
+    {
+     "ini": 1008.3,
+     "fin": 1008.97,
+     "texto": "o un asesor"
+    },
+    {
+     "ini": 1008.97,
+     "fin": 1010.09,
+     "texto": "te haga el sistema,"
+    },
+    {
+     "ini": 1010.09,
+     "fin": 1011.8,
+     "texto": "que te hagan un sistemita,"
+    },
+    {
+     "ini": 1011.8,
+     "fin": 1012.62,
+     "texto": "no es lo que"
+    },
+    {
+     "ini": 1012.62,
+     "fin": 1014.01,
+     "texto": "tú estás buscando."
+    },
+    {
+     "ini": 1014.01,
+     "fin": 1015.21,
+     "texto": "Todo el sistema"
+    },
+    {
+     "ini": 1015.21,
+     "fin": 1016.42,
+     "texto": "que se necesita"
+    },
+    {
+     "ini": 1016.42,
+     "fin": 1018.56,
+     "texto": "para lograr que los alumnos"
+    },
+    {
+     "ini": 1018.56,
+     "fin": 1019.36,
+     "texto": "se inscriban"
+    },
+    {
+     "ini": 1019.36,
+     "fin": 1019.96,
+     "texto": "y esas son"
+    },
+    {
+     "ini": 1019.96,
+     "fin": 1022.01,
+     "texto": "muchas piezas del rompecabezas,"
+    },
+    {
+     "ini": 1022.01,
+     "fin": 1023.92,
+     "texto": "no solamente es una parte."
+    },
+    {
+     "ini": 1023.92,
+     "fin": 1025.15,
+     "texto": "Si tu proceso está roto,"
+    },
+    {
+     "ini": 1025.15,
+     "fin": 1026.06,
+     "texto": "ningún software"
+    },
+    {
+     "ini": 1026.06,
+     "fin": 1026.91,
+     "texto": "lo va a arreglar."
+    },
+    {
+     "ini": 1026.91,
+     "fin": 1027.53,
+     "texto": "Y si compras"
+    },
+    {
+     "ini": 1027.53,
+     "fin": 1028.48,
+     "texto": "un CRM genérico"
+    },
+    {
+     "ini": 1028.48,
+     "fin": 1029.32,
+     "texto": "lleno de funciones"
+    },
+    {
+     "ini": 1029.32,
+     "fin": 1030.05,
+     "texto": "que no necesitas,"
+    },
+    {
+     "ini": 1030.05,
+     "fin": 1031.36,
+     "texto": "terminas pagando por módulos"
+    },
+    {
+     "ini": 1031.36,
+     "fin": 1031.99,
+     "texto": "que nadie abre"
+    },
+    {
+     "ini": 1031.99,
+     "fin": 1033.96,
+     "texto": "y reportes que nadie lee."
+    },
+    {
+     "ini": 1033.96,
+     "fin": 1035.9,
+     "texto": "Me encanta esta parte:"
+    },
+    {
+     "ini": 1035.9,
+     "fin": 1037.11,
+     "texto": "se crean reportes"
+    },
+    {
+     "ini": 1037.11,
+     "fin": 1038.56,
+     "texto": "y tienen reportitis:"
+    },
+    {
+     "ini": 1038.56,
+     "fin": 1039.47,
+     "texto": "reporte por acá,"
+    },
+    {
+     "ini": 1039.47,
+     "fin": 1040.44,
+     "texto": "reporte por allá,"
+    },
+    {
+     "ini": 1040.44,
+     "fin": 1041.57,
+     "texto": "y el reporte"
+    },
+    {
+     "ini": 1041.57,
+     "fin": 1042.76,
+     "texto": "no está actualizado."
+    }
+   ]
+  },
+  {
+   "ini": 1208.28,
+   "fin": 1253.31,
+   "gancho": [
+    "Facturación, IA,",
+    "40 páginas:",
+    "puro relleno."
+   ],
+   "enfasis": [
+    "relleno",
+    "sistema contable",
+    "WhatsApp",
+    "40 páginas",
+    "cuatro números",
+    "inteligencia artificial",
+    "cotización",
+    "Simple"
+   ],
+   "frase": "Qué es puro relleno en un CRM para colegios",
+   "descripcion": "Facturación, email builder, reportes de 40 páginas y paneles de IA: inflan la cotización y complican la adopción.\nLo que un colegio necesita son cuatro números claros y el canal que usan las familias.\n#Admisiones #ColegiosPrivados #SoftwareEducativo",
+   "cara": 1220,
+   "tema": "relleno CRM",
+   "por_que": "Lista concreta y contrastada de lo que infla la cotización, con remate claro: más citas, más inscritos, simple.",
+   "trozos": [
+    {
+     "ini": 1208.53,
+     "fin": 1209.31,
+     "texto": "Puro relleno:"
+    },
+    {
+     "ini": 1209.31,
+     "fin": 1211.35,
+     "texto": "módulos de facturación completos."
+    },
+    {
+     "ini": 1211.35,
+     "fin": 1212.19,
+     "texto": "Su colegio ya tiene"
+    },
+    {
+     "ini": 1212.19,
+     "fin": 1213.04,
+     "texto": "un sistema contable,"
+    },
+    {
+     "ini": 1213.04,
+     "fin": 1214.04,
+     "texto": "no necesita duplicarlo."
+    },
+    {
+     "ini": 1214.04,
+     "fin": 1215.68,
+     "texto": "Herramientas de marketing avanzado"
+    },
+    {
+     "ini": 1215.68,
+     "fin": 1217.05,
+     "texto": "como email builder"
+    },
+    {
+     "ini": 1217.05,
+     "fin": 1218.68,
+     "texto": "con cientos de plantillas:"
+    },
+    {
+     "ini": 1218.68,
+     "fin": 1219.51,
+     "texto": "en educación"
+    },
+    {
+     "ini": 1219.51,
+     "fin": 1220.77,
+     "texto": "el canal es WhatsApp"
+    },
+    {
+     "ini": 1220.77,
+     "fin": 1222.36,
+     "texto": "y las visitas agendadas"
+    },
+    {
+     "ini": 1222.36,
+     "fin": 1223.36,
+     "texto": "y las asistencias."
+    },
+    {
+     "ini": 1223.36,
+     "fin": 1224.67,
+     "texto": "Reportes de 40 páginas"
+    },
+    {
+     "ini": 1224.67,
+     "fin": 1225.51,
+     "texto": "que nadie abre:"
+    },
+    {
+     "ini": 1225.51,
+     "fin": 1227.6,
+     "texto": "necesitas cuatro números claros."
+    },
+    {
+     "ini": 1227.6,
+     "fin": 1230.2,
+     "texto": "Y paneles de inteligencia artificial"
+    },
+    {
+     "ini": 1230.2,
+     "fin": 1231.11,
+     "texto": "que solo repiten"
+    },
+    {
+     "ini": 1231.11,
+     "fin": 1232.04,
+     "texto": "lo que ya sabes."
+    },
+    {
+     "ini": 1232.04,
+     "fin": 1234.04,
+     "texto": "Todo esto infla la cotización"
+    },
+    {
+     "ini": 1234.04,
+     "fin": 1235.35,
+     "texto": "y complica la adopción."
+    },
+    {
+     "ini": 1235.35,
+     "fin": 1235.96,
+     "texto": "Qué bien:"
+    },
+    {
+     "ini": 1235.96,
+     "fin": 1237.59,
+     "texto": "todo esto infla la cotización"
+    },
+    {
+     "ini": 1237.59,
+     "fin": 1239.45,
+     "texto": "y complica la adopción."
+    },
+    {
+     "ini": 1239.45,
+     "fin": 1241.31,
+     "texto": "O sea, no hace sentido"
+    },
+    {
+     "ini": 1241.31,
+     "fin": 1243.41,
+     "texto": "tan complicada la vida."
+    },
+    {
+     "ini": 1243.41,
+     "fin": 1244.4,
+     "texto": "A lo que vas,"
+    },
+    {
+     "ini": 1244.4,
+     "fin": 1246.72,
+     "texto": "rápido: resuélvelo,"
+    },
+    {
+     "ini": 1246.72,
+     "fin": 1248.29,
+     "texto": "aumenta la cantidad de citas,"
+    },
+    {
+     "ini": 1248.29,
+     "fin": 1250.1,
+     "texto": "aumenta la cantidad de inscritos,"
+    },
+    {
+     "ini": 1250.1,
+     "fin": 1251.25,
+     "texto": "gana más dinero."
+    },
+    {
+     "ini": 1251.25,
+     "fin": 1253.31,
+     "texto": "Simple, a lo básico."
+    }
+   ]
+  },
+  {
+   "ini": 871.46,
+   "fin": 910.03,
+   "gancho": [
+    "Se va un asesor",
+    "y se lleva",
+    "tus prospectos."
+   ],
+   "enfasis": [
+    "institución",
+    "memoria comercial",
+    "renuncia",
+    "WhatsApp personal",
+    "dolorosísimo",
+    "sistematizado",
+    "Listo"
+   ],
+   "frase": "El CRM es la memoria comercial de tu colegio",
+   "descripcion": "Si la conversación vive en el WhatsApp personal del asesor, se va con él. La memoria comercial de la escuela debe sobrevivir a cualquier renuncia.\nSistematizado, el cambio de asesor es: revisa las notas, revisa la conversación y continúa.\n#Admisiones #ColegiosPrivados #Rotación",
+   "cara": 895,
+   "tema": "memoria comercial",
+   "por_que": "Dolor real de cualquier director (rotación de asesores) con una solución concreta y un cierre en tres pasos.",
+   "trozos": [
+    {
+     "ini": 871.71,
+     "fin": 873.38,
+     "texto": "La información debe pertenecer"
+    },
+    {
+     "ini": 873.38,
+     "fin": 874.23,
+     "texto": "a la institución,"
+    },
+    {
+     "ini": 874.23,
+     "fin": 875.14,
+     "texto": "no a las personas."
+    },
+    {
+     "ini": 875.14,
+     "fin": 875.56,
+     "texto": "El CRM es"
+    },
+    {
+     "ini": 875.56,
+     "fin": 876.76,
+     "texto": "la memoria comercial"
+    },
+    {
+     "ini": 876.76,
+     "fin": 877.48,
+     "texto": "de la escuela"
+    },
+    {
+     "ini": 877.48,
+     "fin": 878.64,
+     "texto": "y debe sobrevivir"
+    },
+    {
+     "ini": 878.64,
+     "fin": 879.81,
+     "texto": "a cualquier renuncia."
+    },
+    {
+     "ini": 879.81,
+     "fin": 880.53,
+     "texto": "Esto de aquí"
+    },
+    {
+     "ini": 880.53,
+     "fin": 881.8,
+     "texto": "es bien importante,"
+    },
+    {
+     "ini": 881.8,
+     "fin": 883.18,
+     "texto": "porque hay rotación"
+    },
+    {
+     "ini": 883.18,
+     "fin": 884.17,
+     "texto": "en el personal,"
+    },
+    {
+     "ini": 884.17,
+     "fin": 886.37,
+     "texto": "y si tienen WhatsApp personal"
+    },
+    {
+     "ini": 886.37,
+     "fin": 887.35,
+     "texto": "te va a costar"
+    },
+    {
+     "ini": 887.35,
+     "fin": 889.12,
+     "texto": "todos los prospectos"
+    },
+    {
+     "ini": 889.12,
+     "fin": 890.25,
+     "texto": "que se llevan,"
+    },
+    {
+     "ini": 890.25,
+     "fin": 892.46,
+     "texto": "y ponerle un nuevo asesor,"
+    },
+    {
+     "ini": 892.46,
+     "fin": 893.82,
+     "texto": "a mi forma de ver…"
+    },
+    {
+     "ini": 893.82,
+     "fin": 895.2,
+     "texto": "O sea, tienes"
+    },
+    {
+     "ini": 895.2,
+     "fin": 896.85,
+     "texto": "un muy buen colegio"
+    },
+    {
+     "ini": 896.85,
+     "fin": 898.63,
+     "texto": "y puedes permitirte todo,"
+    },
+    {
+     "ini": 898.63,
+     "fin": 900.15,
+     "texto": "pero el cambiar asesor"
+    },
+    {
+     "ini": 900.15,
+     "fin": 901.31,
+     "texto": "es dolorosísimo"
+    },
+    {
+     "ini": 901.31,
+     "fin": 903.24,
+     "texto": "si no está sistematizado."
+    },
+    {
+     "ini": 903.24,
+     "fin": 904.57,
+     "texto": "Si está sistematizado,"
+    },
+    {
+     "ini": 904.57,
+     "fin": 905.41,
+     "texto": "se va un asesor,"
+    },
+    {
+     "ini": 905.41,
+     "fin": 906.18,
+     "texto": "entra el otro,"
+    },
+    {
+     "ini": 906.18,
+     "fin": 907.16,
+     "texto": "revisa las notas,"
+    },
+    {
+     "ini": 907.16,
+     "fin": 908.6,
+     "texto": "revisa la conversación"
+    },
+    {
+     "ini": 908.6,
+     "fin": 910.03,
+     "texto": "y continúa. Listo."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

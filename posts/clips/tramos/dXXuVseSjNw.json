@@ -1,0 +1,564 @@
+{
+ "id": "dXXuVseSjNw",
+ "tramos": [
+  {
+   "ini": 2381.97,
+   "fin": 2415.34,
+   "gancho": [
+    "El 90 % de las",
+    "inscripciones",
+    "es seguimiento"
+   ],
+   "enfasis": [
+    "90 %",
+    "80 %",
+    "seguimiento",
+    "cita",
+    "claro que no",
+    "persistencia"
+   ],
+   "trozos": [
+    {
+     "ini": 2382.22,
+     "fin": 2383.94,
+     "texto": "El 90 % de las inscripciones,"
+    },
+    {
+     "ini": 2383.94,
+     "fin": 2384.75,
+     "texto": "y por no poner"
+    },
+    {
+     "ini": 2384.75,
+     "fin": 2385.89,
+     "texto": "el 99 o el 100,"
+    },
+    {
+     "ini": 2385.89,
+     "fin": 2387.99,
+     "texto": "porque luego me echan carrilla."
+    },
+    {
+     "ini": 2387.99,
+     "fin": 2388.95,
+     "texto": "Mi esposa me dice"
+    },
+    {
+     "ini": 2388.95,
+     "fin": 2390.06,
+     "texto": "que siempre digo"
+    },
+    {
+     "ini": 2390.06,
+     "fin": 2390.76,
+     "texto": "arriba del 80 %"
+    },
+    {
+     "ini": 2390.76,
+     "fin": 2391.88,
+     "texto": "y todo mundo me cree,"
+    },
+    {
+     "ini": 2391.88,
+     "fin": 2392.63,
+     "texto": "pero en este caso"
+    },
+    {
+     "ini": 2392.63,
+     "fin": 2393.5,
+     "texto": "creo que el 90 %"
+    },
+    {
+     "ini": 2393.5,
+     "fin": 2394.47,
+     "texto": "de las inscripciones"
+    },
+    {
+     "ini": 2394.47,
+     "fin": 2395.88,
+     "texto": "es cuestión de seguimiento."
+    },
+    {
+     "ini": 2395.88,
+     "fin": 2397.91,
+     "texto": "Es cuestión de seguimiento."
+    },
+    {
+     "ini": 2397.91,
+     "fin": 2400.25,
+     "texto": "Entonces el prospecto llega,"
+    },
+    {
+     "ini": 2400.25,
+     "fin": 2401.51,
+     "texto": "pregunta y luego"
+    },
+    {
+     "ini": 2401.51,
+     "fin": 2403.39,
+     "texto": "le contestan rápido,"
+    },
+    {
+     "ini": 2403.39,
+     "fin": 2404.71,
+     "texto": "le pasan la información,"
+    },
+    {
+     "ini": 2404.71,
+     "fin": 2405.59,
+     "texto": "no generan la cita,"
+    },
+    {
+     "ini": 2405.59,
+     "fin": 2406.87,
+     "texto": "no lo vuelven a inscribir"
+    },
+    {
+     "ini": 2406.87,
+     "fin": 2408.08,
+     "texto": "y luego no lo inscriben,"
+    },
+    {
+     "ini": 2408.08,
+     "fin": 2408.65,
+     "texto": "y luego dicen:"
+    },
+    {
+     "ini": 2408.65,
+     "fin": 2409.52,
+     "texto": "«pues no lo inscribí»."
+    },
+    {
+     "ini": 2409.52,
+     "fin": 2410.25,
+     "texto": "Pues claro que no"
+    },
+    {
+     "ini": 2410.25,
+     "fin": 2411.55,
+     "texto": "lo ibas a inscribir, estimado,"
+    },
+    {
+     "ini": 2411.55,
+     "fin": 2412.64,
+     "texto": "pues si las ventas"
+    },
+    {
+     "ini": 2412.64,
+     "fin": 2414.37,
+     "texto": "son 90 % seguimiento"
+    },
+    {
+     "ini": 2414.37,
+     "fin": 2415.34,
+     "texto": "y persistencia."
+    }
+   ],
+   "frase": "El 90 % de las inscripciones es cuestión de seguimiento",
+   "descripcion": "El prospecto pregunta, le mandan la información y nadie le vuelve a escribir. Así no se inscribe nadie: las ventas son seguimiento y persistencia.\n#Admisiones #ColegiosPrivados #Seguimiento",
+   "cara": 2412,
+   "tema": "seguimiento",
+   "por_que": "Dato fuerte al inicio, anécdota con humor y remate memorable; completo en 33 s sin tocar la venta.",
+   "cam": [
+    746,
+    30,
+    160,
+    160
+   ],
+   "forma": "circulo",
+   "cont": [
+    60,
+    100,
+    500,
+    440
+   ]
+  },
+  {
+   "ini": 3080.13,
+   "fin": 3128.38,
+   "gancho": [
+    "Nunca des precios",
+    "por WhatsApp",
+    "negocia a la cara"
+   ],
+   "enfasis": [
+    "Nunca",
+    "WhatsApp",
+    "colegio físico",
+    "filtro",
+    "a la cara",
+    "precio",
+    "negociar"
+   ],
+   "trozos": [
+    {
+     "ini": 3080.38,
+     "fin": 3082.7,
+     "texto": "Nunca pasen precios por WhatsApp."
+    },
+    {
+     "ini": 3082.7,
+     "fin": 3083.87,
+     "texto": "El precio se pasa"
+    },
+    {
+     "ini": 3083.87,
+     "fin": 3084.58,
+     "texto": "en el colegio"
+    },
+    {
+     "ini": 3084.58,
+     "fin": 3086.09,
+     "texto": "y tú eres un colegio físico,"
+    },
+    {
+     "ini": 3086.09,
+     "fin": 3087.4,
+     "texto": "y esas son las reglas."
+    },
+    {
+     "ini": 3087.4,
+     "fin": 3088.98,
+     "texto": "No eres un colegio digital."
+    },
+    {
+     "ini": 3088.98,
+     "fin": 3090.5,
+     "texto": "Y si quieren, que vayan;"
+    },
+    {
+     "ini": 3090.5,
+     "fin": 3091.51,
+     "texto": "y si no, pues"
+    },
+    {
+     "ini": 3091.51,
+     "fin": 3092.41,
+     "texto": "eso es un filtro."
+    },
+    {
+     "ini": 3092.41,
+     "fin": 3094.17,
+     "texto": "El que no fue al colegio"
+    },
+    {
+     "ini": 3094.17,
+     "fin": 3094.81,
+     "texto": "es un filtro"
+    },
+    {
+     "ini": 3094.81,
+     "fin": 3095.73,
+     "texto": "de que no debes"
+    },
+    {
+     "ini": 3095.73,
+     "fin": 3097.5,
+     "texto": "de pertenecer a este colegio."
+    },
+    {
+     "ini": 3097.5,
+     "fin": 3098.31,
+     "texto": "Lo que voy es:"
+    },
+    {
+     "ini": 3098.31,
+     "fin": 3099.94,
+     "texto": "no pasen precios por WhatsApp."
+    },
+    {
+     "ini": 3099.94,
+     "fin": 3100.49,
+     "texto": "Es más cómodo"
+    },
+    {
+     "ini": 3100.49,
+     "fin": 3102.08,
+     "texto": "que vayan al colegio,"
+    },
+    {
+     "ini": 3102.08,
+     "fin": 3102.72,
+     "texto": "les expliquen,"
+    },
+    {
+     "ini": 3102.72,
+     "fin": 3104.08,
+     "texto": "y cuando estás en el precio,"
+    },
+    {
+     "ini": 3104.08,
+     "fin": 3105.17,
+     "texto": "si ves que hace caras,"
+    },
+    {
+     "ini": 3105.17,
+     "fin": 3107.7,
+     "texto": "puedes ofrecer una promoción"
+    },
+    {
+     "ini": 3107.7,
+     "fin": 3108.34,
+     "texto": "o una beca."
+    },
+    {
+     "ini": 3108.34,
+     "fin": 3109.62,
+     "texto": "Y eso solo lo logras"
+    },
+    {
+     "ini": 3109.62,
+     "fin": 3111.64,
+     "texto": "cuando estás con el prospecto"
+    },
+    {
+     "ini": 3111.64,
+     "fin": 3113.1,
+     "texto": "viéndolo a la cara,"
+    },
+    {
+     "ini": 3113.1,
+     "fin": 3113.82,
+     "texto": "a los ojos,"
+    },
+    {
+     "ini": 3113.82,
+     "fin": 3114.78,
+     "texto": "y viendo cuando"
+    },
+    {
+     "ini": 3114.78,
+     "fin": 3115.98,
+     "texto": "pasas el precio,"
+    },
+    {
+     "ini": 3115.98,
+     "fin": 3117.5,
+     "texto": "después de que le diste"
+    },
+    {
+     "ini": 3117.5,
+     "fin": 3118.06,
+     "texto": "un tour"
+    },
+    {
+     "ini": 3118.06,
+     "fin": 3120.17,
+     "texto": "por todo el colegio."
+    },
+    {
+     "ini": 3120.17,
+     "fin": 3122.14,
+     "texto": "Entonces el precio,"
+    },
+    {
+     "ini": 3122.14,
+     "fin": 3123.44,
+     "texto": "más que usarlo"
+    },
+    {
+     "ini": 3123.44,
+     "fin": 3125.19,
+     "texto": "como una objeción,"
+    },
+    {
+     "ini": 3125.19,
+     "fin": 3126.85,
+     "texto": "lo debes de usar"
+    },
+    {
+     "ini": 3126.85,
+     "fin": 3128.38,
+     "texto": "a favor para negociar."
+    }
+   ],
+   "frase": "Nunca pases precios por WhatsApp: se dan en el colegio",
+   "descripcion": "El precio se da en el colegio, viendo al prospecto a los ojos y después del recorrido. Quien no va, es un filtro; quien va, abre la negociación.\n#Admisiones #ColegiosPrivados #Colegiatura",
+   "cara": 3083,
+   "tema": "precios por WhatsApp",
+   "por_que": "Postura clara que incomoda, regla simple y remate útil: el precio como herramienta para negociar, no como objeción.",
+   "cam": [
+    540,
+    26,
+    160,
+    160
+   ],
+   "forma": "circulo",
+   "cont": [
+    60,
+    100,
+    470,
+    440
+   ]
+  },
+  {
+   "ini": 2151.26,
+   "fin": 2188.13,
+   "gancho": [
+    "Botón de WhatsApp",
+    "ganas el lead",
+    "pierdes los datos"
+   ],
+   "enfasis": [
+    "WhatsApp",
+    "momento justo",
+    "truco",
+    "ganas el lead",
+    "pierdes",
+    "nunca vas a saber",
+    "campaña"
+   ],
+   "trozos": [
+    {
+     "ini": 2151.51,
+     "fin": 2152.77,
+     "texto": "El botón de WhatsApp"
+    },
+    {
+     "ini": 2152.77,
+     "fin": 2153.43,
+     "texto": "en tu web"
+    },
+    {
+     "ini": 2153.43,
+     "fin": 2154.41,
+     "texto": "es más importante"
+    },
+    {
+     "ini": 2154.41,
+     "fin": 2155.36,
+     "texto": "de lo que crees,"
+    },
+    {
+     "ini": 2155.36,
+     "fin": 2157.38,
+     "texto": "porque capta a la persona"
+    },
+    {
+     "ini": 2157.38,
+     "fin": 2159.12,
+     "texto": "en el momento justo."
+    },
+    {
+     "ini": 2159.12,
+     "fin": 2160.37,
+     "texto": "Pero ojo, porque"
+    },
+    {
+     "ini": 2160.37,
+     "fin": 2161.68,
+     "texto": "aquí hay truco:"
+    },
+    {
+     "ini": 2161.68,
+     "fin": 2163.55,
+     "texto": "en este punto del botón"
+    },
+    {
+     "ini": 2163.55,
+     "fin": 2165.59,
+     "texto": "hay un pero muy grande."
+    },
+    {
+     "ini": 2165.59,
+     "fin": 2167.45,
+     "texto": "Si tú pones el botón"
+    },
+    {
+     "ini": 2167.45,
+     "fin": 2169.69,
+     "texto": "solamente de WhatsApp,"
+    },
+    {
+     "ini": 2169.69,
+     "fin": 2171.8,
+     "texto": "como imagen suspendida"
+    },
+    {
+     "ini": 2171.8,
+     "fin": 2172.93,
+     "texto": "abajo a la derecha"
+    },
+    {
+     "ini": 2172.93,
+     "fin": 2173.69,
+     "texto": "de la página,"
+    },
+    {
+     "ini": 2173.69,
+     "fin": 2174.74,
+     "texto": "y la gente le pica"
+    },
+    {
+     "ini": 2174.74,
+     "fin": 2176.02,
+     "texto": "y se va al WhatsApp,"
+    },
+    {
+     "ini": 2176.02,
+     "fin": 2178.19,
+     "texto": "ganas el lead, pero pierdes"
+    },
+    {
+     "ini": 2178.19,
+     "fin": 2179.45,
+     "texto": "los datos del lead,"
+    },
+    {
+     "ini": 2179.45,
+     "fin": 2180.59,
+     "texto": "porque se va"
+    },
+    {
+     "ini": 2180.59,
+     "fin": 2182.2,
+     "texto": "a la siguiente pantalla"
+    },
+    {
+     "ini": 2182.2,
+     "fin": 2183.24,
+     "texto": "y se pierden,"
+    },
+    {
+     "ini": 2183.24,
+     "fin": 2184.03,
+     "texto": "y se pierden,"
+    },
+    {
+     "ini": 2184.03,
+     "fin": 2185.13,
+     "texto": "y se pierden."
+    },
+    {
+     "ini": 2185.13,
+     "fin": 2186.44,
+     "texto": "Y nunca vas a saber"
+    },
+    {
+     "ini": 2186.44,
+     "fin": 2188.13,
+     "texto": "qué campaña funcionó."
+    }
+   ],
+   "frase": "El botón de WhatsApp: ganas el lead, pierdes los datos",
+   "descripcion": "El botón flotante de WhatsApp capta al papá en el momento justo, pero si lo manda directo al chat nunca sabrás de qué campaña vino.\n#Admisiones #ColegiosPrivados #SitioWeb",
+   "cara": 2158,
+   "tema": "botón de WhatsApp",
+   "por_que": "Error concreto que casi todo colegio comete, con contraste claro (ganas el lead, pierdes los datos) y remate que se recuerda.",
+   "cam": [
+    690,
+    140,
+    280,
+    280
+   ],
+   "forma": "circulo",
+   "cont": [
+    60,
+    100,
+    500,
+    440
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

@@ -1,0 +1,485 @@
+{
+ "id": "ktLfHzEnHeQ",
+ "tramos": [
+  {
+   "ini": 67.84,
+   "fin": 133.7,
+   "gancho": [
+    "Publicidad: $200",
+    "Referido: $50",
+    "Págale a tu gente"
+   ],
+   "enfasis": [
+    "200 dólares",
+    "50 dólares",
+    "100",
+    "redes sociales",
+    "activamente",
+    "bien poquito",
+    "muchísimo más del doble"
+   ],
+   "frase": "Un referido de empleado cuesta $50; un anuncio, $200",
+   "descripcion": "La publicidad te cuesta 200 dólares por alumno; un referido de empleado, 50. Súbelo a 100 y pídelo activamente: te llegan muchísimo más del doble.\n#Admisiones #ColegiosPrivados #Referidos",
+   "cara": 94,
+   "tema": "referidos empleados",
+   "por_que": "Arranca con el contraste de cifras (200 vs 50) y cierra con el remate pasivo vs activo; idea completa sin contexto del video.",
+   "trozos": [
+    {
+     "ini": 68.09,
+     "fin": 70.94,
+     "texto": "La publicidad tiene"
+    },
+    {
+     "ini": 70.94,
+     "fin": 74.4,
+     "texto": "un costo de adquisición"
+    },
+    {
+     "ini": 74.4,
+     "fin": 75.94,
+     "texto": "de alumnos"
+    },
+    {
+     "ini": 75.94,
+     "fin": 78.33,
+     "texto": "de 200 dólares,"
+    },
+    {
+     "ini": 78.33,
+     "fin": 80.22,
+     "texto": "referido de alumnos"
+    },
+    {
+     "ini": 80.22,
+     "fin": 82.44,
+     "texto": "200 dólares,"
+    },
+    {
+     "ini": 82.44,
+     "fin": 83.48,
+     "texto": "referido de empleados"
+    },
+    {
+     "ini": 83.48,
+     "fin": 84.31,
+     "texto": "50 dólares."
+    },
+    {
+     "ini": 84.31,
+     "fin": 85.06,
+     "texto": "Sin problema"
+    },
+    {
+     "ini": 85.06,
+     "fin": 85.92,
+     "texto": "se puede subir"
+    },
+    {
+     "ini": 85.92,
+     "fin": 87.81,
+     "texto": "a 100 y hasta 200"
+    },
+    {
+     "ini": 87.81,
+     "fin": 89.04,
+     "texto": "para compensar el que,"
+    },
+    {
+     "ini": 89.04,
+     "fin": 89.76,
+     "texto": "en vez de que"
+    },
+    {
+     "ini": 89.76,
+     "fin": 90.88,
+     "texto": "el dinero se vaya"
+    },
+    {
+     "ini": 90.88,
+     "fin": 92.44,
+     "texto": "a las redes sociales,"
+    },
+    {
+     "ini": 92.44,
+     "fin": 94.44,
+     "texto": "lo dejas internamente."
+    },
+    {
+     "ini": 94.44,
+     "fin": 96.0,
+     "texto": "Importante es tener"
+    },
+    {
+     "ini": 96.0,
+     "fin": 97.84,
+     "texto": "un link a tu formulario"
+    },
+    {
+     "ini": 97.84,
+     "fin": 98.77,
+     "texto": "de referidos"
+    },
+    {
+     "ini": 98.77,
+     "fin": 99.39,
+     "texto": "para que puedan"
+    },
+    {
+     "ini": 99.39,
+     "fin": 100.55,
+     "texto": "activamente pedirle"
+    },
+    {
+     "ini": 100.55,
+     "fin": 101.7,
+     "texto": "a todos sus referidos"
+    },
+    {
+     "ini": 101.7,
+     "fin": 102.72,
+     "texto": "y no solo pasivamente."
+    },
+    {
+     "ini": 102.72,
+     "fin": 105.15,
+     "texto": "Este punto creo que"
+    },
+    {
+     "ini": 105.15,
+     "fin": 107.05,
+     "texto": "es súper importante:"
+    },
+    {
+     "ini": 107.05,
+     "fin": 108.86,
+     "texto": "si tú estás esperando"
+    },
+    {
+     "ini": 108.86,
+     "fin": 111.48,
+     "texto": "que naturalmente te refieran,"
+    },
+    {
+     "ini": 111.48,
+     "fin": 113.94,
+     "texto": "va a llegar bien poquito,"
+    },
+    {
+     "ini": 113.94,
+     "fin": 114.51,
+     "texto": "van a llegar"
+    },
+    {
+     "ini": 114.51,
+     "fin": 115.96,
+     "texto": "bien poquito referidos."
+    },
+    {
+     "ini": 115.96,
+     "fin": 117.4,
+     "texto": "Pero si estás activamente"
+    },
+    {
+     "ini": 117.4,
+     "fin": 118.94,
+     "texto": "recordándole a todo mundo"
+    },
+    {
+     "ini": 118.94,
+     "fin": 119.58,
+     "texto": "de que te voy"
+    },
+    {
+     "ini": 119.58,
+     "fin": 120.52,
+     "texto": "a dar esta cantidad"
+    },
+    {
+     "ini": 120.52,
+     "fin": 120.99,
+     "texto": "de dinero"
+    },
+    {
+     "ini": 120.99,
+     "fin": 121.97,
+     "texto": "por cada referido"
+    },
+    {
+     "ini": 121.97,
+     "fin": 122.76,
+     "texto": "que me mandes,"
+    },
+    {
+     "ini": 122.76,
+     "fin": 125.8,
+     "texto": "cambia por completo"
+    },
+    {
+     "ini": 125.8,
+     "fin": 126.72,
+     "texto": "y te llega"
+    },
+    {
+     "ini": 126.72,
+     "fin": 127.9,
+     "texto": "no el doble,"
+    },
+    {
+     "ini": 127.9,
+     "fin": 129.58,
+     "texto": "muchísimo más del doble"
+    },
+    {
+     "ini": 129.58,
+     "fin": 130.76,
+     "texto": "de los referidos,"
+    },
+    {
+     "ini": 130.76,
+     "fin": 132.3,
+     "texto": "porque activamente"
+    },
+    {
+     "ini": 132.3,
+     "fin": 133.7,
+     "texto": "lo estás buscando."
+    }
+   ]
+  },
+  {
+   "ini": 175.31,
+   "fin": 226.31,
+   "gancho": [
+    "No escondas",
+    "la comisión",
+    "y págala rápido"
+   ],
+   "enfasis": [
+    "no escondas",
+    "exactamente",
+    "comisión pactada",
+    "lo más rápido posible",
+    "depósito",
+    "muchas gracias"
+   ],
+   "frase": "Di la comisión exacta y págala el día que se inscriba",
+   "descripcion": "Tus empleados deben saber la cantidad exacta que ganan por cada referido. Pagas de la misma inscripción, rápido, y con una imagen de gracias.\n#Admisiones #ColegiosPrivados #Comisiones",
+   "cara": 200,
+   "tema": "comisión referidos",
+   "por_que": "Regla operativa concreta y autocontenida: comisión visible, pago inmediato de la inscripción y agradecimiento; remate claro.",
+   "trozos": [
+    {
+     "ini": 175.56,
+     "fin": 177.84,
+     "texto": "Que sepan"
+    },
+    {
+     "ini": 177.84,
+     "fin": 178.73,
+     "texto": "todos los empleados"
+    },
+    {
+     "ini": 178.73,
+     "fin": 179.21,
+     "texto": "la comisión"
+    },
+    {
+     "ini": 179.21,
+     "fin": 179.82,
+     "texto": "que les vas a dar"
+    },
+    {
+     "ini": 179.82,
+     "fin": 180.67,
+     "texto": "por cada referido."
+    },
+    {
+     "ini": 180.67,
+     "fin": 181.8,
+     "texto": "Aquí es bien importante:"
+    },
+    {
+     "ini": 181.8,
+     "fin": 182.99,
+     "texto": "no escondas lo que"
+    },
+    {
+     "ini": 182.99,
+     "fin": 184.02,
+     "texto": "les vas a dar,"
+    },
+    {
+     "ini": 184.02,
+     "fin": 184.78,
+     "texto": "o sea, claro."
+    },
+    {
+     "ini": 184.78,
+     "fin": 185.54,
+     "texto": "Y de hecho"
+    },
+    {
+     "ini": 185.54,
+     "fin": 186.58,
+     "texto": "yo me atrevería"
+    },
+    {
+     "ini": 186.58,
+     "fin": 187.69,
+     "texto": "a ponerlo hasta"
+    },
+    {
+     "ini": 187.69,
+     "fin": 188.96,
+     "texto": "en alguna parte"
+    },
+    {
+     "ini": 188.96,
+     "fin": 190.25,
+     "texto": "como muy importante:"
+    },
+    {
+     "ini": 190.25,
+     "fin": 190.97,
+     "texto": "te voy a dar"
+    },
+    {
+     "ini": 190.97,
+     "fin": 192.84,
+     "texto": "exactamente esta cantidad"
+    },
+    {
+     "ini": 192.84,
+     "fin": 193.7,
+     "texto": "de dinero."
+    },
+    {
+     "ini": 193.7,
+     "fin": 194.74,
+     "texto": "O sea, no dejes"
+    },
+    {
+     "ini": 194.74,
+     "fin": 195.64,
+     "texto": "que supongan;"
+    },
+    {
+     "ini": 195.64,
+     "fin": 196.58,
+     "texto": "es exactamente,"
+    },
+    {
+     "ini": 196.58,
+     "fin": 197.27,
+     "texto": "tienen que saber"
+    },
+    {
+     "ini": 197.27,
+     "fin": 198.41,
+     "texto": "qué cantidad de dinero"
+    },
+    {
+     "ini": 198.41,
+     "fin": 199.02,
+     "texto": "les vas a dar."
+    },
+    {
+     "ini": 199.02,
+     "fin": 200.24,
+     "texto": "Y en cuanto se inscriba,"
+    },
+    {
+     "ini": 200.24,
+     "fin": 201.41,
+     "texto": "agarras tú"
+    },
+    {
+     "ini": 201.41,
+     "fin": 202.77,
+     "texto": "de ese dinero"
+    },
+    {
+     "ini": 202.77,
+     "fin": 204.79,
+     "texto": "de la inscripción"
+    },
+    {
+     "ini": 204.79,
+     "fin": 205.83,
+     "texto": "y le pagas"
+    },
+    {
+     "ini": 205.83,
+     "fin": 208.04,
+     "texto": "la comisión pactada."
+    },
+    {
+     "ini": 208.04,
+     "fin": 209.0,
+     "texto": "Y que sea"
+    },
+    {
+     "ini": 209.0,
+     "fin": 209.88,
+     "texto": "esa transacción"
+    },
+    {
+     "ini": 209.88,
+     "fin": 211.52,
+     "texto": "lo más rápido posible,"
+    },
+    {
+     "ini": 211.52,
+     "fin": 213.23,
+     "texto": "para que el que refiere"
+    },
+    {
+     "ini": 213.23,
+     "fin": 214.67,
+     "texto": "quiera referir más"
+    },
+    {
+     "ini": 214.67,
+     "fin": 216.68,
+     "texto": "por sentir esa sensación"
+    },
+    {
+     "ini": 216.68,
+     "fin": 217.82,
+     "texto": "y porque le llegue"
+    },
+    {
+     "ini": 217.82,
+     "fin": 218.54,
+     "texto": "ese depósito."
+    },
+    {
+     "ini": 218.54,
+     "fin": 219.15,
+     "texto": "Y al momento"
+    },
+    {
+     "ini": 219.15,
+     "fin": 220.65,
+     "texto": "que le mandes el depósito"
+    },
+    {
+     "ini": 220.65,
+     "fin": 222.08,
+     "texto": "hay que mandarle también"
+    },
+    {
+     "ini": 222.08,
+     "fin": 223.4,
+     "texto": "una imagen de"
+    },
+    {
+     "ini": 223.4,
+     "fin": 226.31,
+     "texto": "«muchas gracias por referirnos»."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

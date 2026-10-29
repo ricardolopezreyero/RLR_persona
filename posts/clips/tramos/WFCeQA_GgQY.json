@@ -1,0 +1,653 @@
+{
+ "id": "WFCeQA_GgQY",
+ "tramos": [
+  {
+   "ini": 387.71,
+   "fin": 442.0,
+   "gancho": [
+    "Ve tu anuncio,",
+    "deja sus datos…",
+    "nadie contesta."
+   ],
+   "enfasis": [
+    "nadie le contesta",
+    "momento mágico",
+    "no lo vuelves",
+    "momento único",
+    "una sola vez",
+    "volverlo alumno"
+   ],
+   "frase": "El anuncio perfecto se desperdicia si nadie contesta",
+   "descripcion": "Inviertes horas y dinero en el anuncio perfecto. El papá da clic, deja sus datos… y nadie le contesta.\nEse momento solo pasa una vez en la vida de tu colegio: se cuida o se desperdicia.\n#Admisiones #ColegiosPrivados #Seguimiento",
+   "cara": 424,
+   "tema": "velocidad de respuesta",
+   "por_que": "Historia completa en un minuto: toda la inversión en publicidad se pierde en el segundo en que nadie contesta; remate claro y memorable.",
+   "trozos": [
+    {
+     "ini": 387.96,
+     "fin": 388.56,
+     "texto": "La publicidad:"
+    },
+    {
+     "ini": 388.56,
+     "fin": 390.08,
+     "texto": "inviertes en el espectacular,"
+    },
+    {
+     "ini": 390.08,
+     "fin": 391.2,
+     "texto": "inviertes en la valla,"
+    },
+    {
+     "ini": 391.2,
+     "fin": 392.32,
+     "texto": "inviertes en el radio,"
+    },
+    {
+     "ini": 392.32,
+     "fin": 393.64,
+     "texto": "inviertes en el anuncio"
+    },
+    {
+     "ini": 393.64,
+     "fin": 394.88,
+     "texto": "en la revista."
+    },
+    {
+     "ini": 394.88,
+     "fin": 396.28,
+     "texto": "Haces toda una serie"
+    },
+    {
+     "ini": 396.28,
+     "fin": 398.12,
+     "texto": "de revisiones durante horas"
+    },
+    {
+     "ini": 398.12,
+     "fin": 399.68,
+     "texto": "que el anuncio esté impecable,"
+    },
+    {
+     "ini": 399.68,
+     "fin": 400.8,
+     "texto": "que esté precioso,"
+    },
+    {
+     "ini": 400.8,
+     "fin": 401.88,
+     "texto": "lo lanzas"
+    },
+    {
+     "ini": 401.88,
+     "fin": 403.6,
+     "texto": "y luego el alumno perfecto"
+    },
+    {
+     "ini": 403.6,
+     "fin": 404.72,
+     "texto": "o el papá perfecto"
+    },
+    {
+     "ini": 404.72,
+     "fin": 405.72,
+     "texto": "ve ese anuncio,"
+    },
+    {
+     "ini": 405.72,
+     "fin": 406.96,
+     "texto": "le da clic,"
+    },
+    {
+     "ini": 406.96,
+     "fin": 408.28,
+     "texto": "se mete a tu página,"
+    },
+    {
+     "ini": 408.28,
+     "fin": 409.36,
+     "texto": "ve la página"
+    },
+    {
+     "ini": 409.36,
+     "fin": 410.32,
+     "texto": "y luego se va"
+    },
+    {
+     "ini": 410.32,
+     "fin": 411.16,
+     "texto": "al botón de WhatsApp"
+    },
+    {
+     "ini": 411.16,
+     "fin": 412.16,
+     "texto": "o se va a admisiones,"
+    },
+    {
+     "ini": 412.16,
+     "fin": 413.44,
+     "texto": "deja sus datos"
+    },
+    {
+     "ini": 413.44,
+     "fin": 414.68,
+     "texto": "y nadie le contesta."
+    },
+    {
+     "ini": 414.68,
+     "fin": 415.6,
+     "texto": "Todo el trabajo anterior"
+    },
+    {
+     "ini": 415.6,
+     "fin": 416.56,
+     "texto": "se desperdicia"
+    },
+    {
+     "ini": 416.56,
+     "fin": 417.64,
+     "texto": "cuando pasa ese momento,"
+    },
+    {
+     "ini": 417.64,
+     "fin": 418.72,
+     "texto": "porque es un momento mágico,"
+    },
+    {
+     "ini": 418.72,
+     "fin": 419.4,
+     "texto": "es un momento"
+    },
+    {
+     "ini": 419.4,
+     "fin": 421.0,
+     "texto": "en que el prospecto dice:"
+    },
+    {
+     "ini": 421.0,
+     "fin": 422.52,
+     "texto": "«Me interesa este colegio»."
+    },
+    {
+     "ini": 422.52,
+     "fin": 423.12,
+     "texto": "Y es un momento"
+    },
+    {
+     "ini": 423.12,
+     "fin": 423.8,
+     "texto": "en que no lo vuelves"
+    },
+    {
+     "ini": 423.8,
+     "fin": 424.56,
+     "texto": "a tener."
+    },
+    {
+     "ini": 424.56,
+     "fin": 426.32,
+     "texto": "Es un momento único"
+    },
+    {
+     "ini": 426.32,
+     "fin": 427.0,
+     "texto": "en la vida"
+    },
+    {
+     "ini": 427.0,
+     "fin": 428.36,
+     "texto": "de tu institución"
+    },
+    {
+     "ini": 428.36,
+     "fin": 429.48,
+     "texto": "y del prospecto."
+    },
+    {
+     "ini": 429.48,
+     "fin": 431.72,
+     "texto": "Solamente puede pasar"
+    },
+    {
+     "ini": 431.72,
+     "fin": 433.08,
+     "texto": "una sola vez"
+    },
+    {
+     "ini": 433.08,
+     "fin": 433.64,
+     "texto": "y se cuida"
+    },
+    {
+     "ini": 433.64,
+     "fin": 434.44,
+     "texto": "o no se cuida."
+    },
+    {
+     "ini": 434.44,
+     "fin": 436.2,
+     "texto": "Entonces, se desperdicia"
+    },
+    {
+     "ini": 436.2,
+     "fin": 437.52,
+     "texto": "o lo llevas"
+    },
+    {
+     "ini": 437.52,
+     "fin": 439.64,
+     "texto": "y haces todo lo posible"
+    },
+    {
+     "ini": 439.64,
+     "fin": 440.36,
+     "texto": "para volverlo alumno,"
+    },
+    {
+     "ini": 440.36,
+     "fin": 442.0,
+     "texto": "que de eso se trata."
+    }
+   ]
+  },
+  {
+   "ini": 718.63,
+   "fin": 754.32,
+   "gancho": [
+    "¿Soltar 40 años",
+    "de hacerlo igual?",
+    "Récord de 27 años."
+   ],
+   "enfasis": [
+    "resistencia al cambio",
+    "40 años",
+    "«Sí»",
+    "rueda de prensa",
+    "récord histórico",
+    "27 años"
+   ],
+   "frase": "Soltó 40 años de costumbre y rompió un récord de 27 años",
+   "descripcion": "«¿Me estás pidiendo que deje 40 años de lo que me funciona?» Le dije que sí.\nHoy ese colegio rompe su récord histórico de 27 años. El obstáculo no es el software, es el miedo al cambio.\n#Admisiones #ColegiosPrivados #ResistenciaAlCambio",
+   "cara": 754,
+   "tema": "resistencia al cambio",
+   "por_que": "Historia real de un colegio con contraste duro (40 años de costumbre vs récord de 27 años) y un dato académico que la sostiene; sin titubeos.",
+   "trozos": [
+    {
+     "ini": 718.88,
+     "fin": 720.0,
+     "texto": "La resistencia al cambio"
+    },
+    {
+     "ini": 720.0,
+     "fin": 721.08,
+     "texto": "es el mayor obstáculo."
+    },
+    {
+     "ini": 721.08,
+     "fin": 722.32,
+     "texto": "Un estudio académico señala"
+    },
+    {
+     "ini": 722.32,
+     "fin": 723.28,
+     "texto": "que la implementación"
+    },
+    {
+     "ini": 723.28,
+     "fin": 723.84,
+     "texto": "de un CRM"
+    },
+    {
+     "ini": 723.84,
+     "fin": 725.24,
+     "texto": "mejora la transparencia,"
+    },
+    {
+     "ini": 725.24,
+     "fin": 726.2,
+     "texto": "pero el factor crítico"
+    },
+    {
+     "ini": 726.2,
+     "fin": 728.48,
+     "texto": "es la resistencia del personal."
+    },
+    {
+     "ini": 728.48,
+     "fin": 730.44,
+     "texto": "Aquí estaba haciendo el pitch"
+    },
+    {
+     "ini": 730.44,
+     "fin": 732.8,
+     "texto": "con un grupo educativo monstruoso"
+    },
+    {
+     "ini": 732.8,
+     "fin": 733.96,
+     "texto": "y, bueno, con un colegio"
+    },
+    {
+     "ini": 733.96,
+     "fin": 735.08,
+     "texto": "de ese grupo educativo"
+    },
+    {
+     "ini": 735.08,
+     "fin": 735.48,
+     "texto": "y me dijeron:"
+    },
+    {
+     "ini": 735.48,
+     "fin": 737.28,
+     "texto": "«Ricardo, me estás diciendo"
+    },
+    {
+     "ini": 737.28,
+     "fin": 738.88,
+     "texto": "que deje a un lado"
+    },
+    {
+     "ini": 738.88,
+     "fin": 740.28,
+     "texto": "40 años"
+    },
+    {
+     "ini": 740.28,
+     "fin": 741.24,
+     "texto": "lo que he estado haciendo,"
+    },
+    {
+     "ini": 741.24,
+     "fin": 742.44,
+     "texto": "que me funciona?»"
+    },
+    {
+     "ini": 742.44,
+     "fin": 743.6,
+     "texto": "Y yo: «Sí»."
+    },
+    {
+     "ini": 743.6,
+     "fin": 744.44,
+     "texto": "Y me dice: «¿Estás seguro"
+    },
+    {
+     "ini": 744.44,
+     "fin": 744.64,
+     "texto": "de lo que"
+    },
+    {
+     "ini": 744.64,
+     "fin": 745.6,
+     "texto": "me estás pidiendo?»"
+    },
+    {
+     "ini": 745.6,
+     "fin": 746.76,
+     "texto": "Y le digo: «Sí»."
+    },
+    {
+     "ini": 746.76,
+     "fin": 748.84,
+     "texto": "Y ahorita estamos organizándole"
+    },
+    {
+     "ini": 748.84,
+     "fin": 749.96,
+     "texto": "una rueda de prensa"
+    },
+    {
+     "ini": 749.96,
+     "fin": 750.76,
+     "texto": "porque está rompiendo"
+    },
+    {
+     "ini": 750.76,
+     "fin": 751.72,
+     "texto": "récord histórico"
+    },
+    {
+     "ini": 751.72,
+     "fin": 753.32,
+     "texto": "de los últimos 27 años."
+    },
+    {
+     "ini": 753.32,
+     "fin": 754.32,
+     "texto": "Está genial."
+    }
+   ]
+  },
+  {
+   "ini": 984.63,
+   "fin": 1033.2,
+   "gancho": [
+    "88 % confía en",
+    "un conocido.",
+    "Trátalo distinto."
+   ],
+   "enfasis": [
+    "88 %",
+    "referidos",
+    "agradeciendo al amigo",
+    "mucho más alta",
+    "quién llegó por referido",
+    "perdiendo dinero"
+   ],
+   "frase": "88 % confía en un conocido: el referido se trata distinto",
+   "descripcion": "El canal más confiable para atraer alumnos sigue siendo la recomendación de conocidos (88 %, Nielsen).\nEl referido se trata distinto, convierte mucho más alto y, si tu sistema no te dice quién llegó así, pierdes dinero.\n#Admisiones #ColegiosPrivados #Referidos",
+   "cara": 990,
+   "tema": "referidos",
+   "por_que": "Dato duro (88 %), método concreto (agradecer al que refirió) y remate que un director recuerda; idea completa sin el video.",
+   "trozos": [
+    {
+     "ini": 984.88,
+     "fin": 986.12,
+     "texto": "El canal más confiable"
+    },
+    {
+     "ini": 986.12,
+     "fin": 987.6,
+     "texto": "para atraer alumnos"
+    },
+    {
+     "ini": 987.6,
+     "fin": 989.12,
+     "texto": "sigue siendo la recomendación"
+    },
+    {
+     "ini": 989.12,
+     "fin": 989.84,
+     "texto": "de conocidos."
+    },
+    {
+     "ini": 989.84,
+     "fin": 991.8,
+     "texto": "88 % confía en recomendaciones"
+    },
+    {
+     "ini": 991.8,
+     "fin": 993.68,
+     "texto": "de personas conocidas."
+    },
+    {
+     "ini": 993.68,
+     "fin": 995.04,
+     "texto": "Un CRM debe ayudarte"
+    },
+    {
+     "ini": 995.04,
+     "fin": 996.24,
+     "texto": "a identificar y dar seguimiento"
+    },
+    {
+     "ini": 996.24,
+     "fin": 997.08,
+     "texto": "a referidos."
+    },
+    {
+     "ini": 997.08,
+     "fin": 998.92,
+     "texto": "Los referidos son diferentes."
+    },
+    {
+     "ini": 998.92,
+     "fin": 1000.4,
+     "texto": "Se tienen que tratar"
+    },
+    {
+     "ini": 1000.4,
+     "fin": 1001.28,
+     "texto": "con un lenguaje"
+    },
+    {
+     "ini": 1001.28,
+     "fin": 1002.68,
+     "texto": "un poco más,"
+    },
+    {
+     "ini": 1002.68,
+     "fin": 1004.12,
+     "texto": "creo yo, suave."
+    },
+    {
+     "ini": 1004.12,
+     "fin": 1005.72,
+     "texto": "Entonces, el trato es diferente"
+    },
+    {
+     "ini": 1005.72,
+     "fin": 1007.12,
+     "texto": "porque ya vienen recomendados;"
+    },
+    {
+     "ini": 1007.12,
+     "fin": 1008.04,
+     "texto": "entonces siempre hay que estar"
+    },
+    {
+     "ini": 1008.04,
+     "fin": 1009.28,
+     "texto": "agradeciendo al amigo,"
+    },
+    {
+     "ini": 1009.28,
+     "fin": 1010.4,
+     "texto": "hay que tomar en cuenta"
+    },
+    {
+     "ini": 1010.4,
+     "fin": 1011.56,
+     "texto": "al que refirió"
+    },
+    {
+     "ini": 1011.56,
+     "fin": 1012.72,
+     "texto": "en todo el pitch"
+    },
+    {
+     "ini": 1012.72,
+     "fin": 1013.84,
+     "texto": "que vas haciendo"
+    },
+    {
+     "ini": 1013.84,
+     "fin": 1015.04,
+     "texto": "para la venta."
+    },
+    {
+     "ini": 1015.04,
+     "fin": 1017.2,
+     "texto": "Entonces, son diferentes los referidos."
+    },
+    {
+     "ini": 1017.2,
+     "fin": 1017.52,
+     "texto": "Y aparte"
+    },
+    {
+     "ini": 1017.52,
+     "fin": 1018.24,
+     "texto": "la tasa de conversión"
+    },
+    {
+     "ini": 1018.24,
+     "fin": 1019.12,
+     "texto": "es mucho más alta."
+    },
+    {
+     "ini": 1019.12,
+     "fin": 1020.56,
+     "texto": "Nunca vas a poder comparar,"
+    },
+    {
+     "ini": 1020.56,
+     "fin": 1021.6,
+     "texto": "o bueno, a lo que"
+    },
+    {
+     "ini": 1021.6,
+     "fin": 1022.08,
+     "texto": "yo he visto,"
+    },
+    {
+     "ini": 1022.08,
+     "fin": 1023.24,
+     "texto": "no se puede comparar"
+    },
+    {
+     "ini": 1023.24,
+     "fin": 1024.12,
+     "texto": "la tasa de conversión"
+    },
+    {
+     "ini": 1024.12,
+     "fin": 1025.2,
+     "texto": "de referidos"
+    },
+    {
+     "ini": 1025.2,
+     "fin": 1026.04,
+     "texto": "a la tasa de conversión"
+    },
+    {
+     "ini": 1026.04,
+     "fin": 1026.84,
+     "texto": "de anuncios."
+    },
+    {
+     "ini": 1026.84,
+     "fin": 1027.64,
+     "texto": "El referido hay que"
+    },
+    {
+     "ini": 1027.64,
+     "fin": 1029.32,
+     "texto": "tratarlo increíble."
+    },
+    {
+     "ini": 1029.32,
+     "fin": 1029.88,
+     "texto": "Si tu sistema"
+    },
+    {
+     "ini": 1029.88,
+     "fin": 1030.4,
+     "texto": "no te dice"
+    },
+    {
+     "ini": 1030.4,
+     "fin": 1031.76,
+     "texto": "quién llegó por referido,"
+    },
+    {
+     "ini": 1031.76,
+     "fin": 1033.2,
+     "texto": "estás perdiendo dinero."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

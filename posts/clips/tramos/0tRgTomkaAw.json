@@ -1,0 +1,468 @@
+{
+ "id": "0tRgTomkaAw",
+ "tramos": [
+  {
+   "ini": 34.63,
+   "fin": 82.46,
+   "trozos": [
+    {
+     "ini": 34.88,
+     "fin": 36.48,
+     "texto": "¿Qué porcentaje de alumnos"
+    },
+    {
+     "ini": 36.48,
+     "fin": 39.08,
+     "texto": "estudian en escuela privada?"
+    },
+    {
+     "ini": 39.08,
+     "fin": 41.0,
+     "texto": "Matrícula,"
+    },
+    {
+     "ini": 41.0,
+     "fin": 43.36,
+     "texto": "Banco Mundial, UNESCO 2022:"
+    },
+    {
+     "ini": 43.36,
+     "fin": 45.12,
+     "texto": "Chile 63 %,"
+    },
+    {
+     "ini": 45.12,
+     "fin": 46.32,
+     "texto": "Perú 26 %,"
+    },
+    {
+     "ini": 46.32,
+     "fin": 48.28,
+     "texto": "Colombia 19 %,"
+    },
+    {
+     "ini": 48.28,
+     "fin": 49.88,
+     "texto": "Brasil 18 %,"
+    },
+    {
+     "ini": 49.88,
+     "fin": 51.16,
+     "texto": "Guatemala 12 %,"
+    },
+    {
+     "ini": 51.16,
+     "fin": 52.56,
+     "texto": "El Salvador 12 %,"
+    },
+    {
+     "ini": 52.56,
+     "fin": 54.2,
+     "texto": "México 10 %,"
+    },
+    {
+     "ini": 54.2,
+     "fin": 56.28,
+     "texto": "Estados Unidos 9 %."
+    },
+    {
+     "ini": 56.28,
+     "fin": 57.52,
+     "texto": "Yo soy de México"
+    },
+    {
+     "ini": 57.52,
+     "fin": 60.88,
+     "texto": "y este número me..."
+    },
+    {
+     "ini": 60.88,
+     "fin": 61.44,
+     "texto": "O sea, yo creo que"
+    },
+    {
+     "ini": 61.44,
+     "fin": 63.16,
+     "texto": "la gente no es consciente"
+    },
+    {
+     "ini": 63.16,
+     "fin": 64.24,
+     "texto": "de lo mal que está"
+    },
+    {
+     "ini": 64.24,
+     "fin": 65.88,
+     "texto": "la educación pública,"
+    },
+    {
+     "ini": 65.88,
+     "fin": 67.2,
+     "texto": "porque si lo supieran"
+    },
+    {
+     "ini": 67.2,
+     "fin": 71.16,
+     "texto": "correrían a la educación privada,"
+    },
+    {
+     "ini": 71.16,
+     "fin": 73.16,
+     "texto": "o sea, porque..."
+    },
+    {
+     "ini": 73.16,
+     "fin": 75.08,
+     "texto": "Entonces, México 10 %"
+    },
+    {
+     "ini": 75.08,
+     "fin": 76.76,
+     "texto": "de la educación privada solamente,"
+    },
+    {
+     "ini": 76.76,
+     "fin": 78.04,
+     "texto": "o sea, hay mucho"
+    },
+    {
+     "ini": 78.04,
+     "fin": 78.64,
+     "texto": "por donde crecer."
+    },
+    {
+     "ini": 78.64,
+     "fin": 79.72,
+     "texto": "Entonces, si estás viendo esto,"
+    },
+    {
+     "ini": 79.72,
+     "fin": 80.68,
+     "texto": "alégrate porque hay"
+    },
+    {
+     "ini": 80.68,
+     "fin": 82.46,
+     "texto": "muchísimo por donde crecer."
+    }
+   ],
+   "gancho": [
+    "Colegio privado:",
+    "Chile 63 %.",
+    "México 10 %."
+   ],
+   "enfasis": [
+    "63 %",
+    "26 %",
+    "10 %",
+    "9 %",
+    "pública",
+    "crecer"
+   ],
+   "frase": "Chile 63 % en privada, México 10 %: hay mucho por crecer",
+   "descripcion": "Chile 63 %, Perú 26 %, Colombia 19 %, México 10 % de alumnos en escuela privada (Banco Mundial y UNESCO 2022).\nSi la gente supiera cómo está la pública, correría a la privada: hay muchísimo por donde crecer.\n#Admisiones #ColegiosPrivados #EducaciónPrivada",
+   "cara": 66,
+   "tema": "matrícula privada por país",
+   "por_que": "Abre con una pregunta y responde con cifras país por país; el contraste Chile 63 % vs México 10 % es memorable y cierra con el remate: hay muchísimo por donde crecer."
+  },
+  {
+   "ini": 261.55,
+   "fin": 305.18,
+   "trozos": [
+    {
+     "ini": 261.8,
+     "fin": 262.8,
+     "texto": "Cada vez que"
+    },
+    {
+     "ini": 262.8,
+     "fin": 264.6,
+     "texto": "un colegio privado,"
+    },
+    {
+     "ini": 264.6,
+     "fin": 265.56,
+     "texto": "y esto es bien importante,"
+    },
+    {
+     "ini": 265.56,
+     "fin": 267.72,
+     "texto": "cada vez que un colegio"
+    },
+    {
+     "ini": 267.72,
+     "fin": 270.28,
+     "texto": "inscribe alumnos"
+    },
+    {
+     "ini": 270.28,
+     "fin": 273.24,
+     "texto": "de forma sistemática,"
+    },
+    {
+     "ini": 273.24,
+     "fin": 276.48,
+     "texto": "probablemente no está"
+    },
+    {
+     "ini": 276.48,
+     "fin": 278.0,
+     "texto": "quitándole gente a la competencia."
+    },
+    {
+     "ini": 278.0,
+     "fin": 278.36,
+     "texto": "A lo mejor"
+    },
+    {
+     "ini": 278.36,
+     "fin": 279.0,
+     "texto": "uno que otro sí,"
+    },
+    {
+     "ini": 279.0,
+     "fin": 280.4,
+     "texto": "pero está creciendo"
+    },
+    {
+     "ini": 280.4,
+     "fin": 281.64,
+     "texto": "el mercado."
+    },
+    {
+     "ini": 281.64,
+     "fin": 283.44,
+     "texto": "Y aquí falta mucha labor"
+    },
+    {
+     "ini": 283.44,
+     "fin": 285.32,
+     "texto": "de comercialización,"
+    },
+    {
+     "ini": 285.32,
+     "fin": 286.96,
+     "texto": "porque la iniciativa,"
+    },
+    {
+     "ini": 286.96,
+     "fin": 288.2,
+     "texto": "los colegios privados deberían"
+    },
+    {
+     "ini": 288.2,
+     "fin": 290.52,
+     "texto": "de crecer"
+    },
+    {
+     "ini": 290.52,
+     "fin": 292.24,
+     "texto": "y lo más rápido posible"
+    },
+    {
+     "ini": 292.24,
+     "fin": 294.24,
+     "texto": "para jalar más gente"
+    },
+    {
+     "ini": 294.24,
+     "fin": 295.08,
+     "texto": "que puede pagarlo."
+    },
+    {
+     "ini": 295.08,
+     "fin": 295.56,
+     "texto": "Y aquí lo que"
+    },
+    {
+     "ini": 295.56,
+     "fin": 296.48,
+     "texto": "quiero decir es:"
+    },
+    {
+     "ini": 296.48,
+     "fin": 297.88,
+     "texto": "pueden pagarlo y"
+    },
+    {
+     "ini": 297.88,
+     "fin": 299.36,
+     "texto": "no lo están haciendo"
+    },
+    {
+     "ini": 299.36,
+     "fin": 302.16,
+     "texto": "porque hay que concientizarlos"
+    },
+    {
+     "ini": 302.16,
+     "fin": 303.96,
+     "texto": "de que se vayan"
+    },
+    {
+     "ini": 303.96,
+     "fin": 305.18,
+     "texto": "al colegio privado."
+    }
+   ],
+   "gancho": [
+    "Inscribir más",
+    "no roba alumnos:",
+    "crece el mercado."
+   ],
+   "enfasis": [
+    "sistemática",
+    "competencia",
+    "creciendo",
+    "mercado",
+    "comercialización",
+    "pueden pagarlo"
+   ],
+   "frase": "Inscribir más no le quita alumnos a nadie: crece el mercado",
+   "descripcion": "Un colegio que inscribe de forma sistemática no le quita alumnos a la competencia: hace crecer el mercado.\nHay familias que pueden pagar privada y no lo hacen; falta labor de comercialización.\n#Admisiones #ColegiosPrivados #Comercialización",
+   "cara": 290,
+   "tema": "competencia y mercado",
+   "por_que": "Afirmación que rompe un miedo común de los directores (quitarle a la competencia) y cierra con el llamado: pueden pagarlo y no lo están haciendo."
+  },
+  {
+   "ini": 339.15,
+   "fin": 376.34,
+   "trozos": [
+    {
+     "ini": 339.4,
+     "fin": 342.68,
+     "texto": "En Perú hay 26 %"
+    },
+    {
+     "ini": 342.68,
+     "fin": 345.32,
+     "texto": "de personas que están"
+    },
+    {
+     "ini": 345.32,
+     "fin": 346.72,
+     "texto": "en educación privada,"
+    },
+    {
+     "ini": 346.72,
+     "fin": 349.28,
+     "texto": "contra 10 % que está México;"
+    },
+    {
+     "ini": 349.28,
+     "fin": 351.08,
+     "texto": "entonces lo que significa"
+    },
+    {
+     "ini": 351.08,
+     "fin": 352.12,
+     "texto": "es que Perú, y bueno,"
+    },
+    {
+     "ini": 352.12,
+     "fin": 354.88,
+     "texto": "tienen muy parecido el..."
+    },
+    {
+     "ini": 354.88,
+     "fin": 356.84,
+     "texto": "bueno, diferente el estrato socioeconómico,"
+    },
+    {
+     "ini": 356.84,
+     "fin": 358.08,
+     "texto": "hay menos dinero en Perú,"
+    },
+    {
+     "ini": 358.08,
+     "fin": 358.88,
+     "texto": "hay menos gente"
+    },
+    {
+     "ini": 358.88,
+     "fin": 360.12,
+     "texto": "que puede pagar en Perú;"
+    },
+    {
+     "ini": 360.12,
+     "fin": 361.12,
+     "texto": "sin embargo,"
+    },
+    {
+     "ini": 361.12,
+     "fin": 362.8,
+     "texto": "la gente y los"
+    },
+    {
+     "ini": 362.8,
+     "fin": 364.68,
+     "texto": "padres de familia"
+    },
+    {
+     "ini": 364.68,
+     "fin": 366.04,
+     "texto": "prefieren educación privada."
+    },
+    {
+     "ini": 366.04,
+     "fin": 368.36,
+     "texto": "Entonces es intercultural"
+    },
+    {
+     "ini": 368.36,
+     "fin": 369.72,
+     "texto": "y yo creo que"
+    },
+    {
+     "ini": 369.72,
+     "fin": 371.36,
+     "texto": "no hay mucha comunicación"
+    },
+    {
+     "ini": 371.36,
+     "fin": 372.2,
+     "texto": "o la gente no sabe"
+    },
+    {
+     "ini": 372.2,
+     "fin": 372.92,
+     "texto": "lo mal que está"
+    },
+    {
+     "ini": 372.92,
+     "fin": 373.76,
+     "texto": "la educación privada,"
+    },
+    {
+     "ini": 373.76,
+     "fin": 374.68,
+     "texto": "pública, perdón,"
+    },
+    {
+     "ini": 374.68,
+     "fin": 376.34,
+     "texto": "la educación pública en México."
+    }
+   ],
+   "gancho": [
+    "Perú 26 % privada.",
+    "México 10 %.",
+    "Con menos dinero."
+   ],
+   "enfasis": [
+    "26 %",
+    "10 %",
+    "menos dinero",
+    "prefieren",
+    "intercultural",
+    "pública"
+   ],
+   "frase": "Perú tiene menos dinero y 26 % en privada; México, 10 %",
+   "descripcion": "En Perú hay menos ingreso por hogar y aun así el 26 % estudia en privada; en México, solo el 10 %.\nNo es dinero: es preferencia y falta de comunicación sobre cómo está la educación pública.\n#Admisiones #ColegiosPrivados #EducaciónPrivada",
+   "cara": 364,
+   "tema": "Perú vs México",
+   "por_que": "Contraste que incomoda: con menos dinero, Perú manda más del doble de alumnos a la privada; la conclusión es cultural y de comunicación, no económica."
+  }
+ ],
+ "sin_tramos_por": null
+}

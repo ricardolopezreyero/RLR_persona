@@ -1,0 +1,553 @@
+{
+ "id": "zeIiAuGotkU",
+ "tramos": [
+  {
+   "ini": 610.19,
+   "fin": 667.17,
+   "trozos": [
+    {
+     "ini": 610.44,
+     "fin": 612.6,
+     "texto": "Tú estás en admisiones"
+    },
+    {
+     "ini": 612.6,
+     "fin": 613.87,
+     "texto": "y tú influyes"
+    },
+    {
+     "ini": 613.87,
+     "fin": 615.12,
+     "texto": "en la venta"
+    },
+    {
+     "ini": 615.12,
+     "fin": 616.64,
+     "texto": "de la inscripción"
+    },
+    {
+     "ini": 616.64,
+     "fin": 618.5,
+     "texto": "o de la colegiatura"
+    },
+    {
+     "ini": 618.5,
+     "fin": 621.4,
+     "texto": "de forma súper hiper directa."
+    },
+    {
+     "ini": 621.4,
+     "fin": 623.49,
+     "texto": "Entonces tú puedes darle"
+    },
+    {
+     "ini": 623.49,
+     "fin": 624.28,
+     "texto": "la opción"
+    },
+    {
+     "ini": 624.28,
+     "fin": 626.12,
+     "texto": "al padre de familia"
+    },
+    {
+     "ini": 626.12,
+     "fin": 627.46,
+     "texto": "o al universitario"
+    },
+    {
+     "ini": 627.46,
+     "fin": 629.4,
+     "texto": "que pague mes con mes."
+    },
+    {
+     "ini": 629.4,
+     "fin": 630.21,
+     "texto": "Esa opción"
+    },
+    {
+     "ini": 630.21,
+     "fin": 631.44,
+     "texto": "siempre va a estar,"
+    },
+    {
+     "ini": 631.44,
+     "fin": 633.77,
+     "texto": "pero arranca al revés."
+    },
+    {
+     "ini": 633.77,
+     "fin": 637.08,
+     "texto": "Arranca: «nuestro costo anual"
+    },
+    {
+     "ini": 637.08,
+     "fin": 638.16,
+     "texto": "es tanto, ¿cómo"
+    },
+    {
+     "ini": 638.16,
+     "fin": 640.4,
+     "texto": "quisieras pagarlo,"
+    },
+    {
+     "ini": 640.4,
+     "fin": 641.89,
+     "texto": "en uno, dos"
+    },
+    {
+     "ini": 641.89,
+     "fin": 643.4,
+     "texto": "o tres pagos?»."
+    },
+    {
+     "ini": 643.4,
+     "fin": 644.49,
+     "texto": "Y si la persona dice"
+    },
+    {
+     "ini": 644.49,
+     "fin": 645.63,
+     "texto": "«no, lo quiero mensual»,"
+    },
+    {
+     "ini": 645.63,
+     "fin": 646.23,
+     "texto": "está bien,"
+    },
+    {
+     "ini": 646.23,
+     "fin": 647.4,
+     "texto": "y lo bajas a mensual."
+    },
+    {
+     "ini": 647.4,
+     "fin": 650.4,
+     "texto": "Pero en el anual…"
+    },
+    {
+     "ini": 650.4,
+     "fin": 651.6,
+     "texto": "tú trata en anual"
+    },
+    {
+     "ini": 651.6,
+     "fin": 653.79,
+     "texto": "para traer todo ese dinero"
+    },
+    {
+     "ini": 653.79,
+     "fin": 654.44,
+     "texto": "del futuro,"
+    },
+    {
+     "ini": 654.44,
+     "fin": 655.67,
+     "texto": "porque ese dinero"
+    },
+    {
+     "ini": 655.67,
+     "fin": 656.51,
+     "texto": "iba a llegar"
+    },
+    {
+     "ini": 656.51,
+     "fin": 658.65,
+     "texto": "hasta dentro de 12 meses."
+    },
+    {
+     "ini": 658.65,
+     "fin": 659.9,
+     "texto": "Y tú, al momento"
+    },
+    {
+     "ini": 659.9,
+     "fin": 660.63,
+     "texto": "de que buscas"
+    },
+    {
+     "ini": 660.63,
+     "fin": 662.4,
+     "texto": "el pago anual del alumno,"
+    },
+    {
+     "ini": 662.4,
+     "fin": 663.54,
+     "texto": "jalas ese dinero"
+    },
+    {
+     "ini": 663.54,
+     "fin": 664.65,
+     "texto": "hacia el presente"
+    },
+    {
+     "ini": 664.65,
+     "fin": 666.14,
+     "texto": "y vuelves más rentable"
+    },
+    {
+     "ini": 666.14,
+     "fin": 667.17,
+     "texto": "tu institución."
+    }
+   ],
+   "gancho": [
+    "Cobra en anual:",
+    "trae el dinero",
+    "del futuro al hoy"
+   ],
+   "enfasis": [
+    "mes con mes",
+    "al revés",
+    "anual",
+    "12 meses",
+    "presente",
+    "rentable"
+   ],
+   "frase": "Cobra anual: trae el dinero del futuro al presente",
+   "descripcion": "Admisiones influye directo en cómo paga la familia. Ofrece primero el pago anual: ese dinero llegaba en 12 meses y lo traes hoy.\n#Admisiones #ColegiosPrivados #Colegiatura",
+   "cara": 630,
+   "tema": "pago anual",
+   "por_que": "Idea completa con acción concreta y cifra: cambia cómo cobra un colegio y cierra en rentabilidad."
+  },
+  {
+   "ini": 522.91,
+   "fin": 571.37,
+   "trozos": [
+    {
+     "ini": 523.16,
+     "fin": 524.28,
+     "texto": "Los orgánicos,"
+    },
+    {
+     "ini": 524.28,
+     "fin": 525.22,
+     "texto": "los pagados"
+    },
+    {
+     "ini": 525.22,
+     "fin": 526.4,
+     "texto": "y los referidos,"
+    },
+    {
+     "ini": 526.4,
+     "fin": 529.31,
+     "texto": "en un mundo ideal hipotético"
+    },
+    {
+     "ini": 529.31,
+     "fin": 531.25,
+     "texto": "debería de estar"
+    },
+    {
+     "ini": 531.25,
+     "fin": 534.44,
+     "texto": "en 33 %, 33 %, 33 %."
+    },
+    {
+     "ini": 534.44,
+     "fin": 535.82,
+     "texto": "Sería lo que estarías…"
+    },
+    {
+     "ini": 535.82,
+     "fin": 537.28,
+     "texto": "sería lo que deberíamos"
+    },
+    {
+     "ini": 537.28,
+     "fin": 538.07,
+     "texto": "de buscar:"
+    },
+    {
+     "ini": 538.07,
+     "fin": 539.52,
+     "texto": "ese equilibrio perfecto"
+    },
+    {
+     "ini": 539.52,
+     "fin": 541.4,
+     "texto": "de 33, 33, 33."
+    },
+    {
+     "ini": 541.4,
+     "fin": 543.4,
+     "texto": "No va a pasar,"
+    },
+    {
+     "ini": 543.4,
+     "fin": 544.4,
+     "texto": "muy complicado que pase,"
+    },
+    {
+     "ini": 544.4,
+     "fin": 545.88,
+     "texto": "pero al momento"
+    },
+    {
+     "ini": 545.88,
+     "fin": 546.62,
+     "texto": "que tú tienes"
+    },
+    {
+     "ini": 546.62,
+     "fin": 547.91,
+     "texto": "de todos lados,"
+    },
+    {
+     "ini": 547.91,
+     "fin": 549.96,
+     "texto": "de estos tres canales"
+    },
+    {
+     "ini": 549.96,
+     "fin": 552.4,
+     "texto": "de prospecto o de inscritos,"
+    },
+    {
+     "ini": 552.4,
+     "fin": 555.44,
+     "texto": "te vuelves muy sólido,"
+    },
+    {
+     "ini": 555.44,
+     "fin": 556.1,
+     "texto": "porque si"
+    },
+    {
+     "ini": 556.1,
+     "fin": 556.79,
+     "texto": "se te cae uno,"
+    },
+    {
+     "ini": 556.79,
+     "fin": 557.92,
+     "texto": "que siempre pasa,"
+    },
+    {
+     "ini": 557.92,
+     "fin": 558.9,
+     "texto": "que uno se baja,"
+    },
+    {
+     "ini": 558.9,
+     "fin": 559.58,
+     "texto": "uno se cae,"
+    },
+    {
+     "ini": 559.58,
+     "fin": 561.07,
+     "texto": "tienes otros dos pilares"
+    },
+    {
+     "ini": 561.07,
+     "fin": 562.54,
+     "texto": "que te están sosteniendo"
+    },
+    {
+     "ini": 562.54,
+     "fin": 564.4,
+     "texto": "como departamento admisiones."
+    },
+    {
+     "ini": 564.4,
+     "fin": 566.05,
+     "texto": "Entonces tienes que tener"
+    },
+    {
+     "ini": 566.05,
+     "fin": 566.88,
+     "texto": "estos tres,"
+    },
+    {
+     "ini": 566.88,
+     "fin": 568.22,
+     "texto": "los tienes que tener"
+    },
+    {
+     "ini": 568.22,
+     "fin": 569.87,
+     "texto": "monitoreados, los tienes"
+    },
+    {
+     "ini": 569.87,
+     "fin": 571.37,
+     "texto": "que estar mejorando."
+    }
+   ],
+   "gancho": [
+    "Tres canales",
+    "de inscritos:",
+    "33, 33 y 33 %"
+   ],
+   "enfasis": [
+    "orgánicos",
+    "pagados",
+    "referidos",
+    "33 %",
+    "sólido",
+    "dos pilares"
+   ],
+   "frase": "Tres canales de inscritos: si uno se cae, dos te sostienen",
+   "descripcion": "Orgánico, pagado y referidos: el equilibrio ideal es 33/33/33. No llega, pero con tres pilares el colegio no se cae cuando uno falla.\n#Admisiones #ColegiosPrivados #Referidos",
+   "cara": 530,
+   "tema": "canales de inscritos",
+   "por_que": "Cifra memorable, metáfora de los pilares y remate claro: monitorear y mejorar los tres."
+  },
+  {
+   "ini": 426.15,
+   "fin": 468.44,
+   "trozos": [
+    {
+     "ini": 426.4,
+     "fin": 427.99,
+     "texto": "Entre mayor tasa"
+    },
+    {
+     "ini": 427.99,
+     "fin": 431.12,
+     "texto": "de asistencia tengas, mejor,"
+    },
+    {
+     "ini": 431.12,
+     "fin": 432.34,
+     "texto": "pero cuidado,"
+    },
+    {
+     "ini": 432.34,
+     "fin": 435.4,
+     "texto": "porque si tienes 100 %,"
+    },
+    {
+     "ini": 435.4,
+     "fin": 436.93,
+     "texto": "significa que no estás"
+    },
+    {
+     "ini": 436.93,
+     "fin": 439.44,
+     "texto": "generando las suficientes citas."
+    },
+    {
+     "ini": 439.44,
+     "fin": 441.52,
+     "texto": "Entonces siempre es un juego:"
+    },
+    {
+     "ini": 441.52,
+     "fin": 442.61,
+     "texto": "si tienes muy alto"
+    },
+    {
+     "ini": 442.61,
+     "fin": 443.61,
+     "texto": "el porcentaje,"
+    },
+    {
+     "ini": 443.61,
+     "fin": 445.46,
+     "texto": "aumenta, pide más leads"
+    },
+    {
+     "ini": 445.46,
+     "fin": 447.07,
+     "texto": "y mejora la cantidad"
+    },
+    {
+     "ini": 447.07,
+     "fin": 449.4,
+     "texto": "de citas que estás teniendo,"
+    },
+    {
+     "ini": 449.4,
+     "fin": 451.49,
+     "texto": "porque tampoco tenerlo"
+    },
+    {
+     "ini": 451.49,
+     "fin": 453.0,
+     "texto": "tan alto es sano,"
+    },
+    {
+     "ini": 453.0,
+     "fin": 454.56,
+     "texto": "porque significa"
+    },
+    {
+     "ini": 454.56,
+     "fin": 456.52,
+     "texto": "que no estás generando"
+    },
+    {
+     "ini": 456.52,
+     "fin": 458.4,
+     "texto": "muchísimas citas,"
+    },
+    {
+     "ini": 458.4,
+     "fin": 459.3,
+     "texto": "o sea que pudieras"
+    },
+    {
+     "ini": 459.3,
+     "fin": 460.4,
+     "texto": "generar más citas."
+    },
+    {
+     "ini": 460.4,
+     "fin": 461.74,
+     "texto": "Entonces es un baile,"
+    },
+    {
+     "ini": 461.74,
+     "fin": 463.01,
+     "texto": "como que tienes que"
+    },
+    {
+     "ini": 463.01,
+     "fin": 464.4,
+     "texto": "estar ahí jugando:"
+    },
+    {
+     "ini": 464.4,
+     "fin": 465.79,
+     "texto": "mayor porcentaje está bien,"
+    },
+    {
+     "ini": 465.79,
+     "fin": 466.85,
+     "texto": "pero entonces aumenta"
+    },
+    {
+     "ini": 466.85,
+     "fin": 467.8,
+     "texto": "la cantidad de citas"
+    },
+    {
+     "ini": 467.8,
+     "fin": 468.44,
+     "texto": "que tienes."
+    }
+   ],
+   "gancho": [
+    "Asistencia 100 %",
+    "a tus citas",
+    "no es buena señal"
+   ],
+   "enfasis": [
+    "100 %",
+    "suficientes citas",
+    "juego",
+    "pide más leads",
+    "baile",
+    "más citas"
+   ],
+   "frase": "Si el 100 % asiste a tus citas, estás generando muy pocas",
+   "descripcion": "Una tasa de asistencia alta es buena, pero el 100 % avisa que faltan citas. El juego: pedir más leads y subir las citas sin perder asistencia.\n#Admisiones #ColegiosPrivados #Citas",
+   "cara": 445,
+   "tema": "citas de admisión",
+   "por_que": "Contraintuitivo y autocontenido: un dato que un director cree bueno y Ricardo le da la vuelta."
+  }
+ ],
+ "sin_tramos_por": null
+}

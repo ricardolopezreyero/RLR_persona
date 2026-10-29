@@ -1,0 +1,443 @@
+{
+ "id": "2SwZFdykjPA",
+ "tramos": [
+  {
+   "ini": 621.06,
+   "fin": 656.63,
+   "gancho": [
+    "El 100 % de",
+    "tus alumnos",
+    "fueron leads"
+   ],
+   "enfasis": [
+    "100 %",
+    "leads",
+    "alumno",
+    "alto porcentaje",
+    "por su nombre",
+    "tener razón"
+   ],
+   "frase": "El 100 % de tus alumnos fueron leads: trátalos así",
+   "descripcion": "Todo alumno fue un lead que no sabía que tu colegio existía.\nTrata cada recorrido como si ya estuviera inscrito.\n#Admisiones #ColegiosPrivados #Recorridos",
+   "cara": 646,
+   "tema": "lead como alumno",
+   "por_que": "Dato redondo y memorable que invierte la mirada sobre el recorrido, cerrado en 35 s.",
+   "trozos": [
+    {
+     "ini": 621.31,
+     "fin": 623.78,
+     "texto": "El 100 % de los alumnos actuales"
+    },
+    {
+     "ini": 623.78,
+     "fin": 625.63,
+     "texto": "en algún punto fueron leads"
+    },
+    {
+     "ini": 625.63,
+     "fin": 627.45,
+     "texto": "y el 100 % de los leads"
+    },
+    {
+     "ini": 627.45,
+     "fin": 628.99,
+     "texto": "en algún punto no sabía"
+    },
+    {
+     "ini": 628.99,
+     "fin": 631.2,
+     "texto": "que existía tu institución."
+    },
+    {
+     "ini": 631.2,
+     "fin": 632.39,
+     "texto": "Así que trata cada lead"
+    },
+    {
+     "ini": 632.39,
+     "fin": 634.1,
+     "texto": "como si fuera un alumno,"
+    },
+    {
+     "ini": 634.1,
+     "fin": 636.62,
+     "texto": "porque un porcentaje de las veces"
+    },
+    {
+     "ini": 636.62,
+     "fin": 637.97,
+     "texto": "tendrá razón."
+    },
+    {
+     "ini": 637.97,
+     "fin": 639.16,
+     "texto": "De esos recorridos"
+    },
+    {
+     "ini": 639.16,
+     "fin": 640.77,
+     "texto": "un alto porcentaje"
+    },
+    {
+     "ini": 640.77,
+     "fin": 643.47,
+     "texto": "se van a convertir en alumnos."
+    },
+    {
+     "ini": 643.47,
+     "fin": 644.8,
+     "texto": "Tú da en tu mente"
+    },
+    {
+     "ini": 644.8,
+     "fin": 645.61,
+     "texto": "por hecho"
+    },
+    {
+     "ini": 645.61,
+     "fin": 646.92,
+     "texto": "que ya es un alumno"
+    },
+    {
+     "ini": 646.92,
+     "fin": 649.18,
+     "texto": "y enséñale las instalaciones"
+    },
+    {
+     "ini": 649.18,
+     "fin": 650.38,
+     "texto": "y que ya lo conozcan"
+    },
+    {
+     "ini": 650.38,
+     "fin": 651.13,
+     "texto": "por su nombre"
+    },
+    {
+     "ini": 651.13,
+     "fin": 652.7,
+     "texto": "como si ya fuera,"
+    },
+    {
+     "ini": 652.7,
+     "fin": 654.84,
+     "texto": "porque en mucho porcentaje"
+    },
+    {
+     "ini": 654.84,
+     "fin": 656.63,
+     "texto": "vas a tener razón."
+    }
+   ]
+  },
+  {
+   "ini": 295.46,
+   "fin": 339.85,
+   "gancho": [
+    "Que se inscriba",
+    "depende 100 %",
+    "del recorrido"
+   ],
+   "enfasis": [
+    "100 %",
+    "recorrido",
+    "punto más alto",
+    "repercusión",
+    "lo haces mal",
+    "todo el futuro"
+   ],
+   "frase": "Inscribirse depende 100 % del recorrido que das",
+   "descripcion": "No hay punto con más repercusión económica que el recorrido.\nHazlo bien y todo lo demás suma; hazlo mal y todo se cae.\n#Admisiones #ColegiosPrivados #Recorrido",
+   "cara": 326,
+   "tema": "recorrido",
+   "por_que": "Afirmación fuerte con cifra y contraste antes/después; el director se queda con «el punto más alto».",
+   "trozos": [
+    {
+     "ini": 295.71,
+     "fin": 297.8,
+     "texto": "Si se inscribió o no"
+    },
+    {
+     "ini": 297.8,
+     "fin": 300.01,
+     "texto": "depende 100 %"
+    },
+    {
+     "ini": 300.01,
+     "fin": 302.65,
+     "texto": "de este recorrido que estás dando,"
+    },
+    {
+     "ini": 302.65,
+     "fin": 303.88,
+     "texto": "así que sea digno"
+    },
+    {
+     "ini": 303.88,
+     "fin": 305.03,
+     "texto": "este recorrido."
+    },
+    {
+     "ini": 305.03,
+     "fin": 306.18,
+     "texto": "Este recorrido:"
+    },
+    {
+     "ini": 306.18,
+     "fin": 307.67,
+     "texto": "tú estás dando"
+    },
+    {
+     "ini": 307.67,
+     "fin": 310.18,
+     "texto": "lo mejor del colegio."
+    },
+    {
+     "ini": 310.18,
+     "fin": 313.38,
+     "texto": "No existe un punto más alto"
+    },
+    {
+     "ini": 313.38,
+     "fin": 317.28,
+     "texto": "donde tú le agregues"
+    },
+    {
+     "ini": 317.28,
+     "fin": 319.84,
+     "texto": "energía, dinero, valor,"
+    },
+    {
+     "ini": 319.84,
+     "fin": 321.16,
+     "texto": "todo lo que tenga"
+    },
+    {
+     "ini": 321.16,
+     "fin": 324.39,
+     "texto": "más repercusión económicamente."
+    },
+    {
+     "ini": 324.39,
+     "fin": 326.95,
+     "texto": "No importa si todo"
+    },
+    {
+     "ini": 326.95,
+     "fin": 329.15,
+     "texto": "hacia antes lo hiciste bien"
+    },
+    {
+     "ini": 329.15,
+     "fin": 331.25,
+     "texto": "y todo hacia después"
+    },
+    {
+     "ini": 331.25,
+     "fin": 332.9,
+     "texto": "lo vas a hacer bien,"
+    },
+    {
+     "ini": 332.9,
+     "fin": 334.52,
+     "texto": "pero si este punto"
+    },
+    {
+     "ini": 334.52,
+     "fin": 335.22,
+     "texto": "lo haces mal"
+    },
+    {
+     "ini": 335.22,
+     "fin": 337.02,
+     "texto": "afecta todo lo anterior"
+    },
+    {
+     "ini": 337.02,
+     "fin": 338.42,
+     "texto": "y afecta todo el futuro"
+    },
+    {
+     "ini": 338.42,
+     "fin": 339.85,
+     "texto": "de la institución."
+    }
+   ]
+  },
+  {
+   "ini": 437.28,
+   "fin": 491.42,
+   "gancho": [
+    "Pregúntale al lead",
+    "qué otro colegio",
+    "está evaluando"
+   ],
+   "enfasis": [
+    "¿qué otra opción",
+    "pláticas fuertes",
+    "fuera de la jugada",
+    "No las evites",
+    "novato",
+    "muchos prospectos"
+   ],
+   "frase": "La pregunta fuerte que evita el asesor novato",
+   "descripcion": "Si no preguntas qué otro colegio evalúan, quedas fuera de la jugada.\nTres preguntas para tener esa plática antes de la inscripción.\n#Admisiones #ColegiosPrivados #Objeciones",
+   "cara": 455,
+   "tema": "preguntas fuertes",
+   "por_que": "Abre con pregunta incómoda, da las tres preguntas textuales y remata con el costo de evitarlas.",
+   "trozos": [
+    {
+     "ini": 437.53,
+     "fin": 439.69,
+     "texto": "¿Qué opciones tiene tu aspirante?"
+    },
+    {
+     "ini": 439.69,
+     "fin": 442.18,
+     "texto": "Pregunta: además de nuestro colegio,"
+    },
+    {
+     "ini": 442.18,
+     "fin": 444.92,
+     "texto": "¿qué otra opción está evaluando?"
+    },
+    {
+     "ini": 444.92,
+     "fin": 447.0,
+     "texto": "Si yo pudiera elegir entre estas,"
+    },
+    {
+     "ini": 447.0,
+     "fin": 448.13,
+     "texto": "¿cuál elegiría?"
+    },
+    {
+     "ini": 448.13,
+     "fin": 450.12,
+     "texto": "¿Qué le gustó de esta opción?"
+    },
+    {
+     "ini": 450.12,
+     "fin": 451.98,
+     "texto": "Estas son confrontaciones"
+    },
+    {
+     "ini": 451.98,
+     "fin": 453.58,
+     "texto": "o son pláticas fuertes"
+    },
+    {
+     "ini": 453.58,
+     "fin": 454.85,
+     "texto": "que tienes que tener"
+    },
+    {
+     "ini": 454.85,
+     "fin": 456.24,
+     "texto": "con tus prospectos"
+    },
+    {
+     "ini": 456.24,
+     "fin": 458.09,
+     "texto": "que están por inscribirse."
+    },
+    {
+     "ini": 458.09,
+     "fin": 460.01,
+     "texto": "Porque si tú no las preguntas,"
+    },
+    {
+     "ini": 460.01,
+     "fin": 460.86,
+     "texto": "pero tú sabes"
+    },
+    {
+     "ini": 460.86,
+     "fin": 462.28,
+     "texto": "que están pasando,"
+    },
+    {
+     "ini": 462.28,
+     "fin": 464.31,
+     "texto": "entonces tú quedas"
+    },
+    {
+     "ini": 464.31,
+     "fin": 466.21,
+     "texto": "fuera de la jugada"
+    },
+    {
+     "ini": 466.21,
+     "fin": 468.62,
+     "texto": "y no te dan oportunidad"
+    },
+    {
+     "ini": 468.62,
+     "fin": 471.04,
+     "texto": "a debatir o a platicar"
+    },
+    {
+     "ini": 471.04,
+     "fin": 473.87,
+     "texto": "sobre qué vieron en otro colegio"
+    },
+    {
+     "ini": 473.87,
+     "fin": 476.7,
+     "texto": "o qué vieron en otra universidad"
+    },
+    {
+     "ini": 476.7,
+     "fin": 478.36,
+     "texto": "y tú le puedes decir:"
+    },
+    {
+     "ini": 478.36,
+     "fin": 479.51,
+     "texto": "en tu institución,"
+    },
+    {
+     "ini": 479.51,
+     "fin": 481.15,
+     "texto": "esto es lo que tenemos."
+    },
+    {
+     "ini": 481.15,
+     "fin": 482.46,
+     "texto": "Es bien importante"
+    },
+    {
+     "ini": 482.46,
+     "fin": 484.7,
+     "texto": "hacer estas preguntas fuertes."
+    },
+    {
+     "ini": 484.7,
+     "fin": 485.81,
+     "texto": "No las evites."
+    },
+    {
+     "ini": 485.81,
+     "fin": 486.94,
+     "texto": "Si las evitas,"
+    },
+    {
+     "ini": 486.94,
+     "fin": 489.09,
+     "texto": "aparte de que estás novato,"
+    },
+    {
+     "ini": 489.09,
+     "fin": 490.07,
+     "texto": "se te van a ir"
+    },
+    {
+     "ini": 490.07,
+     "fin": 491.42,
+     "texto": "muchos prospectos."
+    }
+   ]
+  }
+ ],
+ "sin_tramos_por": null
+}

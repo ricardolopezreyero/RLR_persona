@@ -1,0 +1,616 @@
+{
+ "id": "aAFie0Ij7_U",
+ "tramos": [
+  {
+   "ini": 1297.2,
+   "fin": 1370.62,
+   "gancho": [
+    "La mamá preguntó",
+    "nadie respondió",
+    "se fue a enfrente"
+   ],
+   "enfasis": [
+    "WhatsApp",
+    "domingo",
+    "respuesta",
+    "seguimiento",
+    "registrado",
+    "febrero",
+    "agosto",
+    "enfrente"
+   ],
+   "trozos": [
+    {
+     "ini": 1297.45,
+     "fin": 1298.68,
+     "texto": "Las familias sí llegan:"
+    },
+    {
+     "ini": 1298.68,
+     "fin": 1299.97,
+     "texto": "preguntan por WhatsApp"
+    },
+    {
+     "ini": 1299.97,
+     "fin": 1300.55,
+     "texto": "un domingo"
+    },
+    {
+     "ini": 1300.55,
+     "fin": 1301.08,
+     "texto": "a las 9"
+    },
+    {
+     "ini": 1301.08,
+     "fin": 1301.6,
+     "texto": "de la noche,"
+    },
+    {
+     "ini": 1301.6,
+     "fin": 1302.89,
+     "texto": "llenan el formulario"
+    },
+    {
+     "ini": 1302.89,
+     "fin": 1303.64,
+     "texto": "de la página,"
+    },
+    {
+     "ini": 1303.64,
+     "fin": 1305.02,
+     "texto": "piden informes"
+    },
+    {
+     "ini": 1305.02,
+     "fin": 1305.9,
+     "texto": "en la caseta"
+    },
+    {
+     "ini": 1305.9,
+     "fin": 1306.51,
+     "texto": "a la hora"
+    },
+    {
+     "ini": 1306.51,
+     "fin": 1307.44,
+     "texto": "de la salida."
+    },
+    {
+     "ini": 1307.44,
+     "fin": 1308.75,
+     "texto": "El interés existe"
+    },
+    {
+     "ini": 1308.75,
+     "fin": 1310.6,
+     "texto": "y es medible y tangible."
+    },
+    {
+     "ini": 1310.6,
+     "fin": 1311.65,
+     "texto": "Ahí está el interés."
+    },
+    {
+     "ini": 1311.65,
+     "fin": 1312.54,
+     "texto": "Lo que decide"
+    },
+    {
+     "ini": 1312.54,
+     "fin": 1313.75,
+     "texto": "el ciclo escolar"
+    },
+    {
+     "ini": 1313.75,
+     "fin": 1315.56,
+     "texto": "es lo que pasa"
+    },
+    {
+     "ini": 1315.56,
+     "fin": 1316.73,
+     "texto": "en las horas"
+    },
+    {
+     "ini": 1316.73,
+     "fin": 1318.5,
+     "texto": "y días siguientes."
+    },
+    {
+     "ini": 1318.5,
+     "fin": 1321.39,
+     "texto": "¿Cuánto tardó la respuesta,"
+    },
+    {
+     "ini": 1321.39,
+     "fin": 1322.93,
+     "texto": "si la hubo, un domingo?"
+    },
+    {
+     "ini": 1322.93,
+     "fin": 1324.92,
+     "texto": "¿Quién dio el seguimiento"
+    },
+    {
+     "ini": 1324.92,
+     "fin": 1325.76,
+     "texto": "al día siguiente"
+    },
+    {
+     "ini": 1325.76,
+     "fin": 1327.0,
+     "texto": "y si alguien"
+    },
+    {
+     "ini": 1327.0,
+     "fin": 1327.86,
+     "texto": "lo tenía asignado?"
+    },
+    {
+     "ini": 1327.86,
+     "fin": 1329.44,
+     "texto": "¿Cuántas familias agendaron"
+    },
+    {
+     "ini": 1329.44,
+     "fin": 1330.16,
+     "texto": "un recorrido?"
+    },
+    {
+     "ini": 1330.16,
+     "fin": 1332.13,
+     "texto": "¿Cuántas lo recibieron"
+    },
+    {
+     "ini": 1332.13,
+     "fin": 1334.0,
+     "texto": "de alguien preparado"
+    },
+    {
+     "ini": 1334.0,
+     "fin": 1335.59,
+     "texto": "para algo más"
+    },
+    {
+     "ini": 1335.59,
+     "fin": 1337.27,
+     "texto": "que para mostrar instalaciones?"
+    },
+    {
+     "ini": 1337.27,
+     "fin": 1338.13,
+     "texto": "¿Cuántas salieron"
+    },
+    {
+     "ini": 1338.13,
+     "fin": 1339.76,
+     "texto": "con una propuesta concreta"
+    },
+    {
+     "ini": 1339.76,
+     "fin": 1340.62,
+     "texto": "y una fecha?"
+    },
+    {
+     "ini": 1340.62,
+     "fin": 1342.33,
+     "texto": "¿Y cuántas enfriaron"
+    },
+    {
+     "ini": 1342.33,
+     "fin": 1343.41,
+     "texto": "en algún momento,"
+    },
+    {
+     "ini": 1343.41,
+     "fin": 1345.16,
+     "texto": "en algún punto del camino,"
+    },
+    {
+     "ini": 1345.16,
+     "fin": 1347.47,
+     "texto": "sin que nadie del colegio"
+    },
+    {
+     "ini": 1347.47,
+     "fin": 1348.48,
+     "texto": "pudiera verlo?"
+    },
+    {
+     "ini": 1348.48,
+     "fin": 1349.75,
+     "texto": "Porque nada de eso"
+    },
+    {
+     "ini": 1349.75,
+     "fin": 1351.2,
+     "texto": "estaba registrado"
+    },
+    {
+     "ini": 1351.2,
+     "fin": 1352.08,
+     "texto": "en ningún lado."
+    },
+    {
+     "ini": 1352.08,
+     "fin": 1354.47,
+     "texto": "Cada dueño del colegio"
+    },
+    {
+     "ini": 1354.47,
+     "fin": 1356.64,
+     "texto": "conoce la versión dolorosa"
+    },
+    {
+     "ini": 1356.64,
+     "fin": 1357.92,
+     "texto": "de esta historia:"
+    },
+    {
+     "ini": 1357.92,
+     "fin": 1360.75,
+     "texto": "la familia que parecía convencidísima"
+    },
+    {
+     "ini": 1360.75,
+     "fin": 1362.03,
+     "texto": "y nunca regresó."
+    },
+    {
+     "ini": 1362.03,
+     "fin": 1363.72,
+     "texto": "La mamá que preguntó"
+    },
+    {
+     "ini": 1363.72,
+     "fin": 1364.37,
+     "texto": "en febrero"
+    },
+    {
+     "ini": 1364.37,
+     "fin": 1366.38,
+     "texto": "no recibió seguimiento"
+    },
+    {
+     "ini": 1366.38,
+     "fin": 1367.68,
+     "texto": "y en agosto apareció"
+    },
+    {
+     "ini": 1367.68,
+     "fin": 1368.66,
+     "texto": "en la camioneta"
+    },
+    {
+     "ini": 1368.66,
+     "fin": 1370.62,
+     "texto": "del colegio de enfrente."
+    }
+   ],
+   "frase": "La mamá que preguntó en febrero y se fue a enfrente",
+   "descripcion": "Las familias sí llegan: WhatsApp un domingo, formulario, caseta. Lo que decide el ciclo es lo que pasa en las horas siguientes.\nCuántas agendaron, cuántas se enfriaron y nadie lo vio porque no estaba registrado.\n#Admisiones #ColegiosPrivados #Seguimiento",
+   "cara": 1320,
+   "tema": "seguimiento",
+   "por_que": "La historia de la mamá de febrero es la que todo director reconoce; arranca con hechos concretos y cierra con un remate que duele."
+  },
+  {
+   "ini": 693.25,
+   "fin": 728.93,
+   "gancho": [
+    "35 % puede pagar",
+    "solo 10 % inscribe",
+    "no es el dinero"
+   ],
+   "enfasis": [
+    "35 %",
+    "10 %",
+    "26 %",
+    "lo vale",
+    "encuentra cómo pagarla",
+    "a quién se la pagan"
+   ],
+   "trozos": [
+    {
+     "ini": 693.5,
+     "fin": 695.22,
+     "texto": "México: 35 %"
+    },
+    {
+     "ini": 695.22,
+     "fin": 697.09,
+     "texto": "puede pagar"
+    },
+    {
+     "ini": 697.09,
+     "fin": 698.21,
+     "texto": "colegiatura privada,"
+    },
+    {
+     "ini": 698.21,
+     "fin": 702.55,
+     "texto": "pero solamente 10 %"
+    },
+    {
+     "ini": 702.55,
+     "fin": 703.64,
+     "texto": "se está inscribiendo."
+    },
+    {
+     "ini": 703.64,
+     "fin": 703.99,
+     "texto": "En Perú,"
+    },
+    {
+     "ini": 703.99,
+     "fin": 705.7,
+     "texto": "10 % puede pagar"
+    },
+    {
+     "ini": 705.7,
+     "fin": 708.03,
+     "texto": "y 26 % se inscribe."
+    },
+    {
+     "ini": 708.03,
+     "fin": 709.39,
+     "texto": "La lección peruana"
+    },
+    {
+     "ini": 709.39,
+     "fin": 710.09,
+     "texto": "es brutal"
+    },
+    {
+     "ini": 710.09,
+     "fin": 711.44,
+     "texto": "y liberadora a la vez:"
+    },
+    {
+     "ini": 711.44,
+     "fin": 713.03,
+     "texto": "cuando una familia cree"
+    },
+    {
+     "ini": 713.03,
+     "fin": 714.06,
+     "texto": "que la educación"
+    },
+    {
+     "ini": 714.06,
+     "fin": 716.16,
+     "texto": "de sus hijos lo vale,"
+    },
+    {
+     "ini": 716.16,
+     "fin": 717.93,
+     "texto": "encuentra cómo pagarla."
+    },
+    {
+     "ini": 717.93,
+     "fin": 719.89,
+     "texto": "La pregunta"
+    },
+    {
+     "ini": 719.89,
+     "fin": 721.96,
+     "texto": "nunca fue si se puede."
+    },
+    {
+     "ini": 721.96,
+     "fin": 722.92,
+     "texto": "La pregunta es"
+    },
+    {
+     "ini": 722.92,
+     "fin": 724.88,
+     "texto": "a quién se la pagan"
+    },
+    {
+     "ini": 724.88,
+     "fin": 727.04,
+     "texto": "y por qué a usted"
+    },
+    {
+     "ini": 727.04,
+     "fin": 728.93,
+     "texto": "o por qué a otro."
+    }
+   ],
+   "frase": "35 % puede pagar colegio privado y solo 10 % lo hace",
+   "descripcion": "En México 35 % de los hogares puede pagar colegiatura privada y solo 10 % se inscribe; en Perú, 10 % puede y 26 % se inscribe.\nCuando una familia cree que lo vale, encuentra cómo pagarlo: la pregunta es a quién se lo paga.\n#Admisiones #ColegiosPrivados #PoderDePago",
+   "cara": 710,
+   "tema": "poder de pago",
+   "por_que": "Contraste México–Perú con cifras que desmonta el «la gente no puede pagar» y termina en una pregunta que incomoda al director."
+  },
+  {
+   "ini": 993.15,
+   "fin": 1036.52,
+   "gancho": [
+    "18,500 dólares",
+    "por inscribirse",
+    "¿y en tu colegio?"
+   ],
+   "enfasis": [
+    "18,500 dólares",
+    "una sola vez",
+    "decenas de miles",
+    "WhatsApp",
+    "sin contestar",
+    "cuánto vale",
+    "a la altura"
+   ],
+   "trozos": [
+    {
+     "ini": 993.4,
+     "fin": 995.52,
+     "texto": "Los colegios de élite"
+    },
+    {
+     "ini": 995.52,
+     "fin": 996.53,
+     "texto": "de Lima cobran"
+    },
+    {
+     "ini": 996.53,
+     "fin": 997.67,
+     "texto": "cuotas de ingreso"
+    },
+    {
+     "ini": 997.67,
+     "fin": 1000.16,
+     "texto": "de hasta 18,500 dólares"
+    },
+    {
+     "ini": 1000.16,
+     "fin": 1001.06,
+     "texto": "por familia,"
+    },
+    {
+     "ini": 1001.06,
+     "fin": 1002.42,
+     "texto": "una sola vez al inscribirse."
+    },
+    {
+     "ini": 1002.42,
+     "fin": 1004.27,
+     "texto": "Cada inscripción vale literalmente"
+    },
+    {
+     "ini": 1004.27,
+     "fin": 1005.9,
+     "texto": "decenas de miles de dólares."
+    },
+    {
+     "ini": 1005.9,
+     "fin": 1006.55,
+     "texto": "Y por eso"
+    },
+    {
+     "ini": 1006.55,
+     "fin": 1008.33,
+     "texto": "ningún colegio limeño"
+    },
+    {
+     "ini": 1008.33,
+     "fin": 1009.28,
+     "texto": "de ese nivel"
+    },
+    {
+     "ini": 1009.28,
+     "fin": 1010.76,
+     "texto": "se permite perder"
+    },
+    {
+     "ini": 1010.76,
+     "fin": 1012.02,
+     "texto": "una familia interesada"
+    },
+    {
+     "ini": 1012.02,
+     "fin": 1012.84,
+     "texto": "por un WhatsApp"
+    },
+    {
+     "ini": 1012.84,
+     "fin": 1013.64,
+     "texto": "sin contestar."
+    },
+    {
+     "ini": 1013.64,
+     "fin": 1015.92,
+     "texto": "Esa es la relación correcta"
+    },
+    {
+     "ini": 1015.92,
+     "fin": 1016.68,
+     "texto": "entre el valor"
+    },
+    {
+     "ini": 1016.68,
+     "fin": 1017.68,
+     "texto": "de una inscripción"
+    },
+    {
+     "ini": 1017.68,
+     "fin": 1018.39,
+     "texto": "y la seriedad"
+    },
+    {
+     "ini": 1018.39,
+     "fin": 1019.3,
+     "texto": "con la que se opera"
+    },
+    {
+     "ini": 1019.3,
+     "fin": 1019.96,
+     "texto": "su proceso."
+    },
+    {
+     "ini": 1019.96,
+     "fin": 1021.69,
+     "texto": "Vale la pena preguntarse"
+    },
+    {
+     "ini": 1021.69,
+     "fin": 1022.52,
+     "texto": "cuánto vale"
+    },
+    {
+     "ini": 1022.52,
+     "fin": 1024.36,
+     "texto": "una inscripción completa"
+    },
+    {
+     "ini": 1024.36,
+     "fin": 1025.32,
+     "texto": "en su institución:"
+    },
+    {
+     "ini": 1025.32,
+     "fin": 1026.85,
+     "texto": "colegiatura por los años"
+    },
+    {
+     "ini": 1026.85,
+     "fin": 1028.44,
+     "texto": "de permanencia esperada,"
+    },
+    {
+     "ini": 1028.44,
+     "fin": 1030.76,
+     "texto": "las inscripciones anuales,"
+    },
+    {
+     "ini": 1030.76,
+     "fin": 1032.24,
+     "texto": "más hermanos,"
+    },
+    {
+     "ini": 1032.24,
+     "fin": 1033.32,
+     "texto": "y si el proceso"
+    },
+    {
+     "ini": 1033.32,
+     "fin": 1034.4,
+     "texto": "que la captura"
+    },
+    {
+     "ini": 1034.4,
+     "fin": 1035.57,
+     "texto": "está a la altura"
+    },
+    {
+     "ini": 1035.57,
+     "fin": 1036.52,
+     "texto": "de esa cifra."
+    }
+   ],
+   "frase": "¿Cuánto vale una inscripción completa en tu colegio?",
+   "descripcion": "Los colegios de élite de Lima cobran hasta 18,500 dólares de cuota de ingreso; por eso ninguno pierde una familia por un WhatsApp sin contestar.\nColegiatura por años de permanencia, inscripciones y hermanos: esa es la cifra que tu proceso debe honrar.\n#Admisiones #ColegiosPrivados #ValorDeInscripcion",
+   "cara": 1002,
+   "tema": "valor de inscripción",
+   "por_que": "Dato concreto y ajeno (Lima) que obliga a calcular cuánto vale una familia y a comparar el proceso propio con esa cifra."
+  }
+ ],
+ "sin_tramos_por": null
+}
