@@ -1,0 +1,153 @@
+{
+ "id": "mDfb_nteAe8",
+ "ini": 1191.75,
+ "fin": 1231.36,
+ "gancho": [
+  "¿El alumno",
+  "o el profesor?",
+  "Primero admisiones"
+ ],
+ "enfasis": [
+  "alumno",
+  "profesor",
+  "admisiones",
+  "158 años",
+  "100 años",
+  "activo",
+  "alumnos"
+ ],
+ "trozos": [
+  {
+   "ini": 1192.0,
+   "fin": 1193.16,
+   "texto": "¿Qué es más importante,"
+  },
+  {
+   "ini": 1193.16,
+   "fin": 1195.44,
+   "texto": "el alumno o el profesor?"
+  },
+  {
+   "ini": 1195.44,
+   "fin": 1196.24,
+   "texto": "Y yo siempre digo:"
+  },
+  {
+   "ini": 1196.24,
+   "fin": 1196.84,
+   "texto": "¿o qué es primero,"
+  },
+  {
+   "ini": 1196.84,
+   "fin": 1198.4,
+   "texto": "el alumno o el profesor?"
+  },
+  {
+   "ini": 1198.4,
+   "fin": 1200.16,
+   "texto": "Siempre es primero"
+  },
+  {
+   "ini": 1200.16,
+   "fin": 1202.0,
+   "texto": "el departamento de admisiones,"
+  },
+  {
+   "ini": 1202.0,
+   "fin": 1203.2,
+   "texto": "porque el departamento de admisiones"
+  },
+  {
+   "ini": 1203.2,
+   "fin": 1204.32,
+   "texto": "genera ese alumno"
+  },
+  {
+   "ini": 1204.32,
+   "fin": 1206.2,
+   "texto": "para que exista ese profesor."
+  },
+  {
+   "ini": 1206.2,
+   "fin": 1208.28,
+   "texto": "Entonces, el departamento de admisiones"
+  },
+  {
+   "ini": 1208.28,
+   "fin": 1209.48,
+   "texto": "tiene que estar equipado"
+  },
+  {
+   "ini": 1209.48,
+   "fin": 1211.28,
+   "texto": "y tienen que ver que"
+  },
+  {
+   "ini": 1211.28,
+   "fin": 1212.56,
+   "texto": "yo tengo clientes"
+  },
+  {
+   "ini": 1212.56,
+   "fin": 1215.12,
+   "texto": "que tienen 158 años,"
+  },
+  {
+   "ini": 1215.12,
+   "fin": 1217.32,
+   "texto": "o sea, van a seguir"
+  },
+  {
+   "ini": 1217.32,
+   "fin": 1219.76,
+   "texto": "inscribiendo hoy, mañana,"
+  },
+  {
+   "ini": 1219.76,
+   "fin": 1220.4,
+   "texto": "en 100 años,"
+  },
+  {
+   "ini": 1220.4,
+   "fin": 1221.36,
+   "texto": "tus hijos, tus nietos,"
+  },
+  {
+   "ini": 1221.36,
+   "fin": 1222.28,
+   "texto": "tus tataranietos."
+  },
+  {
+   "ini": 1222.28,
+   "fin": 1225.6,
+   "texto": "Entonces, la maquinaria de inscripción"
+  },
+  {
+   "ini": 1225.6,
+   "fin": 1226.92,
+   "texto": "es un activo,"
+  },
+  {
+   "ini": 1226.92,
+   "fin": 1228.24,
+   "texto": "que es un activo,"
+  },
+  {
+   "ini": 1228.24,
+   "fin": 1229.76,
+   "texto": "a lo mejor no tangible,"
+  },
+  {
+   "ini": 1229.76,
+   "fin": 1231.36,
+   "texto": "pero te produce alumnos."
+  }
+ ],
+ "frase": "¿Primero el alumno o el profesor? Primero admisiones",
+ "descripcion": "¿Qué es primero, el alumno o el profesor? El departamento de admisiones: es el que genera al alumno para que exista el profesor.\nLa maquinaria de inscripción es un activo que produce alumnos hoy, mañana y en 100 años.\n#Admisiones #ColegiosPrivados #Inscripciones",
+ "cuadros": [
+  1200,
+  1225
+ ],
+ "por_que": "Pregunta que incomoda a cualquier director, responde con una afirmación tajante, da un dato (clientes de 158 años) y cierra con una idea completa: la maquinaria de inscripción es un activo que produce alumnos."
+}

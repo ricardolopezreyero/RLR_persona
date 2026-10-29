@@ -1,0 +1,193 @@
+{
+ "id": "ZP5BSoRFaio",
+ "ini": 120.03,
+ "fin": 166.14,
+ "gancho": [
+  "El problema no es",
+  "la publicidad.",
+  "Es el seguimiento."
+ ],
+ "enfasis": [
+  "publicidad",
+  "conversión",
+  "inscrito",
+  "seguimiento",
+  "descontrol",
+  "enfrían",
+  "trazabilidad"
+ ],
+ "trozos": [
+  {
+   "ini": 120.28,
+   "fin": 121.44,
+   "texto": "El problema no es"
+  },
+  {
+   "ini": 121.44,
+   "fin": 122.76,
+   "texto": "la publicidad,"
+  },
+  {
+   "ini": 122.76,
+   "fin": 124.2,
+   "texto": "es la conversión"
+  },
+  {
+   "ini": 124.2,
+   "fin": 126.16,
+   "texto": "de lead a inscrito."
+  },
+  {
+   "ini": 126.16,
+   "fin": 126.92,
+   "texto": "Y la mayoría"
+  },
+  {
+   "ini": 126.92,
+   "fin": 127.56,
+   "texto": "de los colegios"
+  },
+  {
+   "ini": 127.56,
+   "fin": 128.4,
+   "texto": "no tienen un problema"
+  },
+  {
+   "ini": 128.4,
+   "fin": 129.0,
+   "texto": "de demanda,"
+  },
+  {
+   "ini": 129.0,
+   "fin": 129.8,
+   "texto": "tienen un problema"
+  },
+  {
+   "ini": 129.8,
+   "fin": 130.92,
+   "texto": "de seguimiento"
+  },
+  {
+   "ini": 130.92,
+   "fin": 131.72,
+   "texto": "y un problema"
+  },
+  {
+   "ini": 131.72,
+   "fin": 133.32,
+   "texto": "de descontrol,"
+  },
+  {
+   "ini": 133.32,
+   "fin": 134.52,
+   "texto": "porque normalmente"
+  },
+  {
+   "ini": 134.52,
+   "fin": 135.84,
+   "texto": "traen descontrol"
+  },
+  {
+   "ini": 135.84,
+   "fin": 137.08,
+   "texto": "por todo el departamento"
+  },
+  {
+   "ini": 137.08,
+   "fin": 138.08,
+   "texto": "de admisiones."
+  },
+  {
+   "ini": 138.08,
+   "fin": 139.08,
+   "texto": "Y es normal,"
+  },
+  {
+   "ini": 139.08,
+   "fin": 139.8,
+   "texto": "es normal,"
+  },
+  {
+   "ini": 139.8,
+   "fin": 141.24,
+   "texto": "porque nadie nace"
+  },
+  {
+   "ini": 141.24,
+   "fin": 144.88,
+   "texto": "sabiendo hacer esto."
+  },
+  {
+   "ini": 144.88,
+   "fin": 147.08,
+   "texto": "¿Qué está realmente pasando?"
+  },
+  {
+   "ini": 147.08,
+   "fin": 148.24,
+   "texto": "Lo que creemos:"
+  },
+  {
+   "ini": 148.24,
+   "fin": 149.52,
+   "texto": "pocos leads entrando,"
+  },
+  {
+   "ini": 149.52,
+   "fin": 150.76,
+   "texto": "mala publicidad,"
+  },
+  {
+   "ini": 150.76,
+   "fin": 152.88,
+   "texto": "poca demanda en el mercado."
+  },
+  {
+   "ini": 152.88,
+   "fin": 154.44,
+   "texto": "Pero lo que realmente pasa"
+  },
+  {
+   "ini": 154.44,
+   "fin": 155.92,
+   "texto": "es que los leads llegan"
+  },
+  {
+   "ini": 155.92,
+   "fin": 156.76,
+   "texto": "y se enfrían,"
+  },
+  {
+   "ini": 156.76,
+   "fin": 159.6,
+   "texto": "nadie los siguió."
+  },
+  {
+   "ini": 159.6,
+   "fin": 161.28,
+   "texto": "El proceso vive en WhatsApp"
+  },
+  {
+   "ini": 161.28,
+   "fin": 162.92,
+   "texto": "sin trazabilidad,"
+  },
+  {
+   "ini": 162.92,
+   "fin": 164.08,
+   "texto": "no hay un sistema,"
+  },
+  {
+   "ini": 164.08,
+   "fin": 166.14,
+   "texto": "solo hay esfuerzos individuales."
+  }
+ ],
+ "frase": "No es la publicidad: es la conversión de lead a inscrito",
+ "descripcion": "La mayoría de los colegios no tiene un problema de demanda: los leads llegan y se enfrían porque nadie los sigue.\nEl proceso vive en WhatsApp, sin trazabilidad y sin sistema. Ahí se pierden los inscritos.\n#Admisiones #ColegiosPrivados #Seguimiento",
+ "cuadros": [
+  123,
+  150
+ ],
+ "por_que": "Es la tesis del video en 46 s: contraste publicidad vs seguimiento con dato y remate, sin vender SuperLeads"
+}

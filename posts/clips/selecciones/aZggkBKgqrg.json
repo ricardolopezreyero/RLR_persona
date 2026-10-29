@@ -1,0 +1,188 @@
+{
+ "id": "aZggkBKgqrg",
+ "ini": 1028.63,
+ "fin": 1075.42,
+ "gancho": [
+  "Un teatro de",
+  "6 millones.",
+  "Se pagó en 1 año."
+ ],
+ "enfasis": [
+  "6 millones",
+  "300,000 dólares",
+  "quítalas",
+  "al año",
+  "estrella",
+  "rentable",
+  "reinvertir"
+ ],
+ "trozos": [
+  {
+   "ini": 1028.88,
+   "fin": 1030.8,
+   "texto": "Un colegio me platicó"
+  },
+  {
+   "ini": 1030.8,
+   "fin": 1034.76,
+   "texto": "que en su colegio"
+  },
+  {
+   "ini": 1034.76,
+   "fin": 1035.96,
+   "texto": "están muy especializados"
+  },
+  {
+   "ini": 1035.96,
+   "fin": 1037.4,
+   "texto": "en las artes"
+  },
+  {
+   "ini": 1037.4,
+   "fin": 1038.88,
+   "texto": "y pusieron un teatro,"
+  },
+  {
+   "ini": 1038.88,
+   "fin": 1040.0,
+   "texto": "porque tenían un espacio"
+  },
+  {
+   "ini": 1040.0,
+   "fin": 1041.44,
+   "texto": "y pusieron un teatro."
+  },
+  {
+   "ini": 1041.44,
+   "fin": 1042.0,
+   "texto": "Y luego, ¿cuánto"
+  },
+  {
+   "ini": 1042.0,
+   "fin": 1042.84,
+   "texto": "te costó el teatro?"
+  },
+  {
+   "ini": 1042.84,
+   "fin": 1043.6,
+   "texto": "El teatro le costó"
+  },
+  {
+   "ini": 1043.6,
+   "fin": 1044.72,
+   "texto": "6 millones de pesos,"
+  },
+  {
+   "ini": 1044.72,
+   "fin": 1046.6,
+   "texto": "300,000 dólares."
+  },
+  {
+   "ini": 1046.6,
+   "fin": 1047.4,
+   "texto": "Alto, bajo,"
+  },
+  {
+   "ini": 1047.4,
+   "fin": 1048.04,
+   "texto": "son etiquetas"
+  },
+  {
+   "ini": 1048.04,
+   "fin": 1049.16,
+   "texto": "que tú hoy estás poniendo,"
+  },
+  {
+   "ini": 1049.16,
+   "fin": 1050.56,
+   "texto": "son etiquetas, quítalas."
+  },
+  {
+   "ini": 1050.56,
+   "fin": 1052.28,
+   "texto": "300,000 dólares."
+  },
+  {
+   "ini": 1052.28,
+   "fin": 1053.48,
+   "texto": "Le digo: ¿cuánto ganas"
+  },
+  {
+   "ini": 1053.48,
+   "fin": 1054.76,
+   "texto": "por ese teatro?"
+  },
+  {
+   "ini": 1054.76,
+   "fin": 1056.36,
+   "texto": "Me dice: 300,000 dólares"
+  },
+  {
+   "ini": 1056.36,
+   "fin": 1057.56,
+   "texto": "o 6 millones de pesos"
+  },
+  {
+   "ini": 1057.56,
+   "fin": 1059.4,
+   "texto": "al año."
+  },
+  {
+   "ini": 1059.4,
+   "fin": 1061.0,
+   "texto": "Entonces, no sabes"
+  },
+  {
+   "ini": 1061.0,
+   "fin": 1063.08,
+   "texto": "dentro de estas actividades"
+  },
+  {
+   "ini": 1063.08,
+   "fin": 1064.28,
+   "texto": "cuál va a ser"
+  },
+  {
+   "ini": 1064.28,
+   "fin": 1065.24,
+   "texto": "una estrella"
+  },
+  {
+   "ini": 1065.24,
+   "fin": 1066.56,
+   "texto": "que te va a ser"
+  },
+  {
+   "ini": 1066.56,
+   "fin": 1068.84,
+   "texto": "mucho, mucho más rentable"
+  },
+  {
+   "ini": 1068.84,
+   "fin": 1070.08,
+   "texto": "y te va a permitir"
+  },
+  {
+   "ini": 1070.08,
+   "fin": 1072.36,
+   "texto": "reinvertir y hacer cosas"
+  },
+  {
+   "ini": 1072.36,
+   "fin": 1072.84,
+   "texto": "que a lo mejor"
+  },
+  {
+   "ini": 1072.84,
+   "fin": 1075.42,
+   "texto": "no hubieras pensado antes."
+  }
+ ],
+ "frase": "Un teatro de 6 millones que se pagó en un año",
+ "descripcion": "Un colegio puso un teatro de 6 millones de pesos y hoy gana eso mismo cada año.\nNo sabes cuál de tus servicios será la estrella que te permita reinvertir.\n#Admisiones #ColegiosPrivados #MonetizaciónEducativa",
+ "cuadros": [
+  1038,
+  1056
+ ],
+ "por_que": "Historia con cifras concretas (6 millones, 300,000 dólares), contraste costo = ganancia anual, una frase que incomoda («quítalas») y cierre con lección completa; sin venta de SuperLeads ni índice."
+}

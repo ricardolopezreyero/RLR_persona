@@ -1,0 +1,142 @@
+{
+ "id": "oqLweG2S0Bk",
+ "ini": 1338.31,
+ "fin": 1369.78,
+ "gancho": [
+  "40 consultas.",
+  "4 o 12 inscritos.",
+  "2.7 millones."
+ ],
+ "enfasis": [
+  "40 consultas",
+  "4 o 5",
+  "10 a 12",
+  "2.7 millones",
+  "perdidos",
+  "velocidad"
+ ],
+ "trozos": [
+  {
+   "ini": 1338.56,
+   "fin": 1339.52,
+   "texto": "Un colegio que recibe"
+  },
+  {
+   "ini": 1339.52,
+   "fin": 1342.08,
+   "texto": "40 consultas reales por temporada"
+  },
+  {
+   "ini": 1342.08,
+   "fin": 1343.56,
+   "texto": "y responde como"
+  },
+  {
+   "ini": 1343.56,
+   "fin": 1344.76,
+   "texto": "el promedio del sector,"
+  },
+  {
+   "ini": 1344.76,
+   "fin": 1345.4,
+   "texto": "horas después,"
+  },
+  {
+   "ini": 1345.4,
+   "fin": 1347.0,
+   "texto": "sin seguimiento asignado,"
+  },
+  {
+   "ini": 1347.0,
+   "fin": 1348.04,
+   "texto": "convierte típicamente"
+  },
+  {
+   "ini": 1348.04,
+   "fin": 1348.8,
+   "texto": "4 o 5."
+  },
+  {
+   "ini": 1348.8,
+   "fin": 1349.48,
+   "texto": "El mismo colegio,"
+  },
+  {
+   "ini": 1349.48,
+   "fin": 1351.04,
+   "texto": "respondiendo en minutos,"
+  },
+  {
+   "ini": 1351.04,
+   "fin": 1352.84,
+   "texto": "con seguimiento al día siguiente"
+  },
+  {
+   "ini": 1352.84,
+   "fin": 1354.64,
+   "texto": "y propuestas concretas"
+  },
+  {
+   "ini": 1354.64,
+   "fin": 1355.88,
+   "texto": "tras el recorrido,"
+  },
+  {
+   "ini": 1355.88,
+   "fin": 1358.24,
+   "texto": "convierte en 10 a 12."
+  },
+  {
+   "ini": 1358.24,
+   "fin": 1359.6,
+   "texto": "O sea, la diferencia,"
+  },
+  {
+   "ini": 1359.6,
+   "fin": 1360.56,
+   "texto": "6 familias,"
+  },
+  {
+   "ini": 1360.56,
+   "fin": 1362.0,
+   "texto": "son 2.7 millones de pesos"
+  },
+  {
+   "ini": 1362.0,
+   "fin": 1362.6,
+   "texto": "de valor de vida"
+  },
+  {
+   "ini": 1362.6,
+   "fin": 1364.72,
+   "texto": "por temporada, perdidos."
+  },
+  {
+   "ini": 1364.72,
+   "fin": 1366.6,
+   "texto": "No por falta de demanda,"
+  },
+  {
+   "ini": 1366.6,
+   "fin": 1367.8,
+   "texto": "ni de publicidad,"
+  },
+  {
+   "ini": 1367.8,
+   "fin": 1368.72,
+   "texto": "ni de prestigio:"
+  },
+  {
+   "ini": 1368.72,
+   "fin": 1369.78,
+   "texto": "por velocidad."
+  }
+ ],
+ "frase": "Las mismas 40 consultas: 4 inscritos o 12. Por velocidad.",
+ "descripcion": "El mismo colegio, las mismas 40 consultas: 4 inscritos respondiendo en horas, 12 respondiendo en minutos.\nLa diferencia son 2.7 millones por temporada y no es demanda ni publicidad: es velocidad.\n#Admisiones #ColegiosPrivados #WhatsApp",
+ "cuadros": [
+  1346,
+  1362
+ ],
+ "por_que": "Contraste con cifras concretas (40 consultas, 4 o 5 vs 10 a 12, 2.7 millones) y remate que incomoda: se pierde por velocidad, no por demanda ni publicidad; sin venta ni titubeos."
+}

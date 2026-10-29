@@ -1,0 +1,132 @@
+{
+ "id": "0tRgTomkaAw",
+ "ini": 226.11,
+ "fin": 260.9,
+ "gancho": [
+  "34 % puede pagar",
+  "colegio privado.",
+  "Solo el 10 % paga."
+ ],
+ "enfasis": [
+  "34 %",
+  "10 %",
+  "5.6 %",
+  "pública",
+  "pudiendo",
+  "privada"
+ ],
+ "trozos": [
+  {
+   "ini": 226.36,
+   "fin": 230.08,
+   "texto": "El 34 % pudiera pagar"
+  },
+  {
+   "ini": 230.08,
+   "fin": 231.32,
+   "texto": "colegio privado."
+  },
+  {
+   "ini": 231.32,
+   "fin": 232.76,
+   "texto": "Sin embargo, solamente"
+  },
+  {
+   "ini": 232.76,
+   "fin": 234.96,
+   "texto": "el 10 % paga colegio privado."
+  },
+  {
+   "ini": 234.96,
+   "fin": 236.64,
+   "texto": "Entonces, ¿eso qué significa?"
+  },
+  {
+   "ini": 236.64,
+   "fin": 237.72,
+   "texto": "Significa que nada más"
+  },
+  {
+   "ini": 237.72,
+   "fin": 238.72,
+   "texto": "la clase alta,"
+  },
+  {
+   "ini": 238.72,
+   "fin": 240.36,
+   "texto": "que es 5.6 %,"
+  },
+  {
+   "ini": 240.36,
+   "fin": 241.76,
+   "texto": "más la mitad"
+  },
+  {
+   "ini": 241.76,
+   "fin": 242.96,
+   "texto": "de la clase media,"
+  },
+  {
+   "ini": 242.96,
+   "fin": 243.72,
+   "texto": "la mitad"
+  },
+  {
+   "ini": 243.72,
+   "fin": 244.68,
+   "texto": "de la clase media,"
+  },
+  {
+   "ini": 244.68,
+   "fin": 245.56,
+   "texto": "tantito menos de la mitad"
+  },
+  {
+   "ini": 245.56,
+   "fin": 246.44,
+   "texto": "de la clase media,"
+  },
+  {
+   "ini": 246.44,
+   "fin": 247.88,
+   "texto": "están pagando"
+  },
+  {
+   "ini": 247.88,
+   "fin": 251.28,
+   "texto": "educación privada."
+  },
+  {
+   "ini": 251.28,
+   "fin": 253.04,
+   "texto": "Entonces, aquí"
+  },
+  {
+   "ini": 253.04,
+   "fin": 255.72,
+   "texto": "lo que significa es que"
+  },
+  {
+   "ini": 255.72,
+   "fin": 256.8,
+   "texto": "hay mucha gente"
+  },
+  {
+   "ini": 256.8,
+   "fin": 258.64,
+   "texto": "yéndose a pública,"
+  },
+  {
+   "ini": 258.64,
+   "fin": 260.9,
+   "texto": "pudiendo pagar privada."
+  }
+ ],
+ "frase": "El 34 % puede pagar colegio privado; solo el 10 % lo hace",
+ "descripcion": "En México, el 34 % de los hogares podría pagar colegio privado, pero solo el 10 % lo hace.\nHay familias yéndose a la pública pudiendo pagar la privada: el mercado está ahí.\n#Admisiones #ColegiosPrivados #EducaciónPrivada",
+ "cuadros": [
+  230,
+  250
+ ],
+ "por_que": "Abre con el dato que da título al video (34 % vs 10 %) y cierra con la frase que incomoda: hay familias yéndose a la pública pudiendo pagar privada."
+}
