@@ -22,3 +22,7 @@ Cinco Shorts con el sistema de diseño de SuperLeads (navy profundo `#001240`, v
 | 5 | aZggkBKgqrg · monetizar sin subir colegiatura | 17:08–17:55 | Un teatro de 6 millones. Se pagó en 1 año. |
 
 **Publicados (28-oct-2026):** los 5 se subieron a YouTube desde Studio con portada vertical propia (`hacer_portadas.py` → `portadas/`), programados públicos a mediodía, uno por día: 29-oct 12:30, 30-oct 12:30, 31-oct 11:00, 2-nov 12:30 y 3-nov 12:30 (hora de México). Metadatos en `publicados_youtube_2026-10-28.json`. El primero: https://youtube.com/shorts/pOVu1S36iU0
+
+## Anuncios horizontales 16:9 (29-oct-2026)
+
+`hacer_anuncio.py` toma el mismo tramo y los mismos subtítulos de cada Short y compone 1920×1080 para in-stream: cámara grande a la izquierda, gancho fijo a la derecha desde el primer cuadro (antes de los 5 s de «omitir»), subtítulos abajo y un cierre de 2.5 s con el Rayos X. Los 5 se subieron a YouTube como ocultos (ids en `anuncios_youtube_2026-10-29.json`) y se usan en Google Ads en un anuncio nuevo «Cortos 16:9» por grupo (G1–G4), junto a los anuncios de videos largos, para que Google compare.
