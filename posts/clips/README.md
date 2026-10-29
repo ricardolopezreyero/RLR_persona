@@ -20,3 +20,5 @@ Cinco Shorts con el sistema de diseño de SuperLeads (navy profundo `#001240`, v
 | 3 | oqLweG2S0Bk · WhatsApp de noche | 22:18–22:49 | 40 consultas. 4 o 12 inscritos. 2.7 millones. |
 | 4 | mDfb_nteAe8 · mapa del proceso | 19:52–20:31 | ¿El alumno o el profesor? Primero admisiones |
 | 5 | aZggkBKgqrg · monetizar sin subir colegiatura | 17:08–17:55 | Un teatro de 6 millones. Se pagó en 1 año. |
+
+**Publicados (28-oct-2026):** los 5 se subieron a YouTube desde Studio con portada vertical propia (`hacer_portadas.py` → `portadas/`), programados públicos a mediodía, uno por día: 29-oct 12:30, 30-oct 12:30, 31-oct 11:00, 2-nov 12:30 y 3-nov 12:30 (hora de México). Metadatos en `publicados_youtube_2026-10-28.json`. El primero: https://youtube.com/shorts/pOVu1S36iU0
