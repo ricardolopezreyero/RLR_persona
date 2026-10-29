@@ -65,15 +65,15 @@ for nombre, im in VARIANTES:
     im.convert('RGB').save(os.path.join(SALIDA, f'Avatar X · {nombre} · v1 · {SELLO}.png'))
     im.convert('RGB').save(os.path.join(AQUI, f'x-{nombre.split()[0]}.png'))
 
-# Portada 1500×500 con una frase bandera
+# Portada 1500×500 con una frase bandera. El avatar tapa la esquina inferior izquierda (≈ 420×220 px),
+# así que el texto va a la derecha, alineado al margen derecho.
 P = Image.new('RGB', (1500, 500), NEGRO)
 d = ImageDraw.Draw(P)
-d.rectangle((70, 90, 150, 98), fill=ACENTO)
-d.text((70, 128), 'El sistema con el que', font=f('heavy', 96), fill=BLANCO)
-d.text((70, 232), 'operamos produce', font=f('heavy', 96), fill=BLANCO)
-d.text((70, 336), 'el resultado.', font=f('heavy', 96), fill=ACENTO)
-d.text((1430, 440), 'Ing. Ricardo López Reyero · Torreón', font=f('demi', 30), fill=(140, 140, 135), anchor='rs')
-P.save(os.path.join(SALIDA, f'Portada X · frase bandera · v1 · {SELLO}.png'))
+d.rectangle((1350, 78, 1430, 86), fill=ACENTO)
+d.text((1430, 112), 'El sistema con el que', font=f('heavy', 100), fill=BLANCO, anchor='ra')
+d.text((1430, 222), 'operamos produce', font=f('heavy', 100), fill=BLANCO, anchor='ra')
+d.text((1430, 332), 'el resultado.', font=f('heavy', 100), fill=ACENTO, anchor='ra')
+P.save(os.path.join(SALIDA, f'Portada X · frase bandera · v2 · {SELLO}.png'))
 P.save(os.path.join(AQUI, 'x-portada.png'))
 
 # Hoja de comparación: cada variante en círculo grande y chico sobre fondo X (negro)
