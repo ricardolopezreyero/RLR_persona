@@ -1,0 +1,13 @@
+{
+ "fecha": "2026-10-29",
+ "fuente": "etiquetas de color de Finder en ~/Downloads/Shorts 33 (tanda 1, v1 · 2026-10-29 00h07)",
+ "rojas": [4, 6, 9, 12, 17, 20, 22, 24, 25, 29, 32, 33],
+ "amarillas": [3],
+ "azules": [5, 11, 27],
+ "v2": {
+  "3": "audio normalizado de −28 a −14 LUFS (dos pasadas de loudnorm); recorte de cámara ajustado a la burbuja real para que no entre el subtítulo quemado de la lámina.",
+  "5": "salías dos veces: la franja de contenido abarcaba todo el ancho e incluía tu cámara. Ahora la cámara es solo el panel izquierdo y el contenido solo la lámina «Response time»; audio de −20 a −14 LUFS.",
+  "11": "la franja de contenido cortaba sobre la burbuja de la cámara (se veía su esquina blanca); se subió para terminar antes de la burbuja.",
+  "27": "mismo video que el 05: ya no sales doble; contenido solo la lámina (el zoom a «Best times to make contact» se conserva); audio de −20 a −14 LUFS."
+ }
+}

@@ -183,7 +183,13 @@
    "descripcion": "Una silla vacía son meses de colegiatura que nunca llegan, con instalaciones y maestros ya pagados.\nPor eso invertir en atraer alumnos no es gasto: es rentabilidad.\n#Admisiones #ColegiosPrivados #Marketing",
    "cara": 1014.6,
    "tema": "silla vacía",
-   "por_que": "Frase que un director recuerda, con el reto directo a cámara y el remate de hacer la paz con invertir en marketing."
+   "por_que": "Frase que un director recuerda, con el reto directo a cámara y el remate de hacer la paz con invertir en marketing.",
+   "cont": [
+    100,
+    270,
+    912,
+    200
+   ]
   },
   {
    "ini": 1310.01,

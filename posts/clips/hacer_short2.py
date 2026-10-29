@@ -11,6 +11,15 @@ CONT_XY, CONT_W = (40, 470), 1000
 CAM_W = 800
 
 
+def medir_audio(ruta, ini, fin):
+    """Primera pasada de loudnorm sobre el tramo: devuelve lo medido para la segunda pasada (lineal, sin bombeo)."""
+    o = subprocess.run(['ffmpeg', '-v', 'info', '-ss', str(ini), '-to', str(fin), '-i', ruta, '-vn',
+                        '-af', 'loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json', '-f', 'null', '-'], capture_output=True, text=True).stderr
+    j = json.loads(o[o.rfind('{'):o.rfind('}') + 1])
+    return (f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={j['input_i']}:measured_TP={j['input_tp']}:measured_LRA={j['input_lra']}"
+            f":measured_thresh={j['input_thresh']}:offset={j['target_offset']}:linear=true:print_format=none,aresample=48000")
+
+
 def main(vid, tr, salida, portada=None, solo_portada=False):
     carpeta = os.path.join(AQUI, 'v', vid)
     enc = json.load(open(os.path.join(carpeta, 'encuadre.json')))
@@ -118,7 +127,8 @@ def main(vid, tr, salida, portada=None, solo_portada=False):
     fc.append(f'[{prev}]fade=t=in:st=0:d=0.3,fade=t=out:st={dur - 0.5}:d=0.5,format=yuv420p[v]')
     cmd = ['ffmpeg', '-y', '-v', 'error'] + inputs + ['-filter_complex', ';'.join(fc), '-map', '[v]', '-map', '0:a',
            '-c:v', 'libx264', '-preset', 'slow', '-crf', '18', '-r', '30', '-c:a', 'aac', '-b:a', '192k',
-           '-af', f'afade=t=in:st=0:d=0.2,afade=t=out:st={dur - 0.6}:d=0.6', '-movflags', '+faststart', salida]
+           '-af', f'{medir_audio(os.path.join(carpeta, "video.mp4"), INI, FIN) if not solo_portada else "anull"},afade=t=in:st=0:d=0.2,afade=t=out:st={dur - 0.6}:d=0.6',
+           '-movflags', '+faststart', salida]
     if not solo_portada: subprocess.run(cmd, check=True)
 
     # portada vertical (gancho + cara)

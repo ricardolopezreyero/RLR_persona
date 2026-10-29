@@ -218,7 +218,13 @@
    "descripcion": "Un alumno que no inscribes son 60 meses de ingresos en primaria, 48 en universidad, 30 en prepa.\nY si algún día vendes el colegio, son 84 meses de valor que ya no están.\n#Admisiones #ColegiosPrivados #ValorDelAlumno",
    "cara": 190,
    "tema": "valor del alumno",
-   "por_que": "Pone cifras a lo que un director minimiza: cada alumno perdido vale 60 meses de ingresos y 84 de valor; cierra con remate claro."
+   "por_que": "Pone cifras a lo que un director minimiza: cada alumno perdido vale 60 meses de ingresos y 84 de valor; cierra con remate claro.",
+   "cam": [
+    1085,
+    722,
+    520,
+    292
+   ]
   },
   {
    "ini": 63.75,
