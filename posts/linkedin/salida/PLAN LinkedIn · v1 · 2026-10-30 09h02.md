@@ -1,6 +1,6 @@
 # LinkedIn · plan semanal · v1 · 2026-10-30 09h02
 
-Un carrusel (PDF 1080×1350: portada, gráficas y una frase de cierre) y un texto, martes y jueves a las 09:00 (GMT-6) mientras los Shorts de cada gráfica ya estén públicos; pausa del 24-dic al 6-ene; termina el 14-ene-2027. Primero las 6 entregas del corte Rayos X, luego los 7 capítulos de La realidad de la educación. Cada gráfica lleva la liga a su Short de YouTube, que ya estará publicado antes de la fecha del post (se verifica al armar). **Nada está publicado: Ricardo revisa y decide.**
+Un carrusel (PDF 1080×1350: portada, gráficas y una frase de cierre) y un texto, martes y jueves a las 09:00 (GMT-6) mientras los Shorts de cada gráfica ya estén públicos; pausa del 24-dic al 6-ene; termina el 14-ene-2027. Primero las 6 entregas del corte Rayos X, luego los 7 capítulos de La realidad de la educación. Cada gráfica lleva la liga a su Short de YouTube, que ya estará publicado antes de la fecha del post (se verifica al armar). **Estado 30-oct-2026: los 13 posts PROGRAMADOS en LinkedIn (perfil de Ricardo), cada uno como publicación con el PDF del carrusel como documento y el texto del post; el primer comentario (fuentes y videos) se pega a mano el día de cada publicación.**
 
 Nota de LinkedIn: las ligas externas en el cuerpo bajan el alcance; si prefieres, el texto va sin ligas y la lista de videos se pega en el primer comentario.
 

@@ -1,8 +1,8 @@
-# LinkedIn · un artículo semanal con las gráficas de las dos series
+# LinkedIn · posts (dos por semana) con las gráficas de las dos series
 
 Un **carrusel** (PDF 1080×1350, el formato 4:5 de los documentos de LinkedIn) con 2 a 5 gráficas que cuentan una sola historia, más el **texto del post** y un **primer comentario** con fuentes y videos. Las gráficas son las mismas de las series «Rayos X» y «La realidad de la educación», re-renderizadas para LinkedIn: sin la nota al pie en la lámina, con una portada y una lámina de cierre que lleva **solo una frase de cambio de perspectiva** (Ricardo, 30-oct: «un cierre con una bonita frase elegante», sin más información).
 
-**Estado: planeado, sin publicar.** Ricardo revisa en `~/Downloads/LinkedIn/` y decide. Orden: primero las 6 entregas del corte Rayos X (5 a 26-nov-2026), luego los 7 capítulos de La realidad de la educación (3-dic-2026 a 14-ene-2027). Martes y jueves 9:00 GMT-6 cuando los Shorts de cada gráfica ya están públicos; pausa del 24-dic al 6-ene; la serie termina el 14-ene (Ricardo: «aprieta… el 15 de enero estaré terminando»).
+**Estado: los 13 posts PROGRAMADOS en LinkedIn el 30-oct-2026** (son publicaciones del feed con documento, no «artículos» de LinkedIn; esos vendrán después). Pendiente a mano: pegar el `Primer comentario` de cada post el día que salga. Orden: primero las 6 entregas del corte Rayos X (5 a 26-nov-2026), luego los 7 capítulos de La realidad de la educación (3-dic-2026 a 14-ene-2027). Martes y jueves 9:00 GMT-6 cuando los Shorts de cada gráfica ya están públicos; pausa del 24-dic al 6-ene; la serie termina el 14-ene (Ricardo: «aprieta… el 15 de enero estaré terminando»).
 
 | Archivo | Qué es |
 |---|---|
@@ -26,3 +26,7 @@ cd ~/Code/RLR_persona/posts/linkedin
 python3 armar.py              # los 13 → salida/ y ~/Downloads/LinkedIn/
 SOLO=3 python3 armar.py       # solo el artículo 3 (no toca el plan ni Descargas)
 ```
+
+## Cómo se programaron
+
+Helpers de BrowserOS neo en linkedin.com: `liRedactar` (abre linkedin.com/sharing/compose, escribe el texto en el editor TipTap línea por línea, abre «Documento», intercepta el input de archivo parcheando `HTMLInputElement.prototype.click`, carga el PDF por CDP `DOM.setFileInputFiles`, pone el título ≤58 y pulsa «Hecho» esperando a que el modal cierre) y `liProgramar` (reloj «Programadas (n)», fecha dd/mm/aaaa, hora, cierra la lista de horas pulsando el título del modal —nunca Escape: abre «guardar borrador»—, comprueba el resumen «Publicando el …», Confirmar y Programar). Datos para los helpers: `datos_li.html` (file://, window.__L; en .gitignore).
