@@ -1,0 +1,15 @@
+Fuentes y método de las gráficas de este carrusel, y el video de cada una:
+
+1. 102 Rayos X en 69 ciudades: la radiografía de la escuela privada en México (octubre 2026)
+   Fuente: Fuera pruebas, archivados y repetidos (una fila por institución, la más reciente). Montos en pesos. Ningún dato con menos de 5 instituciones se publica. Corte del 2026-10-29 a las 18:08.
+   Video: https://youtube.com/shorts/6ce_sstpNhw
+
+2. La escuela privada mediana en México opera al 46% de su capacidad (98 Rayos X)
+   Fuente: Ocupación = matrícula actual ÷ capacidad instalada declarada. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 35 / 14 / 39 / 98 (colegios con primaria, con preparatoria, universidades, todas).
+   Video: https://youtube.com/shorts/xWiHjQ4zFso
+
+3. 59,507 lugares vacíos en 98 escuelas privadas: la capacidad sin usar vale $279.6 millones MXN al año
+   Fuente: Lugares vacíos = capacidad instalada − matrícula. Valor anual = lugares vacíos × colegiatura × meses del ciclo, según el modelo del Rayos X. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
+   Video: https://youtube.com/shorts/eLJHFZj62l0
+
+Si quieres saber en qué lugar de estos números está tu institución, el Rayos X de Inscripciones lo dice con tus datos: https://superleads.mx/rayos_x
