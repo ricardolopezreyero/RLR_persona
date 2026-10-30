@@ -18,6 +18,7 @@ COL = {'c1': '#2a78d6', 'c2': '#eb6834', 'c3': '#1baf7a', 'neu': '#c6ccd8'}
 TRACK = 'rgba(255,255,255,.07)'; T2 = '#7a9fd4'; T3 = '#4a6aaa'
 WC = 920  # ancho útil (1080 − 2×80)
 PIE = ('', 'Serie · La realidad de la educación'); LOGO = 'file://' + os.path.join(AQUI, 'logo_blanco.svg')  # parametrizables por serie
+FORMATO = 'shorts'  # 'linkedin' → 1080×1350, contenido escalado, sin nota en la lámina (las fuentes van en la lámina de cierre)
 LOGO_RLR_N = 'file://' + os.path.join(AQUI, 'rlr_nombre.png')  # la marca de Ricardo, arriba: solo el nombre completo (sin monograma, 29-oct)
 
 # ───────────── formato de números ─────────────
@@ -280,6 +281,12 @@ svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .t
 .cr{margin-top:24px;font-size:22px;font-style:italic;color:var(--t3);line-height:1.35}
 """
 
+CSS_LI = """
+html,body{height:1350px}
+header{top:56px} .marca .nombre{height:64px} .serie{font-size:15px}
+main{top:176px;transform-origin:50% 0;transform:scale(.82)}
+footer{bottom:56px;padding-top:20px} footer img{width:180px}
+"""
 JS = """
 /* RLR */ const _RLR='Ricardo López Reyero', _k='EYE', _rev=181218;
 const E=t=>{t=Math.min(Math.max(t,0),1);return 1-Math.pow(1-t,3)};
@@ -310,15 +317,15 @@ def pagina(p):
     return f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><title>{html.escape(p['slug'])}</title>
 <meta name="author" content="{_RLR}"><meta name="build" content="eye"><meta name="rev" content="{_rev}">
 <!-- RLR · serie Datos · pieza {p['n']:02d} -->
-<style>{CSS}</style></head><body data-author="RLR">
+<style>{CSS}{CSS_LI if FORMATO == 'linkedin' else ''}</style></head><body data-author="RLR">
 <div class="fondo"><div class="g1"></div><div class="g2"></div></div>
-<header><div class="marca"><img class="nombre" src="{LOGO_RLR_N}" alt="Ricardo López Reyero"></div><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
+<header><div class="marca"><img class="nombre" src="{LOGO_RLR_N}" alt="Ricardo López Reyero"></div><div class="serie">{html.escape(s['corto'])}{'' if FORMATO == 'linkedin' else f'<br>{k:02d} / {total:02d}'}</div></header>
 <main style="--h1:{t}px;--ls:{-t * 0.035:.1f}px;--gap:{gap}px" class="{'compacto' if p.get('compacto') else ''}">
 <div class="eyebrow"><span>{html.escape(p['eyebrow'])}</span></div>
 <h1 data-a="oy" data-d="0" data-t=".8">{u_html(p['h1'])}</h1>
 <div class="grafica">{''.join(bloques)}</div>
 <div class="lectura" data-a="oy" data-d="{fin - .4:.2f}" data-t=".8">{u_html(html.escape(p['lectura']))}</div>
-<div class="nota" data-a="o" data-d="{fin:.2f}" data-t=".7">{html.escape(p['nota'])}</div>
+{'' if FORMATO == 'linkedin' else f'<div class="nota" data-a="o" data-d="{fin:.2f}" data-t=".7">{html.escape(p["nota"])}</div>'}
 </main>
 <footer><img src="{LOGO}" alt="SuperLeads"><span>{html.escape(PIE[1])}</span></footer>
 <script>{JS}</script>
@@ -326,10 +333,10 @@ def pagina(p):
 
 # ───────────── Chrome por CDP ─────────────  RLR
 class Chrome:
-    def __init__(self, port=9333):
+    def __init__(self, port=9333, alto=1920):
         self.dir = tempfile.mkdtemp(prefix='rlr_chrome_')
         self.p = subprocess.Popen([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--no-first-run', '--force-device-scale-factor=1',
-                                   f'--remote-debugging-port={port}', '--window-size=1080,1920', f'--user-data-dir={self.dir}', 'about:blank'],
+                                   f'--remote-debugging-port={port}', f'--window-size=1080,{alto}', f'--user-data-dir={self.dir}', 'about:blank'],
                                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         for _ in range(80):
             try:
@@ -338,7 +345,7 @@ class Chrome:
         tab = next(t for t in tabs if t['type'] == 'page')
         self.ws = websocket.create_connection(tab['webSocketDebuggerUrl'], max_size=None, suppress_origin=True); self.i = 0
         self.send('Page.enable'); self.send('Runtime.enable')
-        self.send('Emulation.setDeviceMetricsOverride', width=1080, height=1920, deviceScaleFactor=1, mobile=False)
+        self.send('Emulation.setDeviceMetricsOverride', width=1080, height=alto, deviceScaleFactor=1, mobile=False)
 
     def send(self, method, **params):
         self.i += 1; self.ws.send(json.dumps(dict(id=self.i, method=method, params=params)))

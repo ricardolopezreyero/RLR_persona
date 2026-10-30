@@ -1,0 +1,302 @@
+[
+ {
+  "n": 1,
+  "serie": "X",
+  "titulo": "La mitad del colegio está vacía",
+  "fecha": "2026-11-05",
+  "hora": "09:00",
+  "laminas": 5,
+  "piezas": [
+   "X01",
+   "X02",
+   "X03"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/6ce_sstpNhw",
+   "https://youtube.com/shorts/xWiHjQ4zFso",
+   "https://youtube.com/shorts/eLJHFZj62l0"
+  ],
+  "pdf": "Artículo 01 · La mitad del colegio esta vacia · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2250,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 2,
+  "serie": "X",
+  "titulo": "El problema está antes de la cita",
+  "fecha": "2026-11-12",
+  "hora": "09:00",
+  "laminas": 5,
+  "piezas": [
+   "X04",
+   "X05",
+   "X06"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/niL-5VF_Db4",
+   "https://youtube.com/shorts/Q4TmdnzVSSk",
+   "https://youtube.com/shorts/9UWde1_qvuM"
+  ],
+  "pdf": "Artículo 02 · El problema esta antes de la cita · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2045,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 3,
+  "serie": "X",
+  "titulo": "Cuánto vale un alumno y cuánto cuesta",
+  "fecha": "2026-11-19",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "X07",
+   "X08",
+   "X09",
+   "X10"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/r9spFX9G_Cg",
+   "https://youtube.com/shorts/1EevBNnWolo",
+   "https://youtube.com/shorts/-8NQiJs1SmQ",
+   "https://youtube.com/shorts/qRlZ81xtfbs"
+  ],
+  "pdf": "Artículo 03 · Cuanto vale un alumno y cuanto cuesta · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2351,
+  "estado": "planeado, sin publicar",
+  "avisos": [
+   "cierre fondo=1321"
+  ]
+ },
+ {
+  "n": 4,
+  "serie": "X",
+  "titulo": "Becas, recomendación y lo demás",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "laminas": 5,
+  "piezas": [
+   "X11",
+   "X12",
+   "X19"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/ijRzMuKqWrs",
+   "https://youtube.com/shorts/meO0xRwHKBM",
+   "https://youtube.com/shorts/__B5dK_cptI"
+  ],
+  "pdf": "Artículo 04 · Becas recomendacion y lo demas · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2239,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 5,
+  "serie": "X",
+  "titulo": "La máquina de admisiones",
+  "fecha": "2026-12-03",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "X13",
+   "X14",
+   "X15",
+   "X16"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/M-zHi_JvOvM",
+   "https://youtube.com/shorts/i20Cs28mCw0",
+   "https://youtube.com/shorts/wnQNPAuy6Pk",
+   "https://youtube.com/shorts/b1neAbTIdWI"
+  ],
+  "pdf": "Artículo 05 · La maquina de admisiones · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2189,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 6,
+  "serie": "X",
+  "titulo": "Lo que el director cree",
+  "fecha": "2026-12-10",
+  "hora": "09:00",
+  "laminas": 4,
+  "piezas": [
+   "X17",
+   "X18"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/paQUXT9rg0g",
+   "https://youtube.com/shorts/d8dCEx-qVJk"
+  ],
+  "pdf": "Artículo 06 · Lo que el director cree · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2034,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 7,
+  "serie": "R",
+  "titulo": "Lo que aprenden",
+  "fecha": "2026-12-17",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "R01",
+   "R02",
+   "R11",
+   "R07"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/l2IE7aYu_nk",
+   "https://youtube.com/shorts/TXiLAaTPw-E",
+   "https://youtube.com/shorts/XykY00Dl6H8",
+   "https://youtube.com/shorts/tWp_CAR3Hg8"
+  ],
+  "pdf": "Artículo 07 · Lo que aprenden · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2015,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 8,
+  "serie": "R",
+  "titulo": "Dónde aprenden y con qué",
+  "fecha": "2026-12-24",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "R03",
+   "R04",
+   "R08",
+   "R09"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/FaSs82NRVKA",
+   "https://youtube.com/shorts/JAemZf7s9DM",
+   "https://youtube.com/shorts/kuMAVspFfDo",
+   "https://youtube.com/shorts/iJ0GmvK9p8E"
+  ],
+  "pdf": "Artículo 08 · Donde aprenden y con que · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 1881,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 9,
+  "serie": "R",
+  "titulo": "Quién enseña y quién mide",
+  "fecha": "2026-12-31",
+  "hora": "09:00",
+  "laminas": 5,
+  "piezas": [
+   "R05",
+   "R06",
+   "R10"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/HTkFvGjNRBg",
+   "https://youtube.com/shorts/rwUeAvvfWmM",
+   "https://youtube.com/shorts/kUTAlu8lwk4"
+  ],
+  "pdf": "Artículo 09 · Quien ensena y quien mide · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 1791,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 10,
+  "serie": "R",
+  "titulo": "Cómo elige una familia",
+  "fecha": "2027-01-07",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "R20",
+   "R13",
+   "R18",
+   "R21"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/0fmZePO5-78",
+   "https://youtube.com/shorts/mRnY2vAmyUo",
+   "https://youtube.com/shorts/pesEHFL3dw0",
+   "https://youtube.com/shorts/Z0PSJfDvHKo"
+  ],
+  "pdf": "Artículo 10 · Como elige una familia · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2080,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 11,
+  "serie": "R",
+  "titulo": "La velocidad es la estrategia",
+  "fecha": "2027-01-14",
+  "hora": "09:00",
+  "laminas": 6,
+  "piezas": [
+   "R12",
+   "R14",
+   "R15",
+   "R19"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/QWL3kUnBNnE",
+   "https://youtube.com/shorts/xzGPZTb3y6M",
+   "https://youtube.com/shorts/n7k12kX2VQs",
+   "https://youtube.com/shorts/1UF-PRVZ7i0"
+  ],
+  "pdf": "Artículo 11 · La velocidad es la estrategia · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 1912,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 12,
+  "serie": "R",
+  "titulo": "La matemática del silencio",
+  "fecha": "2027-01-21",
+  "hora": "09:00",
+  "laminas": 4,
+  "piezas": [
+   "R16",
+   "R17"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/AIQtDVhP9_s",
+   "https://youtube.com/shorts/MMWUYfmereg"
+  ],
+  "pdf": "Artículo 12 · La matematica del silencio · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 1674,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ },
+ {
+  "n": 13,
+  "serie": "R",
+  "titulo": "El mercado que nadie está atendiendo",
+  "fecha": "2027-01-28",
+  "hora": "09:00",
+  "laminas": 7,
+  "piezas": [
+   "R22",
+   "R23",
+   "R24",
+   "R25",
+   "R26"
+  ],
+  "videos": [
+   "https://youtube.com/shorts/a5n7U5mj8-c",
+   "https://youtube.com/shorts/ONu2j4PIZN8",
+   "https://youtube.com/shorts/guBZOxxSgL4",
+   "https://youtube.com/shorts/z3IVzXX_9vQ",
+   "https://youtube.com/shorts/TV0RRx9EhIQ"
+  ],
+  "pdf": "Artículo 13 · El mercado que nadie esta atendiendo · v1 · 2026-10-30 08h37.pdf",
+  "caracteres": 2294,
+  "estado": "planeado, sin publicar",
+  "avisos": []
+ }
+]
