@@ -1,43 +1,43 @@
-# Rayos X · corte octubre 2026 · textos para YouTube Shorts · 2026-10-29 21h19
+# Rayos X · corte octubre 2026 · textos para YouTube Shorts · 2026-10-29 21h44
 
 Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
 | # | Título | Archivo |
 |---|---|---|
-| 01 | 102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026 | `Dato 01 · La radiografia del corte · v1 · 2026-10-29 21h16.png` |
+| 01 | 102 Rayos X en 69 ciudades: la radiografía de la escuela privada en México (octubre 2026) | `Dato 01 · La radiografia del corte · v1 · 2026-10-29 21h16.png` |
 | 02 | La escuela privada mediana en México opera al 46% de su capacidad (98 Rayos X) | `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 21h16.png` |
 | 03 | 59,507 lugares vacíos en 98 escuelas privadas: la capacidad sin usar vale $279.6 millones MXN al año | `Dato 03 · Lugares vacios · v1 · 2026-10-29 21h16.png` |
 | 04 | Cuántos prospectos recibe al día una escuela privada en México: 8 la mediana, 15 las universidades | `Dato 04 · Prospectos al dia · v1 · 2026-10-29 21h16.png` |
-| 05 | Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X) | `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 21h16.png` |
-| 06 | 40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita | `Dato 06 · Cierre en cita · v1 · 2026-10-29 21h16.png` |
+| 05 | Conversión real de la escuela privada en México: 2.4% de los prospectos se inscribe (92 Rayos X) | `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 21h16.png` |
+| 06 | 40% de las familias que van a la cita se inscriben: el problema está antes de la cita | `Dato 06 · Cierre en cita · v1 · 2026-10-29 21h16.png` |
 | 07 | Cuánto cobra una escuela privada en México: colegiatura mediana de $3,300 MXN al mes (97 Rayos X) | `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 21h16.png` |
-| 08 | Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (mediana de 97 Rayos X) | `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 21h16.png` |
-| 09 | Cuánto invierte en publicidad una escuela privada en México: $8,000 MXN al mes y $1,381 MXN por alumno (mediana) | `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 21h16.png` |
-| 10 | Cuánto vale subir un punto la conversión de un colegio privado: $109,500 MXN al año (mediana de 93 Rayos X) | `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 21h16.png` |
-| 11 | Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados | `Dato 11 · Becas · v1 · 2026-10-29 21h16.png` |
-| 12 | 40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados | `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 21h16.png` |
+| 08 | Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (97 Rayos X) | `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 21h16.png` |
+| 09 | Publicidad en la escuela privada: $8,000 MXN al mes y $1,381 MXN por alumno inscrito (mediana) | `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 21h16.png` |
+| 10 | Subir un punto la conversión vale $109,500 MXN al año para el colegio privado mediano | `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 21h16.png` |
+| 11 | Becas en la escuela privada: 68% las da y la institución mediana tiene 40% de becados | `Dato 11 · Becas · v1 · 2026-10-29 21h16.png` |
+| 12 | 40% de los alumnos llega por recomendación; 70% de los colegios no tiene programa de recomendados | `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 21h16.png` |
 | 13 | 71% de las escuelas privadas lleva las admisiones en WhatsApp o Excel; solo 29% tiene un CRM | `Dato 13 · Herramientas de admision · v1 · 2026-10-29 21h16.png` |
-| 14 | Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana | `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 21h16.png` |
+| 14 | Equipo de admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana | `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 21h16.png` |
 | 15 | 48% de las escuelas privadas no tiene plan de compensación para su equipo de admisiones | `Dato 15 · Plan de compensacion · v1 · 2026-10-29 21h16.png` |
 | 16 | En qué meses se inscriben más alumnos en las escuelas privadas de México: Julio, Agosto (71 Rayos X) | `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 21h16.png` |
-| 17 | Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento | `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 21h16.png` |
-| 18 | 44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60% | `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 21h16.png` |
-| 19 | Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17% | `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 21h16.png` |
+| 17 | Por qué no se inscriben, según el director: 62% culpa al precio, 38% admite falta de seguimiento | `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 21h16.png` |
+| 18 | 44% de los directores califica su marketing de muy bueno; 64% opera abajo del 60% de ocupación | `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 21h16.png` |
+| 19 | Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17% | `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 21h16.png` |
 
 ---
 
-## 01 · 102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026
+## 01 · 102 Rayos X en 69 ciudades: la radiografía de la escuela privada en México (octubre 2026)
 
 Archivo: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 21h16.png` · video: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026
+102 Rayos X en 69 ciudades: la radiografía de la escuela privada en México (octubre 2026)
 
 **Descripción:**
 
 ```
-102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026.
+102 Rayos X en 69 ciudades: la radiografía de la escuela privada en México (octubre 2026).
 
 Entre marzo y octubre de 2026 hicimos 102 Rayos X de Inscripciones con dueños y directores de instituciones privadas en 69 ciudades de México: 35 colegios con primaria, 14 con preparatoria y 42 universidades y posgrados. La institución mediana lleva 17 años operando.
 
@@ -146,18 +146,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Prospectos
 ```
 
-## 05 · Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X)
+## 05 · Conversión real de la escuela privada en México: 2.4% de los prospectos se inscribe (92 Rayos X)
 
 Archivo: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 21h16.png` · video: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X)
+Conversión real de la escuela privada en México: 2.4% de los prospectos se inscribe (92 Rayos X)
 
 **Descripción:**
 
 ```
-Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X).
+Conversión real de la escuela privada en México: 2.4% de los prospectos se inscribe (92 Rayos X).
 
 Conversión mediana de prospecto a inscrito, corte octubre 2026: colegios con primaria 3.2%, con preparatoria 2.3%, universidades 2.5%. Todas: 2.4%. 41% convierte menos del 2% y solo 9% pasa del 10%.
 
@@ -176,18 +176,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Conversión
 ```
 
-## 06 · 40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita
+## 06 · 40% de las familias que van a la cita se inscriben: el problema está antes de la cita
 
 Archivo: `Dato 06 · Cierre en cita · v1 · 2026-10-29 21h16.png` · video: `Dato 06 · Cierre en cita · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita
+40% de las familias que van a la cita se inscriben: el problema está antes de la cita
 
 **Descripción:**
 
 ```
-40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita.
+40% de las familias que van a la cita se inscriben: el problema está antes de la cita.
 
 Cierre en cita mediano del corte octubre 2026: colegios con primaria 40%, con preparatoria 35%, universidades 50%. Cuando la familia cruza el portón, 4 de cada 10 firman.
 
@@ -236,18 +236,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Colegiaturas
 ```
 
-## 08 · Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (mediana de 97 Rayos X)
+## 08 · Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (97 Rayos X)
 
 Archivo: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 21h16.png` · video: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (mediana de 97 Rayos X)
+Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (97 Rayos X)
 
 **Descripción:**
 
 ```
-Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (mediana de 97 Rayos X).
+Cuánto vale un alumno para una escuela privada: $144,000 MXN de valor de vida (97 Rayos X).
 
 Valor de vida mediano de un alumno en el corte octubre 2026: $222,670 MXN en colegios con primaria (60 meses de permanencia), $187,920 MXN con preparatoria, $89,560 MXN en universidades (36 meses). Todas: $144,000 MXN.
 
@@ -266,18 +266,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #ValorDeVida
 ```
 
-## 09 · Cuánto invierte en publicidad una escuela privada en México: $8,000 MXN al mes y $1,381 MXN por alumno (mediana)
+## 09 · Publicidad en la escuela privada: $8,000 MXN al mes y $1,381 MXN por alumno inscrito (mediana)
 
 Archivo: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 21h16.png` · video: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Cuánto invierte en publicidad una escuela privada en México: $8,000 MXN al mes y $1,381 MXN por alumno (mediana)
+Publicidad en la escuela privada: $8,000 MXN al mes y $1,381 MXN por alumno inscrito (mediana)
 
 **Descripción:**
 
 ```
-Cuánto invierte en publicidad una escuela privada en México: $8,000 MXN al mes y $1,381 MXN por alumno (mediana).
+Publicidad en la escuela privada: $8,000 MXN al mes y $1,381 MXN por alumno inscrito (mediana).
 
 Inversión mensual en publicidad mediana, corte octubre 2026: colegios con primaria $3,250 MXN, con preparatoria $6,083 MXN, universidades $14,000 MXN. Cada prospecto cuesta $41 MXN y cada alumno inscrito $1,381 MXN (mediana).
 
@@ -296,18 +296,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Publicidad
 ```
 
-## 10 · Cuánto vale subir un punto la conversión de un colegio privado: $109,500 MXN al año (mediana de 93 Rayos X)
+## 10 · Subir un punto la conversión vale $109,500 MXN al año para el colegio privado mediano
 
 Archivo: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 21h16.png` · video: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Cuánto vale subir un punto la conversión de un colegio privado: $109,500 MXN al año (mediana de 93 Rayos X)
+Subir un punto la conversión vale $109,500 MXN al año para el colegio privado mediano
 
 **Descripción:**
 
 ```
-Cuánto vale subir un punto la conversión de un colegio privado: $109,500 MXN al año (mediana de 93 Rayos X).
+Subir un punto la conversión vale $109,500 MXN al año para el colegio privado mediano.
 
 Un punto porcentual más de conversión vale, en ingreso anual, $39,420 MXN para el colegio con primaria mediano, $101,324 MXN para el que tiene preparatoria y $158,629 MXN para la universidad mediana. Todas: $109,500 MXN.
 
@@ -326,18 +326,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Conversión
 ```
 
-## 11 · Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados
+## 11 · Becas en la escuela privada: 68% las da y la institución mediana tiene 40% de becados
 
 Archivo: `Dato 11 · Becas · v1 · 2026-10-29 21h16.png` · video: `Dato 11 · Becas · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados
+Becas en la escuela privada: 68% las da y la institución mediana tiene 40% de becados
 
 **Descripción:**
 
 ```
-Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados.
+Becas en la escuela privada: 68% las da y la institución mediana tiene 40% de becados.
 
 En el corte octubre 2026, 68% de las instituciones da becas: 83% de las universidades y 63% de los colegios con primaria. Entre las que dan, la mediana tiene 40% de los alumnos becados con una beca promedio de 25%.
 
@@ -356,18 +356,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Becas
 ```
 
-## 12 · 40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados
+## 12 · 40% de los alumnos llega por recomendación; 70% de los colegios no tiene programa de recomendados
 
 Archivo: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 21h16.png` · video: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados
+40% de los alumnos llega por recomendación; 70% de los colegios no tiene programa de recomendados
 
 **Descripción:**
 
 ```
-40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados.
+40% de los alumnos llega por recomendación; 70% de los colegios no tiene programa de recomendados.
 
 Origen de los alumnos, mediana del corte octubre 2026: en colegios con primaria 50% llega por recomendación y 40% por anuncios; en universidades 30% y 60%. Y 70% de las instituciones no tiene ningún programa de recomendados.
 
@@ -416,18 +416,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #CRM
 ```
 
-## 14 · Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana
+## 14 · Equipo de admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana
 
 Archivo: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 21h16.png` · video: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana
+Equipo de admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana
 
 **Descripción:**
 
 ```
-Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana.
+Equipo de admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana.
 
 Personas en admisiones y marketing, mediana del corte octubre 2026: 1.1 en colegios con primaria, 3 con preparatoria y 6 en universidades. Solo 39% de los colegios con primaria tiene director de admisiones; 24% de las instituciones contrata agencia externa.
 
@@ -506,18 +506,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Temporadas
 ```
 
-## 17 · Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento
+## 17 · Por qué no se inscriben, según el director: 62% culpa al precio, 38% admite falta de seguimiento
 
 Archivo: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 21h16.png` · video: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento
+Por qué no se inscriben, según el director: 62% culpa al precio, 38% admite falta de seguimiento
 
 **Descripción:**
 
 ```
-Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento.
+Por qué no se inscriben, según el director: 62% culpa al precio, 38% admite falta de seguimiento.
 
 Cuando preguntamos a los directores por qué no se inscribieron las familias que sí fueron a cita, 62% responde que el precio y 38% admite que no les dieron seguimiento. Le siguen cupo u horario, la competencia y la distancia.
 
@@ -536,18 +536,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Seguimiento
 ```
 
-## 18 · 44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60%
+## 18 · 44% de los directores califica su marketing de muy bueno; 64% opera abajo del 60% de ocupación
 
 Archivo: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 21h16.png` · video: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60%
+44% de los directores califica su marketing de muy bueno; 64% opera abajo del 60% de ocupación
 
 **Descripción:**
 
 ```
-44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60%.
+44% de los directores califica su marketing de muy bueno; 64% opera abajo del 60% de ocupación.
 
 En el corte octubre 2026, 44% de los directores califica el marketing de su institución como muy bueno o excelente. Al mismo tiempo, 64% opera abajo del 60% de su capacidad y la conversión mediana de prospecto a inscrito es 2.4%.
 
@@ -566,18 +566,18 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #SerieRayosX #RayosX #Marketing
 ```
 
-## 19 · Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17%
+## 19 · Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17%
 
 Archivo: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 21h16.png` · video: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 21h16.mp4`
 
 **Título:**
 
-Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17%
+Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17%
 
 **Descripción:**
 
 ```
-Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17%.
+Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17%.
 
 Rubros que cobran las instituciones del corte además de la colegiatura: cafetería 69%, graduaciones 60%, uniforme escolar 57%, libros 57%, uniforme deportivo 49%, eventos y piñatas 37%, viajes 31%, útiles 29%, asesorías extra 26%, transporte 17%.
 
