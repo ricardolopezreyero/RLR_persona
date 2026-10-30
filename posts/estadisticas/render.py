@@ -17,6 +17,7 @@ FPS, DUR, FIN_ANIM = 30, 8.0, 3.6
 COL = {'c1': '#2a78d6', 'c2': '#eb6834', 'c3': '#1baf7a', 'neu': '#c6ccd8'}
 TRACK = 'rgba(255,255,255,.07)'; T2 = '#7a9fd4'; T3 = '#4a6aaa'
 WC = 920  # ancho útil (1080 − 2×80)
+PIE = ('superleads.mx', 'Documento de mercado · 2026'); LOGO = '../logo_blanco.svg'  # parametrizables por serie
 
 # ───────────── formato de números ─────────────
 def partes(v, fmt):
@@ -210,7 +211,19 @@ def g_piramide(g, r0):
     H = y + len(items) * rh
     return f'<svg width="{WC}" height="{H}" viewBox="0 0 {WC} {H}">{"".join(out)}</svg>', r0 + 1.8
 
-GRAF = dict(barras=g_barras, pares=g_pares, waffle=g_waffle, dona=g_dona, donas=g_donas, stats=g_stats, tiempo=g_tiempo,
+def g_columnas(g, r0):
+    """Columnas verticales (meses): etiqueta abajo, valor arriba, la más alta en c2 si g['resaltar']."""
+    items = g['items']; vmax = g.get('max') or max(v for _, v in items); H = g.get('alto', 420); n = len(items)
+    gap = 14; w = (WC - gap * (n - 1)) / n; base = H - 44; out = []
+    for i, (lab, v) in enumerate(items):
+        h = v / vmax * (base - 50); x = i * (w + gap); y = base - h; c = COL['c2'] if (g.get('resaltar') and v >= g['resaltar']) else COL['c1']
+        out.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" rx="8" fill="{c}" data-a="h" data-h="{h:.1f}" data-y0="{y:.1f}" data-d="{r0 + i * .07:.2f}" data-t=".9"/>')
+        out.append(num_anim(v, g['fmt'], x + w / 2, y - 12, r0 + i * .07, size=24, anchor='middle'))
+        out.append(f'<text x="{x + w / 2:.1f}" y="{H - 10}" text-anchor="middle" font-size="22" font-weight="600" fill="{T2}">{html.escape(lab)}</text>')
+    out.append(f'<line x1="0" y1="{base}" x2="{WC}" y2="{base}" stroke="rgba(255,255,255,.25)" stroke-width="1"/>')
+    return f'<svg width="{WC}" height="{H}" viewBox="0 0 {WC} {H}">{"".join(out)}</svg>', r0 + n * .07 + .9
+
+GRAF = dict(columnas=g_columnas, barras=g_barras, pares=g_pares, waffle=g_waffle, dona=g_dona, donas=g_donas, stats=g_stats, tiempo=g_tiempo,
             franjas=g_franjas, estrellas=g_estrellas, embudo=g_embudo, tarjetas=g_tarjetas, piramide=g_piramide)
 
 CSS = """
@@ -258,7 +271,8 @@ case 'w':el.setAttribute('width',Math.max(0,+D.w*p));break;
 case 'o':el.style.opacity=p;break;
 case 'oy':el.style.opacity=p;el.style.transform='translateY('+((1-p)*22)+'px)';break;
 case 'n':el.textContent=fmtN(+D.n*p,+D.dec||0,D.pre||'',D.suf||'');break;
-case 'r':el.setAttribute('stroke-dashoffset',+D.c*(1-(+D.f)*p));break;}})};
+case 'r':el.setAttribute('stroke-dashoffset',+D.c*(1-(+D.f)*p));break;
+case 'h':el.setAttribute('height',Math.max(0,+D.h*p));el.setAttribute('y',+D.y0+(+D.h)*(1-p));break;}})};
 window.anim(0);
 """
 
@@ -280,7 +294,7 @@ def pagina(p):
 <!-- RLR · serie Datos · pieza {p['n']:02d} -->
 <style>{CSS}</style></head><body data-author="RLR">
 <div class="fondo"><div class="g1"></div><div class="g2"></div></div>
-<header><img src="../logo_blanco.svg" alt="SuperLeads"><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
+<header><img src="{LOGO}" alt="SuperLeads"><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
 <main style="--h1:{t}px;--ls:{-t * 0.035:.1f}px;--gap:{gap}px" class="{'compacto' if p.get('compacto') else ''}">
 <div class="eyebrow"><span>{html.escape(p['eyebrow'])}</span></div>
 <h1 data-a="oy" data-d="0" data-t=".8">{p['h1']}</h1>
@@ -288,7 +302,7 @@ def pagina(p):
 <div class="lectura" data-a="oy" data-d="{fin - .4:.2f}" data-t=".8">{html.escape(p['lectura'])}</div>
 <div class="nota" data-a="o" data-d="{fin:.2f}" data-t=".7">{html.escape(p['nota'])}</div>
 </main>
-<footer><span>superleads.mx</span><span>Documento de mercado · 2026</span></footer>
+<footer><span>{html.escape(PIE[0])}</span><span>{html.escape(PIE[1])}</span></footer>
 <script>{JS}</script>
 <!-- {_RLR} · {_rev} --></body></html>"""
 
