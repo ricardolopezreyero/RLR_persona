@@ -29,15 +29,15 @@ def lista(g, k): return G[g]['listas'].get(k)
 def dist(g, k): return G[g]['distribuciones'].get(k)
 def f0(x): return f'{x:,.0f}'
 def f1(x): return f'{x:,.1f}'.rstrip('0').rstrip('.')
-def mxn(x): return f'${x:,.0f}'
-def mil(x): return f'${x / 1000:,.0f} mil' if x < 1_000_000 else f'${x / 1_000_000:,.1f} millones'
+def mxn(x): return f'${x:,.0f} MXN'  # la unidad siempre, como etiqueta en la pieza
+def mil(x): return f'${x / 1000:,.0f} mil MXN' if x < 1_000_000 else f'${x / 1_000_000:,.1f} millones MXN'
 def de10(p): return round(p / 10)
 def por_nivel(k, color_todos='c3'):
     return [(lab, med(g, k), 'c3' if g == 'todos' else 'c1') for g, lab in NIV if med(g, k) is not None]
 def ns(k): return 'n = ' + ' / '.join(f"{n_(g, k)}" for g, lab in NIV if n_(g, k)) + ' (' + ', '.join(lab.lower().replace('todas las instituciones', 'todas') for g, lab in NIV if n_(g, k)) + ')'
 def tramo(g, k, i): return dist(g, k)['tramos'][i]['pct']
 
-SERIES = {4: dict(nombre=f'Corte Rayos X · {MES} {ANIO}', corto=f'CORTE RAYOS X · {MES[:3].upper()} {ANIO}', doc=f'exportación de {C["archivo"]} ({C["fecha"]} {C["hora"]})')}
+SERIES = {4: dict(nombre=f'Rayos X · corte {MES} {ANIO}', corto=f'CORTE {MES.upper()} {ANIO}', doc=f'exportación de {C["archivo"]} ({C["fecha"]} {C["hora"]})')}
 P = []
 def pieza(**k):
     k['serie'] = 4; k['n'] = len(P) + 1; k['compacto'] = True; k['nota_larga'] = k['nota']; k['nota'] = k['nota'].replace(MUESTRA, MUESTRA_CORTA); P.append(k)
@@ -72,7 +72,7 @@ pieza(slug='Lugares vacios', eyebrow='CAPACIDAD · LUGARES VACÍOS POR INSTITUCI
     h1=f'<em>{f0(m("vacios"))} lugares vacíos</em> en la institución mediana.',
     grafica=[dict(tipo='barras', fmt='num', alto=40, gap=14, items=[(l, round(v), c) for l, v, c in por_nivel('vacios')], sub='Lugares vacíos (mediana por nivel)'),
              dict(tipo='stats', items=[(f0(va['suma']), f'lugares vacíos sumando las {va["n"]} instituciones con dato'), (mil(m('capacidad_ociosa')), 'al año vale la capacidad sin usar de la institución mediana')])],
-    lectura=f'Entre las {co["n"]} instituciones con dato, la capacidad sin usar vale {mil(co["suma"])} de pesos al año. Aulas construidas, maestros contratados, lugares sin alumno.',
+    lectura=f'Entre las {co["n"]} instituciones con dato, la capacidad sin usar vale {mil(co["suma"])} al año. Aulas construidas, maestros contratados, lugares sin alumno.',
     nota=f'Lugares vacíos = capacidad instalada − matrícula. Valor anual = lugares vacíos × colegiatura × meses del ciclo, según el modelo del Rayos X. {MUESTRA}',
     titulo=f'{f0(va["suma"])} lugares vacíos en {va["n"]} escuelas privadas: la capacidad sin usar vale {mil(co["suma"])} al año',
     parrafos=[f'La institución mediana del corte tiene {f0(m("vacios"))} lugares vacíos: {f0(med("primaria", "vacios"))} en colegios con primaria, {f0(med("preparatoria", "vacios"))} en los que tienen preparatoria y {f0(med("universidad", "vacios"))} en universidades. Sumando las {va["n"]} instituciones con dato: {f0(va["suma"])} lugares.',
@@ -124,7 +124,7 @@ pieza(slug='Colegiatura mediana', eyebrow='PRECIO · COLEGIATURA MENSUAL',
     pregunta='¿Tu colegiatura está arriba o abajo de la mediana de tu nivel? ¿Y tu proceso de admisión está a la altura de lo que cobras?', hashtags='#RayosX #Colegiaturas')
 
 pieza(slug='Valor de vida de un alumno', eyebrow='VALOR DE VIDA · LO QUE VALE UNA INSCRIPCIÓN',
-    h1=f'Un alumno vale <em>{mil(m("ltv"))}</em> de pesos a lo largo de su permanencia.',
+    h1=f'Un alumno vale <em>{mil(m("ltv"))}</em> a lo largo de su permanencia.',
     grafica=[dict(tipo='barras', fmt='mxn', alto=40, gap=14, items=[(l, round(v), c) for l, v, c in por_nivel('ltv')], sub='Valor de vida de un alumno (mediana por nivel, MXN)'),
              dict(tipo='stats', items=[(f"{med('primaria', 'retencion'):.0f} meses", 'permanece un alumno en el colegio con primaria mediano'), (f"{med('universidad', 'retencion'):.0f} meses", 'en la universidad mediana'), (f"{m('retencion'):.0f} meses", 'todas las instituciones')])],
     lectura='Cada «ahorita le contesto» que se volvió nunca tiene este precio. Y capturar a una familia que ya escribió cuesta $0 en publicidad.',
@@ -258,14 +258,14 @@ pieza(slug='Monetizacion ademas de la colegiatura', eyebrow='MONETIZACIÓN · QU
 
 def armar_descripcion(p):
     return '\n'.join([p['titulo'] + '.', '', '\n\n'.join(p['parrafos']), '', p['pregunta'], '', 'Fuente y método: ' + p['nota_larga'], '',
-                      f"Pieza {p['n']:02d} de la serie «{SERIES[4]['nombre']}», el corte semestral de los Rayos X de Inscripciones de SuperLeads. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx", '',
-                      RAYOS, '', AUTOR, '', f"{HASH_BASE} {p['hashtags']}"])
+                      f"Serie «Rayos X» · corte {MES} {ANIO} · pieza {p['n']:02d} de {len(P)}. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx", '',
+                      RAYOS, '', AUTOR, '', f"{HASH_BASE} #SerieRayosX {p['hashtags']}"])
 
 if __name__ == '__main__':
     solo_png = os.environ.get('SOLO_PNG') == '1'
     for p in P: assert len(p['titulo']) <= 140, (p['n'], len(p['titulo'])); assert len(p['eyebrow']) <= 58, (p['n'], p['eyebrow'])
     render.P, render.SERIES = P, SERIES; render.SALIDA = os.path.join(CARPETA, 'salida'); render.HTMLD = os.path.join(CARPETA, 'html')
-    render.PIE = ('', f'Corte Rayos X · {MES} {ANIO}'); render.LOGO = 'file://' + os.path.abspath(os.path.join(AQUI, '..', 'estadisticas', 'logo_blanco.svg'))
+    render.PIE = ('', f'Serie · Rayos X · corte {MES} {ANIO}'); render.LOGO = 'file://' + os.path.abspath(os.path.join(AQUI, '..', 'estadisticas', 'logo_blanco.svg'))
     for f in glob.glob(os.path.join(render.SALIDA, '*')): os.remove(f)
     ch = render.Chrome(); idx = []
     try:

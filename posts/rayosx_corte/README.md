@@ -1,4 +1,6 @@
-# Corte Rayos X · la realidad de la educación privada en México, con datos propios
+# Serie «Rayos X» · la educación privada en México, con datos propios
+
+Es una de las dos series de marca personal que se mantienen en el tiempo (la otra: [La realidad de la educación](../estadisticas/)); cada corte es una edición nueva de la misma serie, y cada pieza lo dice en el pie («Serie · Rayos X · corte octubre 2026»).
 
 Serie periódica (cada ~6 meses) hecha a partir de los Rayos X de Inscripciones que SuperLeads hace en vivo con dueños y directores de instituciones privadas. Cada corte produce una tanda de gráficos verticales para YouTube Shorts, separados por nivel (colegios con primaria, con preparatoria, universidades), para que cualquier director tenga un punto de referencia: ¿estoy arriba o abajo de mis pares?
 
@@ -13,7 +15,8 @@ Serie periódica (cada ~6 meses) hecha a partir de los Rayos X de Inscripciones 
 5. **n < 5 no se publica** (ni una métrica, ni un grupo).
 6. **Lo que el director cree** (causas de no inscripción, calificación de su marketing) se dice como creencia, no como medición.
 7. **Es nuestra muestra, no el país:** instituciones que pidieron un diagnóstico. Se dice en cada pieza.
-8. Filtros de verosimilitud por métrica (ocupación ≤ 150%, conversión ≤ 100%, colegiatura ≥ $300, etc.) en `agregar.py`.
+8. **Montos siempre con su unidad, como etiqueta** (MXN) en gráfica, titular, lectura, título y descripción.
+9. Filtros de verosimilitud por métrica (ocupación ≤ 150%, conversión ≤ 100%, colegiatura ≥ $300, etc.) en `agregar.py`.
 
 ## Niveles
 

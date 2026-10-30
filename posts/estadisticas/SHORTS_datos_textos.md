@@ -1,4 +1,4 @@
-# Serie «Datos» · textos para YouTube Shorts · 2026-10-29 20h59
+# Serie «Datos» · textos para YouTube Shorts · 2026-10-29 21h16
 
 26 piezas en tres series, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), más título, descripción y hashtags listos para Studio. Ninguna está publicada ni programada. Archivos en `salida/`.
 
@@ -8,17 +8,17 @@ Documento de origen: P1-01 · La realidad de la educación pública en México (
 
 | # | Título | Archivo |
 |---|---|---|
-| 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 20h56.png` |
-| 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 20h56.png` |
-| 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 20h56.png` |
-| 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 20h56.png` |
-| 05 | El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo | `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 20h56.png` |
-| 06 | 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP | `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 20h56.png` |
-| 07 | México necesita 400,000 maestros de inglés y tiene 80,000 | `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 20h56.png` |
-| 08 | México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE | `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 20h56.png` |
-| 09 | Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9% | `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 20h56.png` |
-| 10 | 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación | `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 20h56.png` |
-| 11 | 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados | `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 20h56.png` |
+| 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.png` |
+| 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 21h12.png` |
+| 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 21h12.png` |
+| 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 21h12.png` |
+| 05 | El maestro mexicano promedio gana $7,890 MXN al mes: menos que el salario mínimo | `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 21h12.png` |
+| 06 | 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP | `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 21h12.png` |
+| 07 | México necesita 400,000 maestros de inglés y tiene 80,000 | `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 21h12.png` |
+| 08 | México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE | `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 21h12.png` |
+| 09 | Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9% | `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 21h12.png` |
+| 10 | 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación | `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 21h12.png` |
+| 11 | 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados | `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 21h12.png` |
 
 ## Serie 2 · La boleta invisible: cómo eligen colegio las familias mexicanas
 
@@ -26,16 +26,16 @@ Documento de origen: P1-02 · La boleta invisible: cómo deciden las familias (j
 
 | # | Título | Archivo |
 |---|---|---|
-| 12 | 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas) | `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 20h56.png` |
-| 13 | 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3 | `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 20h56.png` |
-| 14 | 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos | `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 20h56.png` |
-| 15 | Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos | `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 20h56.png` |
-| 16 | Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia | `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 20h56.png` |
-| 17 | Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos | `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 20h56.png` |
-| 18 | 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5 | `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 20h56.png` |
-| 19 | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp | `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 20h56.png` |
-| 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 20h56.png` |
-| 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 20h56.png` |
+| 12 | 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas) | `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 21h12.png` |
+| 13 | 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3 | `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 21h12.png` |
+| 14 | 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos | `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 21h12.png` |
+| 15 | Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos | `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 21h12.png` |
+| 16 | Cuánto cuesta un WhatsApp sin contestar: $450,000 MXN por familia | `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 21h12.png` |
+| 17 | Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos | `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 21h12.png` |
+| 18 | 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5 | `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 21h12.png` |
+| 19 | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp | `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 21h12.png` |
+| 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 21h12.png` |
+| 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 21h12.png` |
 
 ## Serie 3 · Análisis de la educación privada en Latinoamérica
 
@@ -43,17 +43,17 @@ Documento de origen: P1-03 · Análisis de la educación privada en LATAM (julio
 
 | # | Título | Archivo |
 |---|---|---|
-| 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 20h56.png` |
-| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 20h56.png` |
-| 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 20h56.png` |
-| 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 20h56.png` |
-| 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 20h56.png` |
+| 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.png` |
+| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.png` |
+| 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.png` |
+| 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 21h12.png` |
+| 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 21h12.png` |
 
 ---
 
 ## 01 · México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas
 
-Archivo: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 20h56.png` · video: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.png` · video: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -72,18 +72,18 @@ Es la última fotografía internacional que existe del aprendizaje en México, p
 
 Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.
 
-Pieza 01 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 01 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #PISA2022 #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #PISA2022 #EducaciónMéxico
 ```
 
 ## 02 · 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas
 
-Archivo: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 20h56.png` · video: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 21h12.png` · video: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -102,18 +102,18 @@ Si tu colegio tuviera estos números, ¿cuántas familias se quedarían?
 
 Fuente: Fuente: OCDE, PISA 2022; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (dic 2023).
 
-Pieza 02 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 02 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #PISA2022 #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #PISA2022 #EducaciónMéxico
 ```
 
 ## 03 · 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos
 
-Archivo: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 20h56.png` · video: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 21h12.png` · video: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -132,18 +132,18 @@ La consecuencia la vive el padre de familia el primer día de clases, y la recue
 
 Fuente: Porcentaje de planteles que operan con al menos una carencia de servicios esenciales. Fuente: Aprender Parejo, México Evalúa / Tec de Monterrey (2024).
 
-Pieza 03 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 03 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónMéxico #EscuelasPúblicas
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónMéxico #EscuelasPúblicas
 ```
 
 ## 04 · 65 de cada 100 escuelas públicas no tienen computadoras ni internet
 
-Archivo: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 20h56.png` · video: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 21h12.png` · video: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -156,54 +156,54 @@ Archivo: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 �
 
 En México, 65 de cada 100 escuelas públicas operan sin computadoras o sin internet. 9,034 planteles de educación básica no tienen agua potable. 5,112 no tienen luz. 89 mil no tienen drenaje.
 
-Entre 2013 y 2024 el país gastó $451,230 millones de pesos en infraestructura educativa. Y desde 2019 dejó de actualizarse el censo nacional de infraestructura escolar, así que nadie puede decir oficialmente en qué se convirtió ese dinero. Se gastó el presupuesto y se apagó el medidor.
+Entre 2013 y 2024 el país gastó $451,230 millones MXN en infraestructura educativa. Y desde 2019 dejó de actualizarse el censo nacional de infraestructura escolar, así que nadie puede decir oficialmente en qué se convirtió ese dinero. Se gastó el presupuesto y se apagó el medidor.
 
 ¿Cómo se aprende a programar, a investigar o a escribir un correo en una escuela sin internet?
 
 Fuente: Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.
 
-Pieza 04 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 04 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónMéxico #EscuelasPúblicas
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónMéxico #EscuelasPúblicas
 ```
 
-## 05 · El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo
+## 05 · El maestro mexicano promedio gana $7,890 MXN al mes: menos que el salario mínimo
 
-Archivo: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 20h56.png` · video: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 21h12.png` · video: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo
+El maestro mexicano promedio gana $7,890 MXN al mes: menos que el salario mínimo
 
 **Descripción:**
 
 ```
-El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo.
+El maestro mexicano promedio gana $7,890 MXN al mes: menos que el salario mínimo.
 
-Ingreso mensual promedio de un docente en México: $7,890 pesos. El salario mínimo 2025: $8,400. Un maestro de preescolar promedia $6,430; uno de preparatoria, $6,260. Son promedios nacionales de la ENOE que incluyen jornadas parciales; los docentes formales de tiempo completo rondan los $18,000, todavía abajo del promedio OCDE para la profesión.
+Ingreso mensual promedio de un docente en México: $7,890 MXN. El salario mínimo 2025: $8,400 MXN. Un maestro de preescolar promedia $6,430 MXN; uno de preparatoria, $6,260 MXN. Son promedios nacionales de la ENOE que incluyen jornadas parciales; los docentes formales de tiempo completo rondan los $18,000 MXN, todavía abajo del promedio OCDE para la profesión.
 
 Desde 2019 nadie verifica la idoneidad de quien está frente a grupo, y la capacitación es esporádica y sin seguimiento. El mensaje del sistema a su maestro es coherente: te pago poco, no te formo, no te evalúo. El docente no es el villano de esta historia. Es su segunda víctima.
 
 ¿Qué resultado esperarías de cualquier profesión con ese paquete?
 
-Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000, aún por debajo del promedio OCDE para la profesión.
+Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.
 
-Pieza 05 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 05 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Docentes #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Docentes #EducaciónMéxico
 ```
 
 ## 06 · 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP
 
-Archivo: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 20h56.png` · video: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 21h12.png` · video: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -222,18 +222,18 @@ No es un evento extraordinario: es un patrón que se repite cada ciclo desde hac
 
 Fuente: Fuente: SEP, reportes oficiales del paro de la CNTE, corte al 5 de junio de 2026; cobertura de Excélsior, El Universal y El Informador.
 
-Pieza 06 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 06 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #CNTE #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #CNTE #EducaciónMéxico
 ```
 
 ## 07 · México necesita 400,000 maestros de inglés y tiene 80,000
 
-Archivo: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 20h56.png` · video: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 21h12.png` · video: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -252,18 +252,18 @@ El país comparte 3,142 kilómetros de frontera con la economía más grande del
 
 Fuente: Fuente: Mexicanos Primero, «Sorry: el aprendizaje del inglés en México» (CIDE / CEES); SEP / SHCP, presupuestos del PRONI 2018–2024. Cobertura nacional estimada: 20%.
 
-Pieza 07 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 07 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Inglés #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Inglés #EducaciónMéxico
 ```
 
 ## 08 · México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE
 
-Archivo: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 20h56.png` · video: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 21h12.png` · video: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -274,26 +274,26 @@ México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE
 ```
 México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE.
 
-Gasto anual por alumno de primaria: Luxemburgo $25,584 USD, Estados Unidos $15,270, promedio OCDE $11,902, Lituania $8,716, Croacia $8,199. México: $2,933. Último lugar. Países con menor PIB per cápita, como Colombia, Bulgaria, Turquía, Hungría y Rumania, invierten más por niño.
+Gasto anual por alumno de primaria: Luxemburgo $25,584 USD, Estados Unidos $15,270 USD, promedio OCDE $11,902 USD, Lituania $8,716 USD, Croacia $8,199 USD. México: $2,933 USD. Último lugar. Países con menor PIB per cápita, como Colombia, Bulgaria, Turquía, Hungría y Rumania, invierten más por niño.
 
 Y la tendencia es descendente: el gasto por alumno cayó 10.5% entre 2015 y 2022 mientras el promedio OCDE subía. Detrás de cada sección anterior de esta serie hay una causa común, y es esta. Se recorta lo que construye capacidad: escuelas, maestros, materiales, evaluación.
 
-¿Con $2,933 dólares al año, qué esperarías que le entregaran a tu hijo?
+¿Con $2,933 USD al año, qué esperarías que le entregaran a tu hijo?
 
 Fuente: Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).
 
-Pieza 08 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 08 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #GastoEducativo #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #GastoEducativo #EducaciónMéxico
 ```
 
 ## 09 · Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9%
 
-Archivo: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 20h56.png` · video: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 21h12.png` · video: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -312,18 +312,18 @@ Si ya estás pagando, ¿a quién le quieres pagar?
 
 Fuente: Fuente: OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026.
 
-Pieza 09 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 09 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #GastoEducativo #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #GastoEducativo #EducaciónMéxico
 ```
 
 ## 10 · 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación
 
-Archivo: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 20h56.png` · video: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 21h12.png` · video: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -342,18 +342,18 @@ Si en tu colegio dejaran de entregar boletas, ¿pensarías que los niños van me
 
 Fuente: Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).
 
-Pieza 10 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 10 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #INEE #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #INEE #EducaciónMéxico
 ```
 
 ## 11 · 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados
 
-Archivo: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 20h56.png` · video: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 21h12.png` · video: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -372,18 +372,18 @@ El Banco Mundial estima que la pandemia añadió un rezago equivalente a dos añ
 
 Fuente: Fuente: Mejoredu, evaluación diagnóstica 2024–2025 (no publicada oficialmente; filtrada a la prensa, oct 2025); Banco Mundial, estimación de pérdida de aprendizajes post-COVID.
 
-Pieza 11 de la serie «La realidad de la educación pública en México», a partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 11 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Mejoredu #EducaciónMéxico
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Mejoredu #EducaciónMéxico
 ```
 
 ## 12 · 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas)
 
-Archivo: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 20h56.png` · video: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 21h12.png` · video: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -402,18 +402,18 @@ De las últimas 40 familias que escribieron a tu colegio, ¿cuántas recibieron 
 
 Fuente: Fuente: UPCEA, Enrollment Process Review: Secret Shopper Analysis 2025 (1,000 consultas a instituciones educativas).
 
-Pieza 12 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 12 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Prospectos #TiempoDeRespuesta
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Prospectos #TiempoDeRespuesta
 ```
 
 ## 13 · 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3
 
-Archivo: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 20h56.png` · video: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 21h12.png` · video: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -432,18 +432,18 @@ Domingo, 9:47 de la noche: una mamá acostó a los niños y por fin tiene veinte
 
 Fuente: Usuarios conectados por franja horaria en México. Fuente: Asociación de Internet MX, Estudios de Hábitos de Usuarios de Internet en México (eds. 14–15). El horario de atención escolar es el típico, ilustrativo.
 
-Pieza 13 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 13 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Prospectos #WhatsApp
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Prospectos #WhatsApp
 ```
 
 ## 14 · 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos
 
-Archivo: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 20h56.png` · video: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 21h12.png` · video: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -462,18 +462,18 @@ La familia no interpreta la respuesta lenta como «están ocupados». La interpr
 
 Fuente: Fuente: MIT / InsideSales.com, Lead Response Management Study (Oldroyd); Lead Response Management / Drift: solo 7% responde en menos de 5 minutos y 55% tarda más de 5 días.
 
-Pieza 14 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 14 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Prospectos #TiempoDeRespuesta
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Prospectos #TiempoDeRespuesta
 ```
 
 ## 15 · Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos
 
-Archivo: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 20h56.png` · video: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 21h12.png` · video: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -492,48 +492,48 @@ Cuando una mamá escribe «quisiera informes», no está mandando un recado: est
 
 Fuente: Fuente: MIT / InsideSales.com (Dr. James Oldroyd), Lead Response Management Study; Harvard Business Review, «The Short Life of Online Sales Leads» (2.24 M leads); Velocify.
 
-Pieza 15 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 15 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Prospectos #TiempoDeRespuesta
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Prospectos #TiempoDeRespuesta
 ```
 
-## 16 · Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia
+## 16 · Cuánto cuesta un WhatsApp sin contestar: $450,000 MXN por familia
 
-Archivo: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 20h56.png` · video: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 21h12.png` · video: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia
+Cuánto cuesta un WhatsApp sin contestar: $450,000 MXN por familia
 
 **Descripción:**
 
 ```
-Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia.
+Cuánto cuesta un WhatsApp sin contestar: $450,000 MXN por familia.
 
-Pongámosle número al silencio, con cifras conservadoras de un colegio típico: colegiatura de $4,500 al mes son $54,000 al año con inscripción. Seis años de permanencia: $324,000. Con la probabilidad de hermano que todo director conoce, ×1.4: alrededor de $450,000 pesos por familia inscrita.
+Pongámosle número al silencio, con cifras conservadoras de un colegio típico: colegiatura de $4,500 MXN al mes son $54,000 MXN al año con inscripción. Seis años de permanencia: $324,000 MXN. Con la probabilidad de hermano que todo director conoce, ×1.4: alrededor de $450,000 MXN por familia inscrita.
 
-Ese es el precio de cada «ahorita le contesto» que se volvió nunca. No se pierde por falta de demanda, ni de publicidad, ni de prestigio: se pierde por velocidad. Y capturar a una familia que ya escribió cuesta $0 en anuncios. Solo requiere proceso.
+Ese es el precio de cada «ahorita le contesto» que se volvió nunca. No se pierde por falta de demanda, ni de publicidad, ni de prestigio: se pierde por velocidad. Y capturar a una familia que ya escribió cuesta $0 MXN en anuncios. Solo requiere proceso.
 
-¿Cuántas familias se enfriaron en tu colegio el ciclo pasado? Multiplica por $450,000.
+¿Cuántas familias se enfriaron en tu colegio el ciclo pasado? Multiplica por $450,000 MXN.
 
 Fuente: Modelo con supuestos conservadores de un colegio típico: colegiatura de $4,500 MXN mensuales, permanencia promedio de 6 años, factor de hermanos ×1.4. Cada institución puede recalcularlo con sus propias cifras.
 
-Pieza 16 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 16 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #ValorDeVida #Prospectos
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #ValorDeVida #Prospectos
 ```
 
 ## 17 · Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos
 
-Archivo: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 20h56.png` · video: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 21h12.png` · video: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -546,24 +546,24 @@ Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo e
 
 Un colegio que recibe 40 consultas reales por temporada y responde como el promedio del sector, horas después y sin seguimiento asignado, convierte típicamente 4 o 5. El mismo colegio respondiendo en minutos, con seguimiento al día siguiente y propuesta concreta tras el recorrido, convierte 10 a 12.
 
-La diferencia, 6 familias, son $2.7 millones de pesos de valor de vida por temporada, perdidos no por falta de demanda sino por velocidad. Es el hallazgo que más sorprende a los directores en nuestros diagnósticos: el crecimiento más barato del colegio no está en conseguir más mensajes. Está en dejar de perder los que ya llegan.
+La diferencia, 6 familias, son $2.7 millones MXN de valor de vida por temporada, perdidos no por falta de demanda sino por velocidad. Es el hallazgo que más sorprende a los directores en nuestros diagnósticos: el crecimiento más barato del colegio no está en conseguir más mensajes. Está en dejar de perder los que ya llegan.
 
 Antes de invertir un peso más en anuncios: ¿cuántas de tus últimas 40 consultas recibieron respuesta en menos de 5 minutos?
 
 Fuente: Patrón observado en los diagnósticos Rayos X de SuperLeads en colegios mexicanos; cifras de un colegio típico, ilustrativas. Valor de vida por familia: ≈ $450,000 MXN.
 
-Pieza 17 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 17 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Embudo #Prospectos
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Embudo #Prospectos
 ```
 
 ## 18 · 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5
 
-Archivo: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 20h56.png` · video: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 21h12.png` · video: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -582,18 +582,18 @@ La recomendación de boca en boca siempre decidió inscripciones. Lo que cambió
 
 Fuente: Fuente: BrightLocal, Local Consumer Review Survey 2024–2026 (83% usa Google para leer reseñas; 71% descarta menos de 3 estrellas; 88% prefiere negocios que responden); Northwestern University / Spiegel Research Center (rango 4.2–4.5; desconfianza del 46% hacia el 5.0 perfecto).
 
-Pieza 18 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 18 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Reseñas #GoogleMaps
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Reseñas #GoogleMaps
 ```
 
 ## 19 · WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp
 
-Archivo: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 20h56.png` · video: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 21h12.png` · video: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -612,18 +612,18 @@ Y lo que pasa, en la mayoría de los colegios, es que el WhatsApp de informes lo
 
 Fuente: Fuente: YCloud / Aunoa (tasa de apertura de WhatsApp ~98% vs. email ~21%); Blip / Aurora Inbox / Infobip (penetración de WhatsApp en México 93%; 71% de los negocios mexicanos vende por WhatsApp).
 
-Pieza 19 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 19 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #WhatsApp #Prospectos
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #WhatsApp #Prospectos
 ```
 
 ## 20 · 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa
 
-Archivo: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 20h56.png` · video: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 21h12.png` · video: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -642,18 +642,18 @@ Lee de nuevo las etapas dos y tres: la mitad de la decisión ocurre antes de que
 
 Fuente: Fuente: Shortway, Marketing para escuelas privadas, Guía 2026 (6 meses; 87% investiga en línea); SEO Top México (78% en dos ventanas); Spinoza Estudio; Mercadotecnia Educativa.
 
-Pieza 20 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 20 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #Embudo #Admisión
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #Embudo #Admisión
 ```
 
 ## 21 · 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas
 
-Archivo: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 20h56.png` · video: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 21h12.png` · video: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -672,18 +672,18 @@ Busca «colegios privados en tu zona» ahora mismo. ¿Tu colegio aparece? ¿Con 
 
 Fuente: Fuente: Think with Google / SEMrush (intención local; búsquedas «cerca de mí» que derivan en visita en 24 h; dominio del map pack); Spinoza Estudio (Google Maps como primer punto de contacto).
 
-Pieza 21 de la serie «La boleta invisible: cómo eligen colegio las familias mexicanas», a partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 21 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #GoogleMaps #SEOLocal
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #GoogleMaps #SEOLocal
 ```
 
 ## 22 · Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica
 
-Archivo: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 20h56.png` · video: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.png` · video: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -702,18 +702,18 @@ Cuando un directivo mexicano dice «hay demasiados colegios», los datos respond
 
 Fuente: Porcentaje de matrícula primaria en instituciones privadas. Fuente: Banco Mundial (SE.PRM.PRIV.ZS) / Instituto de Estadística de la UNESCO, 2022–2024.
 
-Pieza 22 de la serie «Análisis de la educación privada en Latinoamérica», a partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 22 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónPrivada #Latinoamérica
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #Latinoamérica
 ```
 
 ## 23 · 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada
 
-Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 20h56.png` · video: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.png` · video: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -724,26 +724,26 @@ Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 20h56.p
 ```
 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada.
 
-La Regla NSE de la AMAI clasifica los ~38 millones de hogares del país en siete niveles. Los tres superiores son el territorio natural del colegio privado: A/B, 2.1 millones de hogares con más de $120,000 al mes; C+, 5 millones con ~$48,000; C, 6.3 millones con ~$28,000. Sumados: 13.4 millones de hogares, 35% del país, que pueden sostener colegiaturas de $2,800 a más de $12,000 mensuales.
+La Regla NSE de la AMAI clasifica los ~38 millones de hogares del país en siete niveles. Los tres superiores son el territorio natural del colegio privado: A/B, 2.1 millones de hogares con más de $120,000 MXN al mes; C+, 5 millones con ~$48,000 MXN; C, 6.3 millones con ~$28,000 MXN. Sumados: 13.4 millones de hogares, 35% del país, que pueden sostener colegiaturas de $2,800 a más de $12,000 MXN mensuales.
 
 Y sin embargo, solo 10% de la matrícula nacional está en privada. Léelo de nuevo: hay más familias que pueden pagar que familias que están pagando. Cada familia que cruza de la pública a la privada no es un alumno que le quitaste al colegio de enfrente: es mercado nuevo, que no existía para nadie.
 
 «Es que la gente no puede pagar.» ¿Seguro? ¿O es que nadie le ha dado una razón para pagarte a ti?
 
-Fuente: Hogares e ingreso familiar mensual estimado por nivel. Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.
+Fuente: Hogares e ingreso familiar mensual estimado por nivel (MXN). Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.
 
-Pieza 23 de la serie «Análisis de la educación privada en Latinoamérica», a partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 23 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónPrivada #NSE
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #NSE
 ```
 
 ## 24 · Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe
 
-Archivo: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 20h56.png` · video: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.png` · video: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -762,18 +762,18 @@ Si una familia de ingreso medio te pregunta «¿y por qué pagar?», ¿tu colegi
 
 Fuente: Fuente: APEIM, Niveles Socioeconómicos 2025 (niveles A y B: 10.4% de los hogares peruanos); Banco Mundial / UIS (matrícula primaria privada). México: AMAI 2024 y Banco Mundial.
 
-Pieza 24 de la serie «Análisis de la educación privada en Latinoamérica», a partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 24 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónPrivada #Perú
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #Perú
 ```
 
 ## 25 · México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio
 
-Archivo: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 20h56.png` · video: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 21h12.png` · video: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -792,18 +792,18 @@ No es una escuelita de supervivencia: es una operación de 260 familias con nóm
 
 Fuente: Estimaciones de SuperLeads sobre censos oficiales: SEP / SIGED, Minedu / ENAHO, MEN-DUE, INEP, Mineduc Chile. Cada nivel educativo de un plantel genera su propia Clave de Centro de Trabajo.
 
-Pieza 25 de la serie «Análisis de la educación privada en Latinoamérica», a partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 25 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónPrivada #RVOE
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #RVOE
 ```
 
 ## 26 · Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá
 
-Archivo: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 20h56.png` · video: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 20h56.mp4`
+Archivo: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 21h12.png` · video: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
@@ -814,7 +814,7 @@ Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y
 ```
 Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá.
 
-Colegiatura mensual promedio de los diez colegios más caros de cada capital: Washington DC $4,800 USD, São Paulo $1,850, Ciudad de México $1,050, Lima $1,000, Bogotá $1,000, Santiago $850, Guatemala $650. La élite educativa mexicana cobra prácticamente lo mismo que la de Lima y Bogotá, en una economía mayor y lejos del techo regional.
+Colegiatura mensual promedio de los diez colegios más caros de cada capital: Washington DC $4,800 USD, São Paulo $1,850 USD, Ciudad de México $1,050 USD, Lima $1,000 USD, Bogotá $1,000 USD, Santiago $850 USD, Guatemala $650 USD. La élite educativa mexicana cobra prácticamente lo mismo que la de Lima y Bogotá, en una economía mayor y lejos del techo regional.
 
 Dicho de otro modo: ni siquiera el segmento premium mexicano ha alcanzado el precio que su mercado podría sostener. Tiene margen en volumen y en precio, un lujo que muy pocas industrias pueden presumir. Y un detalle del modelo peruano: los colegios de élite de Lima cobran cuotas de ingreso de hasta $18,500 USD por familia. Por eso ninguno se permite perder a una familia por un WhatsApp sin contestar.
 
@@ -822,11 +822,11 @@ Dicho de otro modo: ni siquiera el segmento premium mexicano ha alcanzado el pre
 
 Fuente: USD mensuales, promedio estimado de los 10 colegios más caros de cada capital (São Paulo para Brasil), 2025–2026; no incluye cuotas de inscripción. Fuentes: rankings de colegiaturas por ciudad (El CEO / Mexico Industry; Infobae Perú; La República; The Clinic; Exame; tuitions publicadas de Washington DC).
 
-Pieza 26 de la serie «Análisis de la educación privada en Latinoamérica», a partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 26 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
 Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año. Más en https://superleads.mx
 
-#Admisiones #ColegiosPrivados #EducaciónPrivada #Colegiaturas
+#Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #Colegiaturas
 ```

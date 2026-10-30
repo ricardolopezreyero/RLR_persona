@@ -19,6 +19,8 @@ AUTOR = ('Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. So
          'más de 300,000 prospectos educativos al año. Más en https://superleads.mx')
 DOCS = 'El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx'
 HASH_BASE = '#Admisiones #ColegiosPrivados'
+SERIE_MADRE = 'La realidad de la educación'  # la serie que se mantiene y se actualiza; los tres documentos son sus capítulos
+HASH_SERIE = '#LaRealidadDeLaEducación'
 
 # Cada pieza: n, serie, slug, eyebrow, h1 (con <em>), grafica (una o lista), lectura, nota, titulo, parrafos, pregunta, hashtags.
 # Colores de gráfica (guía SuperLeads §16): c1 azul serie base, c2 naranja «el antes / el problema», c3 verde «la meta», neu sin dato.
@@ -69,11 +71,11 @@ P.append(dict(n=4, serie=1, slug='65 de cada 100 escuelas sin computadora ni int
     h1='<em>65 de cada 100</em> escuelas públicas no tienen computadoras ni internet.',
     grafica=[dict(tipo='waffle', total=100, lleno=65, cols=10, numero='65', etiqueta='de cada 100 escuelas públicas operan sin computadoras o sin internet', tam=40, gap=9),
              dict(tipo='stats', items=[('9,034', 'planteles públicos sin agua potable (SEP, 2023–24)'), ('5,112', 'planteles sin servicio eléctrico'), ('89 mil', 'escuelas de básica sin drenaje (Coneval)')])],
-    lectura='Entre 2013 y 2024 se gastaron $451,230 millones de pesos en infraestructura educativa. Desde 2019 nadie actualiza el censo que diría en qué se convirtieron.',
+    lectura='Entre 2013 y 2024 se gastaron $451,230 millones MXN en infraestructura educativa. Desde 2019 nadie actualiza el censo que diría en qué se convirtieron.',
     nota='Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.',
     titulo='65 de cada 100 escuelas públicas no tienen computadoras ni internet',
     parrafos=['En México, 65 de cada 100 escuelas públicas operan sin computadoras o sin internet. 9,034 planteles de educación básica no tienen agua potable. 5,112 no tienen luz. 89 mil no tienen drenaje.',
-              'Entre 2013 y 2024 el país gastó $451,230 millones de pesos en infraestructura educativa. Y desde 2019 dejó de actualizarse el censo nacional de infraestructura escolar, así que nadie puede decir oficialmente en qué se convirtió ese dinero. Se gastó el presupuesto y se apagó el medidor.'],
+              'Entre 2013 y 2024 el país gastó $451,230 millones MXN en infraestructura educativa. Y desde 2019 dejó de actualizarse el censo nacional de infraestructura escolar, así que nadie puede decir oficialmente en qué se convirtió ese dinero. Se gastó el presupuesto y se apagó el medidor.'],
     pregunta='¿Cómo se aprende a programar, a investigar o a escribir un correo en una escuela sin internet?',
     hashtags='#EducaciónMéxico #EscuelasPúblicas'))
 
@@ -83,9 +85,9 @@ P.append(dict(n=5, serie=1, slug='El maestro gana menos que el salario minimo',
     grafica=dict(tipo='barras', fmt='mxn', alto=48,
                  items=[('Salario mínimo 2025', 8400, 'c1'), ('Docente promedio', 7890, 'c2'), ('Docente de preescolar', 6430, 'c2'), ('Docente de preparatoria', 6260, 'c2')]),
     lectura='Te pago poco, no te formo, no te evalúo. La desmotivación no es un defecto del magisterio: es la respuesta racional a esos incentivos.',
-    nota='Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000, aún por debajo del promedio OCDE para la profesión.',
-    titulo='El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo',
-    parrafos=['Ingreso mensual promedio de un docente en México: $7,890 pesos. El salario mínimo 2025: $8,400. Un maestro de preescolar promedia $6,430; uno de preparatoria, $6,260. Son promedios nacionales de la ENOE que incluyen jornadas parciales; los docentes formales de tiempo completo rondan los $18,000, todavía abajo del promedio OCDE para la profesión.',
+    nota='Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.',
+    titulo='El maestro mexicano promedio gana $7,890 MXN al mes: menos que el salario mínimo',
+    parrafos=['Ingreso mensual promedio de un docente en México: $7,890 MXN. El salario mínimo 2025: $8,400 MXN. Un maestro de preescolar promedia $6,430 MXN; uno de preparatoria, $6,260 MXN. Son promedios nacionales de la ENOE que incluyen jornadas parciales; los docentes formales de tiempo completo rondan los $18,000 MXN, todavía abajo del promedio OCDE para la profesión.',
               'Desde 2019 nadie verifica la idoneidad de quien está frente a grupo, y la capacitación es esporádica y sin seguimiento. El mensaje del sistema a su maestro es coherente: te pago poco, no te formo, no te evalúo. El docente no es el villano de esta historia. Es su segunda víctima.'],
     pregunta='¿Qué resultado esperarías de cualquier profesión con ese paquete?',
     hashtags='#Docentes #EducaciónMéxico'))
@@ -124,9 +126,9 @@ P.append(dict(n=8, serie=1, slug='Ultimo lugar de la OCDE en gasto por alumno',
     lectura='Colombia, Bulgaria, Turquía, Hungría y Rumania, con menor PIB per cápita que México, invierten más por alumno. Y el gasto cayó 10.5% entre 2015 y 2022.',
     nota='Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).',
     titulo='México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE',
-    parrafos=['Gasto anual por alumno de primaria: Luxemburgo $25,584 USD, Estados Unidos $15,270, promedio OCDE $11,902, Lituania $8,716, Croacia $8,199. México: $2,933. Último lugar. Países con menor PIB per cápita, como Colombia, Bulgaria, Turquía, Hungría y Rumania, invierten más por niño.',
+    parrafos=['Gasto anual por alumno de primaria: Luxemburgo $25,584 USD, Estados Unidos $15,270 USD, promedio OCDE $11,902 USD, Lituania $8,716 USD, Croacia $8,199 USD. México: $2,933 USD. Último lugar. Países con menor PIB per cápita, como Colombia, Bulgaria, Turquía, Hungría y Rumania, invierten más por niño.',
               'Y la tendencia es descendente: el gasto por alumno cayó 10.5% entre 2015 y 2022 mientras el promedio OCDE subía. Detrás de cada sección anterior de esta serie hay una causa común, y es esta. Se recorta lo que construye capacidad: escuelas, maestros, materiales, evaluación.'],
-    pregunta='¿Con $2,933 dólares al año, qué esperarías que le entregaran a tu hijo?',
+    pregunta='¿Con $2,933 USD al año, qué esperarías que le entregaran a tu hijo?',
     hashtags='#GastoEducativo #EducaciónMéxico'))
 
 P.append(dict(n=9, serie=1, slug='La escuela gratuita no lo es',
@@ -223,15 +225,15 @@ P.append(dict(n=15, serie=2, slug='21 veces mas probable en 5 minutos',
 
 P.append(dict(n=16, serie=2, slug='Un WhatsApp sin contestar cuesta 450 mil pesos',
     eyebrow='LA MATEMÁTICA DEL SILENCIO · VALOR DE VIDA DE UNA FAMILIA',
-    h1='Un WhatsApp sin contestar cuesta <em>$450 mil</em> pesos.',
+    h1='Un WhatsApp sin contestar cuesta <em>$450 mil MXN</em>.',
     grafica=dict(tipo='barras', fmt='mxn', alto=52,
                  items=[('Colegiatura anual (11 meses + inscripción)', 54000, 'c1'), ('Permanencia esperada (6 años)', 324000, 'c1'), ('Con probabilidad de hermano (×1.4)', 450000, 'c3')]),
-    lectura='$0 cuesta en publicidad capturar a una familia que ya escribió. Solo requiere proceso.',
+    lectura='$0 MXN cuesta en publicidad capturar a una familia que ya escribió. Solo requiere proceso.',
     nota='Modelo con supuestos conservadores de un colegio típico: colegiatura de $4,500 MXN mensuales, permanencia promedio de 6 años, factor de hermanos ×1.4. Cada institución puede recalcularlo con sus propias cifras.',
-    titulo='Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia',
-    parrafos=['Pongámosle número al silencio, con cifras conservadoras de un colegio típico: colegiatura de $4,500 al mes son $54,000 al año con inscripción. Seis años de permanencia: $324,000. Con la probabilidad de hermano que todo director conoce, ×1.4: alrededor de $450,000 pesos por familia inscrita.',
-              'Ese es el precio de cada «ahorita le contesto» que se volvió nunca. No se pierde por falta de demanda, ni de publicidad, ni de prestigio: se pierde por velocidad. Y capturar a una familia que ya escribió cuesta $0 en anuncios. Solo requiere proceso.'],
-    pregunta='¿Cuántas familias se enfriaron en tu colegio el ciclo pasado? Multiplica por $450,000.',
+    titulo='Cuánto cuesta un WhatsApp sin contestar: $450,000 MXN por familia',
+    parrafos=['Pongámosle número al silencio, con cifras conservadoras de un colegio típico: colegiatura de $4,500 MXN al mes son $54,000 MXN al año con inscripción. Seis años de permanencia: $324,000 MXN. Con la probabilidad de hermano que todo director conoce, ×1.4: alrededor de $450,000 MXN por familia inscrita.',
+              'Ese es el precio de cada «ahorita le contesto» que se volvió nunca. No se pierde por falta de demanda, ni de publicidad, ni de prestigio: se pierde por velocidad. Y capturar a una familia que ya escribió cuesta $0 MXN en anuncios. Solo requiere proceso.'],
+    pregunta='¿Cuántas familias se enfriaron en tu colegio el ciclo pasado? Multiplica por $450,000 MXN.',
     hashtags='#ValorDeVida #Prospectos'))
 
 P.append(dict(n=17, serie=2, slug='Mismas 40 familias 6 inscripciones de diferencia',
@@ -239,11 +241,11 @@ P.append(dict(n=17, serie=2, slug='Mismas 40 familias 6 inscripciones de diferen
     h1='Mismas 40 familias. <em>6 inscripciones</em> de diferencia.',
     grafica=dict(tipo='embudo', total=40, izq=dict(titulo='Responde en horas, sin seguimiento', lleno=4, cifra='4 a 5', color='c2'),
                  der=dict(titulo='Responde en minutos, seguimiento al día siguiente', lleno=10, cifra='10 a 12', color='c3')),
-    lectura='La publicidad compra interés. Solo el proceso lo convierte. 6 familias son $2.7 millones de pesos de valor de vida por temporada.',
+    lectura='La publicidad compra interés. Solo el proceso lo convierte. 6 familias son $2.7 millones MXN de valor de vida por temporada.',
     nota='Patrón observado en los diagnósticos Rayos X de SuperLeads en colegios mexicanos; cifras de un colegio típico, ilustrativas. Valor de vida por familia: ≈ $450,000 MXN.',
     titulo='Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos',
     parrafos=['Un colegio que recibe 40 consultas reales por temporada y responde como el promedio del sector, horas después y sin seguimiento asignado, convierte típicamente 4 o 5. El mismo colegio respondiendo en minutos, con seguimiento al día siguiente y propuesta concreta tras el recorrido, convierte 10 a 12.',
-              'La diferencia, 6 familias, son $2.7 millones de pesos de valor de vida por temporada, perdidos no por falta de demanda sino por velocidad. Es el hallazgo que más sorprende a los directores en nuestros diagnósticos: el crecimiento más barato del colegio no está en conseguir más mensajes. Está en dejar de perder los que ya llegan.'],
+              'La diferencia, 6 familias, son $2.7 millones MXN de valor de vida por temporada, perdidos no por falta de demanda sino por velocidad. Es el hallazgo que más sorprende a los directores en nuestros diagnósticos: el crecimiento más barato del colegio no está en conseguir más mensajes. Está en dejar de perder los que ya llegan.'],
     pregunta='Antes de invertir un peso más en anuncios: ¿cuántas de tus últimas 40 consultas recibieron respuesta en menos de 5 minutos?',
     hashtags='#Embudo #Prospectos'))
 
@@ -320,13 +322,13 @@ P.append(dict(n=23, serie=3, slug='35 puede pagar solo 10 inscribe',
     eyebrow='PODER DE PAGO · HOGARES POR NSE (AMAI 2024)',
     h1='<em>35%</em> de los hogares puede pagar colegio privado. Solo <em>10%</em> inscribe.',
     grafica=dict(tipo='piramide', items=[
-        ('A/B', 5.6, '2.1M', '~$120,000+/mes', True), ('C+', 13.1, '5.0M', '~$48,000/mes', True), ('C', 16.7, '6.3M', '~$28,000/mes', True),
-        ('C−', 16.4, '6.2M', '~$21,000/mes', False), ('D+', 17.6, '6.7M', '~$15,000/mes', False), ('D', 22.4, '8.5M', '~$10,500/mes', False), ('E', 8.2, '3.1M', '', False)],
+        ('A/B', 5.6, '2.1M', '~$120,000+ MXN', True), ('C+', 13.1, '5.0M', '~$48,000 MXN', True), ('C', 16.7, '6.3M', '~$28,000 MXN', True),
+        ('C−', 16.4, '6.2M', '~$21,000 MXN', False), ('D+', 17.6, '6.7M', '~$15,000 MXN', False), ('D', 22.4, '8.5M', '~$10,500 MXN', False), ('E', 8.2, '3.1M', '', False)],
         corchete='13.4 millones de hogares · 35.4%'),
     lectura='En México hay más familias que pueden pagar colegio privado que familias que lo están pagando. Esa brecha es el techo de crecimiento de todo el sector.',
-    nota='Hogares e ingreso familiar mensual estimado por nivel. Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.',
+    nota='Hogares e ingreso familiar mensual estimado por nivel (MXN). Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.',
     titulo='13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada',
-    parrafos=['La Regla NSE de la AMAI clasifica los ~38 millones de hogares del país en siete niveles. Los tres superiores son el territorio natural del colegio privado: A/B, 2.1 millones de hogares con más de $120,000 al mes; C+, 5 millones con ~$48,000; C, 6.3 millones con ~$28,000. Sumados: 13.4 millones de hogares, 35% del país, que pueden sostener colegiaturas de $2,800 a más de $12,000 mensuales.',
+    parrafos=['La Regla NSE de la AMAI clasifica los ~38 millones de hogares del país en siete niveles. Los tres superiores son el territorio natural del colegio privado: A/B, 2.1 millones de hogares con más de $120,000 MXN al mes; C+, 5 millones con ~$48,000 MXN; C, 6.3 millones con ~$28,000 MXN. Sumados: 13.4 millones de hogares, 35% del país, que pueden sostener colegiaturas de $2,800 a más de $12,000 MXN mensuales.',
               'Y sin embargo, solo 10% de la matrícula nacional está en privada. Léelo de nuevo: hay más familias que pueden pagar que familias que están pagando. Cada familia que cruza de la pública a la privada no es un alumno que le quitaste al colegio de enfrente: es mercado nuevo, que no existía para nadie.'],
     pregunta='«Es que la gente no puede pagar.» ¿Seguro? ¿O es que nadie le ha dado una razón para pagarte a ti?',
     hashtags='#EducaciónPrivada #NSE'))
@@ -367,7 +369,7 @@ P.append(dict(n=26, serie=3, slug='La elite de CDMX cobra lo mismo que Lima',
     lectura='En una economía mayor, ni el segmento premium mexicano ha alcanzado el precio que su mercado podría sostener. En Lima, las cuotas de ingreso llegan a $18,500 USD por familia.',
     nota='USD mensuales, promedio estimado de los 10 colegios más caros de cada capital (São Paulo para Brasil), 2025–2026; no incluye cuotas de inscripción. Fuentes: rankings de colegiaturas por ciudad (El CEO / Mexico Industry; Infobae Perú; La República; The Clinic; Exame; tuitions publicadas de Washington DC).',
     titulo='Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá',
-    parrafos=['Colegiatura mensual promedio de los diez colegios más caros de cada capital: Washington DC $4,800 USD, São Paulo $1,850, Ciudad de México $1,050, Lima $1,000, Bogotá $1,000, Santiago $850, Guatemala $650. La élite educativa mexicana cobra prácticamente lo mismo que la de Lima y Bogotá, en una economía mayor y lejos del techo regional.',
+    parrafos=['Colegiatura mensual promedio de los diez colegios más caros de cada capital: Washington DC $4,800 USD, São Paulo $1,850 USD, Ciudad de México $1,050 USD, Lima $1,000 USD, Bogotá $1,000 USD, Santiago $850 USD, Guatemala $650 USD. La élite educativa mexicana cobra prácticamente lo mismo que la de Lima y Bogotá, en una economía mayor y lejos del techo regional.',
               'Dicho de otro modo: ni siquiera el segmento premium mexicano ha alcanzado el precio que su mercado podría sostener. Tiene margen en volumen y en precio, un lujo que muy pocas industrias pueden presumir. Y un detalle del modelo peruano: los colegios de élite de Lima cobran cuotas de ingreso de hasta $18,500 USD por familia. Por eso ninguno se permite perder a una familia por un WhatsApp sin contestar.'],
     pregunta='¿Cuánto vale una inscripción completa en tu colegio? ¿Y tu proceso está a la altura de esa cifra?',
     hashtags='#EducaciónPrivada #Colegiaturas'))
@@ -378,8 +380,8 @@ def armar_descripcion(p):
     s = SERIES[p['serie']]
     partes = [p['titulo'] + '.', '', '\n\n'.join(p['parrafos']), '', p['pregunta'], '',
               'Fuente: ' + p['nota'], '',
-              f"Pieza {p['n']:02d} de la serie «{s['nombre']}», a partir del documento de mercado {s['doc']}. {DOCS}", '',
-              RAYOS, '', AUTOR, '', f"{HASH_BASE} {p['hashtags']}"]
+              f"Serie «{SERIE_MADRE}» · capítulo «{s['nombre']}» · pieza {p['n']:02d} de {len(P)}. A partir del documento de mercado {s['doc']}. {DOCS}", '',
+              RAYOS, '', AUTOR, '', f"{HASH_BASE} {HASH_SERIE} {p['hashtags']}"]
     return '\n'.join(partes)
 
 

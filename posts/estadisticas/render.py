@@ -17,7 +17,7 @@ FPS, DUR, FIN_ANIM = 30, 8.0, 3.6
 COL = {'c1': '#2a78d6', 'c2': '#eb6834', 'c3': '#1baf7a', 'neu': '#c6ccd8'}
 TRACK = 'rgba(255,255,255,.07)'; T2 = '#7a9fd4'; T3 = '#4a6aaa'
 WC = 920  # ancho útil (1080 − 2×80)
-PIE = ('', 'Documento de mercado · 2026'); LOGO = 'file://' + os.path.join(AQUI, 'logo_blanco.svg')  # parametrizables por serie
+PIE = ('', 'Serie · La realidad de la educación'); LOGO = 'file://' + os.path.join(AQUI, 'logo_blanco.svg')  # parametrizables por serie
 LOGO_RLR_N = 'file://' + os.path.join(AQUI, 'rlr_nombre.png')  # la marca de Ricardo, arriba: solo el nombre completo (sin monograma, 29-oct)
 
 # ───────────── formato de números ─────────────
@@ -30,17 +30,32 @@ def texto_valor(v, fmt):
     pre, dec, suf = partes(v, fmt)
     return f"{pre}{v:,.{dec}f}{suf}"
 
+UNIDAD = {'mxn': 'MXN', 'usd': 'USD'}  # la unidad siempre visible, como etiqueta (Ricardo, 29-oct: «estamos en internet»)
+def chip_svg(xr, y, txt, size):
+    """Etiqueta de unidad en SVG, pegada a la derecha en xr; regresa (svg, ancho)."""
+    fs = round(size * .5); cw = round(len(txt) * fs * .72 + fs * .9); h = round(size * .68); yt = y - round(size * .7)
+    return (f'<rect x="{xr - cw}" y="{yt}" width="{cw}" height="{h}" rx="{round(h * .22)}" fill="none" stroke="rgba(255,255,255,.7)" stroke-width="1.5"/>'
+            f'<text x="{xr - cw / 2:.1f}" y="{yt + h / 2 + fs * .36:.1f}" text-anchor="middle" font-size="{fs}" font-weight="800" letter-spacing="1.5" fill="#fff">{txt}</text>'), cw
+
+def u_html(txt):
+    """' MXN' / ' USD' en un texto (ya escapado o HTML) → etiqueta de unidad."""
+    return re.sub(r' (MXN|USD)\b', r'<span class="u">\1</span>', txt)
+
 def num_anim(v, fmt, x, y, retardo, size=34, anchor='end', fill='#fff', peso=800, extra=''):
-    pre, dec, suf = partes(v, fmt)
-    return (f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-size="{size}" font-weight="{peso}" fill="{fill}" class="tab" '
+    pre, dec, suf = partes(v, fmt); chip = ''
+    if fmt in UNIDAD and anchor == 'end':
+        chip, cw = chip_svg(x, y, UNIDAD[fmt], size); x = x - cw - round(size * .3)
+    return chip + (f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-size="{size}" font-weight="{peso}" fill="{fill}" class="tab" '
             f'data-a="n" data-n="{v}" data-dec="{dec}" data-pre="{html.escape(pre)}" data-suf="{html.escape(suf)}" data-d="{retardo:.2f}" data-t="1.0" {extra}>{texto_valor(v, fmt)}</text>')
 
 def stat_anim(txt, retardo):
     """Número de un stat: cuenta si es numérico ('1,410,459', '+391%', '89 mil', '~45,000'), si no, texto fijo."""
+    chip = ''; mu = re.match(r'^(.*\S) (MXN|USD)$', txt)
+    if mu: txt, chip = mu.group(1), f'<span class="u">{mu.group(2)}</span>'
     m = re.match(r'^([~$+−-]*)([\d,]+(?:\.\d+)?)(.*)$', txt)
-    if not m: return html.escape(txt)
+    if not m: return html.escape(txt) + chip
     pre, n, suf = m.groups(); v = float(n.replace(',', '')); dec = len(n.split('.')[1]) if '.' in n else 0
-    return (f'<span data-a="n" data-n="{v}" data-dec="{dec}" data-pre="{html.escape(pre)}" data-suf="{html.escape(suf)}" data-d="{retardo:.2f}" data-t="1.1">{html.escape(txt)}</span>')
+    return (f'<span data-a="n" data-n="{v}" data-dec="{dec}" data-pre="{html.escape(pre)}" data-suf="{html.escape(suf)}" data-d="{retardo:.2f}" data-t="1.1">{html.escape(txt)}</span>') + chip
 
 # ───────────── gráficas ─────────────  RLR
 def g_barras(g, r0):
@@ -243,6 +258,7 @@ main{position:absolute;top:292px;left:80px;right:80px}
 .eyebrow span{font-size:22px;font-weight:700;letter-spacing:2.4px;text-transform:uppercase;color:var(--green)}
 h1{margin:0;font-weight:800;line-height:1.04;font-size:var(--h1);letter-spacing:var(--ls)}
 h1 em{font-style:italic;color:var(--green)}
+.u{display:inline-block;font-style:normal;font-size:.44em;font-weight:800;letter-spacing:1.5px;line-height:1;padding:.24em .46em .2em;border:1.5px solid currentColor;border-radius:.36em;margin-left:.3em;vertical-align:middle;position:relative;top:-.1em;opacity:.92}
 .grafica{margin-top:var(--gap)} .grafica>*+*{margin-top:34px}
 .lectura{margin-top:var(--gap);font-size:33px;line-height:1.38;font-weight:500;color:var(--t2)}
 .nota{margin-top:28px;font-size:22px;line-height:1.4;color:var(--t3)}
@@ -254,7 +270,7 @@ svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .t
 .dona{display:flex;align-items:center;gap:44px} .dona .l{font-size:30px;line-height:1.38;color:var(--t2)}
 .donas{display:flex;gap:40px} .dcol{flex:1;display:flex;flex-direction:column;align-items:center;text-align:center} .dcol .l{margin-top:14px;font-size:25px;line-height:1.35;color:var(--t2)}
 .stats{display:grid;gap:1px;background:rgba(255,255,255,.14);border:.5px solid rgba(255,255,255,.14);border-radius:16px;overflow:hidden}
-.stats .cell{background:var(--navy-deep);padding:26px 26px 24px} .stats .n{font-size:52px;font-weight:800;letter-spacing:-1.5px;line-height:1;font-variant-numeric:tabular-nums} .stats .l{margin-top:10px;font-size:21px;line-height:1.35;color:var(--t3)}
+.stats .cell{background:var(--navy-deep);padding:26px 20px 24px} .stats .n{white-space:nowrap} .stats .u{font-size:.36em;margin-left:.22em} .lectura .u{font-size:.58em;top:-.06em} .stats .n{font-size:52px;font-weight:800;letter-spacing:-1.5px;line-height:1;font-variant-numeric:tabular-nums} .stats .l{margin-top:10px;font-size:21px;line-height:1.35;color:var(--t3)}
 .tl{display:flex;flex-direction:column;gap:22px} .tr{display:grid;grid-template-columns:168px 1fr;gap:18px;position:relative;padding-left:0}
 .ty{font-size:38px;font-weight:800;color:var(--green);letter-spacing:-1px;line-height:1.1} .tx{font-size:26px;line-height:1.34;color:var(--t2);border-left:.5px solid rgba(255,255,255,.2);padding-left:22px} .tr.hi .tx{color:#fff}
 .embudo{display:flex;gap:40px} .ecol{flex:1;display:flex;flex-direction:column;align-items:flex-start} .et{font-size:22px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--t2);margin-bottom:18px;min-height:60px;line-height:1.3}
@@ -299,9 +315,9 @@ def pagina(p):
 <header><div class="marca"><img class="nombre" src="{LOGO_RLR_N}" alt="Ricardo López Reyero"></div><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
 <main style="--h1:{t}px;--ls:{-t * 0.035:.1f}px;--gap:{gap}px" class="{'compacto' if p.get('compacto') else ''}">
 <div class="eyebrow"><span>{html.escape(p['eyebrow'])}</span></div>
-<h1 data-a="oy" data-d="0" data-t=".8">{p['h1']}</h1>
+<h1 data-a="oy" data-d="0" data-t=".8">{u_html(p['h1'])}</h1>
 <div class="grafica">{''.join(bloques)}</div>
-<div class="lectura" data-a="oy" data-d="{fin - .4:.2f}" data-t=".8">{html.escape(p['lectura'])}</div>
+<div class="lectura" data-a="oy" data-d="{fin - .4:.2f}" data-t=".8">{u_html(html.escape(p['lectura']))}</div>
 <div class="nota" data-a="o" data-d="{fin:.2f}" data-t=".7">{html.escape(p['nota'])}</div>
 </main>
 <footer><img src="{LOGO}" alt="SuperLeads"><span>{html.escape(PIE[1])}</span></footer>

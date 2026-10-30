@@ -1,10 +1,10 @@
-# Serie «Datos» · estadísticas para YouTube Shorts
+# Serie «La realidad de la educación» · estadísticas para YouTube Shorts
 
-Un gráfico y un texto por pieza. Las cifras salen, sin pintura, de los tres documentos de mercado de SuperLeads (julio 2026) y cada pieza conserva su fuente original en pantalla y en la descripción. Diseño: guía de estilos SuperLeads (Plus Jakarta Sans, navy profundo, verde solo sobre oscuro, gráficas con la paleta `--chart-*`, texto siempre en tinta).
+Es una de las dos series de marca personal que se mantienen y se actualizan en el tiempo (la otra: [Rayos X](../rayosx_corte/)). Cada pieza dice en el pie a qué serie pertenece y, arriba a la derecha, el capítulo y su número. Un gráfico y un texto por pieza. Las cifras salen, sin pintura, de los tres documentos de mercado de SuperLeads (julio 2026) y cada pieza conserva su fuente original en pantalla y en la descripción. Diseño: guía de estilos SuperLeads (Plus Jakarta Sans, navy profundo, verde solo sobre oscuro, gráficas con la paleta `--chart-*`, texto siempre en tinta).
 
 **Estado: hechas, sin publicar.** Ricardo revisa y decide fechas.
 
-| Serie | Documento | Piezas |
+| Capítulo | Documento | Piezas |
 |---|---|---|
 | 1 · La realidad de la educación pública en México | P1-01 | 01–11 |
 | 2 · La boleta invisible: cómo eligen colegio las familias | P1-02 | 12–21 |
@@ -32,7 +32,8 @@ Un gráfico y un texto por pieza. Las cifras salen, sin pintura, de los tres doc
 2. La fuente va en la pieza (nota al pie) y en la descripción. Metodología completa a solicitud: hola@superleads.mx.
 3. Zona segura de Shorts: el contenido termina antes de y = 1600 (`render.py` avisa si se pasa); el tercio inferior queda para el título que pone YouTube.
 4. Sin caras ni firmas de personas: lo que se comparte es la información.
-5. La descripción cierra con el Rayos X («tiene costo; por ahora lo damos sin costo») y el bloque de autor.
+5. **Unidades siempre visibles, como etiqueta.** Estamos en internet: todo monto lleva su moneda (MXN o USD) en el gráfico, el titular, la lectura, el título y la descripción. En los textos se escribe `$8,000 MXN` y `render.py` lo convierte en etiqueta; en las gráficas `fmt='mxn'`/`'usd'` dibuja la etiqueta junto a la cifra.
+6. La descripción cierra con el Rayos X («tiene costo; por ahora lo damos sin costo») y el bloque de autor.
 
 ## Cómo regenerar
 

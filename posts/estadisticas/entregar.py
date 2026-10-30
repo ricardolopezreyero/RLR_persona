@@ -2,7 +2,7 @@
 y la hoja de contacto (hoja.jpg). Uso: python3 entregar.py"""
 import os, json, glob, datetime
 from PIL import Image
-from serie import P, SERIES, armar_descripcion, HASH_BASE
+from serie import P, SERIES, armar_descripcion, HASH_BASE, HASH_SERIE
 
 AQUI = os.path.dirname(os.path.abspath(__file__)); SALIDA = os.path.join(AQUI, 'salida')
 SELLO = datetime.datetime.now().strftime('%Y-%m-%d %Hh%M')
@@ -11,7 +11,7 @@ for p in P:
     png = sorted(glob.glob(os.path.join(SALIDA, f'Dato {p["n"]:02d} · *.png')))[-1]
     mp4s = sorted(glob.glob(os.path.join(SALIDA, f'Dato {p["n"]:02d} · *.mp4')))
     idx.append(dict(n=p['n'], serie=p['serie'], slug=p['slug'], titulo=p['titulo'], descripcion=armar_descripcion(p),
-                    hashtags=f"{HASH_BASE} {p['hashtags']}", png=os.path.basename(png), mp4=os.path.basename(mp4s[-1]) if mp4s else None,
+                    hashtags=f"{HASH_BASE} {HASH_SERIE} {p['hashtags']}", png=os.path.basename(png), mp4=os.path.basename(mp4s[-1]) if mp4s else None,
                     fuente=p['nota'], estado='hecho, sin publicar'))
 json.dump(idx, open(os.path.join(AQUI, 'indice.json'), 'w'), ensure_ascii=False, indent=1)
 
