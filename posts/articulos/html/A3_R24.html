@@ -40,10 +40,11 @@ html,body{width:1600px;height:900px}
 header{display:none}
 main.art{position:absolute;top:58px;left:90px;right:90px;transform:none}
 main.art .eyebrow{margin-bottom:16px} main.art .eyebrow span{font-size:21px}
-main.art h1{font-size:52px;line-height:1.08;letter-spacing:-1.6px;margin:0;max-width:1380px}
+main.art h1{font-size:56px;line-height:1.08;letter-spacing:-1.8px;margin:0;max-width:1400px}
 main.art .grafica{position:relative;left:50%;margin-top:26px;display:inline-flex;gap:44px;align-items:flex-start;transform-origin:50% 0;transform:translateX(-50%)}
 main.art .grafica>*{width:920px;flex:none} main.art .grafica>*+*{margin-top:0}
-.nota.art{position:absolute;left:90px;right:90px;bottom:116px;margin:0;font-size:17px;line-height:1.35;color:var(--t3)}
+main.art .grafica.col{flex-direction:column;gap:30px}
+.nota.art{position:absolute;left:90px;right:90px;bottom:118px;margin:0;font-size:18px;line-height:1.35;color:var(--t3)}
 footer.art{position:absolute;left:90px;right:90px;bottom:38px;border-top:.5px solid rgba(255,255,255,.14);padding-top:22px;display:flex;justify-content:space-between;align-items:center}
 footer.art .nombre{height:44px;width:auto;display:block} footer.art .sl{width:168px;height:auto;display:block}
 </style></head><body data-author="RLR">
@@ -66,8 +67,10 @@ case 'r':el.setAttribute('stroke-dashoffset',+D.c*(1-(+D.f)*p));break;
 case 'h':el.setAttribute('height',Math.max(0,+D.h*p));el.setAttribute('y',+D.y0+(+D.h)*(1-p));break;}})};
 window.anim(0);
 
-function fit(){const g=document.getElementById('g');const n=document.querySelector('.nota.art');const top=g.getBoundingClientRect().top;
+function medir(){const g=document.getElementById('g');const n=document.querySelector('.nota.art');g.style.transform='translateX(-50%)';const top=g.getBoundingClientRect().top;
 const availH=n.getBoundingClientRect().top-18-top;const availW=1420;const rs=[...g.children].map(c=>c.getBoundingClientRect());
-const w=Math.max(...rs.map(r=>r.right))-Math.min(...rs.map(r=>r.left)),h=Math.max(...rs.map(r=>r.bottom))-top;
-const s=Math.min(1,availH/h,availW/w);g.style.transform='translateX(-50%) scale('+s.toFixed(4)+')';return s;}
+const w=Math.max(...rs.map(r=>r.right))-Math.min(...rs.map(r=>r.left)),h=Math.max(...rs.map(r=>r.bottom))-top;return Math.min(1.5,availH/h,availW/w);}
+function fit(){const g=document.getElementById('g');g.classList.remove('col');const sFila=medir();let s=sFila;
+if(g.children.length>1){g.classList.add('col');const sCol=medir();if(sCol>sFila*1.08){s=sCol;}else{g.classList.remove('col');s=medir();}}
+g.style.transform='translateX(-50%) scale('+s.toFixed(4)+')';return s;}
 </script></body></html>

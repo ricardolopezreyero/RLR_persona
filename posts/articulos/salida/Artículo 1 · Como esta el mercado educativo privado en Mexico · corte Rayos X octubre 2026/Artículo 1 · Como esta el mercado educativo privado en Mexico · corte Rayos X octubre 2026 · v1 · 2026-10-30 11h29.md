@@ -139,12 +139,16 @@ Sirve para que te ubiques. Toma tu ocupación, tu conversión, tu cierre en cita
 
 Estos números salen de los Rayos X de Inscripciones que hacemos en SuperLeads. Es una sesión de trabajo con el dueño o el director en la que ordenamos los números de su institución exactamente como aparecen aquí, con sus datos, y salen con un PDF con lo más importante. Volveremos a publicar el corte cada seis meses, con los datos acumulados, para que el sector tenga por fin una referencia que no sea el pasillo.
 
-La próxima edición es en abril de 2027. Si quieres que tu institución esté en ella, el Rayos X es el camino: superleads.mx/rayos_x.
+La próxima edición es en abril de 2027. Si quieres que tu institución esté en ella, el Rayos X es el camino: superleads.mx/rayos_x. Y si quieres comentar estos números conmigo, escríbeme directo: ricardo@superleads.mx.
 
 ## Nota metodológica
 
-Corte del 29 de octubre de 2026 a las 18:08. 110 Rayos X exportados; fuera pruebas, archivados y repetidos (una fila por institución, la más reciente): 102 instituciones en 69 ciudades, finalizados entre el 6 de marzo y el 28 de octubre de 2026. Montos en pesos mexicanos; las instituciones en dólares quedan fuera de los montos. Ningún dato con menos de cinco instituciones se publica. Medianas, con cuartiles y n por métrica, disponibles a solicitud: hola@superleads.mx.
+Corte del 29 de octubre de 2026 a las 18:08. 110 Rayos X exportados; fuera pruebas, archivados y repetidos (una fila por institución, la más reciente): 102 instituciones en 69 ciudades, finalizados entre el 6 de marzo y el 28 de octubre de 2026. Montos en pesos mexicanos; las instituciones en dólares quedan fuera de los montos. Ningún dato con menos de cinco instituciones se publica. Medianas, con cuartiles y n por métrica, disponibles a solicitud: ricardo@superleads.mx.
 
 ---
 
-Viernes 30 de octubre de 2026, 9:24 pm · Torreón, Coahuila, México · Épico, 19°.
+Viernes 30 de octubre de 2026, 9:24 am · Torreón, Coahuila, México · 19°.
+
+**Ing. Ricardo López Reyero**  
+Founder Comercial · SuperLeads  
+ricardo@superleads.mx  

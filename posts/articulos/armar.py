@@ -13,7 +13,9 @@ sys.argv = ['piezas.py', '2026-10-29']; import piezas as X  # noqa: E402
 SELLO = datetime.datetime.now().strftime('%Y-%m-%d %Hh%M'); VERSION = 'v1'
 SALIDA = os.path.join(AQUI, 'salida'); HTMLD = os.path.join(AQUI, 'html'); DESCARGAS = os.path.expanduser('~/Downloads/LinkedIn Artículos')
 PIEZA = {('R', p['n']): p for p in S.P}; PIEZA.update({('X', p['n']): p for p in X.P})
-FIRMA = 'Viernes 30 de octubre de 2026, 9:24 pm · Torreón, Coahuila, México · Épico, 19°.'
+FIRMA = 'Viernes 30 de octubre de 2026, 9:24 am · Torreón, Coahuila, México · 19°.'
+FIRMA_NOMBRE = ['Ing. Ricardo López Reyero', 'Founder Comercial · SuperLeads', 'ricardo@superleads.mx']
+CORREO = 'ricardo@superleads.mx'
 AUTOR = 'Ricardo López Reyero'
 
 # ───────────── la lámina de artículo: 1600×900, título arriba, nombre y SuperLeads abajo ─────────────
@@ -22,18 +24,21 @@ html,body{width:1600px;height:900px}
 header{display:none}
 main.art{position:absolute;top:58px;left:90px;right:90px;transform:none}
 main.art .eyebrow{margin-bottom:16px} main.art .eyebrow span{font-size:21px}
-main.art h1{font-size:52px;line-height:1.08;letter-spacing:-1.6px;margin:0;max-width:1380px}
+main.art h1{font-size:56px;line-height:1.08;letter-spacing:-1.8px;margin:0;max-width:1400px}
 main.art .grafica{position:relative;left:50%;margin-top:26px;display:inline-flex;gap:44px;align-items:flex-start;transform-origin:50% 0;transform:translateX(-50%)}
 main.art .grafica>*{width:920px;flex:none} main.art .grafica>*+*{margin-top:0}
-.nota.art{position:absolute;left:90px;right:90px;bottom:116px;margin:0;font-size:17px;line-height:1.35;color:var(--t3)}
+main.art .grafica.col{flex-direction:column;gap:30px}
+.nota.art{position:absolute;left:90px;right:90px;bottom:118px;margin:0;font-size:18px;line-height:1.35;color:var(--t3)}
 footer.art{position:absolute;left:90px;right:90px;bottom:38px;border-top:.5px solid rgba(255,255,255,.14);padding-top:22px;display:flex;justify-content:space-between;align-items:center}
 footer.art .nombre{height:44px;width:auto;display:block} footer.art .sl{width:168px;height:auto;display:block}
 """
 JS_FIT = """
-function fit(){const g=document.getElementById('g');const n=document.querySelector('.nota.art');const top=g.getBoundingClientRect().top;
+function medir(){const g=document.getElementById('g');const n=document.querySelector('.nota.art');g.style.transform='translateX(-50%)';const top=g.getBoundingClientRect().top;
 const availH=n.getBoundingClientRect().top-18-top;const availW=1420;const rs=[...g.children].map(c=>c.getBoundingClientRect());
-const w=Math.max(...rs.map(r=>r.right))-Math.min(...rs.map(r=>r.left)),h=Math.max(...rs.map(r=>r.bottom))-top;
-const s=Math.min(1,availH/h,availW/w);g.style.transform='translateX(-50%) scale('+s.toFixed(4)+')';return s;}
+const w=Math.max(...rs.map(r=>r.right))-Math.min(...rs.map(r=>r.left)),h=Math.max(...rs.map(r=>r.bottom))-top;return Math.min(1.5,availH/h,availW/w);}
+function fit(){const g=document.getElementById('g');g.classList.remove('col');const sFila=medir();let s=sFila;
+if(g.children.length>1){g.classList.add('col');const sCol=medir();if(sCol>sFila*1.08){s=sCol;}else{g.classList.remove('col');s=medir();}}
+g.style.transform='translateX(-50%) scale('+s.toFixed(4)+')';return s;}
 """
 def lamina_articulo(p):
     gs = p['grafica'] if isinstance(p['grafica'], list) else [p['grafica']]
@@ -113,9 +118,9 @@ A1 = dict(n=1, slug='Como esta el mercado educativo privado en Mexico · corte R
  ('h2', 'Para qué sirve esto'),
  ('p', 'Sirve para que te ubiques. Toma tu ocupación, tu conversión, tu cierre en cita, tu costo por alumno y tu valor de vida, y ponlos junto a estas medianas. Si estás arriba, ya tienes un sistema y este corte te confirma el tamaño de lo que estás capturando. Si estás abajo, no estás solo: estás con la mayoría, y la buena noticia es que ninguna de estas cifras depende del mercado. Todas dependen del proceso.'),
  ('p', 'Estos números salen de los Rayos X de Inscripciones que hacemos en SuperLeads. Es una sesión de trabajo con el dueño o el director en la que ordenamos los números de su institución exactamente como aparecen aquí, con sus datos, y salen con un PDF con lo más importante. Volveremos a publicar el corte cada seis meses, con los datos acumulados, para que el sector tenga por fin una referencia que no sea el pasillo.'),
- ('p', 'La próxima edición es en abril de 2027. Si quieres que tu institución esté en ella, el Rayos X es el camino: superleads.mx/rayos_x.'),
+ ('p', 'La próxima edición es en abril de 2027. Si quieres que tu institución esté en ella, el Rayos X es el camino: superleads.mx/rayos_x. Y si quieres comentar estos números conmigo, escríbeme directo: ricardo@superleads.mx.'),
  ('h2', 'Nota metodológica'),
- ('p', 'Corte del 29 de octubre de 2026 a las 18:08. 110 Rayos X exportados; fuera pruebas, archivados y repetidos (una fila por institución, la más reciente): 102 instituciones en 69 ciudades, finalizados entre el 6 de marzo y el 28 de octubre de 2026. Montos en pesos mexicanos; las instituciones en dólares quedan fuera de los montos. Ningún dato con menos de cinco instituciones se publica. Medianas, con cuartiles y n por métrica, disponibles a solicitud: hola@superleads.mx.'),
+ ('p', 'Corte del 29 de octubre de 2026 a las 18:08. 110 Rayos X exportados; fuera pruebas, archivados y repetidos (una fila por institución, la más reciente): 102 instituciones en 69 ciudades, finalizados entre el 6 de marzo y el 28 de octubre de 2026. Montos en pesos mexicanos; las instituciones en dólares quedan fuera de los montos. Ningún dato con menos de cinco instituciones se publica. Medianas, con cuartiles y n por métrica, disponibles a solicitud: ricardo@superleads.mx.'),
  ])
 
 A2 = dict(n=2, slug='La educacion publica en Mexico · lo que dicen los datos',
@@ -168,9 +173,9 @@ A2 = dict(n=2, slug='La educacion publica en Mexico · lo que dicen los datos',
  ('h2', 'Lo que esto significa'),
  ('p', 'Súmalo y obtienes la trayectoria del niño promedio en la escuela pública: un plantel que en 4 de cada 10 casos carece de servicios básicos; un maestro que gana menos que el salario mínimo, sin formación ni evaluación; semanas de clases perdidas cada ciclo; 86 % de probabilidad de no tener jamás un maestro de inglés; y a los 15 años, 66 % de probabilidad de no dominar las matemáticas básicas.'),
  ('p', 'Quiero ser claro en algo. Yo quisiera que la escuela pública funcionara. Es la única salida real para un país de 130 millones de personas, y ojalá en algún futuro funcione. Pero hoy, con los pies en la tierra, no está funcionando, y la familia que decide dónde inscribir a su hijo lo sabe antes que cualquier informe. Por eso, mientras la pública se arregla, la educación privada no es un lujo ni una competencia desleal: es esencial para este país. Cada familia que encuentra un buen colegio privado es un niño que sale de esta estadística.'),
- ('p', 'Si diriges un colegio privado, este artículo es tu argumentario, con fuentes y sin adjetivos. La conversación de admisión más poderosa no es «somos mejores que el colegio X». Es «esto es lo que tu hijo recibe aquí, y esto es lo que el sistema le garantiza si no». La familia que cruza de la pública a la privada no está comparando colegios. Está comprando certeza. Y la primera prueba de certeza que le das no es tu instalación ni tu modelo educativo: es cómo la atiendes en las primeras 24 horas desde que mostró interés. En SuperLeads nos dedicamos exactamente a ese tramo, y es lo que escribiré en el siguiente artículo.'),
+ ('p', 'Si diriges un colegio privado, este artículo es tu argumentario, con fuentes y sin adjetivos. La conversación de admisión más poderosa no es «somos mejores que el colegio X». Es «esto es lo que tu hijo recibe aquí, y esto es lo que el sistema le garantiza si no». La familia que cruza de la pública a la privada no está comparando colegios. Está comprando certeza. Y la primera prueba de certeza que le das no es tu instalación ni tu modelo educativo: es cómo la atiendes en las primeras 24 horas desde que mostró interés. En SuperLeads nos dedicamos exactamente a ese tramo, y es lo que escribiré en el siguiente artículo. Si quieres los datos de este texto para tu propio argumentario, escríbeme: ricardo@superleads.mx.'),
  ('h2', 'Fuentes'),
- ('p', 'OCDE, PISA 2022 Results y Country Note México; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (2023) y Compara Carreras (2025); Banco Mundial, estimaciones de pérdida de aprendizajes post-COVID; Mejoredu / El Universal, evaluación diagnóstica 2024-2025; México Evalúa / Tec de Monterrey, Aprender Parejo (2024); Coneval, Información Estratégica para el Regreso a Clases (2021); SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024, y reportes oficiales del paro de la CNTE con corte al 5 de junio de 2026; ASF e INIFED, antigüedad y daño estructural de planteles; INEGI, ENOE 1T-2025; Data México, salarios por nivel educativo; Mexicanos Primero, Sorry: el aprendizaje del inglés en México y análisis de Education at a Glance (2025); SEP / SHCP, presupuestos del Programa Nacional de Inglés 2018-2024; OCDE, Education at a Glance 2023-2025; CIEP, Paquete Económico 2026; UNESCO, Estrategia de País México 2026-2031. Metodología y fuentes completas a solicitud: hola@superleads.mx.'),
+ ('p', 'OCDE, PISA 2022 Results y Country Note México; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (2023) y Compara Carreras (2025); Banco Mundial, estimaciones de pérdida de aprendizajes post-COVID; Mejoredu / El Universal, evaluación diagnóstica 2024-2025; México Evalúa / Tec de Monterrey, Aprender Parejo (2024); Coneval, Información Estratégica para el Regreso a Clases (2021); SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024, y reportes oficiales del paro de la CNTE con corte al 5 de junio de 2026; ASF e INIFED, antigüedad y daño estructural de planteles; INEGI, ENOE 1T-2025; Data México, salarios por nivel educativo; Mexicanos Primero, Sorry: el aprendizaje del inglés en México y análisis de Education at a Glance (2025); SEP / SHCP, presupuestos del Programa Nacional de Inglés 2018-2024; OCDE, Education at a Glance 2023-2025; CIEP, Paquete Económico 2026; UNESCO, Estrategia de País México 2026-2031. Metodología y fuentes completas a solicitud: ricardo@superleads.mx.'),
  ])
 
 A3 = dict(n=3, slug='La gran oportunidad de los duenos de colegios en Mexico',
@@ -228,9 +233,9 @@ A3 = dict(n=3, slug='La gran oportunidad de los duenos de colegios en Mexico',
  ('h2', 'Cierre'),
  ('p', 'El mercado ya hizo su parte. Las familias existen, el poder de pago existe, la demografía empuja y la oferta tiene espacio. La parte que falta no ocurre en el mercado: ocurre dentro de cada institución, en el tramo silencioso entre el primer «buenas tardes, quisiera informes» y la firma de la inscripción.'),
  ('p', 'La vida es más fácil cuando tienes tecnología, metodología, soporte y estrategia implementados en tu institución educativa. No porque te quiten trabajo, sino porque dejan de depender de la memoria, del teléfono de una persona y de la suerte de la temporada. A eso me dedico en SuperLeads, y es lo que hacemos en cada Rayos X de Inscripciones: en una sesión, poner los números del colegio como tienen que estar y ver, por fin, dónde está la fuga, qué la provoca y qué corregir primero.'),
- ('p', 'Si diriges un colegio, te pido una sola cosa después de leer esto: sé más ambicioso. El país te necesita lleno.'),
+ ('p', 'Si diriges un colegio, te pido una sola cosa después de leer esto: sé más ambicioso. El país te necesita lleno. Y si quieres platicarlo conmigo, escríbeme: ricardo@superleads.mx.'),
  ('h2', 'Fuentes'),
- ('p', 'Banco Mundial, matrícula primaria privada (indicador SE.PRM.PRIV.ZS); UNESCO UIS, matrícula por tipo de sostenimiento; AMAI, Regla NSE 2024; INEGI, ENIGH; APEIM, Niveles Socioeconómicos 2025 (Perú); SEP / SIGED, catálogo de centros de trabajo y RVOE; Minedu Perú, INEP Brasil, Mineduc Chile, MEN Colombia, NCES; rankings de colegiaturas 2025-2026 de CDMX, Lima, Bogotá, Santiago, São Paulo, Guatemala y Washington DC; IMCO, Índice de Competitividad Urbana 2026; CONAPO, ONU-Habitat; UPCEA, Enrollment Process Review: Secret Shopper Analysis 2025 (1,000 consultas a instituciones educativas); MIT / InsideSales.com, Lead Response Management Study (James Oldroyd); Harvard Business Review, «The Short Life of Online Sales Leads»; Asociación de Internet MX, Estudio de Hábitos de Usuarios de Internet en México; BrightLocal, Local Consumer Review Survey 2024-2026; Northwestern University / Spiegel Research Center; Shortway, Marketing para escuelas privadas, Guía 2026; Think with Google / SEMrush; SuperLeads, corte Rayos X de Inscripciones del 29 de octubre de 2026 (102 instituciones, 69 ciudades). Estimaciones de planteles físicos y promedios por colegio elaboradas por SuperLeads a partir de censos oficiales. Metodología completa a solicitud: hola@superleads.mx.'),
+ ('p', 'Banco Mundial, matrícula primaria privada (indicador SE.PRM.PRIV.ZS); UNESCO UIS, matrícula por tipo de sostenimiento; AMAI, Regla NSE 2024; INEGI, ENIGH; APEIM, Niveles Socioeconómicos 2025 (Perú); SEP / SIGED, catálogo de centros de trabajo y RVOE; Minedu Perú, INEP Brasil, Mineduc Chile, MEN Colombia, NCES; rankings de colegiaturas 2025-2026 de CDMX, Lima, Bogotá, Santiago, São Paulo, Guatemala y Washington DC; IMCO, Índice de Competitividad Urbana 2026; CONAPO, ONU-Habitat; UPCEA, Enrollment Process Review: Secret Shopper Analysis 2025 (1,000 consultas a instituciones educativas); MIT / InsideSales.com, Lead Response Management Study (James Oldroyd); Harvard Business Review, «The Short Life of Online Sales Leads»; Asociación de Internet MX, Estudio de Hábitos de Usuarios de Internet en México; BrightLocal, Local Consumer Review Survey 2024-2026; Northwestern University / Spiegel Research Center; Shortway, Marketing para escuelas privadas, Guía 2026; Think with Google / SEMrush; SuperLeads, corte Rayos X de Inscripciones del 29 de octubre de 2026 (102 instituciones, 69 ciudades). Estimaciones de planteles físicos y promedios por colegio elaboradas por SuperLeads a partir de censos oficiales. Metodología completa a solicitud: ricardo@superleads.mx.'),
  ])
 ARTICULOS = [A1, A2, A3]
 
@@ -248,13 +253,13 @@ def md_y_txt(a, figs):
         elif tipo == 'fig':
             k += 1; ruta, pie = figs[c]
             md += [f'![{pie}]({ruta})', '', f'*Figura {k}. {pie}*', '']; txt += [f'[IMAGEN {k:02d} · {os.path.basename(ruta)}]', f'Figura {k}. {pie}', '']
-    md += ['---', '', FIRMA, '']; txt += ['', FIRMA]
+    md += ['---', '', FIRMA, ''] + [f'**{FIRMA_NOMBRE[0]}**  '] + [f'{x}  ' for x in FIRMA_NOMBRE[1:]] + ['']; txt += ['', FIRMA, ''] + FIRMA_NOMBRE
     return '\n'.join(md), '\n'.join(txt)
 
 if __name__ == '__main__':
     os.makedirs(SALIDA, exist_ok=True); os.makedirs(HTMLD, exist_ok=True); os.makedirs(DESCARGAS, exist_ok=True)
     render.FORMATO = 'articulo'
-    ch = render.Chrome(alto=900, ancho=1600); resumen = []
+    ch = render.Chrome(alto=900, ancho=1600, dpr=2); resumen = []  # 2× para Retina: PNG de 3200×1800
     try:
         for a in ARTICULOS:
             carpeta = os.path.join(SALIDA, f'Artículo {a["n"]} · {a["slug"]}'); shutil.rmtree(carpeta, ignore_errors=True); os.makedirs(os.path.join(carpeta, 'imagenes'))
@@ -265,7 +270,7 @@ if __name__ == '__main__':
                 ruta_html = os.path.join(HTMLD, f'A{a["n"]}_{c}.html'); open(ruta_html, 'w').write(lamina_articulo(p)); ch.abrir('file://' + ruta_html)
                 escala = ch.eval('anim(99); fit()')
                 nombre = f'{k:02d} · {p["slug"]}.png'; ch.foto(os.path.join(carpeta, 'imagenes', nombre))
-                if escala and escala < .6: avisos.append(f'{c} escala {escala:.2f}')
+                if escala and escala < .7: avisos.append(f'{c} escala {escala:.2f}')
                 fuente = 'SuperLeads, corte Rayos X de Inscripciones del 29 de octubre de 2026 (102 instituciones privadas en 69 ciudades de México; mediana, no promedio).' if c[0] == 'X' else (p.get('nota') or '')
                 pie = re.sub('<[^>]+>', '', p['h1']).replace(' .', '.') + ' Fuente: ' + fuente
                 figs[c] = (f'imagenes/{nombre}', pie)
@@ -280,7 +285,7 @@ if __name__ == '__main__':
             '| # | Artículo | Palabras | Figuras |', '|---|---|---|---|'] + [f"| {r['n']} | {r['titulo']} | {r['palabras']} | {r['figuras']} |" for r in resumen] + ['',
             'Cada carpeta trae el texto en Markdown (con las imágenes en su lugar) y en TXT (con marcas [IMAGEN NN] donde va cada una), y la carpeta `imagenes/` con las gráficas en 1600×900: título arriba, nombre de Ricardo abajo a la izquierda y SuperLeads abajo a la derecha.', '',
             'Para armarlo en LinkedIn: Escribir artículo → pegar el TXT → en cada marca [IMAGEN NN] insertar la imagen correspondiente y poner la «Figura N» como pie. La imagen 01 de cada artículo sirve de portada.', '',
-            f'Firma al final de cada artículo: {FIRMA}', '']
+            f'Firma al final de cada artículo: {FIRMA} / ' + ' · '.join(FIRMA_NOMBRE), '']
     open(os.path.join(SALIDA, f'GUÍA tres artículos · {VERSION} · {SELLO}.md'), 'w').write('\n'.join(guia)); json.dump(resumen, open(os.path.join(SALIDA, 'resumen.json'), 'w'), ensure_ascii=False, indent=1)
     for f in glob.glob(os.path.join(DESCARGAS, '*')): shutil.rmtree(f) if os.path.isdir(f) else os.remove(f)
     for f in glob.glob(os.path.join(SALIDA, '*')): (shutil.copytree if os.path.isdir(f) else shutil.copy)(f, os.path.join(DESCARGAS, os.path.basename(f)))

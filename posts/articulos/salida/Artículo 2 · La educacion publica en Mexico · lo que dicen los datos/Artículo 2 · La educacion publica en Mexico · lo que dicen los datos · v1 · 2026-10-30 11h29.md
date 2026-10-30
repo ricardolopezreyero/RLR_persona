@@ -1,6 +1,6 @@
-La educación pública en México: lo que dicen los datos
+# La educación pública en México: lo que dicen los datos
 
-Aprendizajes, planteles, maestros, días de clase e inversión. Las cifras oficiales e internacionales que todavía existen, puestas en una sola página.
+*Aprendizajes, planteles, maestros, días de clase e inversión. Las cifras oficiales e internacionales que todavía existen, puestas en una sola página.*
 
 Por Ricardo López Reyero
 
@@ -10,108 +10,124 @@ Este artículo responde esa pregunta con datos. No con percepciones ni con anéc
 
 Y es, también, un documento que se está volviendo difícil de armar. Buena parte de esta información ya no se produce: el país desmanteló sus instrumentos de medición educativa, y lo que no se mide tiende a desaparecer del debate. Por eso lo escribo hoy, con las últimas cifras que existen.
 
-1. LO QUE APRENDEN, Y LO QUE NO
+## 1. Lo que aprenden, y lo que no
 
 La última fotografía internacional del aprendizaje en México es PISA 2022, de la OCDE. La última, porque después el país dejó de medirse. El retrato es este: México quedó en el lugar 35 de 37 países de la OCDE. Tercer peor resultado en Matemáticas y Lectura; el peor de toda la OCDE en Ciencias.
 
-[IMAGEN 01 · 01 · Lugar 35 de 37 en PISA.png]
-Figura 1. México: lugar 35 de 37 países de la OCDE. Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.
+![México: lugar 35 de 37 países de la OCDE. Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.](imagenes/01 · Lugar 35 de 37 en PISA.png)
+
+*Figura 1. México: lugar 35 de 37 países de la OCDE. Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.*
 
 En Matemáticas, el alumno mexicano de 15 años obtuvo 395 puntos contra 472 del promedio OCDE: 77 puntos abajo. Veinte puntos PISA equivalen, aproximadamente, a un año escolar. En Lectura, 415 contra 476. En Ciencias, 410 contra 485.
 
 66 % de los alumnos mexicanos de 15 años no alcanza el nivel básico de competencia en Matemáticas. 47 % no comprende lo que lee al nivel mínimo. 1 % alcanza niveles de excelencia en Lectura; en Matemáticas, prácticamente 0 %.
 
-[IMAGEN 02 · 02 · 2 de cada 3 reprobados en lo basico.png]
-Figura 2. 2 de cada 3 reprobados en lo básico. Fuente: Fuente: OCDE, PISA 2022; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (dic 2023).
+![2 de cada 3 reprobados en lo básico. Fuente: Fuente: OCDE, PISA 2022; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (dic 2023).](imagenes/02 · 2 de cada 3 reprobados en lo basico.png)
+
+*Figura 2. 2 de cada 3 reprobados en lo básico. Fuente: Fuente: OCDE, PISA 2022; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (dic 2023).*
 
 El Banco Mundial estima que la pandemia añadió un rezago equivalente a dos años de escolaridad: el egresado promedio de secundaria sabe hoy lo que antes sabía un alumno de primero. Y la última evaluación nacional conocida, la de Mejoredu para el ciclo 2024-2025, filtrada a la prensa, encontró que 8 de cada 10 estudiantes de tercero de secundaria no desarrollaron los aprendizajes esperados.
 
-[IMAGEN 03 · 03 · 8 de cada 10 sin los aprendizajes esperados.png]
-Figura 3. 8 de cada 10 no desarrollaron los aprendizajes esperados. Fuente: Fuente: Mejoredu, evaluación diagnóstica 2024–2025 (no publicada oficialmente; filtrada a la prensa, oct 2025); Banco Mundial, estimación de pérdida de aprendizajes post-COVID.
+![8 de cada 10 no desarrollaron los aprendizajes esperados. Fuente: Fuente: Mejoredu, evaluación diagnóstica 2024–2025 (no publicada oficialmente; filtrada a la prensa, oct 2025); Banco Mundial, estimación de pérdida de aprendizajes post-COVID.](imagenes/03 · 8 de cada 10 sin los aprendizajes esperados.png)
 
-2. EL PLANTEL: APRENDER SIN AGUA, SIN LUZ, SIN INTERNET
+*Figura 3. 8 de cada 10 no desarrollaron los aprendizajes esperados. Fuente: Fuente: Mejoredu, evaluación diagnóstica 2024–2025 (no publicada oficialmente; filtrada a la prensa, oct 2025); Banco Mundial, estimación de pérdida de aprendizajes post-COVID.*
+
+## 2. El plantel: aprender sin agua, sin luz, sin internet
 
 La desigualdad educativa mexicana no empieza en el aula. Empieza en el inmueble. Según el estudio Aprender Parejo de México Evalúa y el Tec de Monterrey, 40 % de las escuelas públicas opera con al menos una carencia de servicios básicos: agua, luz o sanitarios dignos. En las privadas, 8 %.
 
-[IMAGEN 04 · 04 · 4 de cada 10 escuelas sin agua luz o sanitarios.png]
-Figura 4. 4 de cada 10 escuelas públicas operan sin agua, luz o sanitarios dignos. Fuente: Porcentaje de planteles que operan con al menos una carencia de servicios esenciales. Fuente: Aprender Parejo, México Evalúa / Tec de Monterrey (2024).
+![4 de cada 10 escuelas públicas operan sin agua, luz o sanitarios dignos. Fuente: Porcentaje de planteles que operan con al menos una carencia de servicios esenciales. Fuente: Aprender Parejo, México Evalúa / Tec de Monterrey (2024).](imagenes/04 · 4 de cada 10 escuelas sin agua luz o sanitarios.png)
+
+*Figura 4. 4 de cada 10 escuelas públicas operan sin agua, luz o sanitarios dignos. Fuente: Porcentaje de planteles que operan con al menos una carencia de servicios esenciales. Fuente: Aprender Parejo, México Evalúa / Tec de Monterrey (2024).*
 
 Las cifras oficiales lo confirman pieza por pieza. 9,034 planteles públicos de educación básica no tienen acceso a agua potable y 5,112 no tienen servicio eléctrico, según la SEP para el ciclo 2023-2024. 89 mil escuelas de básica no tienen drenaje, según el Coneval. 61 % de las primarias supera los 25 años de vida útil estructural, según la Auditoría Superior de la Federación. 31 % de los planteles diagnosticados por el INIFED presentaba daño estructural.
 
 Y 65 de cada 100 escuelas públicas operan sin computadoras ni internet. En un país cuya economía se mueve con el T-MEC, el nearshoring y el turismo, dos de cada tres escuelas públicas no tienen una computadora conectada.
 
-[IMAGEN 05 · 05 · 65 de cada 100 escuelas sin computadora ni internet.png]
-Figura 5. 65 de cada 100 escuelas públicas no tienen computadoras ni internet. Fuente: Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.
+![65 de cada 100 escuelas públicas no tienen computadoras ni internet. Fuente: Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.](imagenes/05 · 65 de cada 100 escuelas sin computadora ni internet.png)
+
+*Figura 5. 65 de cada 100 escuelas públicas no tienen computadoras ni internet. Fuente: Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.*
 
 Lo notable no es la falta de dinero. Entre 2013 y 2024 se gastaron $451,230 millones MXN en infraestructura educativa. Pero desde 2019 dejó de actualizarse el censo nacional de infraestructura escolar, así que nadie puede decir, oficialmente, en qué se convirtió ese dinero. Se gastó el presupuesto y se apagó el medidor.
 
-3. QUIÉN ESTÁ FRENTE AL GRUPO
+## 3. Quién está frente al grupo
 
 Aquí conviene decirlo con claridad: el docente mexicano no es el villano de esta historia. Es su segunda víctima. Los datos del INEGI, en la ENOE del primer trimestre de 2025, sobre los cerca de dos millones de docentes del país, dicen que el ingreso mensual promedio de un maestro es de $7,890 MXN. El salario mínimo de 2025 es de $8,400 MXN. Un maestro de preescolar promedia $6,430 MXN; uno de preparatoria, $6,260 MXN.
 
-[IMAGEN 06 · 06 · El maestro gana menos que el salario minimo.png]
-Figura 6. El maestro promedio gana menos que el salario mínimo. Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.
+![El maestro promedio gana menos que el salario mínimo. Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.](imagenes/06 · El maestro gana menos que el salario minimo.png)
+
+*Figura 6. El maestro promedio gana menos que el salario mínimo. Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.*
 
 Son promedios nacionales que incluyen jornadas parciales e informalidad. Las mediciones de docentes formales de tiempo completo, como las del IMCO, elevan el promedio a unos $18,000 MXN, todavía por debajo del promedio OCDE para la profesión. La OCDE añade el cuadro estructural: México combina una de las cargas frente a grupo más altas del organismo con uno de los salarios base más bajos.
 
 A eso se suman dos decisiones de política. La capacitación docente es esporádica y sin seguimiento. Y desde 2019, con la cancelación de la evaluación docente obligatoria, no existe ningún mecanismo nacional que verifique las competencias de quien está frente a un grupo. El mensaje del sistema a su maestro es coherente y devastador: te pago poco, no te formo, no te evalúo. La desmotivación no es un defecto del magisterio. Es la respuesta racional a esos incentivos.
 
-4. EL CALENDARIO QUE NO SE CUMPLE
+## 4. El calendario que no se cumple
 
 En junio de 2026 ocurrió la interrupción educativa de mayor cobertura geográfica en décadas. El paro nacional de la CNTE, iniciado el 1 de junio, dejó, en cifras de la propia SEP con corte al 5 de junio, 17,471 escuelas cerradas en la recta final del ciclo, 1,410,459 alumnos sin clases y 88,546 docentes en paro en diez estados. En Oaxaca, 92.13 % de la matrícula estatal se quedó sin un solo día de clases.
 
-[IMAGEN 07 · 07 · 1.4 millones de ninos sin clases.png]
-Figura 7. 1.4 millones de niños sin clases. Fuente: Fuente: SEP, reportes oficiales del paro de la CNTE, corte al 5 de junio de 2026; cobertura de Excélsior, El Universal y El Informador.
+![1.4 millones de niños sin clases. Fuente: Fuente: SEP, reportes oficiales del paro de la CNTE, corte al 5 de junio de 2026; cobertura de Excélsior, El Universal y El Informador.](imagenes/07 · 1.4 millones de ninos sin clases.png)
+
+*Figura 7. 1.4 millones de niños sin clases. Fuente: Fuente: SEP, reportes oficiales del paro de la CNTE, corte al 5 de junio de 2026; cobertura de Excélsior, El Universal y El Informador.*
 
 No es un evento extraordinario. Es un patrón que se repite cada ciclo desde hace décadas, con distinta intensidad por estado, y sus efectos son acumulativos: cada semana perdida en los primeros años de escolaridad es un agujero que rara vez se recupera, y golpea más a las familias sin acceso a clases particulares, computadora o internet.
 
 Para la familia, la consecuencia práctica es la incertidumbre: no sabe, al inscribir el ciclo, cuántos días de clase recibirá realmente su hijo. La certeza del calendario, algo tan elemental que ningún colegio privado lo presume, es uno de los diferenciales más valorados por las familias que cruzan de la pública a la privada.
 
-5. EL INGLÉS: UNA MATERIA QUE SE APRUEBA SIN APRENDERSE
+## 5. El inglés: una materia que se aprueba sin aprenderse
 
 El diagnóstico más completo sobre el inglés en la escuela pública, el estudio Sorry de Mexicanos Primero, sigue sin ser refutado, y la evidencia posterior indica deterioro. 97 % de los egresados de secundaria pública no alcanza el nivel de inglés del propio plan de la SEP. 86 % de las escuelas públicas de básica no tiene siquiera un maestro de inglés. 52 % de los maestros que sí lo imparten no alcanza el nivel B1 que se espera de sus alumnos.
 
-[IMAGEN 08 · 08 · Faltan 4 de cada 5 maestros de ingles.png]
-Figura 8. Faltan 4 de cada 5 maestros de inglés. Fuente: Fuente: Mexicanos Primero, «Sorry: el aprendizaje del inglés en México» (CIDE / CEES); SEP / SHCP, presupuestos del PRONI 2018–2024. Cobertura nacional estimada: 20%.
+![Faltan 4 de cada 5 maestros de inglés. Fuente: Fuente: Mexicanos Primero, «Sorry: el aprendizaje del inglés en México» (CIDE / CEES); SEP / SHCP, presupuestos del PRONI 2018–2024. Cobertura nacional estimada: 20%.](imagenes/08 · Faltan 4 de cada 5 maestros de ingles.png)
+
+*Figura 8. Faltan 4 de cada 5 maestros de inglés. Fuente: Fuente: Mexicanos Primero, «Sorry: el aprendizaje del inglés en México» (CIDE / CEES); SEP / SHCP, presupuestos del PRONI 2018–2024. Cobertura nacional estimada: 20%.*
 
 México necesita 400,000 maestros de inglés y tiene 80,000. La matrícula pública atendida con inglés cayó 43 %, de 9.2 a 5.2 millones de alumnos, y el presupuesto del Programa Nacional de Inglés se redujo 27 % real entre 2018 y 2024. En primaria pública, el inglés ni siquiera es obligatorio. El niño de colegio privado toma inglés desde preescolar. El de escuela pública, con 86 % de probabilidad, jamás tendrá un maestro del idioma.
 
-6. CUÁNTO INVIERTE EL ESTADO EN CADA NIÑO
+## 6. Cuánto invierte el Estado en cada niño
 
 Detrás de cada sección anterior hay una causa común, y la OCDE la mide cada año en Education at a Glance. México ocupa el último lugar de la OCDE en gasto por alumno de primaria: $2,933 USD al año. Luxemburgo invierte $25,584 USD; Estados Unidos, $15,270 USD; el promedio OCDE es $11,902 USD. Países con menor PIB per cápita que México, como Colombia, Bulgaria, Turquía, Hungría y Rumania, invierten más por niño.
 
-[IMAGEN 09 · 09 · Ultimo lugar de la OCDE en gasto por alumno.png]
-Figura 9. Último lugar de la OCDE en gasto por alumno. Fuente: Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).
+![Último lugar de la OCDE en gasto por alumno. Fuente: Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).](imagenes/09 · Ultimo lugar de la OCDE en gasto por alumno.png)
+
+*Figura 9. Último lugar de la OCDE en gasto por alumno. Fuente: Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).*
 
 Y la tendencia es descendente. El gasto por alumno cayó 10.5 % entre 2015 y 2022 mientras el promedio OCDE subía. El gasto educativo de 2026 equivale a 3.19 % del PIB, el nivel más bajo desde 2018. La composición también cambió: cerca de 180 mil millones de pesos anuales se destinan a becas universales que, según los especialistas, no han mejorado cobertura, permanencia ni aprendizaje, mientras se recorta lo que construye capacidad: escuelas, maestros, materiales, evaluación.
 
 Un dato cierra el círculo: la escuela «gratuita» no lo es. Las familias mexicanas cubren 16.2 % del gasto educativo en básica y media superior, con cooperaciones, útiles y mantenimiento de los planteles. El promedio OCDE es 9.9 %. La familia mexicana ya paga por la educación pública. Lo que no recibe a cambio es el servicio.
 
-[IMAGEN 10 · 10 · La escuela gratuita no lo es.png]
-Figura 10. La escuela gratuita no lo es. Fuente: Fuente: OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026.
+![La escuela gratuita no lo es. Fuente: Fuente: OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026.](imagenes/10 · La escuela gratuita no lo es.png)
 
-7. EL PAÍS QUE ROMPIÓ SUS TERMÓMETROS
+*Figura 10. La escuela gratuita no lo es. Fuente: Fuente: OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026.*
+
+## 7. El país que rompió sus termómetros
 
 Si algunas cifras de este artículo te parecieron viejas, no es descuido mío. Es el hallazgo central: México desmanteló sistemáticamente sus instrumentos de medición educativa. La cronología, verificada por la UNESCO en su Estrategia de País 2026-2031, es esta.
 
-[IMAGEN 11 · 11 · El pais que rompio sus termometros.png]
-Figura 11. El país que rompió sus propios termómetros. Fuente: Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).
+![El país que rompió sus propios termómetros. Fuente: Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).](imagenes/11 · El pais que rompio sus termometros.png)
+
+*Figura 11. El país que rompió sus propios termómetros. Fuente: Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).*
 
 En 2019 desaparece el INEE, el instituto autónomo de evaluación. Se cancelan las pruebas censales nacionales (PLANEA) y la evaluación docente obligatoria. Se congela el censo de infraestructura escolar. Entre 2019 y 2025 México sale del ERCE, la prueba regional de la UNESCO, y pone en riesgo su participación en PISA 2025, al grado de que la OCDE pide públicamente no abandonar la última medición que queda. En 2025 desaparece Mejoredu, el organismo que sustituyó al INEE, sin publicar los resultados de su última evaluación diagnóstica. En 2026 la UNESCO advierte que México implementa un nuevo modelo educativo, la Nueva Escuela Mexicana, sin ningún mecanismo nacional para saber si funciona.
 
 Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. Se destruyen cuando los resultados son indefendibles. La opacidad no es un descuido administrativo. Es una política. Y la consecuencia para todos es que el debate público sobre educación se da con datos de 2022 hacia atrás.
 
-LO QUE ESTO SIGNIFICA
+## Lo que esto significa
 
 Súmalo y obtienes la trayectoria del niño promedio en la escuela pública: un plantel que en 4 de cada 10 casos carece de servicios básicos; un maestro que gana menos que el salario mínimo, sin formación ni evaluación; semanas de clases perdidas cada ciclo; 86 % de probabilidad de no tener jamás un maestro de inglés; y a los 15 años, 66 % de probabilidad de no dominar las matemáticas básicas.
 
 Quiero ser claro en algo. Yo quisiera que la escuela pública funcionara. Es la única salida real para un país de 130 millones de personas, y ojalá en algún futuro funcione. Pero hoy, con los pies en la tierra, no está funcionando, y la familia que decide dónde inscribir a su hijo lo sabe antes que cualquier informe. Por eso, mientras la pública se arregla, la educación privada no es un lujo ni una competencia desleal: es esencial para este país. Cada familia que encuentra un buen colegio privado es un niño que sale de esta estadística.
 
-Si diriges un colegio privado, este artículo es tu argumentario, con fuentes y sin adjetivos. La conversación de admisión más poderosa no es «somos mejores que el colegio X». Es «esto es lo que tu hijo recibe aquí, y esto es lo que el sistema le garantiza si no». La familia que cruza de la pública a la privada no está comparando colegios. Está comprando certeza. Y la primera prueba de certeza que le das no es tu instalación ni tu modelo educativo: es cómo la atiendes en las primeras 24 horas desde que mostró interés. En SuperLeads nos dedicamos exactamente a ese tramo, y es lo que escribiré en el siguiente artículo.
+Si diriges un colegio privado, este artículo es tu argumentario, con fuentes y sin adjetivos. La conversación de admisión más poderosa no es «somos mejores que el colegio X». Es «esto es lo que tu hijo recibe aquí, y esto es lo que el sistema le garantiza si no». La familia que cruza de la pública a la privada no está comparando colegios. Está comprando certeza. Y la primera prueba de certeza que le das no es tu instalación ni tu modelo educativo: es cómo la atiendes en las primeras 24 horas desde que mostró interés. En SuperLeads nos dedicamos exactamente a ese tramo, y es lo que escribiré en el siguiente artículo. Si quieres los datos de este texto para tu propio argumentario, escríbeme: ricardo@superleads.mx.
 
-FUENTES
+## Fuentes
 
-OCDE, PISA 2022 Results y Country Note México; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (2023) y Compara Carreras (2025); Banco Mundial, estimaciones de pérdida de aprendizajes post-COVID; Mejoredu / El Universal, evaluación diagnóstica 2024-2025; México Evalúa / Tec de Monterrey, Aprender Parejo (2024); Coneval, Información Estratégica para el Regreso a Clases (2021); SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024, y reportes oficiales del paro de la CNTE con corte al 5 de junio de 2026; ASF e INIFED, antigüedad y daño estructural de planteles; INEGI, ENOE 1T-2025; Data México, salarios por nivel educativo; Mexicanos Primero, Sorry: el aprendizaje del inglés en México y análisis de Education at a Glance (2025); SEP / SHCP, presupuestos del Programa Nacional de Inglés 2018-2024; OCDE, Education at a Glance 2023-2025; CIEP, Paquete Económico 2026; UNESCO, Estrategia de País México 2026-2031. Metodología y fuentes completas a solicitud: hola@superleads.mx.
+OCDE, PISA 2022 Results y Country Note México; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (2023) y Compara Carreras (2025); Banco Mundial, estimaciones de pérdida de aprendizajes post-COVID; Mejoredu / El Universal, evaluación diagnóstica 2024-2025; México Evalúa / Tec de Monterrey, Aprender Parejo (2024); Coneval, Información Estratégica para el Regreso a Clases (2021); SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024, y reportes oficiales del paro de la CNTE con corte al 5 de junio de 2026; ASF e INIFED, antigüedad y daño estructural de planteles; INEGI, ENOE 1T-2025; Data México, salarios por nivel educativo; Mexicanos Primero, Sorry: el aprendizaje del inglés en México y análisis de Education at a Glance (2025); SEP / SHCP, presupuestos del Programa Nacional de Inglés 2018-2024; OCDE, Education at a Glance 2023-2025; CIEP, Paquete Económico 2026; UNESCO, Estrategia de País México 2026-2031. Metodología y fuentes completas a solicitud: ricardo@superleads.mx.
 
+---
 
-Viernes 30 de octubre de 2026, 9:24 pm · Torreón, Coahuila, México · Épico, 19°.
+Viernes 30 de octubre de 2026, 9:24 am · Torreón, Coahuila, México · 19°.
+
+**Ing. Ricardo López Reyero**  
+Founder Comercial · SuperLeads  
+ricardo@superleads.mx  

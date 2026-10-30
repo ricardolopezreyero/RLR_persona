@@ -333,9 +333,9 @@ def pagina(p):
 
 # ───────────── Chrome por CDP ─────────────  RLR
 class Chrome:
-    def __init__(self, port=9333, alto=1920, ancho=1080):
+    def __init__(self, port=9333, alto=1920, ancho=1080, dpr=1):
         self.dir = tempfile.mkdtemp(prefix='rlr_chrome_')
-        self.p = subprocess.Popen([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--no-first-run', '--force-device-scale-factor=1',
+        self.p = subprocess.Popen([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--no-first-run', f'--force-device-scale-factor={dpr}',
                                    f'--remote-debugging-port={port}', f'--window-size={ancho},{alto}', f'--user-data-dir={self.dir}', 'about:blank'],
                                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         for _ in range(80):
@@ -345,7 +345,7 @@ class Chrome:
         tab = next(t for t in tabs if t['type'] == 'page')
         self.ws = websocket.create_connection(tab['webSocketDebuggerUrl'], max_size=None, suppress_origin=True); self.i = 0
         self.send('Page.enable'); self.send('Runtime.enable')
-        self.send('Emulation.setDeviceMetricsOverride', width=ancho, height=alto, deviceScaleFactor=1, mobile=False)
+        self.send('Emulation.setDeviceMetricsOverride', width=ancho, height=alto, deviceScaleFactor=dpr, mobile=False)
 
     def send(self, method, **params):
         self.i += 1; self.ws.send(json.dumps(dict(id=self.i, method=method, params=params)))

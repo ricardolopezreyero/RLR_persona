@@ -19,8 +19,10 @@ Lienzo horizontal 1600×900 (se ve completo en el cuerpo del artículo de Linked
 1. Es Ricardo escribiendo, de tú al lector; una idea por párrafo, lenguaje llano, cada párrafo da sentido al anterior.
 2. Nada se inventa: todas las cifras salen de las piezas de las series (y, por tanto, de los documentos P1-01, P1-02, P1-03 y del corte Rayos X) con su fuente; el artículo 2 y 3 cierran con la lista de fuentes.
 3. SuperLeads se menciona al final, como parte del artículo, nunca como anuncio. La frase de Ricardo «La vida es más fácil cuando tienes tecnología, metodología, soporte y estrategia implementados en tu institución educativa» va en el artículo 3.
-4. Cierre de cada artículo: `Viernes 30 de octubre de 2026, 9:24 pm · Torreón, Coahuila, México · Épico, 19°.` (la fecha en que se escribieron; si se publican después, se deja igual).
-5. Montos siempre con MXN o USD.
+4. Cierre de cada artículo: `Viernes 30 de octubre de 2026, 9:24 am · Torreón, Coahuila, México · 19°.` y la firma `Ing. Ricardo López Reyero · Founder Comercial · SuperLeads · ricardo@superleads.mx` (la fecha en que se escribieron; si se publican después, se deja igual).
+5. El contacto en todo lo de Ricardo es **ricardo@superleads.mx**, nunca hola@superleads.mx: «literal es para que me escriban».
+6. Imágenes a 2× (3200×1800) para pantallas Retina; en las gráficas de dos bloques el script prueba fila y columna y se queda con la disposición que cabe más grande.
+7. Montos siempre con MXN o USD.
 
 ## Cómo regenerar
 
