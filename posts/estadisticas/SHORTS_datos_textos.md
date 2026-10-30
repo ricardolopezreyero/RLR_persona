@@ -1,8 +1,8 @@
-# Serie «Datos» · textos para YouTube Shorts · 2026-10-29 21h16
+# Serie «La realidad de la educación» · textos para YouTube Shorts · 2026-10-29 21h20
 
-26 piezas en tres series, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), más título, descripción y hashtags listos para Studio. Ninguna está publicada ni programada. Archivos en `salida/`.
+26 piezas en tres capítulos, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), más título, descripción y hashtags listos para Studio. Ninguna está publicada ni programada. Archivos en `salida/`.
 
-## Serie 1 · La realidad de la educación pública en México
+## Capítulo 1 · La realidad de la educación pública en México
 
 Documento de origen: P1-01 · La realidad de la educación pública en México (julio 2026)
 
@@ -20,7 +20,7 @@ Documento de origen: P1-01 · La realidad de la educación pública en México (
 | 10 | 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación | `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 21h12.png` |
 | 11 | 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados | `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 21h12.png` |
 
-## Serie 2 · La boleta invisible: cómo eligen colegio las familias mexicanas
+## Capítulo 2 · La boleta invisible: cómo eligen colegio las familias mexicanas
 
 Documento de origen: P1-02 · La boleta invisible: cómo deciden las familias (julio 2026)
 
@@ -37,7 +37,7 @@ Documento de origen: P1-02 · La boleta invisible: cómo deciden las familias (j
 | 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 21h12.png` |
 | 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 21h12.png` |
 
-## Serie 3 · Análisis de la educación privada en Latinoamérica
+## Capítulo 3 · Análisis de la educación privada en Latinoamérica
 
 Documento de origen: P1-03 · Análisis de la educación privada en LATAM (julio 2026)
 

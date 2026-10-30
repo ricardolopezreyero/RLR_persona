@@ -2,7 +2,7 @@
 y la hoja de contacto (hoja.jpg). Uso: python3 entregar.py"""
 import os, json, glob, datetime
 from PIL import Image
-from serie import P, SERIES, armar_descripcion, HASH_BASE, HASH_SERIE
+from serie import P, SERIES, armar_descripcion, HASH_BASE, HASH_SERIE, SERIE_MADRE
 
 AQUI = os.path.dirname(os.path.abspath(__file__)); SALIDA = os.path.join(AQUI, 'salida')
 SELLO = datetime.datetime.now().strftime('%Y-%m-%d %Hh%M')
@@ -15,11 +15,11 @@ for p in P:
                     fuente=p['nota'], estado='hecho, sin publicar'))
 json.dump(idx, open(os.path.join(AQUI, 'indice.json'), 'w'), ensure_ascii=False, indent=1)
 
-md = [f'# Serie «Datos» · textos para YouTube Shorts · {SELLO}', '',
-      f'{len(P)} piezas en tres series, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), '
+md = [f'# Serie «{SERIE_MADRE}» · textos para YouTube Shorts · {SELLO}', '',
+      f'{len(P)} piezas en tres capítulos, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), '
       'más título, descripción y hashtags listos para Studio. Ninguna está publicada ni programada. Archivos en `salida/`.', '']
 for k, s in SERIES.items():
-    md += [f'## Serie {k} · {s["nombre"]}', '', f'Documento de origen: {s["doc"]}', '', '| # | Título | Archivo |', '|---|---|---|']
+    md += [f'## Capítulo {k} · {s["nombre"]}', '', f'Documento de origen: {s["doc"]}', '', '| # | Título | Archivo |', '|---|---|---|']
     md += [f'| {r["n"]:02d} | {r["titulo"]} | `{r["png"]}` |' for r in idx if r['serie'] == k]
     md.append('')
 md += ['---', '']
