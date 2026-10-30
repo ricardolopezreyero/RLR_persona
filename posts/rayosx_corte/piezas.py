@@ -265,7 +265,7 @@ if __name__ == '__main__':
     solo_png = os.environ.get('SOLO_PNG') == '1'
     for p in P: assert len(p['titulo']) <= 140, (p['n'], len(p['titulo'])); assert len(p['eyebrow']) <= 58, (p['n'], p['eyebrow'])
     render.P, render.SERIES = P, SERIES; render.SALIDA = os.path.join(CARPETA, 'salida'); render.HTMLD = os.path.join(CARPETA, 'html')
-    render.PIE = ('superleads.mx', f'Corte Rayos X · {MES} {ANIO}'); render.LOGO = 'file://' + os.path.abspath(os.path.join(AQUI, '..', 'estadisticas', 'logo_blanco.svg'))
+    render.PIE = ('', f'Corte Rayos X · {MES} {ANIO}'); render.LOGO = 'file://' + os.path.abspath(os.path.join(AQUI, '..', 'estadisticas', 'logo_blanco.svg'))
     for f in glob.glob(os.path.join(render.SALIDA, '*')): os.remove(f)
     ch = render.Chrome(); idx = []
     try:

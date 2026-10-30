@@ -8,9 +8,9 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:var(--n
 .fondo{position:absolute;inset:0;overflow:hidden;pointer-events:none}
 .g1{position:absolute;top:-240px;right:-280px;width:960px;height:960px;border-radius:50%;background:rgba(42,137,251,.11);filter:blur(150px)}
 .g2{position:absolute;bottom:-320px;left:-280px;width:900px;height:900px;border-radius:50%;background:rgba(86,239,159,.07);filter:blur(150px)}
-header{position:absolute;top:96px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-header img{width:224px;height:auto;display:block}
-.serie{font-size:20px;font-weight:700;letter-spacing:2.4px;color:var(--t3);text-transform:uppercase;text-align:right}
+header{position:absolute;top:78px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.marca{display:flex;align-items:center;gap:22px} .marca .mono{height:104px;width:auto;display:block} .marca .nombre{height:72px;width:auto;display:block}
+.serie{font-size:17px;font-weight:700;letter-spacing:2px;color:var(--t3);text-transform:uppercase;text-align:right;max-width:300px;line-height:1.35}
 main{position:absolute;top:292px;left:80px;right:80px}
 .eyebrow{display:flex;align-items:center;gap:12px;margin-bottom:26px}
 .eyebrow::before{content:"";width:12px;height:12px;border-radius:50%;background:var(--green);flex:none}
@@ -21,7 +21,8 @@ h1 em{font-style:italic;color:var(--green)}
 .lectura{margin-top:var(--gap);font-size:33px;line-height:1.38;font-weight:500;color:var(--t2)}
 .nota{margin-top:28px;font-size:22px;line-height:1.4;color:var(--t3)}
 main.compacto .lectura{font-size:30px;margin-top:30px} main.compacto .nota{font-size:21px;margin-top:22px} main.compacto .grafica>*+*{margin-top:26px}
-footer{position:absolute;left:80px;right:80px;bottom:132px;border-top:.5px solid rgba(255,255,255,.14);padding-top:26px;display:flex;justify-content:space-between;font-size:21px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--t3)}
+footer{position:absolute;left:80px;right:80px;bottom:132px;border-top:.5px solid rgba(255,255,255,.14);padding-top:26px;display:flex;justify-content:space-between;align-items:center;font-size:21px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--t3)}
+footer img{width:172px;height:auto;display:block}
 svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .tab{font-variant-numeric:tabular-nums}
 .waffle{display:flex;align-items:center;gap:48px} .wnum .n{font-size:168px;font-weight:800;letter-spacing:-7px;line-height:1} .wnum .l{margin-top:16px;font-size:27px;line-height:1.35;color:var(--t2)}
 .dona{display:flex;align-items:center;gap:44px} .dona .l{font-size:30px;line-height:1.38;color:var(--t2)}
@@ -37,7 +38,7 @@ svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .t
 .cr{margin-top:24px;font-size:22px;font-style:italic;color:var(--t3);line-height:1.35}
 </style></head><body data-author="RLR">
 <div class="fondo"><div class="g1"></div><div class="g2"></div></div>
-<header><img src="file:///Users/ricardolopezreyero/Code/RLR_persona/posts/estadisticas/logo_blanco.svg" alt="SuperLeads"><div class="serie">CORTE RAYOS X · OCT 2026<br>06 / 19</div></header>
+<header><div class="marca"><img class="mono" src="file:///Users/ricardolopezreyero/Code/RLR_persona/posts/estadisticas/rlr_monograma.png" alt="RLR"><img class="nombre" src="file:///Users/ricardolopezreyero/Code/RLR_persona/posts/estadisticas/rlr_nombre.png" alt="Ricardo López Reyero"></div><div class="serie">CORTE RAYOS X · OCT 2026<br>06 / 19</div></header>
 <main style="--h1:74px;--ls:-2.6px;--gap:34px" class="compacto">
 <div class="eyebrow"><span>CIERRE · DE LA CITA A LA INSCRIPCIÓN</span></div>
 <h1 data-a="oy" data-d="0" data-t=".8">Cuando la familia va a la cita, <em>4 de cada 10</em> se inscriben.</h1>
@@ -45,7 +46,7 @@ svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .t
 <div class="lectura" data-a="oy" data-d="2.78" data-t=".8">El cierre en cita es 40%; la conversión total es 2.4%. La familia no se pierde en la visita. Se pierde antes de llegar a ella.</div>
 <div class="nota" data-a="o" data-d="3.18" data-t=".7">Cierre en cita = inscritos ÷ familias que asistieron a cita, según el director. Muestra: 102 Rayos X de Inscripciones en 69 ciudades, entre marzo y octubre de 2026. Instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio. n = 33 / 13 / 35 / 86 (colegios con primaria, con preparatoria, universidades, todas).</div>
 </main>
-<footer><span>superleads.mx</span><span>Corte Rayos X · octubre 2026</span></footer>
+<footer><img src="file:///Users/ricardolopezreyero/Code/RLR_persona/posts/estadisticas/logo_blanco.svg" alt="SuperLeads"><span>Corte Rayos X · octubre 2026</span></footer>
 <script>
 /* RLR */ const _RLR='Ricardo López Reyero', _k='EYE', _rev=181218;
 const E=t=>{t=Math.min(Math.max(t,0),1);return 1-Math.pow(1-t,3)};

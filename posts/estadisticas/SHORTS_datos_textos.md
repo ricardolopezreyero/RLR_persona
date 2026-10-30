@@ -1,4 +1,4 @@
-# Serie «Datos» · textos para YouTube Shorts · 2026-10-29 18h30
+# Serie «Datos» · textos para YouTube Shorts · 2026-10-29 19h24
 
 26 piezas en tres series, a partir de los tres documentos de mercado de SuperLeads (julio 2026). Cada pieza: un gráfico vertical 1080×1920 (PNG) y su video de 8 s (MP4), más título, descripción y hashtags listos para Studio. Ninguna está publicada ni programada. Archivos en `salida/`.
 
@@ -8,17 +8,17 @@ Documento de origen: P1-01 · La realidad de la educación pública en México (
 
 | # | Título | Archivo |
 |---|---|---|
-| 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 18h26.png` |
-| 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 18h26.png` |
-| 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 18h26.png` |
-| 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 18h26.png` |
-| 05 | El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo | `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 18h26.png` |
-| 06 | 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP | `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 18h26.png` |
-| 07 | México necesita 400,000 maestros de inglés y tiene 80,000 | `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 18h26.png` |
-| 08 | México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE | `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 18h26.png` |
-| 09 | Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9% | `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 18h26.png` |
-| 10 | 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación | `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 18h26.png` |
-| 11 | 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados | `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 18h26.png` |
+| 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 19h20.png` |
+| 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 19h20.png` |
+| 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 19h20.png` |
+| 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 19h20.png` |
+| 05 | El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo | `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 19h20.png` |
+| 06 | 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP | `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 19h20.png` |
+| 07 | México necesita 400,000 maestros de inglés y tiene 80,000 | `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 19h20.png` |
+| 08 | México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE | `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 19h20.png` |
+| 09 | Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9% | `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 19h20.png` |
+| 10 | 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación | `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 19h20.png` |
+| 11 | 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados | `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 19h20.png` |
 
 ## Serie 2 · La boleta invisible: cómo eligen colegio las familias mexicanas
 
@@ -26,16 +26,16 @@ Documento de origen: P1-02 · La boleta invisible: cómo deciden las familias (j
 
 | # | Título | Archivo |
 |---|---|---|
-| 12 | 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas) | `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 18h26.png` |
-| 13 | 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3 | `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 18h26.png` |
-| 14 | 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos | `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 18h26.png` |
-| 15 | Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos | `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 18h26.png` |
-| 16 | Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia | `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 18h26.png` |
-| 17 | Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos | `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 18h26.png` |
-| 18 | 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5 | `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 18h26.png` |
-| 19 | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp | `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 18h26.png` |
-| 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 18h26.png` |
-| 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 18h26.png` |
+| 12 | 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas) | `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 19h20.png` |
+| 13 | 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3 | `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 19h20.png` |
+| 14 | 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos | `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 19h20.png` |
+| 15 | Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos | `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 19h20.png` |
+| 16 | Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia | `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 19h20.png` |
+| 17 | Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos | `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 19h20.png` |
+| 18 | 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5 | `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 19h20.png` |
+| 19 | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp | `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 19h20.png` |
+| 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 19h20.png` |
+| 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 19h20.png` |
 
 ## Serie 3 · Análisis de la educación privada en Latinoamérica
 
@@ -43,17 +43,17 @@ Documento de origen: P1-03 · Análisis de la educación privada en LATAM (julio
 
 | # | Título | Archivo |
 |---|---|---|
-| 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 18h26.png` |
-| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 18h26.png` |
-| 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 18h26.png` |
-| 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 18h26.png` |
-| 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 18h26.png` |
+| 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 19h20.png` |
+| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 19h20.png` |
+| 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 19h20.png` |
+| 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 19h20.png` |
+| 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 19h20.png` |
 
 ---
 
 ## 01 · México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas
 
-Archivo: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 18h26.png` · video: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 19h20.png` · video: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -83,7 +83,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 02 · 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas
 
-Archivo: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 18h26.png` · video: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 19h20.png` · video: `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -113,7 +113,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 03 · 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos
 
-Archivo: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 18h26.png` · video: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 19h20.png` · video: `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -143,7 +143,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 04 · 65 de cada 100 escuelas públicas no tienen computadoras ni internet
 
-Archivo: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 18h26.png` · video: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 19h20.png` · video: `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -173,7 +173,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 05 · El maestro mexicano promedio gana $7,890 al mes: menos que el salario mínimo
 
-Archivo: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 18h26.png` · video: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 19h20.png` · video: `Dato 05 · El maestro gana menos que el salario minimo · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -203,7 +203,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 06 · 1,410,459 niños sin clases: el paro de la CNTE de junio 2026 en cifras de la SEP
 
-Archivo: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 18h26.png` · video: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 19h20.png` · video: `Dato 06 · 1.4 millones de ninos sin clases · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -233,7 +233,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 07 · México necesita 400,000 maestros de inglés y tiene 80,000
 
-Archivo: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 18h26.png` · video: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 19h20.png` · video: `Dato 07 · Faltan 4 de cada 5 maestros de ingles · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -263,7 +263,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 08 · México invierte $2,933 USD por alumno de primaria: último lugar de la OCDE
 
-Archivo: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 18h26.png` · video: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 19h20.png` · video: `Dato 08 · Ultimo lugar de la OCDE en gasto por alumno · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -293,7 +293,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 09 · Las familias mexicanas pagan 16.2% del gasto educativo público; el promedio OCDE es 9.9%
 
-Archivo: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 18h26.png` · video: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 19h20.png` · video: `Dato 09 · La escuela gratuita no lo es · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -323,7 +323,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 10 · 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación
 
-Archivo: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 18h26.png` · video: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 19h20.png` · video: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -353,7 +353,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 11 · 8 de cada 10 alumnos de 3° de secundaria no desarrollaron los aprendizajes esperados
 
-Archivo: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 18h26.png` · video: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 19h20.png` · video: `Dato 11 · 8 de cada 10 sin los aprendizajes esperados · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -383,7 +383,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 12 · 44% de las consultas a colegios jamás recibe respuesta (estudio con 1,000 consultas)
 
-Archivo: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 18h26.png` · video: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 19h20.png` · video: `Dato 12 · 44 por ciento de consultas sin respuesta · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -413,7 +413,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 13 · 93% de las familias está conectada entre 9 de la noche y medianoche; el colegio cierra a las 3
 
-Archivo: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 18h26.png` · video: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 19h20.png` · video: `Dato 13 · La familia investiga de noche · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -443,7 +443,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 14 · 78% le compra al primero que responde; solo 7% de las organizaciones contesta en 5 minutos
 
-Archivo: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 18h26.png` · video: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 19h20.png` · video: `Dato 14 · 78 compra al primero que responde solo 7 responde en 5 minutos · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -473,7 +473,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 15 · Responder en 5 minutos hace 21 veces más probable calificar al prospecto que a los 30 minutos
 
-Archivo: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 18h26.png` · video: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 19h20.png` · video: `Dato 15 · 21 veces mas probable en 5 minutos · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -503,7 +503,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 16 · Cuánto cuesta un WhatsApp sin contestar: $450,000 pesos por familia
 
-Archivo: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 18h26.png` · video: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 19h20.png` · video: `Dato 16 · Un WhatsApp sin contestar cuesta 450 mil pesos · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -533,7 +533,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 17 · Las mismas 40 familias: 4 inscripciones respondiendo en horas, 10 respondiendo en minutos
 
-Archivo: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 18h26.png` · video: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 19h20.png` · video: `Dato 17 · Mismas 40 familias 6 inscripciones de diferencia · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -563,7 +563,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 18 · 71% descarta un colegio con menos de 3 estrellas; el rango que más confianza genera es 4.2 a 4.5
 
-Archivo: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 18h26.png` · video: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 19h20.png` · video: `Dato 18 · 71 no consideraria un colegio con menos de 3 estrellas · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -593,7 +593,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 19 · WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp
 
-Archivo: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 18h26.png` · video: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 19h20.png` · video: `Dato 19 · WhatsApp se abre 98 de 100 veces el correo 21 · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -623,7 +623,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 20 · 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa
 
-Archivo: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 18h26.png` · video: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 19h20.png` · video: `Dato 20 · 6 meses de decision 5 etapas · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -653,7 +653,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 21 · 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas
 
-Archivo: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 18h26.png` · video: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 19h20.png` · video: `Dato 21 · 76 visita en 24 horas · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -683,7 +683,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 22 · Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica
 
-Archivo: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 18h26.png` · video: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 19h20.png` · video: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -713,7 +713,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 23 · 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada
 
-Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 18h26.png` · video: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 19h20.png` · video: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -743,7 +743,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 24 · Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe
 
-Archivo: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 18h26.png` · video: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 19h20.png` · video: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -773,7 +773,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 25 · México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio
 
-Archivo: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 18h26.png` · video: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 19h20.png` · video: `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
@@ -803,7 +803,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 26 · Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá
 
-Archivo: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 18h26.png` · video: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 18h26.mp4`
+Archivo: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 19h20.png` · video: `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 19h20.mp4`
 
 **Título:**
 
