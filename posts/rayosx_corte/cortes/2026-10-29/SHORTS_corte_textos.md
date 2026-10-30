@@ -1,34 +1,34 @@
-# Corte Rayos X · octubre 2026 · textos para YouTube Shorts · 2026-10-29 19h27
+# Corte Rayos X · octubre 2026 · textos para YouTube Shorts · 2026-10-29 21h03
 
 Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
 | # | Título | Archivo |
 |---|---|---|
-| 01 | 102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026 | `Dato 01 · La radiografia del corte · v1 · 2026-10-29 19h24.png` |
-| 02 | La escuela privada mediana en México opera al 46% de su capacidad (98 Rayos X) | `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 19h24.png` |
-| 03 | 59,507 lugares vacíos en 98 escuelas privadas: la capacidad sin usar vale $279.6 millones al año | `Dato 03 · Lugares vacios · v1 · 2026-10-29 19h24.png` |
-| 04 | Cuántos prospectos recibe al día una escuela privada en México: 8 la mediana, 15 las universidades | `Dato 04 · Prospectos al dia · v1 · 2026-10-29 19h24.png` |
-| 05 | Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X) | `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 19h24.png` |
-| 06 | 40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita | `Dato 06 · Cierre en cita · v1 · 2026-10-29 19h24.png` |
-| 07 | Cuánto cobra una escuela privada en México: colegiatura mediana de $3,300 al mes (97 Rayos X) | `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 19h24.png` |
-| 08 | Cuánto vale un alumno para una escuela privada: $144,000 de valor de vida (mediana de 97 Rayos X) | `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 19h24.png` |
-| 09 | Cuánto invierte en publicidad una escuela privada en México: $8,000 al mes y $1,381 por alumno (mediana) | `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 19h24.png` |
-| 10 | Cuánto vale subir un punto la conversión de un colegio privado: $109,500 al año (mediana de 93 Rayos X) | `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 19h24.png` |
-| 11 | Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados | `Dato 11 · Becas · v1 · 2026-10-29 19h24.png` |
-| 12 | 40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados | `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 19h24.png` |
-| 13 | 71% de las escuelas privadas lleva las admisiones en WhatsApp o Excel; solo 29% tiene un CRM | `Dato 13 · Herramientas de admision · v1 · 2026-10-29 19h24.png` |
-| 14 | Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana | `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 19h24.png` |
-| 15 | 48% de las escuelas privadas no tiene plan de compensación para su equipo de admisiones | `Dato 15 · Plan de compensacion · v1 · 2026-10-29 19h24.png` |
-| 16 | En qué meses se inscriben más alumnos en las escuelas privadas de México: Julio, Agosto (71 Rayos X) | `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 19h24.png` |
-| 17 | Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento | `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 19h24.png` |
-| 18 | 44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60% | `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 19h24.png` |
-| 19 | Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17% | `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 19h24.png` |
+| 01 | 102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026 | `Dato 01 · La radiografia del corte · v1 · 2026-10-29 20h59.png` |
+| 02 | La escuela privada mediana en México opera al 46% de su capacidad (98 Rayos X) | `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 20h59.png` |
+| 03 | 59,507 lugares vacíos en 98 escuelas privadas: la capacidad sin usar vale $279.6 millones al año | `Dato 03 · Lugares vacios · v1 · 2026-10-29 20h59.png` |
+| 04 | Cuántos prospectos recibe al día una escuela privada en México: 8 la mediana, 15 las universidades | `Dato 04 · Prospectos al dia · v1 · 2026-10-29 20h59.png` |
+| 05 | Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X) | `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 20h59.png` |
+| 06 | 40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita | `Dato 06 · Cierre en cita · v1 · 2026-10-29 20h59.png` |
+| 07 | Cuánto cobra una escuela privada en México: colegiatura mediana de $3,300 al mes (97 Rayos X) | `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 20h59.png` |
+| 08 | Cuánto vale un alumno para una escuela privada: $144,000 de valor de vida (mediana de 97 Rayos X) | `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 20h59.png` |
+| 09 | Cuánto invierte en publicidad una escuela privada en México: $8,000 al mes y $1,381 por alumno (mediana) | `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 20h59.png` |
+| 10 | Cuánto vale subir un punto la conversión de un colegio privado: $109,500 al año (mediana de 93 Rayos X) | `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 20h59.png` |
+| 11 | Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados | `Dato 11 · Becas · v1 · 2026-10-29 20h59.png` |
+| 12 | 40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados | `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 20h59.png` |
+| 13 | 71% de las escuelas privadas lleva las admisiones en WhatsApp o Excel; solo 29% tiene un CRM | `Dato 13 · Herramientas de admision · v1 · 2026-10-29 20h59.png` |
+| 14 | Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana | `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 20h59.png` |
+| 15 | 48% de las escuelas privadas no tiene plan de compensación para su equipo de admisiones | `Dato 15 · Plan de compensacion · v1 · 2026-10-29 20h59.png` |
+| 16 | En qué meses se inscriben más alumnos en las escuelas privadas de México: Julio, Agosto (71 Rayos X) | `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 20h59.png` |
+| 17 | Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento | `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 20h59.png` |
+| 18 | 44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60% | `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 20h59.png` |
+| 19 | Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17% | `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 20h59.png` |
 
 ---
 
 ## 01 · 102 Rayos X de Inscripciones en 69 ciudades: la radiografía de la educación privada en México, corte octubre 2026
 
-Archivo: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 19h24.png` · video: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 20h59.png` · video: `Dato 01 · La radiografia del corte · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -58,7 +58,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 02 · La escuela privada mediana en México opera al 46% de su capacidad (98 Rayos X)
 
-Archivo: `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 19h24.png` · video: `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 20h59.png` · video: `Dato 02 · Ocupacion mediana · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -88,7 +88,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 03 · 59,507 lugares vacíos en 98 escuelas privadas: la capacidad sin usar vale $279.6 millones al año
 
-Archivo: `Dato 03 · Lugares vacios · v1 · 2026-10-29 19h24.png` · video: `Dato 03 · Lugares vacios · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 03 · Lugares vacios · v1 · 2026-10-29 20h59.png` · video: `Dato 03 · Lugares vacios · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -118,7 +118,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 04 · Cuántos prospectos recibe al día una escuela privada en México: 8 la mediana, 15 las universidades
 
-Archivo: `Dato 04 · Prospectos al dia · v1 · 2026-10-29 19h24.png` · video: `Dato 04 · Prospectos al dia · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 04 · Prospectos al dia · v1 · 2026-10-29 20h59.png` · video: `Dato 04 · Prospectos al dia · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -148,7 +148,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 05 · Conversión real de las escuelas privadas en México: 2.4% de los prospectos se inscribe (mediana de 92 Rayos X)
 
-Archivo: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 19h24.png` · video: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 20h59.png` · video: `Dato 05 · Conversion prospecto a inscrito · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -178,7 +178,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 06 · 40% de las familias que van a la cita se inscriben; el problema del colegio privado está antes de la cita
 
-Archivo: `Dato 06 · Cierre en cita · v1 · 2026-10-29 19h24.png` · video: `Dato 06 · Cierre en cita · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 06 · Cierre en cita · v1 · 2026-10-29 20h59.png` · video: `Dato 06 · Cierre en cita · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -208,7 +208,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 07 · Cuánto cobra una escuela privada en México: colegiatura mediana de $3,300 al mes (97 Rayos X)
 
-Archivo: `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 19h24.png` · video: `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 20h59.png` · video: `Dato 07 · Colegiatura mediana · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -238,7 +238,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 08 · Cuánto vale un alumno para una escuela privada: $144,000 de valor de vida (mediana de 97 Rayos X)
 
-Archivo: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 19h24.png` · video: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 20h59.png` · video: `Dato 08 · Valor de vida de un alumno · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -268,7 +268,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 09 · Cuánto invierte en publicidad una escuela privada en México: $8,000 al mes y $1,381 por alumno (mediana)
 
-Archivo: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 19h24.png` · video: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 20h59.png` · video: `Dato 09 · Inversion en publicidad · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -298,7 +298,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 10 · Cuánto vale subir un punto la conversión de un colegio privado: $109,500 al año (mediana de 93 Rayos X)
 
-Archivo: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 19h24.png` · video: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 20h59.png` · video: `Dato 10 · Ingreso extra por un punto de conversion · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -328,7 +328,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 11 · Becas en la escuela privada mexicana: 68% las da y la institución mediana tiene 40% de alumnos becados
 
-Archivo: `Dato 11 · Becas · v1 · 2026-10-29 19h24.png` · video: `Dato 11 · Becas · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 11 · Becas · v1 · 2026-10-29 20h59.png` · video: `Dato 11 · Becas · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -358,7 +358,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 12 · 40% de los alumnos de una escuela privada llega por recomendación y 70% de los colegios no tiene programa de recomendados
 
-Archivo: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 19h24.png` · video: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 20h59.png` · video: `Dato 12 · Recomendacion contra anuncios · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -388,7 +388,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 13 · 71% de las escuelas privadas lleva las admisiones en WhatsApp o Excel; solo 29% tiene un CRM
 
-Archivo: `Dato 13 · Herramientas de admision · v1 · 2026-10-29 19h24.png` · video: `Dato 13 · Herramientas de admision · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 13 · Herramientas de admision · v1 · 2026-10-29 20h59.png` · video: `Dato 13 · Herramientas de admision · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -418,7 +418,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 14 · Cuánta gente tiene una escuela privada en admisiones: 1.1 persona en el colegio mediano, 6 en la universidad mediana
 
-Archivo: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 19h24.png` · video: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 20h59.png` · video: `Dato 14 · Equipo de admisiones · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -448,7 +448,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 15 · 48% de las escuelas privadas no tiene plan de compensación para su equipo de admisiones
 
-Archivo: `Dato 15 · Plan de compensacion · v1 · 2026-10-29 19h24.png` · video: `Dato 15 · Plan de compensacion · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 15 · Plan de compensacion · v1 · 2026-10-29 20h59.png` · video: `Dato 15 · Plan de compensacion · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -478,7 +478,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 16 · En qué meses se inscriben más alumnos en las escuelas privadas de México: Julio, Agosto (71 Rayos X)
 
-Archivo: `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 19h24.png` · video: `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 20h59.png` · video: `Dato 16 · Meses de mayor inscripcion · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -508,7 +508,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 17 · Por qué no se inscriben las familias según los directores: 62% dice que el precio, 38% admite falta de seguimiento
 
-Archivo: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 19h24.png` · video: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 20h59.png` · video: `Dato 17 · Por que no se inscribieron · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -538,7 +538,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 18 · 44% de los directores califica su marketing de muy bueno o excelente; 64% de sus escuelas opera abajo del 60%
 
-Archivo: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 19h24.png` · video: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 20h59.png` · video: `Dato 18 · Percepcion contra realidad · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 
@@ -568,7 +568,7 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 
 ## 19 · Qué cobran las escuelas privadas además de la colegiatura: cafetería 69%, graduaciones 60%, transporte 17%
 
-Archivo: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 19h24.png` · video: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 19h24.mp4`
+Archivo: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 20h59.png` · video: `Dato 19 · Monetizacion ademas de la colegiatura · v1 · 2026-10-29 20h59.mp4`
 
 **Título:**
 

@@ -18,7 +18,7 @@ COL = {'c1': '#2a78d6', 'c2': '#eb6834', 'c3': '#1baf7a', 'neu': '#c6ccd8'}
 TRACK = 'rgba(255,255,255,.07)'; T2 = '#7a9fd4'; T3 = '#4a6aaa'
 WC = 920  # ancho útil (1080 − 2×80)
 PIE = ('', 'Documento de mercado · 2026'); LOGO = 'file://' + os.path.join(AQUI, 'logo_blanco.svg')  # parametrizables por serie
-LOGO_RLR_M = 'file://' + os.path.join(AQUI, 'rlr_monograma.png'); LOGO_RLR_N = 'file://' + os.path.join(AQUI, 'rlr_nombre.png')  # la marca de Ricardo, arriba
+LOGO_RLR_N = 'file://' + os.path.join(AQUI, 'rlr_nombre.png')  # la marca de Ricardo, arriba: solo el nombre completo (sin monograma, 29-oct)
 
 # ───────────── formato de números ─────────────
 def partes(v, fmt):
@@ -235,7 +235,7 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:var(--n
 .g1{position:absolute;top:-240px;right:-280px;width:960px;height:960px;border-radius:50%;background:rgba(42,137,251,.11);filter:blur(150px)}
 .g2{position:absolute;bottom:-320px;left:-280px;width:900px;height:900px;border-radius:50%;background:rgba(86,239,159,.07);filter:blur(150px)}
 header{position:absolute;top:78px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.marca{display:flex;align-items:center;gap:22px} .marca .mono{height:104px;width:auto;display:block} .marca .nombre{height:72px;width:auto;display:block}
+.marca{display:flex;align-items:center} .marca .nombre{height:78px;width:auto;display:block}
 .serie{font-size:17px;font-weight:700;letter-spacing:2px;color:var(--t3);text-transform:uppercase;text-align:right;max-width:300px;line-height:1.35}
 main{position:absolute;top:292px;left:80px;right:80px}
 .eyebrow{display:flex;align-items:center;gap:12px;margin-bottom:26px}
@@ -248,7 +248,7 @@ h1 em{font-style:italic;color:var(--green)}
 .nota{margin-top:28px;font-size:22px;line-height:1.4;color:var(--t3)}
 main.compacto .lectura{font-size:30px;margin-top:30px} main.compacto .nota{font-size:21px;margin-top:22px} main.compacto .grafica>*+*{margin-top:26px}
 footer{position:absolute;left:80px;right:80px;bottom:132px;border-top:.5px solid rgba(255,255,255,.14);padding-top:26px;display:flex;justify-content:space-between;align-items:center;font-size:21px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--t3)}
-footer img{width:172px;height:auto;display:block}
+footer img{width:202px;height:auto;display:block}
 svg{display:block;overflow:visible} svg text{font-family:"Plus Jakarta Sans"} .tab{font-variant-numeric:tabular-nums}
 .waffle{display:flex;align-items:center;gap:48px} .wnum .n{font-size:168px;font-weight:800;letter-spacing:-7px;line-height:1} .wnum .l{margin-top:16px;font-size:27px;line-height:1.35;color:var(--t2)}
 .dona{display:flex;align-items:center;gap:44px} .dona .l{font-size:30px;line-height:1.38;color:var(--t2)}
@@ -296,7 +296,7 @@ def pagina(p):
 <!-- RLR · serie Datos · pieza {p['n']:02d} -->
 <style>{CSS}</style></head><body data-author="RLR">
 <div class="fondo"><div class="g1"></div><div class="g2"></div></div>
-<header><div class="marca"><img class="mono" src="{LOGO_RLR_M}" alt="RLR"><img class="nombre" src="{LOGO_RLR_N}" alt="Ricardo López Reyero"></div><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
+<header><div class="marca"><img class="nombre" src="{LOGO_RLR_N}" alt="Ricardo López Reyero"></div><div class="serie">{html.escape(s['corto'])}<br>{k:02d} / {total:02d}</div></header>
 <main style="--h1:{t}px;--ls:{-t * 0.035:.1f}px;--gap:{gap}px" class="{'compacto' if p.get('compacto') else ''}">
 <div class="eyebrow"><span>{html.escape(p['eyebrow'])}</span></div>
 <h1 data-a="oy" data-d="0" data-t=".8">{p['h1']}</h1>
