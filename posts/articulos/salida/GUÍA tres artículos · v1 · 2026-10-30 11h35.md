@@ -1,4 +1,4 @@
-# LinkedIn · tres artículos · v1 · 2026-10-30 11h29
+# LinkedIn · tres artículos · v1 · 2026-10-30 11h35
 
 Formato «artículo» de LinkedIn (no post). Sin publicar: Ricardo revisa.
 

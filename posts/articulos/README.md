@@ -2,7 +2,7 @@
 
 Escritos en primera persona por Ricardo para que se puedan citar: 1) cómo está el mercado educativo privado en México según el corte Rayos X de octubre de 2026; 2) la educación pública en México con las cifras oficiales e internacionales que todavía existen; 3) la gran oportunidad y la responsabilidad de los dueños de colegios (los dos anteriores digeridos, con la mención suave de SuperLeads al final).
 
-**Estado: escritos y armados, sin publicar.** Ricardo los revisa en `~/Downloads/LinkedIn Artículos/`.
+**Estado: PUBLICADOS el 30-oct-2026 en LinkedIn y en X** (ligas en [publicados.json](publicados.json) y `PUBLICADOS · 2026-10-30.md`). Se publicaron juntos, en orden, porque el 3 cita a los dos anteriores; espaciarlos no ganaba nada para una cuenta que está construyendo su archivo.
 
 | Archivo | Qué es |
 |---|---|
@@ -30,3 +30,9 @@ Lienzo horizontal 1600×900 (se ve completo en el cuerpo del artículo de Linked
 cd ~/Code/RLR_persona/posts/articulos
 python3 armar.py      # los tres → salida/ y ~/Downloads/LinkedIn Artículos/
 ```
+
+## Cómo se publicaron (receta)
+
+- **Insumos:** `armar.py` deja en cada carpeta `publicar.json` (bloques, rutas de imagen, firma) y portadas `portada 16x9.png` (LinkedIn) y `portada 5x2 X.png` (X). Un script arma `datos_art.html` (en .gitignore) con los segmentos: bloques de HTML intercalados con imágenes.
+- **LinkedIn** (linkedin.com/article/new): título en el textarea, portada con «Cargar desde el ordenador» interceptando el input de archivo, cuerpo pegando cada segmento con un evento `paste` sintético (HTML) y cada imagen como archivo en el mismo evento; LinkedIn la sube sola. «Siguiente» → texto del feed → Publicar. Los pies de figura no se ponen (el editor no deja enfocarlos y cada imagen ya trae título y fuente). Helpers BrowserOS: `liArtInicio`, `liArtCuerpo`, `liArtPublicar`.
+- **X** (x.com/compose/articles → create): título con clic real, portada por `input[data-testid=fileInput]` + Apply, cuerpo igual por `paste` en el editor Draft.js; helpers `xArtInicio`, `xArtCuerpo` (verifica cada pegado y reintenta), `xArtRevisar` (compara texto, imágenes y subtítulos contra el original) y `publicarArticulo`. **Cuidado:** dos imágenes seguidas se pisan (la segunda reemplaza a la primera) y dos archivos en un solo pegado salen lado a lado; la imagen se inserta *después* del bloque donde está el cursor, así que para meter una entre dos cosas hay que abrir un renglón vacío (Enter + ArrowUp) y pegar ahí. Después de armar, correr `xArtRevisar` y revisar el orden antes de publicar.

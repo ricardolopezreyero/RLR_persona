@@ -56,9 +56,28 @@ def lamina_articulo(p):
 <footer class="art"><img class="nombre" src="{render.LOGO_RLR_N}" alt="{AUTOR}"><img class="sl" src="{render.LOGO}" alt="SuperLeads"></footer>
 <script>{render.JS}{JS_FIT}</script></body></html>"""
 
+CSS_PORTADA = """
+html,body{width:var(--w);height:var(--h)}
+header{display:none}
+.port{position:absolute;left:96px;right:96px;top:0;bottom:120px;display:flex;flex-direction:column;justify-content:center}
+.port .eyebrow{margin-bottom:22px} .port .eyebrow span{font-size:calc(var(--fs) * .29)}
+.port h1{font-size:var(--fs);line-height:1.04;letter-spacing:-2.4px;margin:0;font-weight:800;max-width:calc(var(--w) - 192px)}
+.port h1 em{font-style:italic;color:var(--green)}
+.port .sub{margin-top:26px;font-size:28px;line-height:1.38;color:var(--t2);max-width:1250px;font-weight:500}
+footer.art{position:absolute;left:96px;right:96px;bottom:40px;border-top:.5px solid rgba(255,255,255,.14);padding-top:22px;display:flex;justify-content:space-between;align-items:center}
+footer.art .nombre{height:46px;width:auto;display:block} footer.art .sl{width:176px;height:auto;display:block}
+"""
+def lamina_portada_art(a, ancho, alto, con_sub=True):
+    fs = 76 if alto >= 900 else 104
+    return (f'<!doctype html><html lang="es"><head><meta charset="utf-8"><style>{render.CSS}{CSS_PORTADA}</style></head>'
+            f'<body data-author="RLR" style="--w:{ancho}px;--h:{alto}px;--fs:{fs}px"><div class="fondo"><div class="g1"></div><div class="g2"></div></div>'
+            f'<div class="port"><div class="eyebrow"><span>Artículo {a["n"]} de 3 · {html.escape(a["eyebrow"])}</span></div><h1>{a["titulo_html"]}</h1>'
+            + (f'<div class="sub">{html.escape(a["subtitulo"])}</div>' if con_sub else '') +
+            f'</div><footer class="art"><img class="nombre" src="{render.LOGO_RLR_N}" alt="{AUTOR}"><img class="sl" src="{render.LOGO}" alt="SuperLeads"></footer></body></html>')
+
 # ───────────── los tres artículos ─────────────
 # Cada artículo es una lista de bloques: ('h2', texto) · ('p', párrafo) · ('fig', 'X2') · ('cita', frase) · ('lista', [..])
-A1 = dict(n=1, slug='Como esta el mercado educativo privado en Mexico · corte Rayos X octubre 2026',
+A1 = dict(n=1, eyebrow='Corte Rayos X · octubre 2026', titulo_html='Cómo está el mercado educativo privado en México: <em>conclusiones del corte Rayos X</em>', slug='Como esta el mercado educativo privado en Mexico · corte Rayos X octubre 2026',
  titulo='Cómo está el mercado educativo privado en México: conclusiones del corte Rayos X de octubre de 2026',
  subtitulo='102 instituciones, 69 ciudades, ocho meses de diagnósticos. Lo que miden los dueños de colegios, no lo que creen.',
  bloques=[
@@ -123,7 +142,7 @@ A1 = dict(n=1, slug='Como esta el mercado educativo privado en Mexico · corte R
  ('p', 'Corte del 29 de octubre de 2026 a las 18:08. 110 Rayos X exportados; fuera pruebas, archivados y repetidos (una fila por institución, la más reciente): 102 instituciones en 69 ciudades, finalizados entre el 6 de marzo y el 28 de octubre de 2026. Montos en pesos mexicanos; las instituciones en dólares quedan fuera de los montos. Ningún dato con menos de cinco instituciones se publica. Medianas, con cuartiles y n por métrica, disponibles a solicitud: ricardo@superleads.mx.'),
  ])
 
-A2 = dict(n=2, slug='La educacion publica en Mexico · lo que dicen los datos',
+A2 = dict(n=2, eyebrow='La realidad de la educación', titulo_html='La educación pública en México: <em>lo que dicen los datos</em>', slug='La educacion publica en Mexico · lo que dicen los datos',
  titulo='La educación pública en México: lo que dicen los datos',
  subtitulo='Aprendizajes, planteles, maestros, días de clase e inversión. Las cifras oficiales e internacionales que todavía existen, puestas en una sola página.',
  bloques=[
@@ -178,7 +197,7 @@ A2 = dict(n=2, slug='La educacion publica en Mexico · lo que dicen los datos',
  ('p', 'OCDE, PISA 2022 Results y Country Note México; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (2023) y Compara Carreras (2025); Banco Mundial, estimaciones de pérdida de aprendizajes post-COVID; Mejoredu / El Universal, evaluación diagnóstica 2024-2025; México Evalúa / Tec de Monterrey, Aprender Parejo (2024); Coneval, Información Estratégica para el Regreso a Clases (2021); SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024, y reportes oficiales del paro de la CNTE con corte al 5 de junio de 2026; ASF e INIFED, antigüedad y daño estructural de planteles; INEGI, ENOE 1T-2025; Data México, salarios por nivel educativo; Mexicanos Primero, Sorry: el aprendizaje del inglés en México y análisis de Education at a Glance (2025); SEP / SHCP, presupuestos del Programa Nacional de Inglés 2018-2024; OCDE, Education at a Glance 2023-2025; CIEP, Paquete Económico 2026; UNESCO, Estrategia de País México 2026-2031. Metodología y fuentes completas a solicitud: ricardo@superleads.mx.'),
  ])
 
-A3 = dict(n=3, slug='La gran oportunidad de los duenos de colegios en Mexico',
+A3 = dict(n=3, eyebrow='La gran oportunidad', titulo_html='Por qué los dueños de colegios en México <em>tienen que ser más ambiciosos</em>', slug='La gran oportunidad de los duenos de colegios en Mexico',
  titulo='La gran oportunidad: por qué los dueños de colegios en México tienen que ser más ambiciosos',
  subtitulo='13.4 millones de hogares pueden pagar un colegio privado y solo 10 % de los alumnos está en uno. El mercado ya hizo su parte. Lo que falta está dentro de cada institución.',
  bloques=[
@@ -274,6 +293,15 @@ if __name__ == '__main__':
                 fuente = 'SuperLeads, corte Rayos X de Inscripciones del 29 de octubre de 2026 (102 instituciones privadas en 69 ciudades de México; mediana, no promedio).' if c[0] == 'X' else (p.get('nota') or '')
                 pie = re.sub('<[^>]+>', '', p['h1']).replace(' .', '.') + ' Fuente: ' + fuente
                 figs[c] = (f'imagenes/{nombre}', pie)
+            for nombre, (w, h_, sub) in {'portada 16x9': (1600, 900, True), 'portada 5x2 X': (2000, 800, False)}.items():
+                ch.send('Emulation.setDeviceMetricsOverride', width=w, height=h_, deviceScaleFactor=2 if w == 1600 else 1.5, mobile=False)
+                rp = os.path.join(HTMLD, f'A{a["n"]}_{nombre[:7].strip()}.html'); open(rp, 'w').write(lamina_portada_art(a, w, h_, sub)); ch.abrir('file://' + rp)
+                ch.foto(os.path.join(carpeta, f'{nombre}.png'))
+            ch.send('Emulation.setDeviceMetricsOverride', width=1600, height=900, deviceScaleFactor=2, mobile=False)
+            pub = dict(n=a['n'], titulo=a['titulo'], subtitulo=a['subtitulo'], portada=os.path.join(carpeta, 'portada 16x9.png'), portada_x=os.path.join(carpeta, 'portada 5x2 X.png'),
+                       bloques=[[t, (os.path.join(carpeta, figs[c][0]) if t == 'fig' else c), (figs[c][1] if t == 'fig' else None)] for t, c in a['bloques']],
+                       cierre=[FIRMA] + FIRMA_NOMBRE)
+            json.dump(pub, open(os.path.join(carpeta, 'publicar.json'), 'w'), ensure_ascii=False, indent=1)
             md, txt = md_y_txt(a, figs)
             base = f'Artículo {a["n"]} · {a["slug"]} · {VERSION} · {SELLO}'
             open(os.path.join(carpeta, base + '.md'), 'w').write(md); open(os.path.join(carpeta, base + '.txt'), 'w').write(txt)
