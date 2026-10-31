@@ -258,7 +258,7 @@ pieza(slug='Monetizacion ademas de la colegiatura', eyebrow='MONETIZACIÓN · QU
 
 def armar_descripcion(p):
     return '\n'.join([p['titulo'] + '.', '', '\n\n'.join(p['parrafos']), '', p['pregunta'], '', 'Fuente y método: ' + p['nota_larga'], '',
-                      f"Serie «Rayos X» · corte {MES} {ANIO} · pieza {p['n']:02d} de {len(P)}. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx", '',
+                      f"Serie «Rayos X» · corte {MES} {ANIO} · pieza {p['n']:02d} de {len(P)}. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx", '',
                       RAYOS, '', AUTOR, '', f"{HASH_BASE} #SerieRayosX {p['hashtags']}"])
 
 if __name__ == '__main__':

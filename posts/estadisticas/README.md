@@ -29,7 +29,7 @@ Es una de las dos series de marca personal que se mantienen y se actualizan en e
 ## Reglas de la serie
 
 1. Nada se inventa: si el documento trae un rango («~170–190»), la pieza trae el rango. Los modelos ilustrativos (valor de vida, 40 consultas) se declaran como tales en la nota.
-2. La fuente va en la pieza (nota al pie) y en la descripción. Metodología completa a solicitud: hola@superleads.mx.
+2. La fuente va en la pieza (nota al pie) y en la descripción. Metodología completa a solicitud: ricardo@superleads.mx.
 3. Zona segura de Shorts: el contenido termina antes de y = 1600 (`render.py` avisa si se pasa); el tercio inferior queda para el título que pone YouTube.
 4. Sin caras ni firmas de personas: lo que se comparte es la información.
 5. **Unidades siempre visibles, como etiqueta.** Estamos en internet: todo monto lleva su moneda (MXN o USD) en el gráfico, el titular, la lectura, el título y la descripción. En los textos se escribe `$8,000 MXN` y `render.py` lo convierte en etiqueta; en las gráficas `fmt='mxn'`/`'usd'` dibuja la etiqueta junto a la cifra.

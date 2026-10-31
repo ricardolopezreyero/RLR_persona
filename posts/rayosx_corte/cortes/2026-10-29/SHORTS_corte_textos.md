@@ -47,7 +47,7 @@ Esta serie es el corte: ocupación, prospectos, conversión, colegiatura, valor 
 
 Fuente y método: Fuera pruebas, archivados y repetidos (una fila por institución, la más reciente). Montos en pesos. Ningún dato con menos de 5 instituciones se publica. Corte del 2026-10-29 a las 18:08.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 01 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 01 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -77,7 +77,7 @@ Un colegio con lugares disponibles en un mercado con demanda disponible no tiene
 
 Fuente y método: Ocupación = matrícula actual ÷ capacidad instalada declarada. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 35 / 14 / 39 / 98 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 02 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 02 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -107,7 +107,7 @@ Multiplica tus lugares vacíos por tu colegiatura por diez meses. Ese es el tama
 
 Fuente y método: Lugares vacíos = capacidad instalada − matrícula. Valor anual = lugares vacíos × colegiatura × meses del ciclo, según el modelo del Rayos X. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 03 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 03 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -137,7 +137,7 @@ El dato que importa no es cuántos llegan sino cuántos se quedan en el camino. 
 
 Fuente y método: Prospectos al día: declarados por el director en el Rayos X (todos los canales). Alumnos nuevos: inscritos del último ciclo. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 33 / 12 / 41 / 96 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 04 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 04 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -167,7 +167,7 @@ Divide tus alumnos nuevos entre tus prospectos del año. ¿Qué número te sale?
 
 Fuente y método: Conversión = alumnos nuevos del último ciclo ÷ prospectos al año; solo valores verosímiles (≤ 100%). Embudo de referencia SuperLeads: 100% → 80% contactados → 60% cita → 60% asistencia → 50% inscrito = 14.4%. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 32 / 12 / 40 / 92 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 05 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 05 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -197,7 +197,7 @@ Compáralo con la conversión total de 2.4%. La familia no viene a conocer, vien
 
 Fuente y método: Cierre en cita = inscritos ÷ familias que asistieron a cita, según el director. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 33 / 13 / 35 / 86 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 06 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 06 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -227,7 +227,7 @@ Con la regla de que una colegiatura sana ronda el 10% del ingreso familiar por h
 
 Fuente y método: Colegiatura mensual promedio declarada; solo instituciones en pesos. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 34 / 13 / 41 / 97 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 07 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 07 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -257,7 +257,7 @@ Ese es el precio de cada familia que se enfrió en el camino. No se pierde por f
 
 Fuente y método: Valor de vida = colegiatura mensual × meses de permanencia promedio, según el modelo del Rayos X; solo instituciones en pesos. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 34 / 13 / 41 / 97 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 08 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 08 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -287,7 +287,7 @@ Antes de subir el presupuesto de anuncios: ¿cuántos de tus prospectos del mes 
 
 Fuente y método: Costo por prospecto = inversión ÷ prospectos; costo de adquisición = inversión ÷ alumnos nuevos, según el Rayos X; solo instituciones en pesos. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 28 / 12 / 38 / 86 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 09 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 09 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -317,7 +317,7 @@ Toma tus prospectos del año, multiplica por 1%, por tu colegiatura y por tus me
 
 Fuente y método: Ingreso extra = prospectos al año × 1% × colegiatura × meses de permanencia, según el modelo del Rayos X; solo instituciones en pesos. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 33 / 12 / 40 / 93 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 10 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 10 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -347,7 +347,7 @@ Léelo junto a la ocupación mediana de 46%. Una beca no llena un colegio: baja 
 
 Fuente y método: Porcentaje de becados y beca promedio declarados por el director. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. becados n = 15 / 27 / 50 (colegios con primaria, universidades, todas); usan becas n = 66.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 11 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 11 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -377,7 +377,7 @@ La recomendación es el canal más barato y el que trae a la familia más pareci
 
 Fuente y método: Porcentaje de alumnos que llegan por recomendación y por anuncios, declarado por el director (mediana por nivel). Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 32 / 14 / 39 / 93 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 12 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 12 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -407,7 +407,7 @@ Si tu mejor asesor renunciara mañana, ¿cuántas conversaciones de familias se 
 
 Fuente y método: Herramientas con las que la institución lleva su proceso de admisión, declaradas en el Rayos X. CRM = cualquier CRM o ERP. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 13 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 13 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -437,7 +437,7 @@ Con 1.1 persona que además hace otras cosas, es imposible contestar en cinco mi
 
 Fuente y método: Suma de director de admisiones, marketing, community manager y asesores (fracciones = medio tiempo). Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 35 / 14 / 40 / 98 (colegios con primaria, con preparatoria, universidades, todas).
 
-Serie «Rayos X» · corte octubre 2026 · pieza 14 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 14 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -467,7 +467,7 @@ Los sistemas producen el resultado para el que fueron diseñados. Si a quien ins
 
 Fuente y método: Declarado por el director en el Rayos X: no hay plan / hay plan y están cómodos / hay plan y se puede mejorar. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 15 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 15 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -497,7 +497,7 @@ Si tu temporada fuerte es julio, ¿qué hizo tu colegio por esas familias en feb
 
 Fuente y método: Porcentaje de instituciones que señalan cada mes entre sus meses de mayor inscripción (pueden señalar varios). n = 71. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 16 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 16 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -527,7 +527,7 @@ De las últimas 10 familias que no se inscribieron, ¿a cuántas les llamaste pa
 
 Fuente y método: Lo que el director cree que pasó con las familias que fueron a cita y no se inscribieron; es creencia, no medición. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 17 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 17 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -557,7 +557,7 @@ Si tu marketing está bien y tu colegio no está lleno, ¿qué parte del proceso
 
 Fuente y método: Autoevaluación del director (mal / más o menos / bien / muy bien / excelente) contra la ocupación medida. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 18 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 18 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -587,7 +587,7 @@ De estos diez rubros, ¿cuántos cobra tu colegio? ¿Y cuántos podría cobrar e
 
 Fuente y método: Diez rubros medidos en el Rayos X: uniformes, asesorías, transporte, cafetería, libros, útiles, eventos, graduaciones y viajes. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.
 
-Serie «Rayos X» · corte octubre 2026 · pieza 19 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: hola@superleads.mx
+Serie «Rayos X» · corte octubre 2026 · pieza 19 de 19. Es el corte semestral de los Rayos X de Inscripciones de SuperLeads: cada seis meses se publica de nuevo con los datos acumulados. Datos agregados y anonimizados; metodología a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 

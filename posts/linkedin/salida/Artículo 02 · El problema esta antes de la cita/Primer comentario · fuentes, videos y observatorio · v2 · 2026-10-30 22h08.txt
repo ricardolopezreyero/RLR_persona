@@ -1,0 +1,20 @@
+Fuentes y método de las gráficas de este carrusel, y el video de cada una:
+
+1. Cuántos prospectos recibe al día una escuela privada en México: 8 la mediana, 15 las universidades
+   Fuente: Prospectos al día: declarados por el director en el Rayos X (todos los canales). Alumnos nuevos: inscritos del último ciclo. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 33 / 12 / 41 / 96 (colegios con primaria, con preparatoria, universidades, todas).
+   Video: https://youtube.com/shorts/niL-5VF_Db4
+   Dato completo, tabla y cita: https://observatorio.superleads.mx/dato/prospectos-al-dia/
+
+2. Conversión real de la escuela privada en México: 2.4% de los prospectos se inscribe (92 Rayos X)
+   Fuente: Conversión = alumnos nuevos del último ciclo ÷ prospectos al año; solo valores verosímiles (≤ 100%). Embudo de referencia SuperLeads: 100% → 80% contactados → 60% cita → 60% asistencia → 50% inscrito = 14.4%. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 32 / 12 / 40 / 92 (colegios con primaria, con preparatoria, universidades, todas).
+   Video: https://youtube.com/shorts/Q4TmdnzVSSk
+   Dato completo, tabla y cita: https://observatorio.superleads.mx/dato/conversion-prospecto-a-inscrito/
+
+3. 40% de las familias que van a la cita se inscriben: el problema está antes de la cita
+   Fuente: Cierre en cita = inscritos ÷ familias que asistieron a cita, según el director. Muestra: 102 Rayos X de Inscripciones finalizados entre marzo y octubre de 2026 con dueños y directores de 102 instituciones privadas en 69 ciudades de México. Son instituciones que pidieron el diagnóstico, no el país. Mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente. n = 33 / 13 / 35 / 86 (colegios con primaria, con preparatoria, universidades, todas).
+   Video: https://youtube.com/shorts/9UWde1_qvuM
+   Dato completo, tabla y cita: https://observatorio.superleads.mx/dato/cierre-en-cita/
+
+Todos los datos de la serie, con fuente y cita lista, en el Observatorio SuperLeads: https://observatorio.superleads.mx/rayos-x/
+
+Si quieres saber en qué lugar de estos números está tu institución, el Rayos X de Inscripciones lo dice con tus datos: https://superleads.mx/rayos_x

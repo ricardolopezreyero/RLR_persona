@@ -17,7 +17,7 @@ RAYOS = ('Rayos X de Inscripciones: en una sesión acomodamos los números de ad
          'y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x')
 AUTOR = ('Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan '
          'más de 300,000 prospectos educativos al año. Más en https://superleads.mx')
-DOCS = 'El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx'
+DOCS = 'El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx'
 HASH_BASE = '#Admisiones #ColegiosPrivados'
 SERIE_MADRE = 'La realidad de la educación'  # la serie que se mantiene y se actualiza; los tres documentos son sus capítulos
 HASH_SERIE = '#LaRealidadDeLaEducación'

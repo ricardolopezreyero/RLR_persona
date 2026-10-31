@@ -25,7 +25,7 @@ YT = {('X' if c['serie'].startswith('Rayos') else 'R', c['n']): c for c in cal}
 MUESTRA_X = (f"Son {X.N} instituciones privadas en {X.CIU} ciudades que pidieron el diagnóstico entre {X.PERIODO}: es nuestra muestra, no el país. "
              "Y publicamos mediana, no promedio: un colegio de 7,000 alumnos mueve el promedio y miente.")
 CTA_X = 'Si quieres saber en qué lugar de estos números está tu institución, el Rayos X de Inscripciones lo dice con tus datos: https://superleads.mx/rayos_x'
-CTA_R = 'Cada gráfica tiene su fuente al pie y el documento completo, con metodología, se entrega a solicitud: hola@superleads.mx'
+CTA_R = 'Cada gráfica tiene su fuente al pie y el documento completo, con metodología, se entrega a solicitud: ricardo@superleads.mx'
 FIRMA = 'Ing. Ricardo López Reyero · Founder Comercial de SuperLeads. Solo hacemos admisiones: por nuestro sistema pasan más de 300,000 prospectos educativos al año.'
 
 # ───────────── los artículos: una historia por semana ─────────────
@@ -180,12 +180,19 @@ def lamina_cierre(a):
     """Solo la frase de cierre: un cambio de perspectiva, elegante, sin más información (Ricardo, 30-oct). Fuentes y ligas van al primer comentario."""
     return cabeza(a['serie']) + f'<div class="fin"><div class="raya"></div><h2>{a["cierre"]}</h2></div>' + pie(a['serie'])
 
+OBS = 'https://observatorio.superleads.mx'  # cada gráfica tiene su página con tabla, fuente y cita (30-oct-2026)
+def slug_obs(t):
+    import unicodedata
+    t = unicodedata.normalize('NFKD', t).encode('ascii', 'ignore').decode().lower()
+    return re.sub('[^a-z0-9]+', '-', t).strip('-')
+
 def primer_comentario(a):
     """Lo que salió de la lámina de cierre: las fuentes y el video de cada gráfica, para pegar como primer comentario."""
     s = a['serie']; L = ['Fuentes y método de las gráficas de este carrusel, y el video de cada una:', '']
     for i, n in enumerate(a['piezas']):
         p = PIEZA[(s, n)]; nota = p.get('nota_larga', p['nota'])
-        L += [f"{i + 1}. {p['titulo']}", f"   Fuente: {nota}", f"   Video: {YT[(s, n)]['youtube_liga']}", '']
+        L += [f"{i + 1}. {p['titulo']}", f"   Fuente: {nota}", f"   Video: {YT[(s, n)]['youtube_liga']}", f"   Dato completo, tabla y cita: {OBS}/dato/{slug_obs(p['slug'])}/", '']
+    L += [f'Todos los datos de la serie, con fuente y cita lista, en el Observatorio SuperLeads: {OBS}/{"rayos-x" if s == "X" else "realidad"}/', '']
     L.append(CTA_X if s == 'X' else CTA_R)
     return '\n'.join(L)
 

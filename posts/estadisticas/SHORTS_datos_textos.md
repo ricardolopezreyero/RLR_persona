@@ -72,7 +72,7 @@ Es la última fotografía internacional que existe del aprendizaje en México, p
 
 Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 01 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 01 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -102,7 +102,7 @@ Si tu colegio tuviera estos números, ¿cuántas familias se quedarían?
 
 Fuente: Fuente: OCDE, PISA 2022; IMCO, «PISA 2022: dos de cada tres estudiantes en México no alcanzan el nivel básico en Matemáticas» (dic 2023).
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 02 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 02 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -132,7 +132,7 @@ La consecuencia la vive el padre de familia el primer día de clases, y la recue
 
 Fuente: Porcentaje de planteles que operan con al menos una carencia de servicios esenciales. Fuente: Aprender Parejo, México Evalúa / Tec de Monterrey (2024).
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 03 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 03 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -162,7 +162,7 @@ Entre 2013 y 2024 el país gastó $451,230 millones MXN en infraestructura educa
 
 Fuente: Fuentes: SEP, estadísticas de servicios básicos por plantel (ciclo 2023–2024); Coneval (2021); ASF / INIFED; SNIIFE congelado desde 2019.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 04 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 04 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -192,7 +192,7 @@ Desde 2019 nadie verifica la idoneidad de quien está frente a grupo, y la capac
 
 Fuente: Promedios nacionales ENOE 1T-2025 / Data México; incluyen jornadas parciales (27–28 h/semana) e informalidad. Los docentes formales de tiempo completo (IMCO) promedian ~$18,000 MXN, aún por debajo del promedio OCDE para la profesión.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 05 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 05 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -222,7 +222,7 @@ No es un evento extraordinario: es un patrón que se repite cada ciclo desde hac
 
 Fuente: Fuente: SEP, reportes oficiales del paro de la CNTE, corte al 5 de junio de 2026; cobertura de Excélsior, El Universal y El Informador.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 06 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 06 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -252,7 +252,7 @@ El país comparte 3,142 kilómetros de frontera con la economía más grande del
 
 Fuente: Fuente: Mexicanos Primero, «Sorry: el aprendizaje del inglés en México» (CIDE / CEES); SEP / SHCP, presupuestos del PRONI 2018–2024. Cobertura nacional estimada: 20%.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 07 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 07 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -282,7 +282,7 @@ Y la tendencia es descendente: el gasto por alumno cayó 10.5% entre 2015 y 2022
 
 Fuente: Gasto anual por alumno de primaria, USD PPA, 2021. Fuente: OCDE, Education at a Glance 2023–2025; Mexicanos Primero, análisis de Education at a Glance (2025).
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 08 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 08 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -312,7 +312,7 @@ Si ya estás pagando, ¿a quién le quieres pagar?
 
 Fuente: Fuente: OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 09 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 09 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -342,7 +342,7 @@ Si en tu colegio dejaran de entregar boletas, ¿pensarías que los niños van me
 
 Fuente: Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 10 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 10 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -372,7 +372,7 @@ El Banco Mundial estima que la pandemia añadió un rezago equivalente a dos añ
 
 Fuente: Fuente: Mejoredu, evaluación diagnóstica 2024–2025 (no publicada oficialmente; filtrada a la prensa, oct 2025); Banco Mundial, estimación de pérdida de aprendizajes post-COVID.
 
-Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 11 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 11 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -402,7 +402,7 @@ De las últimas 40 familias que escribieron a tu colegio, ¿cuántas recibieron 
 
 Fuente: Fuente: UPCEA, Enrollment Process Review: Secret Shopper Analysis 2025 (1,000 consultas a instituciones educativas).
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 12 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 12 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -432,7 +432,7 @@ Domingo, 9:47 de la noche: una mamá acostó a los niños y por fin tiene veinte
 
 Fuente: Usuarios conectados por franja horaria en México. Fuente: Asociación de Internet MX, Estudios de Hábitos de Usuarios de Internet en México (eds. 14–15). El horario de atención escolar es el típico, ilustrativo.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 13 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 13 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -462,7 +462,7 @@ La familia no interpreta la respuesta lenta como «están ocupados». La interpr
 
 Fuente: Fuente: MIT / InsideSales.com, Lead Response Management Study (Oldroyd); Lead Response Management / Drift: solo 7% responde en menos de 5 minutos y 55% tarda más de 5 días.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 14 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 14 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -492,7 +492,7 @@ Cuando una mamá escribe «quisiera informes», no está mandando un recado: est
 
 Fuente: Fuente: MIT / InsideSales.com (Dr. James Oldroyd), Lead Response Management Study; Harvard Business Review, «The Short Life of Online Sales Leads» (2.24 M leads); Velocify.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 15 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 15 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -522,7 +522,7 @@ Ese es el precio de cada «ahorita le contesto» que se volvió nunca. No se pie
 
 Fuente: Modelo con supuestos conservadores de un colegio típico: colegiatura de $4,500 MXN mensuales, permanencia promedio de 6 años, factor de hermanos ×1.4. Cada institución puede recalcularlo con sus propias cifras.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 16 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 16 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -552,7 +552,7 @@ Antes de invertir un peso más en anuncios: ¿cuántas de tus últimas 40 consul
 
 Fuente: Patrón observado en los diagnósticos Rayos X de SuperLeads en colegios mexicanos; cifras de un colegio típico, ilustrativas. Valor de vida por familia: ≈ $450,000 MXN.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 17 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 17 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -582,7 +582,7 @@ La recomendación de boca en boca siempre decidió inscripciones. Lo que cambió
 
 Fuente: Fuente: BrightLocal, Local Consumer Review Survey 2024–2026 (83% usa Google para leer reseñas; 71% descarta menos de 3 estrellas; 88% prefiere negocios que responden); Northwestern University / Spiegel Research Center (rango 4.2–4.5; desconfianza del 46% hacia el 5.0 perfecto).
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 18 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 18 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -612,7 +612,7 @@ Y lo que pasa, en la mayoría de los colegios, es que el WhatsApp de informes lo
 
 Fuente: Fuente: YCloud / Aunoa (tasa de apertura de WhatsApp ~98% vs. email ~21%); Blip / Aurora Inbox / Infobip (penetración de WhatsApp en México 93%; 71% de los negocios mexicanos vende por WhatsApp).
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 19 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 19 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -642,7 +642,7 @@ Lee de nuevo las etapas dos y tres: la mitad de la decisión ocurre antes de que
 
 Fuente: Fuente: Shortway, Marketing para escuelas privadas, Guía 2026 (6 meses; 87% investiga en línea); SEO Top México (78% en dos ventanas); Spinoza Estudio; Mercadotecnia Educativa.
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 20 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 20 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -672,7 +672,7 @@ Busca «colegios privados en tu zona» ahora mismo. ¿Tu colegio aparece? ¿Con 
 
 Fuente: Fuente: Think with Google / SEMrush (intención local; búsquedas «cerca de mí» que derivan en visita en 24 h; dominio del map pack); Spinoza Estudio (Google Maps como primer punto de contacto).
 
-Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 21 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «La boleta invisible: cómo eligen colegio las familias mexicanas» · pieza 21 de 26. A partir del documento de mercado P1-02 · La boleta invisible: cómo deciden las familias (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -702,7 +702,7 @@ Cuando un directivo mexicano dice «hay demasiados colegios», los datos respond
 
 Fuente: Porcentaje de matrícula primaria en instituciones privadas. Fuente: Banco Mundial (SE.PRM.PRIV.ZS) / Instituto de Estadística de la UNESCO, 2022–2024.
 
-Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 22 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 22 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -732,7 +732,7 @@ Y sin embargo, solo 10% de la matrícula nacional está en privada. Léelo de nu
 
 Fuente: Hogares e ingreso familiar mensual estimado por nivel (MXN). Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.
 
-Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 23 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 23 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -762,7 +762,7 @@ Si una familia de ingreso medio te pregunta «¿y por qué pagar?», ¿tu colegi
 
 Fuente: Fuente: APEIM, Niveles Socioeconómicos 2025 (niveles A y B: 10.4% de los hogares peruanos); Banco Mundial / UIS (matrícula primaria privada). México: AMAI 2024 y Banco Mundial.
 
-Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 24 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 24 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -792,7 +792,7 @@ No es una escuelita de supervivencia: es una operación de 260 familias con nóm
 
 Fuente: Estimaciones de SuperLeads sobre censos oficiales: SEP / SIGED, Minedu / ENAHO, MEN-DUE, INEP, Mineduc Chile. Cada nivel educativo de un plantel genera su propia Clave de Centro de Trabajo.
 
-Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 25 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 25 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
@@ -822,7 +822,7 @@ Dicho de otro modo: ni siquiera el segmento premium mexicano ha alcanzado el pre
 
 Fuente: USD mensuales, promedio estimado de los 10 colegios más caros de cada capital (São Paulo para Brasil), 2025–2026; no incluye cuotas de inscripción. Fuentes: rankings de colegiaturas por ciudad (El CEO / Mexico Industry; Infobae Perú; La República; The Clinic; Exame; tuitions publicadas de Washington DC).
 
-Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 26 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: hola@superleads.mx
+Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 26 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
 Rayos X de Inscripciones: en una sesión acomodamos los números de admisiones de tu colegio como tienen que estar y te llevas un PDF con los más importantes. Tiene costo; por ahora lo damos sin costo. Agenda aquí: https://superleads.mx/rayos_x
 
