@@ -1,0 +1,38 @@
+[
+ {
+  "nombre": "S · 01 · Si trabajas en admisiones (texto)",
+  "texto": "Si trabajas en admisiones, esto es para ti:\n\nNo te faltan prospectos. Te falta un sistema.\n\nDe cada 100 familias que preguntan por un colegio privado, 2 se inscriben. Y hay colegios que inscriben a más de 10 con las mismas 100.\n\nEscribo de admisiones todos los días. Sígueme.",
+  "fuente": "Corte Rayos X oct-2026 (conversión mediana 2.4 %); Rayos X oct-14: 9 % de los colegios convierte más de 10 % (n=57)",
+  "tarjeta": null,
+  "caracteres": 275,
+  "imagen": null
+ },
+ {
+  "nombre": "S · 02 · Admisiones no es administrativa (tarjeta)",
+  "texto": "Tu área de admisiones no es administrativa. Es comercial.\n\nEl colegio mediano tiene 1.1 personas en admisiones, y 48 % no tiene plan de compensación para su equipo.\n\nAsí no se llena un colegio. Así se contesta cuando se puede.\n\nEscribo de admisiones todos los días. Sígueme.",
+  "fuente": "Corte Rayos X oct-2026 (series 14 y 15)",
+  "tarjeta": {
+   "etiqueta": "PARA QUIEN TRABAJA EN ADMISIONES",
+   "arriba": "Admisiones no es un área",
+   "tachado": "administrativa.",
+   "respuesta": "Es el área comercial.",
+   "pie": "Colegio mediano: 1.1 personas en admisiones · 48 % sin plan de compensación"
+  },
+  "caracteres": 274,
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/posts/tanda2/anuncios_seguidores/Anuncio seguidores 02 · Es el área comercial · v1 · 2026-11-02 23h16.png"
+ },
+ {
+  "nombre": "S · 03 · Se fue con el que contestó primero (tarjeta)",
+  "texto": "La familia no se fue con la competencia. Se fue con el que contestó primero.\n\n78 % le compra al primero que responde, y solo 7 % de las organizaciones contesta en 5 minutos.\n\nSi trabajas en admisiones, cronometra hoy tu primera respuesta.\n\nSígueme para más.",
+  "fuente": "Serie Realidad #14 (MIT, HBR, Velocify)",
+  "tarjeta": {
+   "etiqueta": "ADMISIONES · PRIMERA RESPUESTA",
+   "arriba": "No se fue con la",
+   "tachado": "competencia.",
+   "respuesta": "Se fue con el que contestó primero.",
+   "pie": "78 % le compra al primero que responde · solo 7 % contesta en 5 minutos"
+  },
+  "caracteres": 257,
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/posts/tanda2/anuncios_seguidores/Anuncio seguidores 03 · Se fue con el que contestó primero · v1 · 2026-11-02 23h16.png"
+ }
+]
