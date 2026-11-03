@@ -27,7 +27,7 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 
 - **X:** 1,865 seguidores. El mejor post, «El IMSS no está quebrado.», lleva 10,057 vistas, 851 likes y 49 guardados. Desde el 3-nov salen 6 publicaciones diarias de educación.
 - **X Ads:** una sola campaña activa, de tráfico a superleads.mx, con MX$210/día y 21 anuncios. El público es ultra exacto: gente de admisiones educativas, más la lista de prospectos y clientes de SuperLeads. Las campañas de seguidores están en pausa y listas.
-- **YouTube:** del 3 al 20-nov sale una publicación de comunidad diaria con lo aprendido en X (tarjeta cuadrada con dato, fuente y pregunta); la semana de CIMEDU (5–7 nov) abre con el congreso. Las publicaciones anteriores siguen del 21-nov al 8-dic.
+- **YouTube:** del 3 al 20-nov sale una publicación de comunidad diaria con lo aprendido en X (tarjeta cuadrada con dato, fuente y pregunta), todas a las 9:00 y sin colgarse de eventos ajenos. Las publicaciones anteriores siguen del 21-nov al 8-dic.
 - **Facebook:** Reels programados desde el 1-nov (12:30 y 19:30), subiendo 3 al día para no saturar a Meta. Desde el 4-nov, además, un post de feed diario a las 9:00 con la tanda 2 de X (tarjeta tachada 4:5). Bio y categoría ya hablan de admisiones.
 
 ## Reglas de la casa
@@ -38,6 +38,7 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 4. Nunca se quita contenido programado; se agrega. Lo que sale de la conversación (por ejemplo, la política) pasa a borradores, no se borra.
 5. No se gasta en anuncios sin mi «sí» en el chat.
 6. No hablo de mi esposa ni de mi hija en lo que se publica.
-7. **Todo lo que aprendamos operando X, LinkedIn, YouTube o Facebook se escribe en [aprendizajes/](aprendizajes/)**, con fecha y números, para no volver a aprenderlo y llevarlo a las demás redes.
+7. Nada de congresos ni eventos generalistas de admisiones (ni CIMEDU): ni publicarlos ni promocionarlos.
+8. **Todo lo que aprendamos operando X, LinkedIn, YouTube o Facebook se escribe en [aprendizajes/](aprendizajes/)**, con fecha y números, para no volver a aprenderlo y llevarlo a las demás redes.
 
 Ing. Ricardo López Reyero · Torreón, Coahuila, México

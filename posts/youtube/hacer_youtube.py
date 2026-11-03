@@ -10,8 +10,7 @@ Lo que es propio de YouTube:
 - tarjeta cuadrada 1080×1080 en la paleta de SuperLeads (navy, verde, Plus Jakarta Sans), con el nombre de Ricardo arriba
   y el logo de SuperLeads abajo, como el resto de las piezas del canal;
 - texto completo, con la fuente escrita y una pregunta al final: en YouTube las publicaciones viven de los comentarios;
-- 5–7 nov: CIMEDU (Congreso Internacional de Marketing Educativo, Anáhuac Norte), con mucha gente de colegios entrando
-  desde la Ciudad de México. Esos días el texto abre con el congreso y la hora pasa a 7:30, antes de las primeras charlas.
+- sin eventos ajenos: nada de CIMEDU ni de congresos generalistas de admisiones (regla de Ricardo, 3-nov-2026).
 Escribe publicaciones_youtube.json y las tarjetas en tarjetas/."""
 import json, os, html, subprocess, datetime, tempfile
 
@@ -26,8 +25,6 @@ TANDA = {p['n']: p for p in json.load(open(os.path.join(AQUI, '..', 'tanda2', 'p
 
 SUSCRIBE = 'Cada día publico un dato de admisiones con su fuente. Si diriges un colegio, suscríbete.'
 TAGS = '#admisiones #colegiosprivados #educación'
-TAGS_CIMEDU = '#CIMEDU2026 #marketingeducativo #admisiones'
-CIMEDU_LIGA = 'Si vas a CIMEDU: fechas, sede y hoteles en https://cimedu.superleads.mx'
 OBS = 'Todos los datos, con fuente: https://observatorio.superleads.mx'
 
 CSS = """
@@ -80,28 +77,24 @@ def T(n):
     return TANDA[n]['texto']
 
 
-# fecha, hora, origen, tarjeta, texto. El texto de X va completo; se le agregan apertura (CIMEDU), fuente, pregunta y cierre.
+# fecha, hora, origen, tarjeta, texto. El texto de X va completo; se le agregan fuente, pregunta y cierre.
 P = [
     dict(fecha='2026-11-03', hora='09:00', origen='X tanda 2 · post 01',
          tarjeta=dict(tipo='tachado', **{k: TANDA[1]['tarjeta'][k] for k in ('etiqueta', 'arriba', 'tachado', 'respuesta', 'pie')}),
          texto=T(1) + '\n\nFuente: 98 Rayos X de Inscripciones con dueños y directores de colegios privados (corte octubre 2026) y el estudio de comprador secreto de 1,000 consultas al sector.\n\n' + OBS),
-    dict(fecha='2026-11-04', hora='09:00', origen='X tanda 2 · post 04 · víspera de CIMEDU',
+    dict(fecha='2026-11-04', hora='09:00', origen='X tanda 2 · post 04',
          tarjeta=dict(tipo='tachado', **{k: TANDA[4]['tarjeta'][k] for k in ('etiqueta', 'arriba', 'tachado', 'respuesta', 'pie')}),
-         texto='Mañana empieza CIMEDU, el Congreso Internacional de Marketing Educativo. Van a ser tres días hablando de cómo atraer más familias. Antes de llegar, un dato incómodo:\n\n'
-               + T(4) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.\n\n' + CIMEDU_LIGA, cimedu=True),
-    dict(fecha='2026-11-05', hora='07:30', origen='X tanda 2 · post 13 · CIMEDU día 1',
+         texto=T(4) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.'),
+    dict(fecha='2026-11-05', hora='09:00', origen='X tanda 2 · post 13',
          tarjeta=dict(tipo='tachado', **{k: TANDA[13]['tarjeta'][k] for k in ('etiqueta', 'arriba', 'tachado', 'respuesta', 'pie')}),
-         texto='Hoy arranca CIMEDU. Se va a hablar mucho de cómo traer familias nuevas. Yo empezaría por otra pregunta: ¿por qué se van las que ya llegaron?\n\n'
-               + T(13) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.\n\nCuéntame en los comentarios: ¿precio o seguimiento?', cimedu=True),
-    dict(fecha='2026-11-06', hora='07:30', origen='X tanda 2 · post 10 · CIMEDU día 2',
+         texto=T(13) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.\n\nCuéntame en los comentarios: ¿precio o seguimiento?'),
+    dict(fecha='2026-11-06', hora='09:00', origen='X tanda 2 · post 10',
          tarjeta=dict(tipo='tachado', **{k: TANDA[10]['tarjeta'][k] for k in ('etiqueta', 'arriba', 'tachado', 'respuesta', 'pie')}),
-         texto='Segundo día de CIMEDU. Si hoy alguien te vende una herramienta para conseguir más prospectos, haz primero esta cuenta:\n\n'
-               + T(10) + '\n\n¿Cuántos «ahorita le contesto» tiene hoy el WhatsApp de tu colegio?', cimedu=True),
-    dict(fecha='2026-11-07', hora='07:30', origen='X tanda 2 · post 19 · CIMEDU día 3',
+         texto=T(10) + '\n\nFuente: serie «La realidad de la educación», capítulo 16.\n\n¿Cuántos «ahorita le contesto» tiene hoy el WhatsApp de tu colegio?'),
+    dict(fecha='2026-11-07', hora='09:00', origen='X tanda 2 · post 19',
          tarjeta=dict(tipo='tachado', etiqueta='102 RAYOS X · CONVERSIÓN', arriba='De cada 100 familias que preguntan,', tachado='',
                       respuesta='2 se inscriben.', pie=TANDA[19]['tarjeta']['pie']),
-         texto='Último día de CIMEDU. Si te llevas una sola idea del congreso a tu colegio, que sea esta:\n\n'
-               + T(19) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.\n\n¿Sabes cuál es la conversión de tu colegio? Escríbela en los comentarios, aunque sea aproximada.', cimedu=True),
+         texto=T(19) + '\n\nFuente: corte de 102 Rayos X de Inscripciones, octubre 2026.\n\n¿Sabes cuál es la conversión de tu colegio? Escríbela en los comentarios, aunque sea aproximada.'),
     dict(fecha='2026-11-08', hora='09:00', origen='Anuncio de seguidores S·02 de X',
          tarjeta=dict(tipo='tachado', etiqueta='PARA QUIEN DIRIGE UN COLEGIO', arriba='Admisiones no es un área', tachado='administrativa.',
                       respuesta='Es el área comercial.', pie='Colegio mediano: 1.1 personas en admisiones · 48 % sin plan de compensación'),
@@ -165,7 +158,7 @@ def texto_final(p):
     t = p['texto']
     if 'superleads.mx/rayos_x' not in t:
         t += '\n\n' + SUSCRIBE
-    return t + '\n\n' + (TAGS_CIMEDU if p.get('cimedu') else TAGS)
+    return t + '\n\n' + TAGS
 
 
 def main():
