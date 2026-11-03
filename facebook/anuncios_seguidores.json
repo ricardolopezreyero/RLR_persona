@@ -1,0 +1,72 @@
+[
+ {
+  "nombre": "FB S·01 · Admisiones no es administrativa",
+  "texto": "Tu área de admisiones no es administrativa. Es comercial.\n\nEl colegio mediano tiene 1.1 personas en admisiones, y 48 % no tiene plan de compensación para su equipo.\n\nAsí no se llena un colegio. Así se contesta cuando se puede.\n\nSi tienes o diriges un colegio, sigue la página: escribo de admisiones todos los días.",
+  "titulo": "Admisiones es el área comercial",
+  "tarjeta": {
+   "etiqueta": "PARA QUIEN DIRIGE UN COLEGIO",
+   "arriba": "Admisiones no es un área",
+   "tachado": "administrativa.",
+   "respuesta": "Es el área comercial.",
+   "pie": "Colegio mediano: 1.1 personas en admisiones · 48 % sin plan de compensación"
+  },
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/facebook/anuncios_seguidores/Anuncio FB seguidores 01 · Es el área comercial · v1 · 2026-11-03 00h27.png",
+  "caracteres": 314
+ },
+ {
+  "nombre": "FB S·02 · Se fue con el que contestó primero",
+  "texto": "La familia no se fue con la competencia. Se fue con el que contestó primero.\n\n78 % le compra al primero que responde, y solo 7 % de las organizaciones contesta en 5 minutos.\n\nCronometra hoy la primera respuesta de tu colegio.\n\nSi tienes o diriges un colegio, sigue la página: escribo de admisiones todos los días.",
+  "titulo": "Se fue con el que contestó primero",
+  "tarjeta": {
+   "etiqueta": "ADMISIONES · PRIMERA RESPUESTA",
+   "arriba": "No se fue con la",
+   "tachado": "competencia.",
+   "respuesta": "Se fue con el que contestó primero.",
+   "pie": "78 % le compra al primero que responde · solo 7 % contesta en 5 minutos"
+  },
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/facebook/anuncios_seguidores/Anuncio FB seguidores 02 · Se fue con el que contestó primero · v1 · 2026-11-03 00h27.png",
+  "caracteres": 313
+ },
+ {
+  "nombre": "FB S·03 · post 01 · Tu colegio no está vacío",
+  "texto": "Tu colegio no está vacío.\n\nLa escuela privada mediana opera al 46 % de su capacidad. Lo medí en 98 Rayos X con dueños y directores.\n\nY en el estudio más grande de comprador secreto al sector, 44 de cada 100 consultas jamás recibieron respuesta. Ni tarde: nunca.\n\nNo faltan familias. Falta quien les conteste.\n\n¿Cuántos mensajes de esta semana siguen sin respuesta en el WhatsApp de tu colegio?\n\nSi tienes o diriges un colegio, sigue la página: escribo de admisiones todos los días.",
+  "titulo": "Tu colegio no está vacío",
+  "tarjeta": {
+   "etiqueta": "102 RAYOS X · OCTUBRE 2026",
+   "arriba": "Tu colegio no está",
+   "tachado": "vacío.",
+   "respuesta": "Está mal atendido.",
+   "pie": "Mediana: 46 % de ocupación. 44 de cada 100 consultas nunca reciben respuesta."
+  },
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/facebook/anuncios_seguidores/Anuncio FB seguidores 03 · Está mal atendido · v1 · 2026-11-03 00h27.png",
+  "caracteres": 481
+ },
+ {
+  "nombre": "FB S·04 · post 10 · Un WhatsApp sin contestar cuesta",
+  "texto": "Un WhatsApp sin contestar no cuesta nada.\n\nEso creen casi todos.\n\nHagamos la cuenta con un colegio típico: colegiatura de $4,500 MXN, 6 años de permanencia y la probabilidad de un hermano. Son unos $450,000 MXN por familia.\n\nEse es el precio de cada «ahorita le contesto» que se volvió nunca.\n\nRecuperar a una familia que ya escribió cuesta $0 en anuncios. Solo cuesta proceso.\n\nSi tienes o diriges un colegio, sigue la página: escribo de admisiones todos los días.",
+  "titulo": "Un WhatsApp sin contestar cuesta",
+  "tarjeta": {
+   "etiqueta": "EL PRECIO DEL SILENCIO",
+   "arriba": "Un WhatsApp sin contestar",
+   "tachado": "no cuesta nada.",
+   "respuesta": "Cuesta $450,000 MXN.",
+   "pie": "Colegiatura de $4,500 × 12 meses × 6 años × 1.4 por hermanos."
+  },
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/facebook/anuncios_seguidores/Anuncio FB seguidores 04 · Cuesta 450,000 MXN · v1 · 2026-11-03 00h27.png",
+  "caracteres": 465
+ },
+ {
+  "nombre": "FB S·05 · post 13 · No se fueron por el precio",
+  "texto": "No se fueron por el precio.\n\nEn los Rayos X, 62 % de los directores culpa al precio de las familias que no se inscribieron. Solo 38 % admite que nadie les dio seguimiento.\n\nPero de las familias que sí llegan a la cita, 40 % se inscribe. Al mismo precio.\n\nEl precio es la explicación cómoda. El seguimiento es la incómoda.\n\n¿Cuál de las dos está más cerca de tu colegio?\n\nSi tienes o diriges un colegio, sigue la página: escribo de admisiones todos los días.",
+  "titulo": "No se fueron por el precio",
+  "tarjeta": {
+   "etiqueta": "POR QUÉ NO SE INSCRIBEN",
+   "arriba": "No se fueron por el",
+   "tachado": "precio.",
+   "respuesta": "Se fueron por el silencio.",
+   "pie": "62 % de los directores culpa al precio. 38 % admite que no dio seguimiento."
+  },
+  "imagen": "/Users/ricardolopezreyero/Code/RLR_persona/facebook/anuncios_seguidores/Anuncio FB seguidores 05 · Se fueron por el silencio · v1 · 2026-11-03 00h27.png",
+  "caracteres": 457
+ }
+]

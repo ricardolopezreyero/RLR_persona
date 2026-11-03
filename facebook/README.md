@@ -34,7 +34,7 @@ Desde aquí, **todo seguidor que gane la página se atribuye al trabajo de Claud
 - Se publica sobre todo en **Reels**, porque Facebook los muestra a gente que no sigue la página. Las series salen completas y en orden; lo ya programado nunca se quita, solo se agrega.
 - Desde el 4-nov-2026 sale además **un post de feed al día a las 9:00** con lo aprendido en X (tarjeta tachada 4:5 y textos de admisiones): ver [tanda2/](tanda2/).
 - Bio: «Ingeniero. Escribo de admisiones en colegios privados con los datos de 102 Rayos X: lo que el sistema produce y nadie quiere ver.» Categorías: Educational Consultant y Education (3-nov-2026).
-- Cuenta publicitaria: ya existe, «Ricardo López Reyero - cuenta publicitaria» (ID 463713965699158), en el portafolio de negocio de Ricardo. No hay campaña para la página; se crea solo con su «sí».
+- Cuenta publicitaria: ya existe, «Ricardo López Reyero - cuenta publicitaria» (ID 463713965699158), en el portafolio de negocio de Ricardo. Campaña de seguidores lista **en borrador y apagada** (MX$100/día, 5 anuncios, público de dueños y directores de colegios): ver [CAMPANA_SEGUIDORES.md](CAMPANA_SEGUIDORES.md). Se prende solo con su «sí».
 - En la página no se habla de su esposa ni de su hija.
 - La publicidad pagada solo va con el «sí» de Ricardo en el chat.
 - El seguimiento de seguidores se registra en `facebook/metricas.md`.
