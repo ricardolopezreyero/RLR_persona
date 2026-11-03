@@ -1,6 +1,25 @@
 [
  {
   "fecha": "2026-11-03",
+  "hora": "11:00",
+  "tipo": "tarjeta",
+  "embudo": "alcance",
+  "tarjeta": {
+   "etiqueta": "LA REALIDAD DE LA EDUCACIÓN",
+   "arriba": "El problema no es el",
+   "tachado": "maestro.",
+   "respuesta": "Es el sistema que le paga.",
+   "pie": "Docente promedio: $7,890 MXN al mes. México: último lugar OCDE en gasto por alumno."
+  },
+  "texto": "El problema de la educación en México no es el maestro.\n\nEl docente promedio gana $7,890 MXN al mes, según la ENOE. México invierte $2,933 USD al año por alumno de primaria: último lugar de la OCDE.\n\nEl mensaje del sistema a su maestro es coherente: te pago poco, no te formo, no te evalúo.\n\nNo le pidas resultados de primer mundo a un sistema que paga como último lugar.\n\nNo es la persona. Es el sistema que la puso ahí.",
+  "fuente": "Serie Realidad #5 (ENOE) y #8 (OCDE)",
+  "n": 7,
+  "caracteres": 421,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
+  "visual": "visuales/Post 07 · Es el sistema que le paga · v1 · 2026-11-02 22h29.png"
+ },
+ {
+  "fecha": "2026-11-03",
   "hora": "20:30",
   "tipo": "largo",
   "embudo": "confianza",
@@ -8,6 +27,17 @@
   "fuente": "Corte Rayos X oct-2026 (series 1, 2, 6, 8, 12, 17)",
   "n": 3,
   "caracteres": 737,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-03",
+  "hora": "23:00",
+  "tipo": "texto",
+  "embudo": "alcance",
+  "texto": "Opinión impopular entre directores:\n\nCon menos de 900 alumnos no hay pretexto para no tener lista de espera.\n\n13.4 millones de hogares en México pueden pagar un colegio privado. Tu ciudad tiene las familias.\n\nLa lista de espera no se anuncia. Se construye, mensaje por mensaje.",
+  "fuente": "Short 14 (tanda 2); serie Realidad #23 (13.4 millones)",
+  "n": 5,
+  "caracteres": 277,
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
  },
  {
@@ -30,6 +60,36 @@
   "visual": "visuales/Post 01 · Está mal atendido · v1 · 2026-11-02 22h29.png"
  },
  {
+  "fecha": "2026-11-04",
+  "hora": "11:00",
+  "tipo": "largo",
+  "embudo": "confianza",
+  "texto": "Las 3 preguntas que le hago a todo dueño de colegio en un Rayos X:\n\n1. ¿Cuántos lugares vacíos tienes hoy?\n2. ¿Cuántas familias te preguntan al día?\n3. ¿Cuántas de esas terminan inscritas?\n\nCon esos tres números sé dónde está el problema en 10 minutos.\n\nSi no los sabes sin abrir un Excel, ese es el primer problema.\n\nLo que no se mide no se mejora. Y lo que no se mejora, se vacía.",
+  "fuente": "Proceso del Rayos X de Inscripciones",
+  "n": 18,
+  "caracteres": 382,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-04",
+  "hora": "23:00",
+  "tipo": "tarjeta",
+  "embudo": "alcance",
+  "tarjeta": {
+   "etiqueta": "EL PRECIO DEL SILENCIO",
+   "arriba": "Un WhatsApp sin contestar",
+   "tachado": "no cuesta nada.",
+   "respuesta": "Cuesta $450,000 MXN.",
+   "pie": "Colegiatura de $4,500 × 12 meses × 6 años × 1.4 por hermanos."
+  },
+  "texto": "Un WhatsApp sin contestar no cuesta nada.\n\nEso creen casi todos.\n\nHagamos la cuenta con un colegio típico: colegiatura de $4,500 MXN, 6 años de permanencia y la probabilidad de un hermano. Son unos $450,000 MXN por familia.\n\nEse es el precio de cada «ahorita le contesto» que se volvió nunca.\n\nRecuperar a una familia que ya escribió cuesta $0 en anuncios. Solo cuesta proceso.",
+  "fuente": "Serie Realidad #16",
+  "n": 10,
+  "caracteres": 377,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
+  "visual": "visuales/Post 10 · Cuesta 450,000 MXN · v1 · 2026-11-02 22h29.png"
+ },
+ {
   "fecha": "2026-11-05",
   "hora": "08:00",
   "tipo": "tarjeta",
@@ -50,6 +110,17 @@
  },
  {
   "fecha": "2026-11-05",
+  "hora": "11:00",
+  "tipo": "texto",
+  "embudo": "alcance",
+  "texto": "Pregunta para dueños de colegio:\n\n¿Cuánto vale un alumno?\n\nSi contestaste «una colegiatura», contestaste mal.\n\nEl alumno mediano vale $144,000 MXN en toda su estancia.\n\nEse es el tamaño de cada WhatsApp que se queda en visto.",
+  "fuente": "Corte Rayos X oct-2026 (serie 8, n=97)",
+  "n": 8,
+  "caracteres": 225,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-05",
   "hora": "20:30",
   "tipo": "largo",
   "embudo": "confianza",
@@ -58,6 +129,36 @@
   "n": 6,
   "caracteres": 529,
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-05",
+  "hora": "23:00",
+  "tipo": "largo",
+  "embudo": "conversion",
+  "texto": "Llevamos 102 Rayos X de Inscripciones con dueños y directores en 69 ciudades.\n\nEn una sesión acomodamos los números de admisiones de tu colegio como tienen que estar: ocupación, prospectos, conversión, valor de un alumno. Te llevas un PDF con los más importantes.\n\nTiene costo. Por ahora lo damos sin costo.\n\nSi tienes un colegio y quieres ver tu radiografía: https://superleads.mx/rayos_x",
+  "fuente": "Rayos X de Inscripciones (único post de venta de la semana)",
+  "n": 21,
+  "caracteres": 389,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-06",
+  "hora": "11:00",
+  "tipo": "tarjeta",
+  "embudo": "alcance",
+  "tarjeta": {
+   "etiqueta": "POR QUÉ NO SE INSCRIBEN",
+   "arriba": "No se fueron por el",
+   "tachado": "precio.",
+   "respuesta": "Se fueron por el silencio.",
+   "pie": "62 % de los directores culpa al precio. 38 % admite que no dio seguimiento."
+  },
+  "texto": "No se fueron por el precio.\n\nEn los Rayos X, 62 % de los directores culpa al precio de las familias que no se inscribieron. Solo 38 % admite que nadie les dio seguimiento.\n\nPero de las familias que sí llegan a la cita, 40 % se inscribe. Al mismo precio.\n\nEl precio es la explicación cómoda. El seguimiento es la incómoda.\n\n¿Cuál de las dos está más cerca de tu colegio?",
+  "fuente": "Corte Rayos X oct-2026 (series 6 y 17)",
+  "n": 13,
+  "caracteres": 369,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
+  "visual": "visuales/Post 13 · Se fueron por el silencio · v1 · 2026-11-02 22h29.png"
  },
  {
   "fecha": "2026-11-06",
@@ -71,6 +172,36 @@
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
  },
  {
+  "fecha": "2026-11-06",
+  "hora": "23:00",
+  "tipo": "tarjeta",
+  "embudo": "alcance",
+  "tarjeta": {
+   "etiqueta": "PISA 2022 · MATEMÁTICAS",
+   "arriba": "No es un problema de los",
+   "tachado": "niños.",
+   "respuesta": "Es del sistema que los forma.",
+   "pie": "México: lugar 35 de 37. 66 % no alcanza el nivel básico."
+  },
+  "texto": "No es un problema de los niños.\n\nEn PISA, México quedó en el lugar 35 de 37. Dos de cada tres alumnos de 15 años no alcanzan el nivel básico de Matemáticas. Nivel básico es poder usar una regla de tres en la vida diaria.\n\nVeinte puntos PISA equivalen a un año escolar. El alumno mexicano promedio va de tres a cuatro años atrás.\n\nNo son los niños. Es el sistema que los selecciona, los forma y los mide.\n\nSi cambias el proceso, cambias los resultados.",
+  "fuente": "Serie Realidad #1 y #2 (OCDE PISA 2022; IMCO)",
+  "n": 16,
+  "caracteres": 451,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
+  "visual": "visuales/Post 16 · Es del sistema que los forma · v1 · 2026-11-02 22h29.png"
+ },
+ {
+  "fecha": "2026-11-07",
+  "hora": "11:00",
+  "tipo": "texto",
+  "embudo": "alcance",
+  "texto": "Tu colegio no compite contra el colegio de enfrente.\n\nCompite contra la escuela pública gratuita, donde están 9 de cada 10 niños del país.\n\nY contra el WhatsApp que nadie contestó.\n\nEse es tu mercado. No el vecino.",
+  "fuente": "Serie Realidad #22 (10 % en privada)",
+  "n": 14,
+  "caracteres": 214,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
   "fecha": "2026-11-07",
   "hora": "20:30",
   "tipo": "largo",
@@ -79,6 +210,36 @@
   "fuente": "Corte Rayos X oct-2026 (serie 11)",
   "n": 12,
   "caracteres": 507,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
+ },
+ {
+  "fecha": "2026-11-07",
+  "hora": "23:00",
+  "tipo": "tarjeta",
+  "embudo": "alcance",
+  "tarjeta": {
+   "etiqueta": "92 RAYOS X · CONVERSIÓN",
+   "arriba": "De cada 100 familias que preguntan,",
+   "tachado": "",
+   "respuesta": "2 se inscriben.",
+   "pie": "Pasar de 2.4 % a 3.4 % vale $109,500 MXN al año en el colegio mediano."
+  },
+  "texto": "De cada 100 familias que preguntan por un colegio privado, 2 se inscriben.\n\nY casi todos los directores creen que necesitan más familias.\n\nCon las mismas 100, subir un solo punto, de 2.4 % a 3.4 %, vale $109,500 MXN al año para el colegio mediano.\n\nMás publicidad es lo último. Primero, el proceso.",
+  "fuente": "Corte Rayos X oct-2026 (series 5 y 10)",
+  "n": 19,
+  "caracteres": 298,
+  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
+  "visual": "visuales/Post 19 · 2 se inscriben · v1 · 2026-11-02 22h29.png"
+ },
+ {
+  "fecha": "2026-11-08",
+  "hora": "11:00",
+  "tipo": "texto",
+  "embudo": "alcance",
+  "texto": "Si estuvieras viendo tu colegio en la pantalla de un cine, ¿qué te estaría gritando la audiencia que hicieras?\n\nYo creo que algo así:\n\n«¡Contesta ese mensaje!»",
+  "fuente": "Frase bandera (la película de tu vida)",
+  "n": 17,
+  "caracteres": 159,
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
  },
  {
@@ -104,105 +265,15 @@
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
  },
  {
-  "fecha": "2026-11-09",
-  "hora": "08:00",
-  "tipo": "tarjeta",
-  "embudo": "alcance",
-  "tarjeta": {
-   "etiqueta": "LA REALIDAD DE LA EDUCACIÓN",
-   "arriba": "El problema no es el",
-   "tachado": "maestro.",
-   "respuesta": "Es el sistema que le paga.",
-   "pie": "Docente promedio: $7,890 MXN al mes. México: último lugar OCDE en gasto por alumno."
-  },
-  "texto": "El problema de la educación en México no es el maestro.\n\nEl docente promedio gana $7,890 MXN al mes, según la ENOE. México invierte $2,933 USD al año por alumno de primaria: último lugar de la OCDE.\n\nEl mensaje del sistema a su maestro es coherente: te pago poco, no te formo, no te evalúo.\n\nNo le pidas resultados de primer mundo a un sistema que paga como último lugar.\n\nNo es la persona. Es el sistema que la puso ahí.",
-  "fuente": "Serie Realidad #5 (ENOE) y #8 (OCDE)",
-  "n": 7,
-  "caracteres": 421,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
-  "visual": "visuales/Post 07 · Es el sistema que le paga · v1 · 2026-11-02 22h29.png"
- },
- {
-  "fecha": "2026-11-09",
-  "hora": "13:30",
+  "fecha": "2026-11-08",
+  "hora": "23:00",
   "tipo": "texto",
   "embudo": "alcance",
-  "texto": "Opinión impopular entre directores:\n\nCon menos de 900 alumnos no hay pretexto para no tener lista de espera.\n\n13.4 millones de hogares en México pueden pagar un colegio privado. Tu ciudad tiene las familias.\n\nLa lista de espera no se anuncia. Se construye, mensaje por mensaje.",
-  "fuente": "Short 14 (tanda 2); serie Realidad #23 (13.4 millones)",
-  "n": 5,
-  "caracteres": 277,
+  "texto": "Hay 3 tipos de colegios:\n\n1. Los que esperan inscripciones.\n2. Los que las compran.\n3. Los que las construyen.\n\nLos primeros culpan al año. Los segundos, al anuncio.\n\nLos terceros tienen lista de espera.",
+  "fuente": "Estructura de «3 tipos de socios» aplicada a colegios",
+  "n": 20,
+  "caracteres": 203,
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-09",
-  "hora": "20:30",
-  "tipo": "largo",
-  "embudo": "confianza",
-  "texto": "Las 3 preguntas que le hago a todo dueño de colegio en un Rayos X:\n\n1. ¿Cuántos lugares vacíos tienes hoy?\n2. ¿Cuántas familias te preguntan al día?\n3. ¿Cuántas de esas terminan inscritas?\n\nCon esos tres números sé dónde está el problema en 10 minutos.\n\nSi no los sabes sin abrir un Excel, ese es el primer problema.\n\nLo que no se mide no se mejora. Y lo que no se mejora, se vacía.",
-  "fuente": "Proceso del Rayos X de Inscripciones",
-  "n": 18,
-  "caracteres": 382,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-10",
-  "hora": "08:00",
-  "tipo": "tarjeta",
-  "embudo": "alcance",
-  "tarjeta": {
-   "etiqueta": "EL PRECIO DEL SILENCIO",
-   "arriba": "Un WhatsApp sin contestar",
-   "tachado": "no cuesta nada.",
-   "respuesta": "Cuesta $450,000 MXN.",
-   "pie": "Colegiatura de $4,500 × 12 meses × 6 años × 1.4 por hermanos."
-  },
-  "texto": "Un WhatsApp sin contestar no cuesta nada.\n\nEso creen casi todos.\n\nHagamos la cuenta con un colegio típico: colegiatura de $4,500 MXN, 6 años de permanencia y la probabilidad de un hermano. Son unos $450,000 MXN por familia.\n\nEse es el precio de cada «ahorita le contesto» que se volvió nunca.\n\nRecuperar a una familia que ya escribió cuesta $0 en anuncios. Solo cuesta proceso.",
-  "fuente": "Serie Realidad #16",
-  "n": 10,
-  "caracteres": 377,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
-  "visual": "visuales/Post 10 · Cuesta 450,000 MXN · v1 · 2026-11-02 22h29.png"
- },
- {
-  "fecha": "2026-11-10",
-  "hora": "13:30",
-  "tipo": "texto",
-  "embudo": "alcance",
-  "texto": "Pregunta para dueños de colegio:\n\n¿Cuánto vale un alumno?\n\nSi contestaste «una colegiatura», contestaste mal.\n\nEl alumno mediano vale $144,000 MXN en toda su estancia.\n\nEse es el tamaño de cada WhatsApp que se queda en visto.",
-  "fuente": "Corte Rayos X oct-2026 (serie 8, n=97)",
-  "n": 8,
-  "caracteres": 225,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-10",
-  "hora": "20:30",
-  "tipo": "largo",
-  "embudo": "conversion",
-  "texto": "Llevamos 102 Rayos X de Inscripciones con dueños y directores en 69 ciudades.\n\nEn una sesión acomodamos los números de admisiones de tu colegio como tienen que estar: ocupación, prospectos, conversión, valor de un alumno. Te llevas un PDF con los más importantes.\n\nTiene costo. Por ahora lo damos sin costo.\n\nSi tienes un colegio y quieres ver tu radiografía: https://superleads.mx/rayos_x",
-  "fuente": "Rayos X de Inscripciones (único post de venta de la semana)",
-  "n": 21,
-  "caracteres": 389,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-11",
-  "hora": "08:00",
-  "tipo": "tarjeta",
-  "embudo": "alcance",
-  "tarjeta": {
-   "etiqueta": "POR QUÉ NO SE INSCRIBEN",
-   "arriba": "No se fueron por el",
-   "tachado": "precio.",
-   "respuesta": "Se fueron por el silencio.",
-   "pie": "62 % de los directores culpa al precio. 38 % admite que no dio seguimiento."
-  },
-  "texto": "No se fueron por el precio.\n\nEn los Rayos X, 62 % de los directores culpa al precio de las familias que no se inscribieron. Solo 38 % admite que nadie les dio seguimiento.\n\nPero de las familias que sí llegan a la cita, 40 % se inscribe. Al mismo precio.\n\nEl precio es la explicación cómoda. El seguimiento es la incómoda.\n\n¿Cuál de las dos está más cerca de tu colegio?",
-  "fuente": "Corte Rayos X oct-2026 (series 6 y 17)",
-  "n": 13,
-  "caracteres": 369,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
-  "visual": "visuales/Post 13 · Se fueron por el silencio · v1 · 2026-11-02 22h29.png"
  },
  {
   "fecha": "2026-11-11",
@@ -213,77 +284,6 @@
   "fuente": "ESENCIA (22-feb-2022, 50 minutos); días calculados al 11-nov-2026",
   "n": 11,
   "caracteres": 354,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-12",
-  "hora": "08:00",
-  "tipo": "tarjeta",
-  "embudo": "alcance",
-  "tarjeta": {
-   "etiqueta": "PISA 2022 · MATEMÁTICAS",
-   "arriba": "No es un problema de los",
-   "tachado": "niños.",
-   "respuesta": "Es del sistema que los forma.",
-   "pie": "México: lugar 35 de 37. 66 % no alcanza el nivel básico."
-  },
-  "texto": "No es un problema de los niños.\n\nEn PISA, México quedó en el lugar 35 de 37. Dos de cada tres alumnos de 15 años no alcanzan el nivel básico de Matemáticas. Nivel básico es poder usar una regla de tres en la vida diaria.\n\nVeinte puntos PISA equivalen a un año escolar. El alumno mexicano promedio va de tres a cuatro años atrás.\n\nNo son los niños. Es el sistema que los selecciona, los forma y los mide.\n\nSi cambias el proceso, cambias los resultados.",
-  "fuente": "Serie Realidad #1 y #2 (OCDE PISA 2022; IMCO)",
-  "n": 16,
-  "caracteres": 451,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
-  "visual": "visuales/Post 16 · Es del sistema que los forma · v1 · 2026-11-02 22h29.png"
- },
- {
-  "fecha": "2026-11-12",
-  "hora": "13:30",
-  "tipo": "texto",
-  "embudo": "alcance",
-  "texto": "Tu colegio no compite contra el colegio de enfrente.\n\nCompite contra la escuela pública gratuita, donde están 9 de cada 10 niños del país.\n\nY contra el WhatsApp que nadie contestó.\n\nEse es tu mercado. No el vecino.",
-  "fuente": "Serie Realidad #22 (10 % en privada)",
-  "n": 14,
-  "caracteres": 214,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-13",
-  "hora": "08:00",
-  "tipo": "tarjeta",
-  "embudo": "alcance",
-  "tarjeta": {
-   "etiqueta": "92 RAYOS X · CONVERSIÓN",
-   "arriba": "De cada 100 familias que preguntan,",
-   "tachado": "",
-   "respuesta": "2 se inscriben.",
-   "pie": "Pasar de 2.4 % a 3.4 % vale $109,500 MXN al año en el colegio mediano."
-  },
-  "texto": "De cada 100 familias que preguntan por un colegio privado, 2 se inscriben.\n\nY casi todos los directores creen que necesitan más familias.\n\nCon las mismas 100, subir un solo punto, de 2.4 % a 3.4 %, vale $109,500 MXN al año para el colegio mediano.\n\nMás publicidad es lo último. Primero, el proceso.",
-  "fuente": "Corte Rayos X oct-2026 (series 5 y 10)",
-  "n": 19,
-  "caracteres": 298,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)",
-  "visual": "visuales/Post 19 · 2 se inscriben · v1 · 2026-11-02 22h29.png"
- },
- {
-  "fecha": "2026-11-13",
-  "hora": "13:30",
-  "tipo": "texto",
-  "embudo": "alcance",
-  "texto": "Si estuvieras viendo tu colegio en la pantalla de un cine, ¿qué te estaría gritando la audiencia que hicieras?\n\nYo creo que algo así:\n\n«¡Contesta ese mensaje!»",
-  "fuente": "Frase bandera (la película de tu vida)",
-  "n": 17,
-  "caracteres": 159,
-  "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
- },
- {
-  "fecha": "2026-11-14",
-  "hora": "13:30",
-  "tipo": "texto",
-  "embudo": "alcance",
-  "texto": "Hay 3 tipos de colegios:\n\n1. Los que esperan inscripciones.\n2. Los que las compran.\n3. Los que las construyen.\n\nLos primeros culpan al año. Los segundos, al anuncio.\n\nLos terceros tienen lista de espera.",
-  "fuente": "Estructura de «3 tipos de socios» aplicada a colegios",
-  "n": 20,
-  "caracteres": 203,
   "estado": "programado en X 2-nov-2026 (verificado en la lista de programados)"
  }
 ]
