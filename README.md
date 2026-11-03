@@ -18,6 +18,7 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 | [persona/](persona/) | ESENCIA, la guía de voz v3 (la v1 queda como historia), y el avatar y las portadas de cada red con su código. |
 | [aprendizajes/](aprendizajes/) | Lo aprendido por red y por fecha: qué funcionó, por qué, cómo se repite y cómo llevarlo a otras redes. |
 | [posts/](posts/) | Los posts de X: tanda 1 (`posts.json`), tanda 2 de educación (`tanda2/`), series de datos (`estadisticas/` y `rayosx_corte/`), Shorts (`clips/`) y el calendario. |
+| [posts/youtube/](posts/youtube/) | Las publicaciones de comunidad de YouTube del 3 al 20-nov: tarjetas cuadradas, textos y el registro de las que se movieron. |
 | [posts/tanda2/](posts/tanda2/) | Los 21 posts de educación, las tarjetas tachadas, las vistas previas, los 21 anuncios de tráfico a superleads.mx y los anuncios de seguidores. |
 | [metricas/](metricas/) | Cortes diarios de X: seguidores, vistas, likes y guardados por post. |
 | [facebook/](facebook/) | La página que maneja Claude desde 0 seguidores (1-nov-2026): evidencia de arranque, plan de Reels, la tanda 2 del feed (`tanda2/`) y métricas. |
@@ -26,6 +27,7 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 
 - **X:** 1,865 seguidores. El mejor post, «El IMSS no está quebrado.», lleva 10,057 vistas, 851 likes y 49 guardados. Desde el 3-nov salen 6 publicaciones diarias de educación.
 - **X Ads:** una sola campaña activa, de tráfico a superleads.mx, con MX$210/día y 21 anuncios. El público es ultra exacto: gente de admisiones educativas, más la lista de prospectos y clientes de SuperLeads. Las campañas de seguidores están en pausa y listas.
+- **YouTube:** del 3 al 20-nov sale una publicación de comunidad diaria con lo aprendido en X (tarjeta cuadrada con dato, fuente y pregunta); la semana de CIMEDU (5–7 nov) abre con el congreso. Las publicaciones anteriores siguen del 21-nov al 8-dic.
 - **Facebook:** Reels programados desde el 1-nov (12:30 y 19:30), subiendo 3 al día para no saturar a Meta. Desde el 4-nov, además, un post de feed diario a las 9:00 con la tanda 2 de X (tarjeta tachada 4:5). Bio y categoría ya hablan de admisiones.
 
 ## Reglas de la casa
