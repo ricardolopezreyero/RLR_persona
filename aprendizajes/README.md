@@ -4,6 +4,7 @@ Lo que aprendemos operando las redes de Ricardo se escribe aquí, con fecha, par
 
 | Documento | Qué cubre |
 |---|---|
+| [Facebook-2026-11-03.md](Facebook-2026-11-03.md) | Lo aprendido en X llevado a la página de Facebook: bio y categoría de admisiones, la tanda 2 en el feed con tarjetas 4:5, la cuenta publicitaria y los trucos de Business Suite |
 | [X-2026-11-03.md](X-2026-11-03.md) | Primera semana en X: la fórmula del IMSS, la tarjeta tachada, el algoritmo de X (3 láminas de @ryangrowthh), la guía v3, las campañas de X Ads (seguidores y tráfico a superleads.mx), el público ultra exacto de admisiones y cómo llevarlo a las demás redes |
 
 ## Los 7 principios que ya probamos

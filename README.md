@@ -20,13 +20,13 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 | [posts/](posts/) | Los posts de X: tanda 1 (`posts.json`), tanda 2 de educación (`tanda2/`), series de datos (`estadisticas/` y `rayosx_corte/`), Shorts (`clips/`) y el calendario. |
 | [posts/tanda2/](posts/tanda2/) | Los 21 posts de educación, las tarjetas tachadas, las vistas previas, los 21 anuncios de tráfico a superleads.mx y los anuncios de seguidores. |
 | [metricas/](metricas/) | Cortes diarios de X: seguidores, vistas, likes y guardados por post. |
-| [facebook/](facebook/) | La página que maneja Claude desde 0 seguidores (1-nov-2026): evidencia de arranque, plan de Reels y métricas. |
+| [facebook/](facebook/) | La página que maneja Claude desde 0 seguidores (1-nov-2026): evidencia de arranque, plan de Reels, la tanda 2 del feed (`tanda2/`) y métricas. |
 
 ## Dónde vamos (3-nov-2026)
 
 - **X:** 1,865 seguidores. El mejor post, «El IMSS no está quebrado.», lleva 10,057 vistas, 851 likes y 49 guardados. Desde el 3-nov salen 6 publicaciones diarias de educación.
 - **X Ads:** una sola campaña activa, de tráfico a superleads.mx, con MX$210/día y 21 anuncios. El público es ultra exacto: gente de admisiones educativas, más la lista de prospectos y clientes de SuperLeads. Las campañas de seguidores están en pausa y listas.
-- **Facebook:** Reels programados desde el 1-nov, subiendo 3 al día para no saturar a Meta.
+- **Facebook:** Reels programados desde el 1-nov (12:30 y 19:30), subiendo 3 al día para no saturar a Meta. Desde el 4-nov, además, un post de feed diario a las 9:00 con la tanda 2 de X (tarjeta tachada 4:5). Bio y categoría ya hablan de admisiones.
 
 ## Reglas de la casa
 
