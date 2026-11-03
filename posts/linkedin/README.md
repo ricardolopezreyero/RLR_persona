@@ -30,3 +30,11 @@ SOLO=3 python3 armar.py       # solo el artículo 3 (no toca el plan ni Descarga
 ## Cómo se programaron
 
 Helpers de BrowserOS neo en linkedin.com: `liRedactar` (abre linkedin.com/sharing/compose, escribe el texto en el editor TipTap línea por línea, abre «Documento», intercepta el input de archivo parcheando `HTMLInputElement.prototype.click`, carga el PDF por CDP `DOM.setFileInputFiles`, pone el título ≤58 y pulsa «Hecho» esperando a que el modal cierre) y `liProgramar` (reloj «Programadas (n)», fecha dd/mm/aaaa, hora, cierra la lista de horas pulsando el título del modal —nunca Escape: abre «guardar borrador»—, comprueba el resumen «Publicando el …», Confirmar y Programar). Datos para los helpers: `datos_li.html` (file://, window.__L; en .gitignore).
+
+## Posts sueltos
+
+| Fecha | Post | Estado |
+|---|---|---|
+| 3-nov-2026 | [El pitch en el Tec](2026-11-03%20·%20pitch%20en%20el%20Tec/README.md): Juan Pablo Murra, el equipo de admisiones del Tec y el agradecimiento a su papá | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7523395988015722496/) |
+
+Cómo se publica un post con fotos (BrowserOS neo): «Foto» en el feed → `upload` con las rutas → en el editor, por foto, «Texto alternativo» y «Etiqueta» (la persona se elige con clic real en la opción; Enter no la toma) → «Siguiente» → texto línea por línea con `insertText` + Enter (Enter doble = línea en blanco) → menciones escribiendo `@Nombre` letra por letra y clic en la opción correcta (comparar con el perfil cuando hay homónimos) → revisar los párrafos en el DOM → «Publicar».
