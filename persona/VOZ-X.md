@@ -1,3 +1,5 @@
+> **Reemplazada el 2-nov-2026 por [VOZ-X-v3.md](VOZ-X-v3.md)** (educación a fondo, sin política). Esto queda como historia.
+
 # Cómo escribe Ricardo en X
 
 Guía operativa para producir posts a escala (la meta es ~10,000 posts al año) sin que dejen de sonar a él. Antes de esto, leer [ESENCIA.md](ESENCIA.md).
