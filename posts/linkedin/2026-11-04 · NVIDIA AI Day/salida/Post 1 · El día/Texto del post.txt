@@ -1,0 +1,23 @@
+Hoy fui al NVIDIA AI Day en la Expo Santa Fe y salí con otra cabeza.
+
+Primero, el formato. Tres conferencias al mismo tiempo, en el mismo escenario, y cada quien con audífonos escuchando la que eligió. Nunca me había tocado y me encantó: cientos de personas en silencio, cada una en su propia charla, con luces verdes en la cabeza.
+
+Segundo, el fondo. Lo que más escuché fue esto: hablar de inteligencia artificial ya quedó en el pasado. La conversación ahora es qué haces con lo que ya existe. Y lo que ya existe se llama agentes.
+
+Me llevo tres ideas:
+
+1. Un agente no es un modelo. Es un sistema de cinco piezas: modelo, arnés, conocimiento, herramientas y ejecución.
+2. No vas a comprar tu IA. Vas a ser dueño de ella, y va a correr donde tú decidas.
+3. De la demo a producción hay un camino, y empieza con pocos usuarios, límites claros y medición en cada paso.
+
+Encontré conocimiento premium que no habría encontrado en otro lado. Como startupero, esto me cambió la perspectiva de los próximos cinco años. Y cuando cambia la perspectiva, cambia todo.
+
+Aquí vi a una compañía intentando que América Latina use la inteligencia artificial de forma consciente y sabia. Un evento así cuesta una fortuna, y lo abrieron con ganas de compartir lo que saben.
+
+Me considero un geek, y hoy fue un gran día para mí. Así se hacen los eventos. Mis respetos a los organizadores y a todo el equipo.
+
+Gracias, @NVIDIA. Gracias, @Jensen Huang.
+
+En los próximos días comparto lo que más me sirvió, empezando por la diapositiva que me traje a casa: la anatomía de un agente.
+
+#NVIDIA #InteligenciaArtificial #AgentesDeIA #AIDay

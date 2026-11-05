@@ -1,0 +1,19 @@
+La diapositiva que más me llevé del NVIDIA AI Day fue la más sencilla: «Anatomy of an Agent».
+
+Cinco piezas. Ni una más.
+
+1. Modelo: conocimiento concentrado. Ya existen y son muchos, y se pueden combinar.
+2. Arnés (harness): los límites. Contexto, estado, evaluación y política: lo que convierte a un modelo en un trabajador confiable.
+3. Conocimiento: lo que sabe tu organización. Sin esto, el agente es un genio que no conoce tu negocio.
+4. Herramientas: las manos. Cada herramienta es un permiso.
+5. Ejecución (runtime): cuando está corriendo. Cada acción monitoreada, bajo una política explícita y con tus datos dentro de tu frontera.
+
+Lo que me movió: casi todos seguimos discutiendo cuál modelo es mejor, y quizá sea la pieza que menos te diferencia. Lo que hace que un agente sirva en tu organización son las otras cuatro: los límites, tu conocimiento, las herramientas correctas y el control mientras corre.
+
+En el carrusel está la diapositiva original, mi lectura de cada pieza y los seis pasos que NVIDIA propone para llevar un agente de la demo a producción.
+
+¿Cuál de las cinco piezas le falta hoy a tu organización?
+
+Gracias, @NVIDIA, por explicarlo así de claro.
+
+#AgentesDeIA #InteligenciaArtificial #NVIDIA

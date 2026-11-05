@@ -1,0 +1,19 @@
+«No vas a comprar tu IA. Vas a ser dueño de ella. Y va a correr donde tú decidas.»
+
+Esa frase, de una de las charlas del NVIDIA AI Day, resume el cambio que vi en todo el evento.
+
+Cuatro ideas que me traje para quien dirige una organización en México:
+
+1. Ser dueño, no inquilino. Ahí mismo contaron cómo la IBERO ya es dueña de su inteligencia. Una universidad mexicana, no una tecnológica de Silicon Valley.
+
+2. Combinar modelos cuesta menos. NVIDIA mostró que mezclar modelos logra precisión de frontera a una tercera parte del costo. Ya no se trata de pagar el modelo más caro para todo.
+
+3. A producción se llega por pasos. Elegir el flujo y definir qué es éxito, cuidar datos y permisos, limitar acciones, evaluar, probar con demanda real y liberar primero con pocos usuarios.
+
+4. Los límites no frenan: protegen. Cada acción monitoreada, el agente sin acceso a sus propios controles y los datos dentro de tu frontera.
+
+Trabajo con colegios y universidades todos los días. Lo que vi de la IBERO me confirma algo: la educación privada en México no tiene que esperar a que la IA llegue. Puede ser dueña de la suya.
+
+Gracias otra vez, @NVIDIA. Así se ayuda a un país a usar bien la inteligencia artificial.
+
+#InteligenciaArtificial #Educación #AgentesDeIA #NVIDIA

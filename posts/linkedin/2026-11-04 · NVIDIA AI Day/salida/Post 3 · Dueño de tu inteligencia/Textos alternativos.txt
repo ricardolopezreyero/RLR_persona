@@ -1,0 +1,11 @@
+01 · nvidia-ai-day-cdmx-no-vas-a-comprar-tu-ia.jpg
+Diapositiva en el NVIDIA AI Day Mexico City: «No vas a comprar tu IA. Vas a ser dueño de ella. Y va a correr donde tú decidas».
+
+02 · nvidia-ai-day-cdmx-switchyard-un-tercio-del-costo.jpg
+Diapositiva «NVIDIA Switchyard Provides Frontier Accuracy at 1/3 Cost»: combinar modelos completa casi las mismas tareas con una fracción del costo.
+
+03 · nvidia-ai-day-cdmx-the-production-path.jpg
+Diapositiva «The Production Path»: seis pasos para llevar un agente a producción, de elegir el flujo a la liberación controlada, con seguridad, confiabilidad y observabilidad en cada etapa.
+
+04 · nvidia-ai-day-cdmx-openshell-limites-de-ejecucion.jpg
+Diapositiva «OpenShell Enforces Runtime Boundaries for AI Agents»: cada acción del agente se monitorea, el agente no puede tocar sus controles y corre bajo una política explícita.
