@@ -225,7 +225,7 @@ Me llevo tres ideas:
 
 Encontré conocimiento premium que no habría encontrado en otro lado. Como startupero, esto me cambió la perspectiva de los próximos cinco años. Y cuando cambia la perspectiva, cambia todo.
 
-Aquí vi a una compañía intentando que América Latina use la inteligencia artificial de forma consciente y sabia. Un evento así cuesta una fortuna, y lo abrieron con ganas de compartir lo que saben.
+Aquí vi a una compañía intentando que América Latina use la inteligencia artificial de forma consciente y sabia. Un evento de este tamaño no se hace solo, y lo abrieron con ganas de compartir lo que saben.
 
 Me considero un geek, y hoy fue un gran día para mí. Así se hacen los eventos. Mis respetos a los organizadores y a todo el equipo.
 
@@ -261,7 +261,7 @@ Cuatro ideas que me traje para quien dirige una organización en México:
 
 1. Ser dueño, no inquilino. Ahí mismo contaron cómo la IBERO ya es dueña de su inteligencia. Una universidad mexicana, no una tecnológica de Silicon Valley.
 
-2. Combinar modelos cuesta menos. NVIDIA mostró que mezclar modelos logra precisión de frontera a una tercera parte del costo. Ya no se trata de pagar el modelo más caro para todo.
+2. Combinar modelos cuesta menos. NVIDIA presentó que mezclar modelos logra precisión de frontera a una tercera parte del costo. Ya no se trata de pagar el modelo más caro para todo.
 
 3. A producción se llega por pasos. Elegir el flujo y definir qué es éxito, cuidar datos y permisos, limitar acciones, evaluar, probar con demanda real y liberar primero con pocos usuarios.
 

@@ -1,6 +1,12 @@
 # LinkedIn · NVIDIA AI Day Mexico City (4-nov-2026)
 
-**Estado: BORRADOR para que Ricardo lo revise. No se ha publicado nada.**
+**Ver en vivo (post 1):** [linkedin.com/feed/update/urn:li:activity:7523971825614192641](https://www.linkedin.com/feed/update/urn:li:activity:7523971825614192641/)
+
+**Estado (4-nov-2026, 23h):**
+- Post 1 **PUBLICADO**, con 10 fotos, cada una con su texto alternativo, y las menciones a NVIDIA (company/nvidia) y Jensen Huang (in/jenhsunhuang). Las dos menciones se verificaron en la publicación.
+- Post 2 **PROGRAMADO** para el vie 6-nov a las 9:00: documento PDF titulado «Anatomía de un agente · NVIDIA AI Day Mexico City», con mención a NVIDIA.
+- Post 3 **PROGRAMADO** para el lun 9-nov a las 9:00: 4 fotos con texto alternativo y mención a NVIDIA.
+- Antes de publicar se pasó el filtro de exageraciones: «cuesta una fortuna» cambió a «no se hace solo», y lo de «1/3 del costo» se atribuye a NVIDIA («presentó»).
 
 El 4-nov-2026 Ricardo fue al NVIDIA AI Day Mexico City en la Expo Santa Fe. Subió 68 fotos a Drive (carpeta «Nvidia IA Day 2026 CDMX», dentro de «01. Procesos Comerciales») y pidió:
 - escoger lo mejor, editar colores, recortar y acomodar;
