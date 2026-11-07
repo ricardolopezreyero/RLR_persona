@@ -19,6 +19,7 @@ Este repositorio soy yo escribiendo. Aquí están los artículos que escribí a 
 | [aprendizajes/](aprendizajes/) | Lo aprendido por red y por fecha: qué funcionó, por qué, cómo se repite y cómo llevarlo a otras redes. |
 | [posts/](posts/) | Los posts de X: tanda 1 (`posts.json`), tanda 2 de educación (`tanda2/`), series de datos (`estadisticas/` y `rayosx_corte/`), Shorts (`clips/`) y el calendario. |
 | [posts/youtube/](posts/youtube/) | Las publicaciones de comunidad de YouTube del 3 al 20-nov: tarjetas cuadradas, textos y el registro de las que se movieron. |
+| [posts/grabacion/](posts/grabacion/) | Las sesiones de grabación de Ricardo: cómo grabar y los guiones numerados de cada sesión (sesión 1: 24 piezas). |
 | [posts/tanda2/](posts/tanda2/) | Los 21 posts de educación, las tarjetas tachadas, las vistas previas, los 21 anuncios de tráfico a superleads.mx y los anuncios de seguidores. |
 | [metricas/](metricas/) | Cortes diarios de X: seguidores, vistas, likes y guardados por post. |
 | [facebook/](facebook/) | La página que maneja Claude desde 0 seguidores (1-nov-2026): evidencia de arranque, plan de Reels, la tanda 2 del feed (`tanda2/`) y métricas. |

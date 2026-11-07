@@ -4,6 +4,7 @@ Lo que aprendemos operando las redes de Ricardo se escribe aquí, con fecha, par
 
 | Documento | Qué cubre |
 |---|---|
+| [Video-2026-11-06.md](Video-2026-11-06.md) | La guía de creadores de X (Grok Bot) cruzada con lo nuestro: grabación en bruto con guiones numerados que se corta en paralelo, calificar el guion antes de grabar, reporte semanal de retención con lección por pieza, archivo de inspiración |
 | [YouTube-2026-11-03.md](YouTube-2026-11-03.md) | Las publicaciones de comunidad de YouTube rehechas con lo de X: tarjeta cuadrada SuperLeads, texto completo con fuente y pregunta, por qué no se cuelga de eventos ajenos, y cómo cambiar una publicación programada sin borrar nada |
 | [Facebook-2026-11-03.md](Facebook-2026-11-03.md) | Lo aprendido en X llevado a la página de Facebook: bio y categoría de admisiones, la tanda 2 en el feed con tarjetas 4:5, la cuenta publicitaria y los trucos de Business Suite |
 | [X-2026-11-03.md](X-2026-11-03.md) | Primera semana en X: la fórmula del IMSS, la tarjeta tachada, el algoritmo de X (3 láminas de @ryangrowthh), la guía v3, las campañas de X Ads (seguidores y tráfico a superleads.mx), el público ultra exacto de admisiones y cómo llevarlo a las demás redes |
