@@ -4,6 +4,7 @@ Lo que aprendemos operando las redes de Ricardo se escribe aquí, con fecha, par
 
 | Documento | Qué cubre |
 |---|---|
+| [X-Ads-2026-11-06.md](X-Ads-2026-11-06.md) | Los 21 anuncios de tráfico medidos (2–6 nov): «No es el precio. Es el silencio.» se llevó la mitad de los clics; la base mínima para anuncios y posts (negación + causa + número en MXN + tarjeta tachada), lo que se apagó y los 4 anuncios nuevos para agendar un Rayos X |
 | [Video-2026-11-06.md](Video-2026-11-06.md) | La guía de creadores de X (Grok Bot) cruzada con lo nuestro: grabación en bruto con guiones numerados que se corta en paralelo, calificar el guion antes de grabar, reporte semanal de retención con lección por pieza, archivo de inspiración |
 | [YouTube-2026-11-03.md](YouTube-2026-11-03.md) | Las publicaciones de comunidad de YouTube rehechas con lo de X: tarjeta cuadrada SuperLeads, texto completo con fuente y pregunta, por qué no se cuelga de eventos ajenos, y cómo cambiar una publicación programada sin borrar nada |
 | [Facebook-2026-11-03.md](Facebook-2026-11-03.md) | Lo aprendido en X llevado a la página de Facebook: bio y categoría de admisiones, la tanda 2 en el feed con tarjetas 4:5, la cuenta publicitaria y los trucos de Business Suite |
