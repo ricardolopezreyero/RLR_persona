@@ -10,7 +10,7 @@ Ricardo dictó la idea después del viaje con el primer equipo de directores. Pi
 
 ## Decisiones
 
-- **TDAH:** solo el de Ricardo («Varios tenemos TDAH, empezando por mí»). El de otras personas del equipo es información de salud de ellas: no se nombra a nadie sin su sí.
+- **Hiperfoco, no TDAH:** el 8-nov, ya publicado, Ricardo pidió cambiar «TDAH» por «hiperfoco», porque lo que le gusta del TDAH es el hiperfoco. Se editó en LinkedIn y el post queda «Varios tenemos hiperfoco, empezando por mí». Nadie del equipo se nombra con datos de salud sin su sí.
 - **Sin nombre del evento.** El texto dice «este viaje», por la regla de no ligar nada a CIMEDU ([[feedback_nada_de_cimedu]] en memoria). La foto de la «A» de la Anáhuac se quedó fuera por lo mismo. La del stand sí va, porque no se ve el nombre del congreso.
 - **«Escriban» → «inscriban»:** errores del dictado.
 - **Pendiente:** etiquetar a cada persona en las fotos cuando Ricardo pase las ligas de LinkedIn del equipo. Va en las fotos, no en el texto.
@@ -22,7 +22,7 @@ En todos los libros de startups te dicen que el equipo lo es todo.
 
 Lo leí muchas veces. No lo había entendido hasta este viaje con el primer equipo de directores de SuperLeads.
 
-Gente inteligentísima, ultra intensa, echada para adelante y con una actitud que contagia. Varios tenemos TDAH, empezando por mí. Y en este mundo es una ventaja: cuando esa energía apunta a un solo lugar, no hay quien la pare.
+Gente inteligentísima, ultra intensa, echada para adelante y con una actitud que contagia. Varios tenemos hiperfoco, empezando por mí. Y en este mundo es una ventaja: cuando esa energía apunta a un solo lugar, no hay quien la pare.
 
 Es una delicia trabajar así. Con gente a la que le encanta lo que hace y que lo vive más como un propósito que como un trabajo.
 
