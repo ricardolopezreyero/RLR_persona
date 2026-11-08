@@ -35,6 +35,7 @@ Helpers de BrowserOS neo en linkedin.com: `liRedactar` (abre linkedin.com/sharin
 
 | Fecha | Post | Estado |
 |---|---|---|
+| 8-nov-2026 | [El primer equipo de directores](2026-11-08%20·%20equipo%20SuperLeads/README.md): el equipo lo es todo, síndrome del impostor, sin ruido; para reclutamiento | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7525225059783892992/) |
 | 3-nov-2026 | [El pitch en el Tec](2026-11-03%20·%20pitch%20en%20el%20Tec/README.md): Juan Pablo Murra, el equipo de admisiones del Tec y el agradecimiento a su papá | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7523395988015722496/) |
 
 Cómo se publica un post con fotos (BrowserOS neo): «Foto» en el feed → `upload` con las rutas → en el editor, por foto, «Texto alternativo» y «Etiqueta» (la persona se elige con clic real en la opción; Enter no la toma) → «Siguiente» → texto línea por línea con `insertText` + Enter (Enter doble = línea en blanco) → menciones escribiendo `@Nombre` letra por letra y clic en la opción correcta (comparar con el perfil cuando hay homónimos) → revisar los párrafos en el DOM → «Publicar».
