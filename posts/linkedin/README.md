@@ -35,6 +35,7 @@ Helpers de BrowserOS neo en linkedin.com: `liRedactar` (abre linkedin.com/sharin
 
 | Fecha | Post | Estado |
 |---|---|---|
+| 9-nov-2026 | [Charla «No es falta de esfuerzo, es falta de sistema»](2026-11-09%20·%20charla%20Constanza/README.md): el limbo entre que la familia escribe y alguien contesta, y Constanza; video nativo + el mismo video en YouTube (youtu.be/op95KKuYzms) | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7525675296927371264/) |
 | 8-nov-2026 | [El primer equipo de directores](2026-11-08%20·%20equipo%20SuperLeads/README.md): el equipo lo es todo, síndrome del impostor, sin ruido; para reclutamiento | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7525225059783892992/) |
 | 3-nov-2026 | [El pitch en el Tec](2026-11-03%20·%20pitch%20en%20el%20Tec/README.md): Juan Pablo Murra, el equipo de admisiones del Tec y el agradecimiento a su papá | [Publicado](https://www.linkedin.com/feed/update/urn:li:activity:7523395988015722496/) |
 
