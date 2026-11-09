@@ -1,0 +1,99 @@
+{
+ "semana": "2026-11-02 a 2026-11-09",
+ "estado": "propuesta, sin programar: Ricardo aprueba en el chat",
+ "buscado_con": "BrowserOS neo · búsqueda de X (Top, lang:es, since:2026-11-02): colegiaturas, inscripciones escuelas, escuelas privadas, SEP calendario, IA escuela maestros, bullying escuela, maestros salario, cuotas escolares",
+ "descartados": [
+  "Bullying en Chicoloapan (niño de 6 años perdió un ojo): tema real y muy movido, pero es el caso de un niño con nombre y no hay cifra con fuente en el repo; entrar ahí se leería como aprovechar una tragedia.",
+  "Colegiaturas universitarias UANL/UNAM y cuotas con nombres de políticos: la conversación viene cargada de partido; se toma solo el dato de sistema (post 2)."
+ ],
+ "posts": [
+  {
+   "n": 1,
+   "tema": "Celulares fuera del aula (SEP, desde el 3-nov, públicas y privadas)",
+   "por_que_es_tendencia": "Entró en vigor el 3-nov en 263 mil escuelas; lo movieron SEP, adn Noticias, José Cárdenas y El Sol de Puebla (escuelas privadas piden uso responsable).",
+   "ligas": [
+    "https://x.com/adnnoticiasmx/status/2117650510169718834",
+    "https://x.com/elsoldepuebla1/status/2118080593493938358",
+    "https://x.com/search?q=escuelas%20privadas%20lang%3Aes%20since%3A2026-11-02&f=top"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "alcance",
+   "hora_sugerida": "mar 10-nov 8:00",
+   "texto": "El celular salió del aula. No salió de tu admisión.\n\nDesde el 3 de noviembre el celular se restringe en clase en 263 mil escuelas públicas y privadas. Bien por los alumnos.\n\nPero la decisión de inscribir vive ahí: 93 % de las familias está conectada entre las 9 de la noche y la medianoche, y WhatsApp se abre 98 de cada 100 veces.\n\nEl colegio típico contesta de 7 a 3.\n\nNo es el celular. Es a qué hora está abierto tu colegio.\n\n¿Quién le contesta a una familia en tu colegio a las 9:47 de la noche?",
+   "tarjeta": {
+    "etiqueta": "CELULARES FUERA DEL AULA",
+    "arriba": "El problema es",
+    "tachado": "el celular.",
+    "respuesta": "Es tu horario.",
+    "pie": "93 % de las familias está conectada de 9 pm a medianoche. El colegio típico contesta de 7 a 3."
+   },
+   "fuente": "SEP, lineamientos de dispositivos digitales (vigentes 3-nov-2026, 263,600 escuelas); Asociación de Internet MX, Estudio de Hábitos (93 % conectados 21:00–24:00); YCloud / Aunoa (apertura WhatsApp ~98 %). Serie «La realidad de la educación» piezas 13 y 19.",
+   "visual": "visuales/2026-11-09/Tendencia 01 · Es tu horario · v1 · 2026-11-09 09h13.png"
+  },
+  {
+   "n": 2,
+   "tema": "Cuotas escolares: «ninguna escuela pública debe cobrar»",
+   "por_que_es_tendencia": "Anuncio del 2-nov en Celaya; el video de un padre preguntando quién pagará tóner, limpieza y agua lleva 19K vistas, y otros posts sobre el tema 42K.",
+   "ligas": [
+    "https://x.com/Hechizero_38/status/2117964094447690009",
+    "https://x.com/search?q=cuotas%20escolares%20lang%3Aes%20since%3A2026-11-02&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "alcance",
+   "hora_sugerida": "mar 10-nov 13:30",
+   "texto": "La escuela pública en México no es gratuita. Nunca lo ha sido.\n\nLas familias pagan 16.2 % del gasto educativo en básica y media superior: cooperaciones, útiles, mantenimiento. El promedio de la OCDE es 9.9 %.\n\nQuitar la cuota no quita el gasto. El tóner, la limpieza y el agua se siguen pagando; la pregunta es quién.\n\nNo es la cuota. Es un sistema que cobra sin decir que cobra.\n\nY una nota para dueños de colegio: la familia que ya paga por la pública y no recibe el servicio está haciendo la cuenta. Si ya está pagando, ¿a quién le quiere pagar?",
+   "fuente": "OCDE, Education at a Glance 2025 (gasto privado de los hogares 16.2 % vs. 9.9 % OCDE). Serie «La realidad de la educación» pieza 09."
+  },
+  {
+   "n": 3,
+   "tema": "Calendario SEP: último día de clases el 18 de diciembre",
+   "por_que_es_tendencia": "Radio Fórmula, El Economista, TV Azteca y La Crónica publicaron esta semana fechas de puentes y vacaciones de invierno (cada post 1K+ vistas).",
+   "ligas": [
+    "https://x.com/eleconomista/status/2119610938253091135",
+    "https://x.com/Radio_Formula/status/2119626531106607319",
+    "https://x.com/search?q=SEP%20calendario%20lang%3Aes%20since%3A2026-11-02&f=top"
+   ],
+   "tipo": "largo",
+   "embudo": "confianza",
+   "hora_sugerida": "mié 11-nov 20:30",
+   "texto": "Para tu colegio, diciembre no es vacaciones.\n\nEl calendario de la SEP marca el 18 de diciembre como último día de clases. Ese día empieza tu temporada.\n\nEn nuestros Rayos X, 38 % de las instituciones dice que febrero es uno de sus meses de mayor inscripción (n = 71). En colegios con primaria, 62 % (n = 24).\n\nEl mecanismo: una familia tarda unos 6 meses en elegir colegio, y 87 % investiga en línea antes de escribirle a uno. Las vacaciones son cuando por fin tiene tiempo para hacerlo.\n\nFebrero solo es el día en que firma. La decisión se toma en diciembre, con tu colegio cerrado.\n\nPregunta para dueños de colegio: ¿quién contesta el WhatsApp de informes del 19 de diciembre al regreso a clases?",
+   "fuente": "SEP, calendario escolar 2026-2027 (vía El Economista, 8-nov); SuperLeads, Rayos X corte 29-oct-2026, meses de mayor inscripción según el director (n = 71; primaria n = 24), muestra de instituciones que pidieron diagnóstico; Shortway, Guía 2026 (6 meses, 87 % investiga en línea), serie pieza 20."
+  },
+  {
+   "n": 4,
+   "tema": "IA en el aula",
+   "por_que_es_tendencia": "Noticia del día en X: «Demis Hassabis Predicts AI Will Shrink Teams and Transform Education» (6,934 posts); en paralelo, un post con 4.6K vistas sobre escuelas sin computadoras.",
+   "ligas": [
+    "https://x.com/explore/tabs/news",
+    "https://x.com/Arouet_V/status/2119450431713583192"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "alcance",
+   "hora_sugerida": "jue 12-nov 8:00",
+   "texto": "La IA no va a transformar el aula pública en México. No tiene dónde conectarse.\n\n65 de cada 100 escuelas públicas operan sin computadoras o sin internet.\n\nY desde 2019 está congelado el censo de infraestructura escolar: nadie puede medir si eso mejora o empeora.\n\nNo es la tecnología. Es el sistema que no la puede recibir.\n\nLa IA no va a cerrar la brecha entre la pública y la privada. La va a abrir.",
+   "tarjeta": {
+    "etiqueta": "IA EN EL AULA",
+    "arriba": "La IA",
+    "tachado": "va a cambiar el aula.",
+    "respuesta": "No tiene dónde conectarse.",
+    "pie": "65 de cada 100 escuelas públicas operan sin computadora o sin internet. SEP, ciclo 2023–2024."
+   },
+   "fuente": "SEP, servicios básicos por plantel (ciclo 2023–2024); SNIIFE congelado desde 2019. Serie «La realidad de la educación» pieza 04.",
+   "visual": "visuales/2026-11-09/Tendencia 04 · No tiene dónde conectarse · v1 · 2026-11-09 09h13.png"
+  },
+  {
+   "n": 5,
+   "tema": "ASF: pagos a maestros fallecidos con fondos educativos (Colima)",
+   "por_que_es_tendencia": "Nota de Proceso del 4-nov (8.4K vistas): la Auditoría Superior detectó irregularidades por 25 millones de pesos en el gasto educativo de Colima 2025; la conversación de la semana sobre «salario digno» para maestros sigue abierta.",
+   "ligas": [
+    "https://x.com/proceso/status/2118126144356601908",
+    "https://x.com/search?q=maestros%20salario%20lang%3Aes%20since%3A2026-11-02&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "confianza",
+   "hora_sugerida": "jue 12-nov 13:30",
+   "texto": "El dinero de la educación sí existe. Lo que no existe es el medidor.\n\nEsta semana la Auditoría Superior encontró $25 millones MXN de irregularidades en el gasto educativo de un solo estado en 2025, incluidos pagos a maestros fallecidos.\n\nNo es un funcionario. Es un sistema que en 2019 dejó de evaluar y de contar sus escuelas. Lo que no se mide, se fuga.\n\nAhora la pregunta incómoda para dueños de colegio: en nuestros Rayos X, 71 % de las instituciones lleva sus prospectos solo en WhatsApp y Excel (n = 83).\n\n¿Cuántas familias se te fugaron este ciclo? Si no lo sabes, tienes el mismo problema.",
+   "fuente": "ASF vía Proceso (4-nov-2026), irregularidades por $25 millones MXN, Colima, ejercicio 2025; desaparición del INEE y fin de PLANEA en 2019 (serie pieza 10); SuperLeads, Rayos X corte 29-oct-2026, solo WhatsApp y Excel 71 % (n = 83), muestra de instituciones que pidieron diagnóstico."
+  }
+ ]
+}
