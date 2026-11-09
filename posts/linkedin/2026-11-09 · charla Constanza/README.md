@@ -101,3 +101,21 @@ Ajustes de YouTube: público, no es contenido para niños, categoría Educación
 - Botón «Vídeo» del feed y luego `upload` sin ref. En el editor, el botón «Vista en miniatura» y luego «Añadir vista en miniatura del vídeo» abren el selector para la portada.
 - Al escribir «@SuperLeads» justo después de pegar un texto que termina en URL, el cursor se queda dentro de la liga. Hay que poner el cursor al final del último párrafo antes de escribir la mención.
 - El post tarda cerca de un minuto en aparecer en la actividad mientras LinkedIn procesa el video.
+
+## X · post con el video (programado)
+
+**Estado: PROGRAMADO para el lunes 9-nov-2026 a las 20:30** (hora de Torreón), con el video nativo de 6:03. Ricardo pidió X sí y Facebook no. Va a las 20:30 porque es la siguiente hora óptima libre: a las 17:30 ya sale la serie del Observatorio ([[feedback_contenido_siempre_agregar]]). Sigue la base mínima de X: la negación arriba, la causa real, un número en MXN y la invitación al final.
+
+```
+No es falta de esfuerzo. Es falta de sistema.
+
+Entre que una familia escribe y alguien contesta hay un limbo. Ahí se pierden alumnos, y cada familia perdida vale hasta $450,000 MXN.
+
+En 6 minutos, cómo lo resolvimos con Constanza.
+
+Agenda tu Rayos X: https://rayosx.superleads.mx/rayos_x?utm_source=x&utm_medium=organic&utm_campaign=charla-falta-de-sistema
+```
+
+- **Número:** $450,000 MXN es el mismo cálculo del anuncio 10 de X Ads: colegiatura de $4,500 MXN, 6 años y un hermano.
+- **CIMEDU:** no aparece en X.
+- **Facebook:** no se publica, por decisión de Ricardo.
