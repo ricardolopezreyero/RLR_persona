@@ -4,7 +4,7 @@
 
 **Estado: ACTIVA desde el 9-nov-2026 con MX$50/día.** Ricardo pidió una campaña en X llamada «Presentaciones» con unos cuatro posts que lleven gente interesada al artículo «Hay más familias queriendo inscribirse en tu colegio de las que tu proceso alcanza a inscribir». Solo aplica en X.
 
-**Presupuesto:** a la campaña de tráfico 42933062 se le bajaron MX$50/día (de MX$210 a MX$160) y esos MX$50 son los de «Presentaciones». El gasto total por día no cambia: MX$210.
+**Presupuesto:** al crearla, la campaña de tráfico 42933062 bajó de MX$210 a MX$160 por día y «Presentaciones» quedó en MX$50. **El mismo 9-nov Ricardo pidió MX$50/día en cada campaña** («ahorita lo estoy pagando yo… en lo que consigo que la empresa lo pague»). Desde entonces el tráfico va en MX$50 y «Presentaciones» en MX$50: total MX$100/día, unos MX$3,000 al mes.
 
 ## Configuración
 
