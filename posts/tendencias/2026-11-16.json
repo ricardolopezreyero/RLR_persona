@@ -1,0 +1,104 @@
+{
+ "semana": "2026-11-09 a 2026-11-16",
+ "estado": "propuesta, sin programar: Ricardo aprueba en el chat",
+ "buscado_con": "BrowserOS neo · x.com/explore y búsqueda de X (Top, lang:es, since:2026-11-09): colegiaturas, escuelas privadas, inscripciones escuelas, preinscripciones, SEP escuelas, PISA México, maestros SEP, inteligencia artificial SEP, bullying escuela, abandono escolar, megapuente / vacaciones SEP, Buen Fin colegio, matrícula",
+ "nota_horas": "Horas sugeridas en los horarios de la guía (8:00 tarjeta, 13:30 texto, 20:30 largo). No se pudo leer la lista de programados de X en esta corrida: al aprobar, se acomodan en los huecos libres sin quitar nada.",
+ "descartados": [
+  "Bullying (Altamira, Tamaulipas: alumno de secundaria perdió un riñón; Chicoloapan sigue circulando): casos de menores con nombre y sin cifra con fuente en el repo; entrar se leería como aprovechar una tragedia.",
+  "Deserción escolar y becas (Infobae, 13-nov) y mochilas y útiles en Jalisco (4.5K vistas): la conversación es pelea de partidos.",
+  "Celulares en escuelas privadas del Valle de Toluca (El Heraldo Edomex): tema ya usado la semana pasada (post 1 del 9-nov).",
+  "«Así se ve un colegio de 1,500 dólares de inscripción» (313K vistas): es de Venezuela, no de México."
+ ],
+ "posts": [
+  {
+   "n": 1,
+   "tema": "PISA 2025: «¿México reprobó?»",
+   "por_que_es_tendencia": "Nexos publicó el 14-nov «PISA no es la boleta de calificaciones, es la pregunta» (1.2K vistas) sobre los 388 puntos en Matemáticas; la Dimensión de Educación de la CEM hizo webinar sobre los resultados y PISA sale en respuestas a posts de 250K vistas.",
+   "ligas": [
+    "https://x.com/nexosmexico/status/2121724861496345024",
+    "https://x.com/CultyEducCEM/status/2121283819387191657",
+    "https://x.com/search?q=PISA%20M%C3%A9xico%20lang%3Aes%20since%3A2026-11-09&f=top"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "alcance",
+   "hora_sugerida": "mar 17-nov 8:00",
+   "texto": "México no reprobó PISA. Dejó de hacerse exámenes.\n\nPISA 2025: 388 puntos en Matemáticas. En 2022 eran 395.\n\nEsta semana la discusión es si eso es «reprobar». La pregunta está mal hecha: PISA es casi lo único que todavía mide al país. En 2019 desaparecieron el INEE, PLANEA y la evaluación docente.\n\nNo son los niños ni los maestros. Es un sistema que apagó su propio medidor.\n\nPregunta para dueños de colegio: ¿qué mide tu colegio que una familia pueda ver antes de inscribirse?",
+   "tarjeta": {
+    "etiqueta": "PISA 2025",
+    "arriba": "México",
+    "tachado": "reprobó PISA.",
+    "respuesta": "Dejó de medirse.",
+    "pie": "388 puntos en Matemáticas en 2025; 395 en 2022. Desde 2019 no hay INEE, PLANEA ni evaluación docente."
+   },
+   "fuente": "OCDE, PISA 2025 (388 en Matemáticas, citado por Ana Razo en Nexos, 14-nov-2026; conviene confirmar contra la nota país de la OCDE antes de publicar); OCDE, PISA 2022, Country Note México (395), serie «La realidad de la educación» pieza 01; cronología 2019 (INEE, PLANEA, evaluación docente), pieza 10.",
+   "visual": "visuales/2026-11-16/Tendencia 01 · Dejó de medirse · v1 · 2026-11-16 09h14.png"
+  },
+  {
+   "n": 2,
+   "tema": "La SEP y la inteligencia artificial en escuelas sin servicios básicos",
+   "por_que_es_tendencia": "Video de Minuto Crítico del 14-nov (1.6K vistas): la SEP habla de enseñar IA mientras hay escuelas sin electricidad, agua o sanitarios.",
+   "ligas": [
+    "https://x.com/minutocriticomx/status/2121729571527516419",
+    "https://x.com/search?q=inteligencia%20artificial%20SEP%20lang%3Aes%20since%3A2026-11-09&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "alcance",
+   "hora_sugerida": "mar 17-nov 13:30",
+   "texto": "Ninguna familia paga colegiatura por la inteligencia artificial.\n\nEsta semana se discute si la SEP debe enseñar IA en escuelas que no tienen luz. El dato de fondo: 40 % de las escuelas públicas opera sin agua, luz o sanitarios dignos. En las privadas, 8 %.\n\nEsa es la razón por la que una familia que puede pagar, paga. Primero el baño, el agua y que haya clases. Después lo demás.\n\nNo es la tecnología. Es la certeza.\n\nOpinión impopular entre directores: tu folleto presume robótica e IA, y la mamá que te visita está viendo el baño.",
+   "fuente": "Aprender Parejo, México Evalúa / Tec de Monterrey (2024): planteles con al menos una carencia de servicios esenciales, 40 % públicas vs. 8 % privadas. Serie «La realidad de la educación» pieza 03."
+  },
+  {
+   "n": 3,
+   "tema": "La Escuela es Nuestra: casi 45 mil escuelas esperando el recurso",
+   "por_que_es_tendencia": "La SEP reportó el 9-nov que 44,854 escuelas de básica no han recibido el apoyo; lo movieron Periódico Zócalo, Nota Central y medios locales.",
+   "ligas": [
+    "https://x.com/PeriodicoZocalo/status/2119813860102127988",
+    "https://x.com/notacentralmx/status/2119817562359820433",
+    "https://x.com/search?q=SEP%20escuelas%20lang%3Aes%20since%3A2026-11-09&f=top"
+   ],
+   "tipo": "largo",
+   "embudo": "confianza",
+   "hora_sugerida": "mié 18-nov 20:30",
+   "texto": "44,854 escuelas de educación básica siguen esperando su recurso de La Escuela es Nuestra. Lo reportó la propia SEP.\n\nNo es un trámite atorado. Es el tamaño de la apuesta:\n\nMéxico invierte $2,933 USD al año por alumno de primaria. Último lugar de la OCDE; el promedio es $11,902 USD.\n\nCon eso se paga todo: maestro, salón, agua, luz. Cuando el dinero es tan poco, cualquier retraso se nota en el salón.\n\nNo es el funcionario. Es el sistema que decidió cuánto vale un alumno.\n\nAhora el otro lado, para dueños de colegio: 13.4 millones de hogares en México pueden pagar una colegiatura, y solo 10 % de los alumnos está en privada.\n\nNo hay demasiados colegios. Hay demasiadas familias esperando una razón para cambiarse.\n\n¿Cuál es la tuya, dicha en una frase?",
+   "fuente": "SEP vía Periódico Zócalo (9-nov-2026): 44,854 escuelas de básica pendientes; OCDE, Education at a Glance 2023–2025 (gasto anual por alumno de primaria, USD PPA 2021), pieza 08; AMAI, Regla NSE (13.4 millones de hogares A/B, C+ y C), pieza 23; Banco Mundial (10 % de matrícula primaria en privada), pieza 22."
+  },
+  {
+   "n": 4,
+   "tema": "«Ser maestro en México, un trabajo de alto riesgo»",
+   "por_que_es_tendencia": "Hilo del 14-nov sobre agresiones a docentes y falta de respaldo institucional (683 vistas); misma semana del plantón magisterial en Oaxaca y los anuncios de la SEP para «reconocer» a los maestros (3.8K vistas).",
+   "ligas": [
+    "https://x.com/Saceci/status/2121808883161432486",
+    "https://x.com/SEP_mx/status/2120657826313912395",
+    "https://x.com/search?q=maestros%20SEP%20lang%3Aes%20since%3A2026-11-09&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "confianza",
+   "hora_sugerida": "jue 19-nov 13:30",
+   "texto": "Ser maestro en México no es de alto riesgo por los alumnos. Es por el sistema.\n\nEsta semana se habló de agresiones a docentes y de que nadie los respalda. Súmale el paquete completo: el ingreso promedio de un docente es de $7,890 MXN al mes, y desde 2019 nadie lo evalúa ni lo forma con seguimiento.\n\nTe pago poco, no te formo, no te respaldo. Ese es el mensaje.\n\nEl maestro no es el villano. Es la segunda víctima.\n\nPregunta para dueños de colegio: el día que un papá le grita a tu maestra, ¿ella sabe qué hacer y sabe que la vas a respaldar? Si no está escrito, tienes el mismo sistema con mejor pintura.",
+   "fuente": "ENOE 1T-2025 / Data México: ingreso mensual promedio docente $7,890 MXN (promedio nacional, incluye jornadas parciales); fin de la evaluación docente obligatoria en 2019. Serie «La realidad de la educación» piezas 05 y 10. La cifra de «uno de cada tres maestros en municipios de alta criminalidad» del hilo no se usa: no trae fuente."
+  },
+  {
+   "n": 5,
+   "tema": "Megapuente y El Buen Fin",
+   "por_que_es_tendencia": "El megapuente escolar del 14 al 16 de noviembre coincidió con El Buen Fin; Radio Fórmula lo publicó dos veces (731 y 869 vistas) y Vive USA lo ligó a los descuentos.",
+   "ligas": [
+    "https://x.com/Radio_Formula/status/2121045379944702421",
+    "https://x.com/Vive_USA/status/2120305515712639193",
+    "https://x.com/search?q=megapuente%20OR%20vacaciones%20SEP%20clases%20lang%3Aes%20since%3A2026-11-09&f=top"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "alcance",
+   "hora_sugerida": "jue 19-nov 8:00",
+   "texto": "Tu colegio no necesita un Buen Fin. Lleva todo el año en uno.\n\nEn nuestros Rayos X, 68 % de las instituciones privadas da becas. Entre las que dan, la mediana tiene 40 % de sus alumnos becados, y la beca mediana es de 25 %.\n\n¿Por qué? Porque el director cree que la familia no se inscribió por el precio.\n\nPero de las familias que sí llegan a la cita, 40 % se inscribe. Al mismo precio.\n\nNo es el precio. Es que la mayoría nunca llegó a la cita.\n\nUna beca sin estrategia es un descuento que nadie pidió.",
+   "tarjeta": {
+    "etiqueta": "EL BUEN FIN",
+    "arriba": "El problema es",
+    "tachado": "el precio.",
+    "respuesta": "Es la cita.",
+    "pie": "40 % de las familias que llegan a la cita se inscribe, al mismo precio. Rayos X de Inscripciones, n = 86."
+   },
+   "fuente": "SuperLeads, Rayos X corte 29-oct-2026, muestra de instituciones que pidieron diagnóstico: dan becas 68 % (n = 66), alumnos becados mediana 40 % (n = 50), beca promedio mediana 25 % (n = 51), cierre en cita mediana 40 % (n = 86); «precio» como causa según el director 62 % (n = 29, creencia, no medición).",
+   "visual": "visuales/2026-11-16/Tendencia 05 · Es la cita · v1 · 2026-11-16 09h14.png"
+  }
+ ]
+}
