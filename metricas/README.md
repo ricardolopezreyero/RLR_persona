@@ -1,108 +1,67 @@
 # Métricas de X · @ricardolopezrey
 
-Último corte: 2026-11-17 23:12 (hora de la Mac). Seguidores: **1,888 Followers** (siguiendo 142 Following). Cortes guardados: 22. Datos crudos en [cortes.jsonl](cortes.jsonl) y [metricas.csv](metricas.csv).
+Último corte: 2026-11-18 23:07 (hora de la Mac). Seguidores: **1,890 Followers** (siguiendo 142 Following). Cortes guardados: 23. Datos crudos en [cortes.jsonl](cortes.jsonl) y [metricas.csv](metricas.csv).
 
 ## Posts (no artículos), por vistas · entre paréntesis el cambio desde el corte anterior
 
 | Publicado | Post | Texto | Vistas | Likes | Reposts | Respuestas | Guardados |
 |---|---|---|---|---|---|---|---|
-| 2026-10-30 | #3 slot 4 | El IMSS no está quebrado.
+| 2026-11-02 |  | Dato completo, con tabla, fuente y cita lista:  ht | 704 (+1) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-04 |  | Las 3 preguntas que le hago a todo dueño de colegi | 148 (+1) | 3 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-07 |  | Mi vuelo CDMX-Torreón ya está pagado. Cambiar el h | 89 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-04 |  | Opinión impopular entre directores: Con menos de 9 | 80 (+1) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-03 | #10 slot 15 | Claudia Sheinbaum tiene todo lo que su movimiento  | 70 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-08 |  | Cuánto cobra una escuela privada en México: colegi | 56 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-04 |  | Hicimos 102 Rayos X de Inscripciones con dueños y  | 54 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-02 | #27 slot 14 | Hay 3 tipos de socios: 1) Operadores: ponen la ene | 53 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-03 | #29 slot 17 | Estamos a 5 clientes del primer millón de dólares  | 51 (+1) | 0 (+0) | 0 (+0) | 1 (+0) | 0 (+0) |
+| 2026-11-09 |  | Hay 3 tipos de colegios: 1. Los que esperan inscri | 49 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-02 |  | Que gran gran época para crear sistemas ultra efic | 49 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-17 |  | En qué meses se inscriben más alumnos en las escue | 48 (+9) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-05 |  | Un WhatsApp sin contestar no cuesta nada. Eso cree | 47 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-09 |  | El canal más barato para llenar un colegio no cues | 45 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-05 |  | Cuántos prospectos recibe al día una escuela priva | 44 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-03 |  | El problema de la educación en México no es el mae | 44 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-02 |  | Hay mucho más eficiencia de Morena matando mexican | 44 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-03 |  | Dato completo, con tabla, fuente y cita lista:  ht | 43 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-11 |  | Dato completo, con tabla, fuente y cita lista:  ht | 42 (+3) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-10 |  | No es falta de esfuerzo. Es falta de sistema. Entr | 41 (+1) | 0 (+0) | 1 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-06 |  | El colegio cierra a las 3 de la tarde. Las familia | 40 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-08 |  | De cada 100 familias que preguntan por un colegio  | 39 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-05 |  | Pregunta para dueños de colegio: ¿Cuánto vale un a | 38 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-08 |  | Becas: 68 % de las escuelas privadas las da, y la  | 37 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-07 |  | 40% de las familias que van a la cita se inscriben | 37 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-14 |  | 71% de las escuelas privadas lleva las admisiones  | 36 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-07 |  | No es un problema de los niños. En PISA, México qu | 36 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-05 | #28 slot 23 | El capitalismo (que me encanta) tiene el orden al  | 35 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-04 |  | Dato completo, con tabla, fuente y cita lista:  ht | 34 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-06 |  | Llevamos 102 Rayos X de Inscripciones con dueños y | 32 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-11 |  | El 22 de febrero de 2022 me senté 50 minutos con u | 31 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-08 |  | Si estuvieras viendo tu colegio en la pantalla de  | 31 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-04 |  | Tu colegio no está vacío. La escuela privada media | 31 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-16 |  | Corrijo mi publicación: retiro la cifra salarial.  | 30 (+9) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-08 |  | Si tu colegio está al 46 %, es tu culpa. Y es la m | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-07 |  | Tu colegio no compite contra el colegio de enfrent | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-07 |  | Perú: 10 % de los hogares puede pagar un colegio p | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-06 | #26 slot 26 | Vi de cerca a un colegio recorrer 15 bancos buscan | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-10 |  | Dato completo, con tabla, fuente y cita lista:  ht | 29 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-06 |  | Dato completo, con tabla, fuente y cita lista:  ht | 29 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-15 |  | Agradezco el aumento de mis deseos y la disminució | 28 (+3) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-12 |  | Becas en la escuela privada: 68% las da y la insti | 26 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-15 |  | Equipo de admisiones: 1.1 persona en el colegio me | 25 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-05 |  | Tu colegio no necesita más publicidad. El colegio  | 25 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-17 |  | Con la llegada de la Inteligencia Artificial, vien | 24 (+12) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-09 |  | Dato completo, con tabla, fuente y cita lista:  ht | 23 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-16 |  | 48% de las escuelas privadas no tiene plan de comp | 22 (+3) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-06 |  | No se fueron por el precio. En los Rayos X, 62 % d | 22 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-16 |  | I use Claude every day: websites, campaigns, artic | 17 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-13 |  | Dato completo, con tabla, fuente y cita lista:  ht | 15 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
+| 2026-11-18 |  | Cloude + Browser Os = Productividad 10X  Solo es p | 14 | 0 | 0 | 0 | 0 |
+| 2026-11-18 |  | Dato completo, con tabla, fuente y cita lista:  ht | 6 | 0 | 0 | 0 | 0 |
 
-Torreón le aporta unos  | 10228 | 856 | 329 | 14 | 49 |
-| 2026-11-02 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 703 (+1) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-04 |  | Las 3 preguntas que le hago a todo dueño de colegi | 147 (+0) | 3 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-07 |  | Mi vuelo CDMX-Torreón ya está pagado. Cambiar el h | 88 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-04 |  | Opinión impopular entre directores:
+## Artículos (10 vistos en el perfil)
 
-Con menos de  | 79 (+1) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-03 | #10 slot 15 | Claudia Sheinbaum tiene todo lo que su movimiento  | 69 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-01 |  | La confianza nos es una sensación sino un acto; es | 69 | 0 | 0 | 0 | 0 |
-| 2026-10-31 | #31 slot 8 | 150 libros leídos. Lo importante no es el número.
- | 65 | 0 | 0 | 0 | 0 |
-| 2026-11-01 | #14 slot 10 | Nadie quiere decir esto:
-
-México está como está po | 62 | 0 | 0 | 1 | 0 |
-| 2026-11-01 | #4 slot 11 | Si estuvieras viendo tu vida en la pantalla de un  | 61 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-08 |  | Cuánto cobra una escuela privada en México: colegi | 55 (+3) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-04 |  | Hicimos 102 Rayos X de Inscripciones con dueños y  | 53 (+0) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-02 | #27 slot 14 | Hay 3 tipos de socios:
-
-1) Operadores: ponen la en | 52 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-03 | #29 slot 17 | Estamos a 5 clientes del primer millón de dólares  | 50 (+1) | 0 (+0) | 0 (+0) | 1 (+0) | 0 (+0) |
-| 2026-10-31 |  | Si Morena sígue en el poder para cuando lleguen lo | 50 | 0 | 0 | 0 | 0 |
-| 2026-11-09 |  | Hay 3 tipos de colegios:
-
-1. Los que esperan inscr | 48 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-02 |  | Que gran gran época para crear sistemas ultra efic | 48 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-05 |  | Un WhatsApp sin contestar no cuesta nada.
-
-Eso cre | 46 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-09 |  | El canal más barato para llenar un colegio no cues | 44 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-05 |  | Cuántos prospectos recibe al día una escuela priva | 43 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-03 |  | El problema de la educación en México no es el mae | 43 (+0) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-02 |  | Hay mucho más eficiencia de Morena matando mexican | 43 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-03 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 42 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-10 |  | No es falta de esfuerzo. Es falta de sistema.
-
-Ent | 40 (+1) | 0 (+0) | 1 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-17 |  | En qué meses se inscriben más alumnos en las escue | 39 | 0 | 0 | 0 | 0 |
-| 2026-11-11 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 39 (+1) | 1 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-06 |  | El colegio cierra a las 3 de la tarde.
-
-Las famili | 39 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-08 |  | De cada 100 familias que preguntan por un colegio  | 38 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-05 |  | Pregunta para dueños de colegio:
-
-¿Cuánto vale un  | 37 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-08 |  | Becas: 68 % de las escuelas privadas las da, y la  | 36 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-07 |  | 40% de las familias que van a la cita se inscriben | 36 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-07 |  | No es un problema de los niños.
-
-En PISA, México q | 35 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-14 |  | 71% de las escuelas privadas lleva las admisiones  | 34 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-05 | #28 slot 23 | El capitalismo (que me encanta) tiene el orden al  | 34 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-04 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 33 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-06 |  | Llevamos 102 Rayos X de Inscripciones con dueños y | 31 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-11 |  | El 22 de febrero de 2022 me senté 50 minutos con u | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-08 |  | Si estuvieras viendo tu colegio en la pantalla de  | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-04 |  | Tu colegio no está vacío.
-
-La escuela privada medi | 30 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-08 |  | Si tu colegio está al 46 %, es tu culpa.
-
-Y es la  | 29 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-07 |  | Tu colegio no compite contra el colegio de enfrent | 29 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-07 |  | Perú: 10 % de los hogares puede pagar un colegio p | 29 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-06 | #26 slot 26 | Vi de cerca a un colegio recorrer 15 bancos buscan | 29 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-10 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 28 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-06 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 28 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-15 |  | Agradezco el aumento de mis deseos y la disminució | 25 (+3) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-12 |  | Becas en la escuela privada: 68% las da y la insti | 25 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-05 |  | Tu colegio no necesita más publicidad.
-
-El colegio | 24 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-15 |  | Equipo de admisiones: 1.1 persona en el colegio me | 23 (+5) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-09 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 22 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-16 |  | Corrijo mi publicación: retiro la cifra salarial.  | 21 (+14) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-06 |  | No se fueron por el precio.
-
-En los Rayos X, 62 %  | 21 (+1) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-16 |  | 48% de las escuelas privadas no tiene plan de comp | 19 (+13) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-16 |  | I use Claude every day: websites, campaigns, artic | 15 (+5) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-13 |  | Dato completo, con tabla, fuente y cita lista: 
-ht | 14 (+2) | 0 (+0) | 0 (+0) | 0 (+0) | 0 (+0) |
-| 2026-11-17 |  | Con la llegada de la Inteligencia Artificial, vien | 12 | 0 | 0 | 0 | 0 |
-
-## Artículos (33 vistos en el perfil)
-
-Vistas sumadas: 23117 · likes: 35 · guardados: 15 · respuestas: 4
+Vistas sumadas: 4555 · likes: 10 · guardados: 2 · respuestas: 1
 
 ## Seguidores por corte
 
@@ -130,3 +89,4 @@ Vistas sumadas: 23117 · likes: 35 · guardados: 15 · respuestas: 4
 | 2026-11-15 23:28 | 1,889 Followers |
 | 2026-11-16 23:07 | 1,890 Followers |
 | 2026-11-17 23:12 | 1,888 Followers |
+| 2026-11-18 23:07 | 1,890 Followers |
