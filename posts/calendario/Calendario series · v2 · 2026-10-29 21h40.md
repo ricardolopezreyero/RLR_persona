@@ -48,9 +48,9 @@ En X va el video (MP4 de 8 s) con el texto de la pieza: titular, primer párrafo
 | 2026-12-09 | Mié | 19:30 | 17:30 | Realidad · La boleta invisible | 19 | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp | https://youtube.com/shorts/1UF-PRVZ7i0 |
 | 2026-12-10 | Jue | 19:30 | 17:30 | Realidad · La boleta invisible | 20 | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa | https://youtube.com/shorts/0fmZePO5-78 |
 | 2026-12-11 | Vie | 19:30 | 17:30 | Realidad · La boleta invisible | 21 | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas | https://youtube.com/shorts/Z0PSJfDvHKo |
-| 2026-12-12 | Sáb | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | https://youtube.com/shorts/a5n7U5mj8-c |
-| 2026-12-13 | Dom | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | https://youtube.com/shorts/ONu2j4PIZN8 |
-| 2026-12-14 | Lun | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | https://youtube.com/shorts/guBZOxxSgL4 |
+| 2026-12-12 | Sáb | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 22 | Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica | https://youtube.com/shorts/a5n7U5mj8-c |
+| 2026-12-13 | Dom | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada | https://youtube.com/shorts/ONu2j4PIZN8 |
+| 2026-12-14 | Lun | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 24 | Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va | https://youtube.com/shorts/guBZOxxSgL4 |
 | 2026-12-15 | Mar | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | https://youtube.com/shorts/z3IVzXX_9vQ |
 | 2026-12-16 | Mié | 19:30 | 17:30 | Realidad · Educación privada en LATAM | 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | https://youtube.com/shorts/TV0RRx9EhIQ |
 

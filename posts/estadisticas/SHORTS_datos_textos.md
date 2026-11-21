@@ -43,9 +43,9 @@ Documento de origen: P1-03 · Análisis de la educación privada en LATAM (julio
 
 | # | Título | Archivo |
 |---|---|---|
-| 22 | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.png` |
-| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.png` |
-| 24 | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.png` |
+| 22 | Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica | `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.png` |
+| 23 | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada | `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.png` |
+| 24 | Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va | `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.png` |
 | 25 | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio | `Dato 25 · La SEP no cuenta colegios cuenta RVOEs · v1 · 2026-10-29 21h12.png` |
 | 26 | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá | `Dato 26 · La elite de CDMX cobra lo mismo que Lima · v1 · 2026-10-29 21h12.png` |
 
@@ -681,26 +681,26 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #GoogleMaps #SEOLocal
 ```
 
-## 22 · Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica
+## 22 · Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica
 
 Archivo: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.png` · video: `Dato 22 · Mexico la penetracion privada mas baja de la region · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica
+Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica
 
 **Descripción:**
 
 ```
-Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica.
+Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica.
 
-Matrícula primaria en privada: Chile 63%, Perú 26%, Colombia 19%, Brasil 18%, Guatemala y El Salvador 12%. México: 10%. Por debajo del promedio mundial de 19%, por debajo de Guatemala, al mismo nivel que Estados Unidos, donde la escuela pública compite con presupuestos de otro planeta.
+Matrícula primaria en privada: Chile 63%, Perú 26%, Colombia 19%, Brasil 18%, Guatemala y El Salvador 12%. México: 10% (16.3% si se cuenta toda la matrícula, de inicial a superior; SEP, 2024-2025). Por debajo del promedio mundial de 19%, por debajo de Guatemala, al mismo nivel que Estados Unidos, donde la escuela pública compite con presupuestos de otro planeta.
 
 Cuando un directivo mexicano dice «hay demasiados colegios», los datos responden otra cosa: hay demasiado pocas familias en la privada para el tamaño de su economía. La educación privada en México no es un mercado saturado. Es un mercado subdesarrollado. Y un mercado subdesarrollado es, por definición, un mercado por capturar.
 
 ¿Tu colegio compite contra el de enfrente, o contra la opción de no pagar?
 
-Fuente: Porcentaje de matrícula primaria en instituciones privadas. Fuente: Banco Mundial (SE.PRM.PRIV.ZS) / Instituto de Estadística de la UNESCO, 2022–2024.
+Fuente: Porcentaje de matrícula primaria en instituciones privadas. Fuente: Banco Mundial (SE.PRM.PRIV.ZS) / Instituto de Estadística de la UNESCO, 2022–2024. En todo el sistema: 16.3% (SEP, 2024-2025).
 
 Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 22 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
@@ -711,26 +711,26 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #Latinoamérica
 ```
 
-## 23 · 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada
+## 23 · 13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada
 
 Archivo: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.png` · video: `Dato 23 · 35 puede pagar solo 10 inscribe · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada
+13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada
 
 **Descripción:**
 
 ```
-13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada.
+13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada.
 
 La Regla NSE de la AMAI clasifica los ~38 millones de hogares del país en siete niveles. Los tres superiores son el territorio natural del colegio privado: A/B, 2.1 millones de hogares con más de $120,000 MXN al mes; C+, 5 millones con ~$48,000 MXN; C, 6.3 millones con ~$28,000 MXN. Sumados: 13.4 millones de hogares, 35% del país, que pueden sostener colegiaturas de $2,800 a más de $12,000 MXN mensuales.
 
-Y sin embargo, solo 10% de la matrícula nacional está en privada. Léelo de nuevo: hay más familias que pueden pagar que familias que están pagando. Cada familia que cruza de la pública a la privada no es un alumno que le quitaste al colegio de enfrente: es mercado nuevo, que no existía para nadie.
+Y sin embargo, solo 10% de los alumnos de primaria está en privada (16.3% en toda la matrícula; SEP, 2024-2025). Léelo de nuevo: hay más familias que pueden pagar que familias que están pagando. Cada familia que cruza de la pública a la privada no es un alumno que le quitaste al colegio de enfrente: es mercado nuevo, que no existía para nadie.
 
 «Es que la gente no puede pagar.» ¿Seguro? ¿O es que nadie le ha dado una razón para pagarte a ti?
 
-Fuente: Hogares e ingreso familiar mensual estimado por nivel (MXN). Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo.
+Fuente: Hogares e ingreso familiar mensual estimado por nivel (MXN). Regla NSE AMAI 2024 sobre ~38 millones de hogares (ENIGH, INEGI). Una colegiatura sana ≈ 10% del ingreso familiar por hijo. Matrícula privada: 10.4% en primaria y 16.3% en todo el sistema (SEP, 2024-2025).
 
 Serie «La realidad de la educación» · capítulo «Análisis de la educación privada en Latinoamérica» · pieza 23 de 26. A partir del documento de mercado P1-03 · Análisis de la educación privada en LATAM (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 
@@ -741,22 +741,22 @@ Soy el Ing. Ricardo López Reyero, Founder Comercial de SuperLeads. Solo hacemos
 #Admisiones #ColegiosPrivados #LaRealidadDeLaEducación #EducaciónPrivada #NSE
 ```
 
-## 24 · Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe
+## 24 · Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va
 
 Archivo: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.png` · video: `Dato 24 · Peru 10 puede pagar 26 inscribe · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe
+Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va
 
 **Descripción:**
 
 ```
-Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe.
+Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va.
 
-En Perú, los niveles A y B suman apenas 10.4% de los hogares, con ingresos muy inferiores a sus equivalentes mexicanos. Y aun así, 26% de los alumnos peruanos está en escuela privada, porque familias de nivel C, e incluso D, pagan pensiones de S/300 a S/600 por una razón que no aparece en ninguna encuesta de ingreso: decidieron que la pública no era opción para sus hijos, y ajustaron todo lo demás.
+En Perú, los niveles A y B suman apenas 10.4% de los hogares, con ingresos muy inferiores a sus equivalentes mexicanos. Y aun así, 26% de los alumnos peruanos de primaria está en escuela privada, porque familias de nivel C, e incluso D, pagan pensiones de S/300 a S/600 por una razón que no aparece en ninguna encuesta de ingreso: decidieron que la pública no era opción para sus hijos, y ajustaron todo lo demás.
 
-México: 35% puede pagar, 10% inscribe. La lección peruana es brutal y liberadora a la vez: cuando una familia cree que la educación de sus hijos lo vale, encuentra cómo pagarla. La pregunta nunca fue si pueden. Es a quién se la pagan, y por qué a ti o por qué a otro.
+México: 35% puede pagar, 10% de primaria va a privada. La lección peruana es brutal y liberadora a la vez: cuando una familia cree que la educación de sus hijos lo vale, encuentra cómo pagarla. La pregunta nunca fue si pueden. Es a quién se la pagan, y por qué a ti o por qué a otro.
 
 Si una familia de ingreso medio te pregunta «¿y por qué pagar?», ¿tu colegio tiene la respuesta en una frase?
 
