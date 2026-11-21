@@ -70,8 +70,8 @@ Generado por `plan_reels.py`. Hora de Torreón (GMT-6).
 | 2026-12-08 | 19:30 | Series | WhatsApp se abre 98% de las veces y el correo 21%: México es territorio WhatsApp |
 | 2026-12-09 | 19:30 | Series | 6 meses para elegir colegio: la mitad de la decisión ocurre sin que el colegio lo sepa |
 | 2026-12-10 | 19:30 | Series | 46% de las búsquedas en Google es local y 76% de quienes buscan «cerca de mí» visitan en 24 horas |
-| 2026-12-11 | 19:30 | Series | Solo 10% de los alumnos de México está en escuela privada: la penetración más baja de Latinoamérica |
-| 2026-12-12 | 19:30 | Series | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de la matrícula está en privada |
-| 2026-12-13 | 19:30 | Series | Perú: 10% de los hogares puede pagar y 26% inscribe en privada. México: 35% puede, 10% inscribe |
+| 2026-12-11 | 19:30 | Series | Solo 10% de los alumnos de primaria en México va a privada: de los más bajos de Latinoamérica |
+| 2026-12-12 | 19:30 | Series | 13.4 millones de hogares pueden pagar colegio privado y solo 10% de primaria está en privada |
+| 2026-12-13 | 19:30 | Series | Perú: 10% de hogares puede pagar y 26% de primaria va a privada. México: 35% puede, 10% va |
 | 2026-12-14 | 19:30 | Series | México no tiene 45,000 colegios privados: tiene ~20,000 planteles con 260 alumnos en promedio |
 | 2026-12-15 | 19:30 | Series | Los 10 colegios más caros de CDMX cobran $1,050 USD al mes: lo mismo que Lima y Bogotá |
