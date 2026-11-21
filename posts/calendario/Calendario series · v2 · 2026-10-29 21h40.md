@@ -27,7 +27,7 @@ En X va el video (MP4 de 8 s) con el texto de la pieza: titular, primer párrafo
 | 2026-11-18 | Mié | 19:30 | 17:30 | Rayos X | 17 | Por qué no se inscriben, según el director: 62% culpa al precio, 38% admite falta de seguimiento | https://youtube.com/shorts/paQUXT9rg0g |
 | 2026-11-19 | Jue | 19:30 | 17:30 | Rayos X | 18 | 44% de los directores califica su marketing de muy bueno; 64% opera abajo del 60% de ocupación | https://youtube.com/shorts/d8dCEx-qVJk |
 | 2026-11-20 | Vie | 19:30 | 17:30 | Rayos X | 19 | Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17% | https://youtube.com/shorts/__B5dK_cptI |
-| 2026-11-21 | Sáb | 19:30 | 17:30 | Realidad · Educación pública en México | 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | https://youtube.com/shorts/l2IE7aYu_nk |
+| 2026-11-21 | Sáb | 19:30 | 17:30 | Realidad · Educación pública en México | 01 | En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas | https://youtube.com/shorts/l2IE7aYu_nk |
 | 2026-11-22 | Dom | 19:30 | 17:30 | Realidad · Educación pública en México | 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | https://youtube.com/shorts/TXiLAaTPw-E |
 | 2026-11-23 | Lun | 19:30 | 17:30 | Realidad · Educación pública en México | 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | https://youtube.com/shorts/FaSs82NRVKA |
 | 2026-11-24 | Mar | 19:30 | 17:30 | Realidad · Educación pública en México | 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | https://youtube.com/shorts/JAemZf7s9DM |

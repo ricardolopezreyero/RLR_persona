@@ -8,7 +8,7 @@ Documento de origen: P1-01 · La realidad de la educación pública en México (
 
 | # | Título | Archivo |
 |---|---|---|
-| 01 | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.png` |
+| 01 | En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas | `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.png` |
 | 02 | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas | `Dato 02 · 2 de cada 3 reprobados en lo basico · v1 · 2026-10-29 21h12.png` |
 | 03 | 40% de las escuelas públicas de México opera sin agua, luz o sanitarios dignos | `Dato 03 · 4 de cada 10 escuelas sin agua luz o sanitarios · v1 · 2026-10-29 21h12.png` |
 | 04 | 65 de cada 100 escuelas públicas no tienen computadoras ni internet | `Dato 04 · 65 de cada 100 escuelas sin computadora ni internet · v1 · 2026-10-29 21h12.png` |
@@ -51,26 +51,26 @@ Documento de origen: P1-03 · Análisis de la educación privada en LATAM (julio
 
 ---
 
-## 01 · México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas
+## 01 · En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas
 
 Archivo: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.png` · video: `Dato 01 · Lugar 35 de 37 en PISA · v1 · 2026-10-29 21h12.mp4`
 
 **Título:**
 
-México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas
+En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas
 
 **Descripción:**
 
 ```
-México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas.
+En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas.
 
 Puntaje PISA 2022: México 395 en Matemáticas contra 472 del promedio OCDE. En Lectura 415 contra 476. En Ciencias 410 contra 485, el peor de toda la organización. Veinte puntos PISA equivalen a un año escolar: el alumno mexicano promedio de 15 años va entre tres y cuatro años atrás de sus pares.
 
-Es la última fotografía internacional que existe del aprendizaje en México, porque después el país dejó de medirse. No es un problema de maestros ni de niños: es el resultado que produce el sistema que los seleccionó, los formó y dejó de evaluarlos.
+Y no mejoró: en PISA 2025, publicada en septiembre de 2026, México bajó a 388 en Matemáticas. No es un problema de maestros ni de niños: es el resultado que produce el sistema que los seleccionó y los formó.
 
-¿A qué escuela va la mayoría de los niños de tu ciudad: a la que mide, o a la que dejó de medir?
+¿A qué escuela va la mayoría de los niños de tu ciudad: a la que mide su aprendizaje, o a la que no?
 
-Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results, Country Note México.
+Fuente: Puntaje promedio de estudiantes de 15 años. 20 puntos PISA equivalen aproximadamente a un año escolar. Fuente: OCDE, PISA 2022 Results y PISA 2025 Results, Country Notes México.
 
 Serie «La realidad de la educación» · capítulo «La realidad de la educación pública en México» · pieza 01 de 26. A partir del documento de mercado P1-01 · La realidad de la educación pública en México (julio 2026). El documento completo, con sus fuentes y metodología, se entrega a solicitud: ricardo@superleads.mx
 

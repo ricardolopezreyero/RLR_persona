@@ -43,7 +43,7 @@ Generado por `plan_reels.py`. Hora de Torreón (GMT-6).
 | 2026-11-19 | 12:30 | Shorts | Dejó 40 años de costumbre y hoy rompe su récord de inscripciones de 27 años |
 | 2026-11-19 | 19:30 | Series | Qué cobra la escuela privada además de colegiatura: cafetería 69%, graduaciones 60%, transporte 17% |
 | 2026-11-20 | 12:30 | Shorts | Colegios de Lima cobran 18,500 dólares por inscribirse: ¿cuánto vale la tuya? |
-| 2026-11-20 | 19:30 | Series | México es el lugar 35 de 37 en PISA: 77 puntos abajo del promedio en Matemáticas |
+| 2026-11-20 | 19:30 | Series | En PISA 2022, México quedó en el lugar 35 de 37: 77 puntos abajo del promedio en Matemáticas |
 | 2026-11-21 | 12:30 | Shorts | Si la familia ya llegó al recorrido, está all in: ciérralo ahí |
 | 2026-11-21 | 19:30 | Series | 66% de los alumnos mexicanos de 15 años no alcanza el nivel básico de Matemáticas |
 | 2026-11-22 | 12:30 | Shorts | El mejor día y hora para llamar a un prospecto, con 15 mil casos de datos |
