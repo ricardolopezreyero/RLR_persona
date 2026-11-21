@@ -156,8 +156,8 @@ P.append(dict(n=10, serie=1, slug='El pais que rompio sus termometros',
     lectura='Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. Se destruyen cuando los resultados son indefendibles.',
     nota='Fuente: UNESCO, Estrategia de País México 2026–2031; OCDE / IMCO / Ibero sobre el riesgo de salida de PISA 2025; desaparición del INEE (2019) y de Mejoredu (2025).',
     titulo='2019, 2025, 2026: la cronología de cómo México dejó de medir su educación',
-    parrafos=['2019: desaparece el INEE, se cancelan PLANEA y la evaluación docente obligatoria, se congela el censo de infraestructura escolar. 2019 a 2025: México sale del ERCE de la UNESCO y la OCDE tiene que exigir públicamente que no abandone PISA. 2025: desaparece Mejoredu sin publicar su última evaluación. 2026: la UNESCO advierte que el nuevo modelo educativo opera sin ningún mecanismo nacional para saber si funciona.',
-              'Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. La opacidad no es un descuido administrativo: es una política. Y la consecuencia es que hoy el debate educativo del país se da con datos de 2022 hacia atrás.'],
+    parrafos=['2019: desaparece el INEE, se cancelan PLANEA y la evaluación docente obligatoria, se congela el censo de infraestructura escolar. 2019 a 2025: México sale del ERCE de la UNESCO y la OCDE tiene que exigir públicamente que no abandone PISA; al final México sí presentó PISA 2025. 2025: desaparece Mejoredu sin publicar su última evaluación. 2026: la UNESCO advierte que el nuevo modelo educativo opera sin ningún mecanismo nacional para saber si funciona.',
+              'Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. La opacidad no es un descuido administrativo: es una política. Y la consecuencia es que hoy el país depende casi por completo de una prueba internacional, PISA, para saber cómo aprenden sus alumnos.'],
     pregunta='Si en tu colegio dejaran de entregar boletas, ¿pensarías que los niños van mejor?',
     hashtags='#INEE #EducaciónMéxico'))
 

@@ -334,9 +334,9 @@ Archivo: `Dato 10 · El pais que rompio sus termometros · v1 · 2026-10-29 21h1
 ```
 2019, 2025, 2026: la cronología de cómo México dejó de medir su educación.
 
-2019: desaparece el INEE, se cancelan PLANEA y la evaluación docente obligatoria, se congela el censo de infraestructura escolar. 2019 a 2025: México sale del ERCE de la UNESCO y la OCDE tiene que exigir públicamente que no abandone PISA. 2025: desaparece Mejoredu sin publicar su última evaluación. 2026: la UNESCO advierte que el nuevo modelo educativo opera sin ningún mecanismo nacional para saber si funciona.
+2019: desaparece el INEE, se cancelan PLANEA y la evaluación docente obligatoria, se congela el censo de infraestructura escolar. 2019 a 2025: México sale del ERCE de la UNESCO y la OCDE tiene que exigir públicamente que no abandone PISA; al final México sí presentó PISA 2025. 2025: desaparece Mejoredu sin publicar su última evaluación. 2026: la UNESCO advierte que el nuevo modelo educativo opera sin ningún mecanismo nacional para saber si funciona.
 
-Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. La opacidad no es un descuido administrativo: es una política. Y la consecuencia es que hoy el debate educativo del país se da con datos de 2022 hacia atrás.
+Ningún sistema serio destruye sus instrumentos de medición cuando los resultados van bien. La opacidad no es un descuido administrativo: es una política. Y la consecuencia es que hoy el país depende casi por completo de una prueba internacional, PISA, para saber cómo aprenden sus alumnos.
 
 Si en tu colegio dejaran de entregar boletas, ¿pensarías que los niños van mejor?
 
