@@ -1,0 +1,110 @@
+{
+ "semana": "2026-11-16 a 2026-11-23",
+ "estado": "propuesta, sin programar: Ricardo aprueba en el chat",
+ "buscado_con": "BrowserOS neo · x.com/explore y búsqueda de X (Top, since:2026-11-16): colegiaturas, inscripciones escuelas, escuelas privadas, SEP calendario escolar, PISA México, maestros SEP, inteligencia artificial escuelas, bullying escuela, preinscripciones 2027, abandono escolar, sellos alimentos escuelas, vacaciones decembrinas SEP",
+ "nota_horas": "Horas sugeridas en los horarios de la guía (8:00 tarjeta, 13:30 texto, 20:30 largo). La lista de programados de X no se pudo leer en esta corrida: al aprobar, se acomodan en los huecos libres sin quitar nada.",
+ "alertas_de_datos": [
+  "No se usa el salario docente de $7,890 MXN: Ricardo retiró esa cifra en público el 16-nov. Sigue escrita en persona/VOZ-X-v3.md (línea 60) y en posts/estadisticas/serie.py.",
+  "No se usa el 44 % de consultas sin respuesta: su fuente es UPCEA, Secret Shopper Analysis 2025, un estudio de una asociación de educación superior y no una medición de colegios en México.",
+  "El 93 % de conexión nocturna no se usa: la fuente mide usuarios de internet, no familias que buscan colegio."
+ ],
+ "descartados": [
+  "«Temporada de inscripciones» (22-nov): decenas de posts casi idénticos, de cuentas con nombre y usuario que no coinciden y 2 a 5 vistas. Parece actividad automatizada, no conversación real.",
+  "Sheinbaum y el abandono educativo (7.6K vistas), PISA contra la 4T y «Morena le falló a los niños»: pelea de partidos.",
+  "Cierre de escuelas por crimen organizado (Comité DESC de la ONU): tema grave y ya enmarcado como ataque de partido.",
+  "Disputa por la UAG (20K vistas): pleito entre personas e instituciones con nombre.",
+  "Bullying y maestros: sin conversación con tracción en la búsqueda de esta semana.",
+  "PISA: ya salió en los posts de Ricardo del 21 y 22 de noviembre."
+ ],
+ "posts": [
+  {
+   "n": 1,
+   "tema": "Preinscripciones 2027-2028",
+   "por_que_es_tendencia": "El Informador publicó el calendario de preinscripciones SEP 2027-2028 el 22-nov, y POSTA siguió paso a paso el registro en Nuevo León. Es el tema de la semana que toca directo la matrícula de un colegio.",
+   "ligas": [
+    "https://x.com/informador_MEX/status/2124680841326403731",
+    "https://x.com/postamx/status/2123416807600259135",
+    "https://x.com/search?q=preinscripciones%202027%20lang%3Aes%20since%3A2026-11-16&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "alcance",
+   "hora_sugerida": "mar 24-nov 13:30",
+   "texto": "Tu inscripción de agosto no empieza en agosto. Empezó esta semana.\n\nLas preinscripciones 2027-2028 ya están corriendo en las escuelas públicas. Cada familia que hoy registra a su hijo acaba de tomar una decisión para el próximo ciclo.\n\nMientras tanto, el colegio con primaria mediano de nuestros Rayos X está al 60 % y tiene 125 lugares vacíos.\n\nNo es que no existan las familias. Es que el sistema del colegio se prende cuando la decisión ya pasó.\n\nPregunta para dueños de colegio: ¿qué familia de tu ciudad supo de ti esta semana?",
+   "fuente": "Calendario: El Informador (22-nov-2026) y POSTA Nuevo León (19-nov-2026). SuperLeads, Rayos X corte 29-oct-2026, colegios con primaria sin nivel superior: ocupación mediana 60 % y lugares vacíos mediana 125 (n = 35). Muestra de instituciones que pidieron diagnóstico."
+  },
+  {
+   "n": 2,
+   "tema": "Vacaciones de invierno SEP: 19 días",
+   "por_que_es_tendencia": "Radio Fórmula (896 vistas), El Debate y medios locales publicaron la fecha de salida y regreso del calendario 2026-2027.",
+   "ligas": [
+    "https://x.com/Radio_Formula/status/2123959581667987934",
+    "https://x.com/ELDEBATE/status/2124546470695346535",
+    "https://www.radioformula.com.mx/nacional/sep-hay-clases-el-lunes-21-de-diciembre-cuando-empiezan-las-vacaciones-de-invierno-y-la-fecha-de-regreso-20261119-0070.html"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "alcance",
+   "hora_sugerida": "mié 25-nov 8:00",
+   "texto": "El calendario escolar se detiene el 18 de diciembre. Las familias no.\n\nSon 19 días sin clases; se regresa el 7 de enero.\n\nEn nuestros Rayos X, 34 % de las instituciones marca enero entre sus meses fuertes de inscripción y 38 % marca febrero.\n\nY 71 % lleva sus admisiones solo en WhatsApp y Excel. Si quien contesta se va de vacaciones, el proceso se va con esa persona.\n\nNo es el descanso. Es un sistema que depende de quién trae el teléfono.\n\nPregunta para dueños de colegio: ¿quién contesta tu WhatsApp el 28 de diciembre?",
+   "tarjeta": {
+    "etiqueta": "VACACIONES SEP",
+    "arriba": "En vacaciones",
+    "tachado": "no pasa nada.",
+    "respuesta": "Se decide enero.",
+    "pie": "Enero: 34 %. Febrero: 38 %. Meses fuertes de inscripción. Rayos X, n = 71."
+   },
+   "fuente": "SEP, calendario 2026-2027, vía Radio Fórmula (19-nov-2026): último día 18-dic, regreso 7-ene-2027, 19 días. SuperLeads, Rayos X corte 29-oct-2026: meses de mayor inscripción, enero 34 % y febrero 38 % (n = 71); solo WhatsApp y Excel 71 % (n = 83).",
+   "visual": "visuales/2026-11-23/Tendencia 02 · Se decide enero · v1 · 2026-11-23 09h15.png"
+  },
+  {
+   "n": 3,
+   "tema": "Sellos en la cafetería escolar",
+   "por_que_es_tendencia": "El Congreso de Oaxaca exhortó el 18-nov a las escuelas, incluidas las privadas, a cumplir la prohibición de vender productos con sellos. Lo movieron Contrapropuesta, Red es Oaxaca, Controversia y Oro Radio.",
+   "ligas": [
+    "https://x.com/Red_es_Oaxaca/status/2123108310148579409",
+    "https://x.com/ContraProMx/status/2123106915995537918",
+    "https://x.com/search?q=sellos%20alimentos%20escuelas%20cooperativa%20lang%3Aes%20since%3A2026-11-16&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "confianza",
+   "hora_sugerida": "mié 25-nov 20:30",
+   "texto": "La cafetería de tu colegio no es un ingreso extra. Es una promesa que cualquier mamá puede revisar.\n\nEsta semana el Congreso de Oaxaca pidió a las escuelas, también a las privadas, cumplir la prohibición de vender productos con sellos. Según el INSP, en 2025 solo 52 % de las escuelas evaluadas dejó de venderlos.\n\nEn nuestros Rayos X, 69 % de las instituciones que reportó sus rubros cobra cafetería.\n\nNo es quien atiende el mostrador. Es que nadie metió la cafetería al sistema del colegio.\n\nPregunta para dueños de colegio: si una mamá abre hoy tu cafetería, ¿encuentra lo mismo que dice tu folleto?",
+   "fuente": "INSP, citado en el punto de acuerdo del Congreso de Oaxaca (Red es Oaxaca, 18-nov-2026): 52 % de las escuelas evaluadas no vendió productos con sellos en 2025. SuperLeads, Rayos X corte 29-oct-2026: cafetería 69 % (n = 35)."
+  },
+  {
+   "n": 4,
+   "tema": "Becas y la escuela «gratuita»",
+   "por_que_es_tendencia": "La entrega de «Mi Beca para Empezar» en CDMX el 21-nov (3.6K vistas) puso a circular la idea de que nadie debe dejar la escuela por dinero. El post entra por el costo para las familias, sin nombrar gobierno ni partido.",
+   "ligas": [
+    "https://x.com/GobCDMX/status/2124264681674285554",
+    "https://x.com/search?q=abandono%20escolar%20M%C3%A9xico%20lang%3Aes%20since%3A2026-11-16&f=top"
+   ],
+   "tipo": "tarjeta",
+   "embudo": "confianza",
+   "hora_sugerida": "jue 26-nov 8:00",
+   "texto": "La escuela pública no es gratis.\n\nLas familias mexicanas cubren 16.2 % del gasto en educación básica y media superior. El promedio de la OCDE es 9.9 %.\n\nSe va en cooperaciones, útiles y mantenimiento del plantel. Es un pago que nadie anota, y por eso nadie lo compara.\n\nNo es la familia ni la escuela. Es un sistema que llama gratuito a lo que ya se está pagando.\n\nOpinión impopular entre directores: tu competencia no es «lo gratis». Es que nunca le hiciste la cuenta completa a la familia.",
+   "tarjeta": {
+    "etiqueta": "LA REALIDAD DE LA EDUCACIÓN",
+    "arriba": "La escuela pública",
+    "tachado": "es gratis.",
+    "respuesta": "También se paga.",
+    "pie": "Las familias cubren 16.2 %; promedio OCDE 9.9 %. OCDE, EAG 2025."
+   },
+   "fuente": "OCDE, Education at a Glance 2025 (participación del gasto privado de los hogares); CIEP, análisis del Paquete Económico 2026. Serie «La realidad de la educación», pieza 09.",
+   "visual": "visuales/2026-11-23/Tendencia 04 · También se paga · v1 · 2026-11-23 09h15.png"
+  },
+  {
+   "n": 5,
+   "tema": "China, IA y las escuelas sin computadora",
+   "por_que_es_tendencia": "Minuto Crítico comparó el 18-nov las 38 nuevas especialidades universitarias de China con las carencias de las escuelas mexicanas (2.2K vistas). El post original va contra un partido; esta versión toma solo el dato y el sistema.",
+   "ligas": [
+    "https://x.com/minutocriticomx/status/2123242714644787657",
+    "https://x.com/search?q=inteligencia%20artificial%20escuelas%20M%C3%A9xico%20lang%3Aes%20since%3A2026-11-16&f=top"
+   ],
+   "tipo": "texto",
+   "embudo": "alcance",
+   "hora_sugerida": "vie 27-nov 13:30",
+   "texto": "A México no le faltan carreras de inteligencia artificial. Le falta la computadora.\n\nEsta semana circuló que China abrió 38 especialidades universitarias en IA, robótica y tecnologías estratégicas. Aquí, 65 de cada 100 escuelas públicas no tienen computadoras ni internet.\n\nUn ingeniero de IA no empieza en la universidad. Empieza a los 10 años, frente a una pantalla.\n\nNo es el alumno. Es el orden en que armamos el sistema.\n\nOpinión impopular entre directores: tu laboratorio de robótica no vale por el equipo. Vale por lo que tu alumno sabe hacer cuando sale.",
+   "fuente": "SEP, estadísticas de servicios básicos por plantel, ciclo 2023-2024 (serie «La realidad de la educación», pieza 04). Las 38 especialidades de China vienen de Minuto Crítico (18-nov-2026): conviene confirmarlas contra una fuente oficial antes de publicar."
+  }
+ ]
+}
